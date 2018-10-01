@@ -1,0 +1,16 @@
+experiment SP-UK-OPTI
+instrument ESR
+start 2001 11 18 0200
+end 2001 11 18 0500
+status R
+description Auroral Studies.
+contact Betty Lanchester
+phone +44 23 80 592049
+email bsl@phys.soton.ac.uk 
+fax +44 23 80 593910
+operator Stuart Robertson
+resources UK(20)
+submitter Ken Freeman
+notes
+An extension to the Finnish auroral experiment, of which details can be found  
+from the Finnish bookings.

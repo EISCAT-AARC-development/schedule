@@ -1,0 +1,17 @@
+experiment Convection
+instrument ESR
+start 2007 12 28 0620
+end 2007 12 28 1250
+description Dayside plasma convection
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+notes
+runexp /kst/exp/taro/taro 6:20 convN 3P
+
+Measurements of the dayside plasma convection poleward of the open-closed field
+line boundary. Coordination with the Geotail satellite, Jicamarca ISR and Poker
+Flat AMISR to relate the dayside convection to prompt penetration electric
+fields and changes in the IMF and the solar wind dynamic pressure,
+

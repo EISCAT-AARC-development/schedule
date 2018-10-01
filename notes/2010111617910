@@ -1,0 +1,31 @@
+experiment ISmeteors
+instrument VHF
+start 2010 11 16 1700
+end 2010 11 17 1900
+status R
+description Coordinated interstellar meteor search at MU, EISCAT and AO radars
+contact Asta Pellinen-Wannberg
+phone + 46 980 79118
+email asta@irf.se
+fax +46 980 79050
+operator Ingemar Häggström
+submitter Asta Pellinen-Wannberg
+resources SW(26)
+notes
+Interstellar meteors have been reported from dust detectors onboard 
+interplanetary missions such as Ulysses, Galileo and Cassini (Grün et al., 
+1997; Ishimoto et al., 1999) as well as from the very sensitive radar 
+facilities such as Arecibo Observatory (AO) radar in Puerto Rico (Meisel et 
+al., 2002a, 2002b) and AMOR radar on New Zealand (Taylor et al., 1996). There 
+are observations at other facilities (EISCAT, CMOR, ) that are close to solar 
+system limits, but cannot be confirmed as unambiguously interstellars (Szasz 
+et 
+al., 2008, Brown et al., 2008; 2010). The understanding of the parameters 
+affecting the way of the interstellars towards Earth's atmosphere has 
+improved  
+(Meisel, private communication) and the methods and observing routines for 
+meteors have developed to deduce masses, densities, fragmentation etc (Kero et 
+al., 2008). We propose coordinated observations with the AO radar, Middle and 
+Upper atmosphere (MU) radar at Shikaragi, Japan and with the EISCAT VHF radar 
+to search for interstellars during a measurement campaign.
+

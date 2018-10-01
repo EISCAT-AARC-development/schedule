@@ -1,0 +1,19 @@
+experiment TEC
+instrument UHF
+start 2008 07 08 0900
+end 2008 07 13 1600
+description CP3
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+notes
+rem kst runexp /kst/exp/tau1/tau1 8 ei/cp3
+
+Note the 24 min cycle of the new cp3 scan!!!!
+
+
+
+http://people.ece.cornell.edu/wes/URSI_ISWG/2008WDschedule.htm
+
+

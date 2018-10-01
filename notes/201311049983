@@ -1,0 +1,16 @@
+experiment CP3
+instrument ESR
+start 2013 11 04 0800
+end 2013 11 07 2300
+status C
+description Synoptic
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(500)
+notes
+runexp /kst/exp/folke/folke 8:0 ip3
+
+See
+http://www.isr.sri.com/wd2013.html

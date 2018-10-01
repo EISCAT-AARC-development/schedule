@@ -1,0 +1,29 @@
+experiment UK_SOLD
+instrument TRO
+start 2008 02 29 0000
+end 2008 02 29 1900
+status R
+description EISCAT/HINODE co-ordinated studies of coronal holes
+contact Barbara Bromage
+phone +44-1772-893584
+email bjibromage@uclan.ac.uk
+fax +44-1772-892996
+operator Martin Birch
+submitter Ian McCrea
+resources UK(45)
+notes
+This request is for a combined UHF/VHF experiment to monitor the impact of 
+coronal holes on the terrestrial upper atmosphere.  Results will also be used 
+from the ESR, assuming that it is operating in field-aligned IPY mode.  The 
+radars will run continuously for 30 hours within a 48 hour window from 00 UT on 
+Februay 28th to 24 UT on February 29th.  The precise start of the run will 
+depend on solar surface features and cannot be predicted with complete 
+precision as yet (January 10).  For most of the time, the UHF will run in low-
+elevation northward-looking mode, with the VHF observing vertically in a D-
+region mode.  However, one four hour period (nominally 19-23 UT on either 
+February 28 or February 29) will use all three UHF sites in a tristatic CP1 
+mode. I have called this mode SOLD_TRI to distinguish it from the monostatic 
+UHF mode.
+
+
+

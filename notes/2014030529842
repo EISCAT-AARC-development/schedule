@@ -1,0 +1,17 @@
+experiment TIC
+instrument VHF
+start 2014 03 05 2200
+end 2014 03 06 0200
+status R
+description Topside ion composition
+contact Mike Kosch
+phone +44-1524-510404
+email m.kosch@lancaster.ac.uk
+operator Mike Kosch
+submitter Mike Kosch
+resources UK(12),NO(12)
+notes
+To investigate the diurnal variation in the topside H+/O+ composition ratio at 
+800-1000 km altitude and compare observations to the IRI model.
+
+The VHF will be run pointing vertically, probably using Tau8.

@@ -1,0 +1,17 @@
+experiment ELISABETH
+instrument TRO
+start 2017 12 28 1200
+end 2017 12 29 1200
+status R
+description EISCAT Long-range Inspection of Space-debris Applying a Beampark Experiment at Tromsø High-latitude (ELISABETH)
+contact Juha Vierinen
+email jvi019@uit.no
+operator Elisabeth Røynestad
+submitter Juha Vierinen
+resources NO(12),SW(12)
+notes
+Space debris observations in standard EISCAT space debris mode. Raw voltage 
+requested. We would like to use the standard EISCAT space debris experiment in 
+standard Eastward pointing direction. We request space debris processing with 
+Jussi's software. The goal is to get an up-to-date statistical estimate of the 
+space debris environment.

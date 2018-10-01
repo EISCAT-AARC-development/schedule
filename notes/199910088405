@@ -1,0 +1,15 @@
+experiment Oersted
+instrument UHF
+start 1999 10 08 0700
+end 1999 10 08 1100
+status R
+description EISCAT-Oersted Conjunction Experiment
+contact R. Fujii
+phone +81 52 789 4309
+email rfujii@stelab.nagoya-u.ac.jp 
+fax +81 52 789 4311
+operator R Fujii
+resources NI(16)
+submitter R. Fujii
+notes
+Test runs requested October 6 and 7

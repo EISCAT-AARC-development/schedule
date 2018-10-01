@@ -1,0 +1,43 @@
+experiment tau1_AA
+instrument VHF
+start 2005 07 28 2200
+end 2005 07 29 0400
+description VHF experiment in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+notes
+Due to missing VHF/ESR, we run the following on UHF
+
+runexp /kst/exp/tau1/tau1 22:00 cp4 AA 275
+
+
+During July, the configuration of the Cluster orbit is such that the apogee 
+moves away from the magnetospheric flanks and into the nightside.  Hence the 
+orbit is entirely contained inside the magnetosphere for essentially the whole 
+month.  This means that conjunctions between EISCAT and Cluster occur almost 
+every day, but because apogee is in the lobe, these conjunctions are arguably 
+not the most interesting scientifically.
+
+Neutral sheet crossings begin on July 12th as the orbit moves into the 
+nightside, , but most of the time the footpoints of these crossings are over 
+Canada or Russia, so the geometry is not good for EISCAT.  We have selected the 
+neutral sheet crossing on July 28th/29th, when the Cluster footprint is closest 
+to EISCAT (though still nominally over the Russian Arctic).  
+
+Provided the VHF still provides latitude coverage as far as Svalbard, we could 
+continue to use the low-elevation northward looking beam of the VHF, in 
+conjunction with a low elevation northward-looking mode (LowElNorth) on the 32m 
+ESR dish, to provide coverage all the way from Tromso toward northern 
+Greenland.  The ESR measurements on the 32m dish should be interleaved with 
+field-aligned measurements on the 42m dish, but 1:1 interleaving is less 
+important than in the cusp conjunction - maybe 2 dumps on the 32m for every 
+dump on the 42m would be better.
+
+If the VHF fails to get good signal at the range of the ESR, then another good 
+option might be to point the ESR 32m dish south, towards Tromso, so that the 
+(auroral) region between the two stations is covered.
+

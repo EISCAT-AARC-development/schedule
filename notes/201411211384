@@ -1,0 +1,24 @@
+experiment TEAX
+instrument TRO
+start 2014 11 21 1400
+end 2014 11 21 1600
+status R
+description Investigation of electron acceleration and plasma turbulence during X-mode heating
+contact Andrew Senior
+phone +44 1524 510410
+email a.senior@lancaster.ac.uk
+operator Andrew Senior
+submitter Andrew Senior
+resources PP(12)
+notes
+The UHF radar will be operated field-aligned running the standard beata 
+programme.
+
+These schedule entries are made on the basis that the runs will only be charged 
+for two hours of operation, not four hours and that there will be flexibility 
+regarding cancellation. If this will not be the case, the request may need to 
+be revised!
+
+The experiment requires low geomagnetic activity and clear skies for optical 
+observations, so cancellation is expected.
+

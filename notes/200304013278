@@ -1,0 +1,17 @@
+experiment tau2_DMSP
+instrument TRO
+start 2003 04 01 2300
+end 2003 04 02 0300
+status R
+description UHF experiment in support of GUVI imager on TIMED
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff (?)
+submitter Ian McCrea
+resources UK(24)
+notes
+Four four-hour experiments using the Tromso UHF radar for calibration and validation of TIMED's GUVI imager have been submitted for April.  Each will consist of limited meridian scans, with short periods of field-aligned pointing around the time of the nominal satellite passes.  Typically three TIMED passes will occur in each run, only one of which is really optimal (elevation > 70 degrees).  
+
+These experiments replace those requested as break-ins to the March Common Programme, and the need for them may need to be re-evaluated if there is sufficient lobbying to get the March bookings re-instated.  

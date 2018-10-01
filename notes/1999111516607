@@ -1,0 +1,14 @@
+experiment D layer
+instrument ESR
+start 1999 11 15 1600
+end 1999 11 15 2000
+status R
+description D-layer pulse-to-pulse experiment with Barker-coded alternating codes
+contact Asko Huuskonen
+phone +358 50 3647585
+email asko.huuskonen@fmi.fi 
+operator Asko Huuskonen
+resources FI(6)
+submitter Tuomo Nygren
+notes
+This is a test experiment where raw sample stream is recrded to allow full control on the signal processing

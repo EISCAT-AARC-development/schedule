@@ -1,0 +1,29 @@
+experiment tau2_AA
+instrument UHF
+start 2003 04 19 1600
+end 2003 04 19 2200
+status R
+description UHF tristatic experiment in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(6)
+notes
+For April 2003, I am requesting five Cluster intervals.  Although we are once again passing the best interval, there is still a good possibility of cusp conjunctions occurring this month, and three of the requested intervals (on the 3rd, 15th, 22nd and 27th) are possible candidates.  The interval on the 19th is a nightside perigee pass.
+
+My own priority order would be as follows (top priority first)
+
+April 15th
+April 27th
+April 3rd
+April 19th
+April 22nd
+
+For the experiments of April 3rd, 15th and 27th, I suggest the classic Cluster mode (Low El North and field-aligned observations on the ESR with 1:1 interleaving) and single-beam VHF observations.  For the experiment of April 19th I would add field-aligned tau2 at Tromso, since the Cluster footprint passes close to Tromso at around 20 UT.  For the experiment of April 22nd, the Cluster footprint is fairly far from Svalbard to the North-West, so that it may only be worth running the steerable antenna (in LowElNorth mode).
+
+Comments and criticisms welcome !!
+
+ 

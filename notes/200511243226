@@ -1,0 +1,36 @@
+experiment tau1_AA
+instrument VHF
+start 2005 11 24 0400
+end 2005 11 24 0800
+description VHF experiments in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT duty staff
+submitter Ian McCrea
+notes
+runexp /kst/exp/tau8/tau8 fullminute
+
+During November, the Cluster orbit is evolving away from the Sun-Earth line, 
+toward the dusk flank.  The intervals which Jackie and I identified are three 
+flank-skimming or boundary crossing intervals when the footprint of the Cluster 
+centroid is magnetically conjugate to EISCAT, as follows:
+
+November 13th  08-12 UT
+November 20th  08-12 UT
+November 27th  08-12 UT
+
+Since the interval on the 20th falls within an EISCAT CP (CP1/CP6) using the 
+mainland ESR and UHF, we considered the possibility to request only the VHF in 
+that interval (requesting VHF+ESR on the 13th and 27th).  
+
+We also considered requesting coverage for the cusp-sector perigee pass of 
+November 24th (04-08 UT).
+
+VHF should use tau1 at 30 degs elevation along boresight.  ESR should use 
+steffe (tau0 is also acceptable) alternating dumps between the 32 and 42m 
+dishes.  The default is to use LowElNorth on the 32m dish, though a southward-
+looking mode could be used if the Tromso data are too poor to give range 
+coverage as far as Svalbard.
+

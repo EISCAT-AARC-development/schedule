@@ -1,0 +1,32 @@
+experiment NANSEN
+instrument ESR
+start 2014 11 21 0700
+end 2014 11 21 1100
+status R
+description co-ordinated optical and ESR studies of ion outflow
+contact Lisa Baddeley
+phone 004779023362
+email lisab@unis.no
+fax 0047 79023301
+operator Lisa Baddeley /Stein Haaland
+submitter Lisa Baddeley
+resources NO(10)
+notes
+The project is part of a cooperation between UNIS and Univ Bergen (both part of
+the Birkeland Center for Space Science). We plan to focus our experiments on the
+study of ion outflow in the cusp region. We plan to utilize the ionospheric
+profiles derived from the ESR in to compare with previous studies which have
+utilized Cluster data. 
+The campaign is scheduled to coincide with times when the sun is 8 degrees below
+the horizon to allow complimentary measurements from optical instruments at the
+Kjell Henriksen Observatory.
+We will use the ESR in a field aligned mode using the beata experiment. We have
+over-scheduled experiments with a view to cancelling if optical conditions are
+poor or geomagnetic conditions too active. 
+We will also utilize this time to introduce 2 PhD students from the Belgian
+Institute of Aeronomy, Brussels and the Department of Geoscience at Oslo
+University to the EISCAT system and it’s capabilities.
+If optical conditions are unsuitable during all daytime runs then we have
+scheduled a nightside run to extend the study to possible ion outflow associated
+with nighside auroral processes. 
+

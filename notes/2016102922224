@@ -1,0 +1,19 @@
+experiment SP_NI_PA1
+instrument TRO
+start 2016 10 29 2300
+end 2016 10 30 0300
+status R
+description Observation of polarization electric field within patches of pulsating 
+contact Keisuke HOSOKAWA
+phone 81-42-443-5299
+email keisuke.hosokawa@uec.ac.jp
+fax 81-42-443-5293
+operator Yasunobu OGAWA and Toru Takahashi
+submitter Satonori NOZAWA
+resources NI(13)
+notes
+PIs of the SP: Keisuke Hosokawa (UEC)
+We will conduct radar observations of pulsating aurora using the EISCAT UHF system (scanning mode like 
+ip2-mode) to investigate polarization electric field associated with pulsating aurora. We prefer good weather 
+condition for simultaneous optical observations.
+

@@ -1,0 +1,31 @@
+experiment SSEOS
+instrument UHF
+start 2006 08 08 1301
+end 2006 08 08 1401
+status R
+description Simultaneous Scintillation Observations at EISCAT and STELAB (Revised)
+contact William A. Coles
+phone 858-534-2703
+email bcoles@ucsd.edu
+fax 858-534-2703
+operator remote operation
+submitter Yasunobu Ogawa (yogawa@nipr.ac.jp)
+resources NI(5),NO(5),3P(5)
+notes
+We have been granted 5 hrs of EISCAT time from each of three sources: 
+Japan, Norway, and Third-Party, to make a comparison of IPS observations 
+at EISCAT and STELAB in June and July of this year. Unfortunately we have 
+not been able to make any useful observations as we had overestimated the 
+sensitivity of the EISCAT UHF system for IPS. However it would be possible 
+to make the comparisons that we need using stronger sources (1008+075, 
+1229+020, and 1256-057) in August and September of this year. Unfortunately
+neither of us can be at EISCAT during this period, but Richard Fallows of 
+the UK, Aberystwyth group intends to come to EISCAT in mid September and has 
+volunteered to monitor our observations. There are three opportunities to 
+observe in August and early September before Richard will arrive at EISCAT. 
+We therefore request that we be allowed to attempt remote observations during 
+those periods. We have checked the EISCAT schedules and we see no conflict at 
+present.
+
+Bill Coles and Masayoshi Kojima (kojima@stelab.nagoya-u.ac.jp)
+

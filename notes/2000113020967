@@ -1,0 +1,16 @@
+experiment SP-UK-FLYE
+instrument ESR
+start 2000 11 30 1800
+end 2000 11 30 2400
+status R
+description Investigation of the Neutral Atmosphere Flywheel Effect.
+contact Anasuya Aruliah
+phone +44 20 7504 9021
+email anasuya@apg.ph.ucl.ac.uk 
+fax +44 20 7504 9024
+operator Alan Aylward
+resources UK(13)
+submitter Ken Freeman
+notes
+This experiment requires clear skies and disturbed conditions. It will also be   
+run concurrently on the Mainland. The Svalbard radar mode has yet to be decided.

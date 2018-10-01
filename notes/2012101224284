@@ -1,0 +1,23 @@
+experiment HAIL
+instrument HEA
+start 2012 10 12 1100
+end 2012 10 12 1800
+status R
+description Investigation of pump-induced ionisation, plasma turbulence and optical emissions
+contact Andrew Senior
+phone +44 1524 510410
+email a.senior@lancaster.ac.uk
+operator Andrew Senior
+submitter Andrew Senior
+resources UK(25)
+notes
+Heater operations will involve both O- and X-mode, field-aligned with power 
+stepping or frequency stepping. The UHF radar will mostly be pointed field-
+aligned but with some scanning around the field-aligned direction. Optical 
+measurements will also be carried out.
+
+The experiment is overscheduled and part or all of each requested run may be 
+cancelled depending on ionospheric conditions and cloud cover. The experiment 
+will be co-ordinated with the Russian AARI experiment to avoid clashes and 
+maximise scientific outcomes.
+

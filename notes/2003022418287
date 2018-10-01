@@ -1,0 +1,20 @@
+experiment tau0_pnwn
+instrument ESR
+start 2003 02 24 0300
+end 2003 02 24 1500
+status R
+description Post-Noon Satellite Tomography Study.
+contact Eleri Pryse
+phone +44 1970 622801
+email sep@aberystwyth.ac.uk
+fax +44 1970 622826
+operator Vikki Howells
+submitter Vikki Howells
+resources UK(12)
+notes
+his experiment will also be run concurrently on the Mainland, and will employ 
+the steerable antenna in a meridian scanning mode. The intervals have been  
+chosen to coincide with satellite overpasses. This booking should at present be 
+regarded as provisional. 
+
+

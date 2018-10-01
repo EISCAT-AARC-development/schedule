@@ -1,0 +1,20 @@
+experiment SSEILE
+instrument HEA
+start 2011 11 01 1400
+end 2011 11 04 1700
+status R
+description Investigating the self-scattering effect and natural ion acoustic line enhancement
+contact Yuri M. Yampolski
+phone +38 057 7203462
+email yampol@rian.kharkov.ua
+fax +38 057 7203462
+operator Mike Rietveld
+submitter Y. M. Yampolski (yampol@rian.kharkov.ua)
+resources 3P(12)
+notes
+The experiment is aimed at investigating the scattering of signals from the 
+EISCAT heater at ionospheric irregularities produced by the heater radiation 
+itself. To that end we plan to monitor Doppler spectra of the heater signals at 
+several greatly dispersed receiving sites in Tromso, Svalbard, Ukraine, Siberia 
+and Antarctica. Another issue is investigating the enhancement of natural ion 
+acoustic spectral lines  

@@ -1,0 +1,16 @@
+experiment arcHeating
+instrument HEA
+start 2003 02 24 2000
+end 2003 02 24 2200
+status R
+description Heating-induced modification of the conductivity near auroral arcs.
+contact Thomas Leyser
+phone +46-18-471 5941
+email thomas.leyser@irfu.se
+fax +46-18-471 5905
+operator Mike Rietveld
+submitter Thomas Leyser
+resources SW(20)
+notes
+Quiet to moderately disturbed auroral arcs 
+Clear skies.

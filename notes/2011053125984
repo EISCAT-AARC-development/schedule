@@ -1,0 +1,15 @@
+experiment GEISHA11
+instrument TRO
+start 2011 05 31 1500
+end 2011 05 31 1700
+status R
+description HF Heating + UHF + GNSS TEC
+contact Dr. Michael Danielides
+phone 493981480204
+email michael.danielides@dlr.de
+fax 493981480123
+operator Dr. Mike Rietveld
+submitter Michael Danielides
+resources GE(16)
+notes
+EISCAT Peer review Programme

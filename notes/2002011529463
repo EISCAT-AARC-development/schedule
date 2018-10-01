@@ -1,0 +1,13 @@
+experiment tau0_int_NO@42m
+instrument ESR
+start 2002 01 15 0400
+end 2002 01 15 1200
+status R
+description ESR interferometry and optical study of cusp related phenomena
+contact Tom Grydeland
+phone +47 77 64 41 56
+email tom@phys.uit.no 
+fax +47 77 64 62 80
+operator Tom Grydeland
+resources NO(104)
+submitter Anja Stroemme

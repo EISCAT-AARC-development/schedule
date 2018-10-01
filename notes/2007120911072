@@ -1,0 +1,22 @@
+experiment TRICE
+instrument TRO
+start 2007 12 09 0700
+end 2007 12 09 1100
+status R
+description Convection experiment, low elevation pointing north 
+contact Joran Moen
+phone +4791556414
+email jmoen@fys.uio.no
+fax +4722855671
+operator Frederik Pitout
+submitter Joran Moen
+resources NO(32)
+notes
+Participation in the NASA 2007 TRICE campaign from Andoya (PI: Craig Kletzing). 
+The combination of ground and in-situ measurements will provide an excellent 
+opportunity to explore spatial and temporal variations in magnetospheric- 
+ionospheric coupling processes in the cusp ionosphere. Operations required: 
+ESR - fixed dish, standard field aligned operations, Steerable dish - standard 
+pulse scheme, pointing northward along the rocket trajectory. UHF (Norwegian 
+time) and VHF (French time) will be combined, both at low elevation looking 
+north over Svalbard for convection experiment.   

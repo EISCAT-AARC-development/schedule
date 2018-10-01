@@ -1,0 +1,16 @@
+experiment polar wind
+instrument ESR
+start 2007 12 15 1200
+end 2007 12 15 1900
+status R
+description polar wind study 
+contact Yasunobu Ogawa
+phone +81-3-3962-4717
+email yogawa@nipr.ac.jp
+fax +81-3-3962-4717
+operator Yasunobu Ogawa
+submitter Yasunobu Ogawa
+resources NI(7)
+notes
+We conduct the tau7 observation to investigate H+ upflows.
+runexp /kst/exp/ei/tau7/tau7.elan fm fixed42p NI

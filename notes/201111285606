@@ -1,0 +1,15 @@
+experiment CP3
+instrument UHF
+start 2011 11 28 0800
+end 2011 11 30 2400
+description Synoptic
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)
+notes
+runexp /kst/exp/bella/bella 08:00 ip3
+
+World Day, see http://www.eiscat.se/Members/ingemar/skedule/WD2011.htm
+

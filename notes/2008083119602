@@ -1,0 +1,31 @@
+experiment tau1_AA
+instrument VHF
+start 2008 08 31 2130
+end 2008 08 31 2400
+status R
+description VHF experiments in support of Cluster and THEMIS
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235445848
+operator EISCAT duty staff
+submitter Ian McCrea
+resources AA(4)
+notes
+August 2008 sees the beginning of the Cluster tail season, with the optimum 
+conjunctions with EISCAT occurring initially in the post-midnight sector and 
+mving toward magnetic midnight as the month ends.  At the same time, the THEMIS 
+constellation is oriented toward the dayside.  Conjunctions listed here have 
+been chosen not only because of the position of Cluster, but also based on the 
+availability of upstream THEMIS spacecraft.
+
+The requested conjunctions are
+
+20080817 2200 - 20080818 0200
+20080819 2200 - 20080820 0200
+20080826 2200 - 20080827 0200 and
+20080831 2130 - 20080901 0130
+
+Most suitable modes would be tau1 with low-elevation northward pointings on 
+boresight at the VHF and LowElSouth using tau0 and perhaps 4:1 interleaving 
+between the 32m and 42m dishes.

@@ -1,0 +1,23 @@
+experiment PoGOLite
+instrument VHF
+start 2010 08 10 0800
+end 2010 08 31 2359
+status R
+description E and D layer measurements in support of the PoGOLite balloon
+contact Nickolay Ivchenko
+phone 004687907692
+email nickolay.ivchenko@ee.kth.se
+operator Hanna Dahlgren
+submitter Nickolay Ivchenko
+resources SW(25),FI(15),NO(20)
+notes
+PoGOLite is a balloon-borne astrophysical experiment, designed to measure the
+polarization of soft gamma rays with energies between 25 keV and 80 keV. The
+pathfinder mission will be launched from Esrange near Kiruna between 10 August
+and 5 September 2010. A coordinated ground-based campaign is planned to support
+the PoGOLite experiment. Two sessions are required, one early radar run for
+testing the experiment, and one session during the balloon flight. The proposed
+experiments to run are either Manda, arc_dlayer, or special SGO designed
+experiment. 
+Booked times until the balloon launch (apart from the test run) will be
+cancelled based on the launch prospects.  

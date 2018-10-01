@@ -1,0 +1,24 @@
+experiment Hare14
+instrument TRO
+start 2014 01 29 1900
+end 2014 01 29 2300
+status R
+description Naturally Enhanced Ion Acoustic Echoes from High Altitudes to probe the Auroral Accelleration region
+contact Herbert Gunell
+email herbert.gunell@physics.org
+operator Björn Gustavsson
+submitter Björn Gustavsson
+resources PP(12),SE(30),NO(12)
+notes
+Radar echoes known as Naturally Enhanced Ion Acoustic Lines (neials) with 
+intensities several orders of magnitude above thermal levels have been found in 
+the auroral ionosphere up to altitudes of about 1600 km. The auroral electrons 
+give rise to Langmuir waves through instabilities when they pass through the 
+plasma above the aurora. The Langmuir waves then decay into ion acoustic waves, 
+which are detected by the radar. 
+We plan to search for enhanced ion acoustic lines in the altitude range of 1500-
+3000 km using the Eiscat heating facility as a radar. We shall monitor the 
+ionospheric conditions at the footpoint of the same field line using the Eiscat 
+uhf radar and observe optical emissions with the Auroral Large Imaging System 
+(ALIS).
+

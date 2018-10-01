@@ -1,0 +1,19 @@
+experiment sp_ni_pmaf
+instrument VHF
+start 2006 12 10 0600
+end 2006 12 10 1200
+status R
+description Simultaneous observations of the two EISCAT radars and REIMEI satellite
+contact Satonori Nozawa
+phone 81-52-789-4303
+email nozawa@stelab.nagoya-u.ac.jp
+fax 81-52-789-4311
+operator Satonori Nozawa
+submitter Satonori Nozawa
+resources NI(12)
+notes
+We run the VHF radar and ESR with CP4 mode together with optical 
+instruments. The target is to investigate PMAF(oleward Moving Aurora Form)-like phenomena.
+Also, we will have conjunction observations with REIMEI satellite at four times during the period.
+Satonori Nozawa will take care of the VHF radar observations, while Yasunobu Ogawa will take care of
+ESR observations.

@@ -1,0 +1,20 @@
+experiment ARASE_UHF
+instrument TRO
+start 2018 02 17 0800
+end 2018 02 17 1000
+status R
+description Coordinated observations of ERG (Arase) and EISCAT
+contact Yoshizumi Miyoshi
+phone 052-747-6340
+email miyoshi@isee.nagoya-u.ac.jp
+fax 052-747-6340
+operator Yasunobu Ogawa
+submitter Yasunobu Ogawa
+resources NI(2)
+notes
+We conduct coordinated observations of ERG (Arase) and EISCAT UHF radar.
+
+EROS commands:
+run /kst/exp/beata/beata fm ei/sweep_aa NI
+enablerec
+

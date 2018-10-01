@@ -1,0 +1,19 @@
+experiment tau3_AA
+instrument TRO
+start 2002 11 16 0400
+end 2002 11 16 0800
+status R
+description Low-ELevation UHF co-ordinated with Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(4)
+notes
+The Cluster requests for November and December relate either to high-latitude perigee passes (Nov 4th, 16th, Dec 17th) or flank-crossing orbits (Nov 26th, Dec 3rd, 10th). In order to conserve the remaining VHF klystron, most requests are made for ESR+UHF, with the idea of using a low elevation UHF beam (and tau3 modulation) instead of the VHF.  By the end of December, dual-klystron UHF operations might be possible, which would make this the most effective combination in any case. 
+
+There are three runs for which the circumstances are somewhat different.  For the run of November 4th, I have requested ESR+UHF+VHF, and a six hour run from 03-09 to conform to SAC's new suggestion about charging for use of the VHF.  For this run, I would suggest normal ESR cluster mode (LowElNorth + field-aligned), together with northward looking VHF (tau1) and field-aligned UHF (tau2).  In the period 03-05 there is a clash with a requested 3rd party DMSP experiment, but this is not too serious, since the closest approach of the Cluster foortprint to Tromso occurs after 05 in any case, so I have requested the Cluster run to follow the DMSP run on the UHF.
+
+The Cluster requests for December 3rd and 10th fall within the period of the multi-national cusp rocket campaign on Svalbard, for which the ESR and mainland radars will be used. I spoke to some of the rocket experimenters, and we suggest that the rocket experiment has to take precedence if a rocket launch seems likely.  If the rocket seems unlikely to launch (due to weather or activity) then the Cluster experiment can run.  The ESR experiment to be used for the rocket campaign will probably differ only in pointing direction from the Cluster mode, so it should be easy to change between the two if a rocket count-down were to start. 

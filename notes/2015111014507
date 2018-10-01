@@ -1,0 +1,17 @@
+experiment SwarmAur
+instrument SOD
+start 2015 11 10 1900
+end 2015 11 10 2300
+status R
+description Swarm overflight + auroral experiment
+contact Heikki Vanhamäki
+email heikki.vanhamaki@oulu.fi
+operator Ilkka Virtanen / Heikki Vanhamäki
+submitter Heikki Vanhamäki
+resources FI(26)
+notes
+Measurements around a predicted overpass by Swarm satellites. UHF field-aligned,
+VHF vertical with remote stations. 42m field-aligned, 32m either low elevation
+southward or along Swarm orbit northward. 1 hour overlap in VHF with Esa
+Turunen's pulsating aurora experiment will be resolved during the campaign.
+

@@ -1,0 +1,13 @@
+experiment CP7L POLITE
+instrument ESR
+start 1998 11 22 1000
+end 1998 11 25 1600
+status R
+description Rescheduled co-ordinated incoherent scatter observation period
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Common Programme
+resources CP7L(100)
+submitter Tony van Eyken

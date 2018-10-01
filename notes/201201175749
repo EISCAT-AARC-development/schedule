@@ -1,0 +1,34 @@
+experiment CUSPN
+instrument ESR
+start 2012 01 17 0600
+end 2012 01 17 1200
+status R
+description Investigation of the role of neutral atmospheric dynamics in cusp density and ionospheric patch formation
+contact Anasuya Aruliah
+phone +442076792538
+email anasuya@star.ucl.ac.uk
+fax +442076797153
+operator Anasuya Aruliah
+submitter Ian McCrea
+resources UK(30)
+notes
+The aim of this experiment is to test empirically, for the first time, the 
+Carlson 2007 theory which proposes that the thermospheric response to transient 
+heating events near the cusp is responsible for ionospheric patch production.
+
+Our planned radar mode is a windscreen wiper meridional scan with the 32m dish, 
+interspersed with 42m field-aligned measurements. At the same time, the UCL FPI 
+and SCANDI (an all-sky FPI) will make measurements of neutral temperatures and 
+winds at ~120km and 240km altitude, as well as the green and red line emission 
+intensities (though the intensities are not calibrated). The UCL team will be 
+Anasuya Aruliah, Ian McWhiter and Amy Ronksley. They will also be involved in 
+running the optical instruments. The experiment is a  collaboration with Joeren 
+Moen and Herb Carlson, who will also both be present.
+
+The over-scheduling allows for the fact that there will be cancellations and 
+schedule changes, based on weather conditions and scheduling conflicts - 
+including possible conflicts with the stratospheric warming campaign. 
+
+Both the CUSP-N and the Norwegian patch tracking experiment require the same 
+conditions, and scheduling will be agreed during the campaign.  The CUSP-N data 
+will also be open for use by the Southampton group.

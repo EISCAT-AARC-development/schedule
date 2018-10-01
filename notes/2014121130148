@@ -1,0 +1,15 @@
+experiment SP_MANDA
+instrument VHF
+start 2014 12 11 1700
+end 2014 12 11 2300
+status R
+description Multi-purpose observations of the D/E/F region ionosphere
+contact Y. Ogawa
+phone +81-42-512-0664
+email yogawa@nipr.ac.jp
+fax +81-42-528-3499
+operator S. Nozawa
+submitter Y. Ogawa
+resources NI(12)
+notes
+We use the Tromso VHF radar with vertical antenna direction and manda pulse code.

@@ -1,0 +1,15 @@
+experiment AGF210
+instrument ESR
+start 2016 10 06 1200
+end 2016 10 06 1300
+status R
+description Student demonstration experiment for UNIS middle atmospheric course
+contact Noora Partamies
+email noora.partamies@unis.no
+operator Noora Partamies
+submitter Noora Partamies
+resources NO(1)
+notes
+A student group of a UNIS middle atmospheric course (AGF-210) will visit ESR, get a guided tour and 
+follow a 1-hour experiment to get familiar with the radar facility and discuss the data. We will run 
+some standard CP experiment with our guest lecturer Asta Pellinen-Wannberg. 

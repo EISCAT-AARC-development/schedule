@@ -1,0 +1,25 @@
+experiment OPTI
+instrument ESR
+start 2004 11 16 0700
+end 2004 11 16 1000
+status R
+description Auroral Studies using Combined Radar and Optical Measurements
+contact Nickolay IVCHENKO
+phone +4687907691
+email ivchenko@plasma.kth.se
+fax +468245431
+operator Dr. A. B. Stockton-Chalk
+submitter N. Ivchenko
+resources SW(12)
+notes
+This observations are in collaboration with Southampton University Group, UK.
+The primary goal is to study the effects of electron and proton precipitation 
+in the ionoshere, in terms of ionization, optical emissions and heating. 
+University of Southampton operates the Spectrographic Imaging Facility at the 
+auroral station. The additional requested time will extend the UK observations 
+to late pre-noon local times, in order to investigate the role of resonant 
+scattering of sunlight on N2+ ions in aurora (along with the original goals of 
+the experiment). 12 hours are requested from the Swedish time for this 
+purpose. 
+
+

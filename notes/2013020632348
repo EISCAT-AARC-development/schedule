@@ -1,0 +1,30 @@
+experiment UK_OPTICS
+instrument ESR
+start 2013 02 06 2100
+end 2013 02 07 0500
+status R
+description Radar observations in support of optical auroral and airglow measurements 
+contact Betty Lanchester
+phone +442380592049
+email b.s.lanchester@southampton.ac.uk
+operator Betty Lanchester (tbc)
+submitter Ian McCrea
+resources UK(30)
+notes
+As with the January campaign, this is a block booking, intended to cover a 
+number of potential experiments in a radar/optical campaign during the February 
+dark-moon period.  Although the Sun is still below the horizon, there will be 
+too much scattered light for observations in the cusp sector, so observations 
+will be made in the midnight and early morning sectors.
+
+As in January, a substantial part of the observations are expected to comprise 
+field-aligned observations in conjunction with the EASI interferometer and the 
+ASK imagers, to study small scale auroral structure.  These measurements will 
+include the recording of raw sample-level data.   
+
+We are requesting operations to cover the whole "no moon" period and, in 
+addition to the UK hours, we are anticipating possible contributions from Norway 
+and Sweden.  If these contributions do not materialise then there will be 
+cancellations.  Because clear skies are required, weather-related cancellations 
+are also a possibility, and would be made within the normal rules. 
+

@@ -1,0 +1,13 @@
+experiment SP-GE-CP1K
+instrument UHF
+start 1999 04 16 1600
+end 1999 04 16 2300
+status R
+description Joint measurements with Fabry-Perot, ASK (Skibotn), IRIS, etc..
+contact Mike Kosch
+phone +49 5556 979409
+email kosch@linmpi.mpg.ge 
+fax +49 5556 979240
+operator Dr C F Del Pozo
+resources GE(100)
+submitter Mike Rietveld

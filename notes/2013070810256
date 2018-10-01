@@ -1,0 +1,16 @@
+experiment CP6
+instrument ESR
+start 2013 07 08 0700
+end 2013 07 12 2200
+status C
+description Eregion electric fields
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(500)
+notes
+runexp /kst/exp/manda/manda 7:0
+
+See
+http://www.isr.sri.com/wd2013.html

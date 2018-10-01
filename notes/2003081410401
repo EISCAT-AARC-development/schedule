@@ -1,0 +1,40 @@
+experiment tau0_AA
+instrument ESR
+start 2003 08 14 1000
+end 2003 08 14 1400
+description Dual-radar ESR experiment in support of Cluster overpasses
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+notes
+VHF tau1av 30 deg el, boresight
+UHF tau3at on pointing of VHF west beam (345 degs azimuth, 30 degs elevation)
+
+For August, I am requesting six intervals for Cluster, four of which are 
+outside working hours.  I also include my impression of the priority order, 
+which EISCAT can use as a guide if only a smaller number of runs are possible.
+
+The intervals (in priority order) are
+
+August 24  21-01 UT (25th)
+August 12  22-02 UT (13th)
+August 14  10-14 UT
+August 5   22-02 UT (6th)
+August 31  20-24 UT
+August 26  08-12 UT
+
+For the runs of August 12 and 14th, no VHF is available, so I am requesting two-
+dish ESR + UHF.  Generally I would prefer tau1 on the VHF plus LowElNorth on 
+the ESR 32m dish interleaved (1:1) with field-aligned operations.
+
+If only one radar is available for the nightside runs, then it is imperative 
+that the region between ESR and Tromso be covered, i.e. if only the ESR is 
+available then a southward-looking geometry is needed.  If only the mainland is 
+available, then a northward-looking mode can be used.
+
+On those occasions when the VHF is unavailable, tau3 on the UHF is the 
+preferred option (especially if the new tau3, optimised for better statistics 
+at far ranges, is available).

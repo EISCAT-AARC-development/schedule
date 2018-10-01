@@ -1,0 +1,13 @@
+experiment CLUSTER
+instrument VHF
+start 2002 01 18 0000
+end 2002 01 18 1200
+description Co-ordinated operations with CLUSTER
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+submitter Tony van Eyken
+notes
+Low elevation North, one or two beams depending on current antenna phasing.

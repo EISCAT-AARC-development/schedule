@@ -1,0 +1,13 @@
+experiment NoName
+instrument ESR
+start 1999 02 23 0800
+end 1999 02 23 1300
+status R
+description Anomalous ion layers
+contact Hans Nilsson
+phone +46 980 79000
+email hans.nilsson@irf.se 
+fax +46 980 79050
+operator Mikael Hedin
+resources SW(100)
+submitter Sheila Kirkwood

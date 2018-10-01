@@ -1,0 +1,15 @@
+experiment SCINTI
+instrument ESR
+start 2009 06 19 0100
+end 2009 06 19 1600
+status R
+description Interplanetary Scintillation Observations of the Solar Wind
+contact Richard Fallows
+phone +44 1970 622805
+email raf@aber.ac.uk
+fax +44 1970 622826
+operator Richard Fallows
+submitter Richard Fallows
+resources UK(59)
+notes
+IPS observations with the mainland receivers

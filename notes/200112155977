@@ -1,0 +1,26 @@
+experiment PCIP
+instrument ESR
+start 2001 12 15 0600
+end 2001 12 15 1100
+status R
+description Polar Cap Ionospheric Patches
+contact Joran Moen
+phone +47 22 855666
+email jmoen@fys.uio.no 
+fax +47 22 855671
+operator Joran Moen
+resources NO(5)
+submitter Cesar La Hoz
+notes
+Many properties of the Polar Cap Ionospheric Patches (PCIP) are known, but 
+their origin is at best poorly understood.  Several mechanisms have been  
+proposed for the formation of polar cap patches.  The critical question is to 
+find out which one(s) dominate(s).  We also aim to study how polar cap sun- 
+aligned arcs terminate at theeir dayside extreme.  With the fast sweep modes on 
+ESR-1 we successfully mapped polar cap patches in January 2001.  In December we 
+want to advance our experiment by operating EISCAT VHF in low elevation split- 
+beam configuration over Svalbard for identification of the polar cap boundary 
+and provision of plasma flow dynamics.  The experiment will be supported by the  
+optical observations from Longyearbyen Svalbard and CUTLASS.  ESR-1 will be 
+operated in a set of different modes appropriate for the actual geophysical 
+activity level.

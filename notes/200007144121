@@ -1,0 +1,15 @@
+experiment PMSE
+instrument ESR
+start 2000 07 14 1000
+end 2000 07 14 1200
+status R
+description PMSE observations in conjunction with the Sousy Radar
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Tony van Eyken
+resources GE(2)
+submitter Tony van Eyken
+notes
+in conjunction with the Sousy Radar

@@ -1,0 +1,21 @@
+experiment StratWarm
+instrument ESR
+start 2012 01 15 0700
+end 2012 01 31 2359
+description Stratospheric warming
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)
+notes
+runexp /kst/exp/ipy/ipy 07:00 ip2
+
+
+10 day experiment on late alert, see
+http://www.eiscat.se/Members/ingemar/skedule/WD2012.htm
+
+We will allow higher priority on SPs for shorter times during the 10 day CP, due
+to the late alert. 'Shorter' means ~6 hours/day, and not the same UTs every day.
+
+

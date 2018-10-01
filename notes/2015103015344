@@ -1,0 +1,21 @@
+experiment Cluster UK
+instrument VHF
+start 2015 10 30 1030
+end 2015 10 30 1400
+status R
+description EISCAT Support for conjunctions with Cluster
+contact Yulia Bogdanova
+phone +441235445508
+email yulia.bogdanova@stfc.ac.uk
+fax +441235445848
+operator tbd
+submitter Ian McCrea
+resources UK(3.5)
+notes
+This experiment is designed to support a Cluster cusp pass identified as being 
+of particular interest by the ESA Cluster Guest Investigator Programme, under 
+the proposal "Mid-altitude cusp properties, dynamics, small scale plasma 
+structure and ion outflow". The aim is to use the ESR32m dish pointing south, 
+together with the 42m field-aligned dish and the Tromso VHF looking northward at 
+low elevation.  Combining the data from these observations will provide 
+information on plasma injections and dynamics inside the cusp.

@@ -1,0 +1,11 @@
+experiment SP_INT_NO
+instrument ESR
+start 2003 02 01 0400
+end 2003 02 01 0800
+status R
+description Interferometric observations of enhanced echoes coordinated with optical measurements
+contact Mårten Blixt
+email Marten.Blixt@phys.uit.no
+operator Mårten Blixt
+submitter Mårten Blixt
+resources NO(4)

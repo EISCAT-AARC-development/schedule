@@ -1,0 +1,27 @@
+experiment OSTATES 1
+instrument TRO
+start 2015 08 05 2000
+end 2015 08 10 2400
+status R
+description Oxygen Spacies and Thermospheric Airglow in the Earth Sky
+contact Jörg Gumbel
+phone +46761423999
+email gumbel@misu.su.se
+fax +468157185
+operator Ingemar Häggström
+submitter Jörg Gumbel
+resources SW(12)
+notes
+These measurements are connected to a rocket launch at Esrange, Sweden. While 
+this request covers the time period August 5-10, we will only need 
+approximatetly half of these days, depending of the exact timing of the rocket 
+launch. Cancellation of dates that are not needed will be made at latest on the 
+previous working day. We thus request 3 days with 4 hours of measurements each 
+(20-24 UT), i.e. a total of 12 hours Swedish EISCAT time.
+
+Measurement hours connected to a second rocket launch in the second half of 
+August will be requested separately (experiment name OSTATES 2).
+
+A scientific motivation for these EISCAT measurements has been sent to Stephan 
+Buchert as Swedish representative.
+

@@ -1,0 +1,14 @@
+experiment EDMIM
+instrument VHF
+start 2011 02 07 1000
+end 2011 02 07 1200
+status R
+description Differentional measurements of ionospheric modification
+contact Hasan Bahcivan
+phone 1 650 859 4992
+email hasan.bahcivan@sri.com
+operator Ingemar
+submitter Hasan Bahcivan
+resources PP(2)
+notes
+Tromso Heater-VHF-UHF

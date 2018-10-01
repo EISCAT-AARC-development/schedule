@@ -1,0 +1,37 @@
+experiment tau1_AA
+instrument VHF
+start 2008 02 21 2200
+end 2008 02 22 0400
+status R
+description VHF experiments in support of Cluster and THEMIS
+contact Ian McCrea
+phone +441235446513
+email i.w.mccrea@rl.ac.uk
+fax +441235445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(6)
+notes
+For February 2008, we are requesting experiments which concentrate on 
+supporting the THEMIS tail campaign.  This is the optimum month for THEMIS tail 
+studies, with the four THEMIS spacecraft being aligned along the magnetotail at 
+intervals of four days.
+
+After consulting the Ground-Based Working Group, I am requesting four intervals 
+of EISCAT operation during which four THEMIS spacecraft are in conjunction with 
+instruments on the Eastern coast of North America. Note that four-spacecraft 
+conjunctions do not occur over Scandinavia. The aim of the EISCAT observations 
+is to detect the spread of substorm signatures from the US to the European 
+sector at this time.  These intervals are from 22-04 UT on February 13/14, 
+17/18, 21/22 and 25/26.  Such conjunctions occur every four days, but I have 
+concentrated on periods later in the month to avoid a conflict with the NEMI 
+rocket campaign.
+
+I am also requesting one period of operations from 17-23 UT on February 19th, 
+when there is a three-spacecraft conjunction over the European sector, at a 
+time slot much more suited to the direct observation of substorm effects at 
+EISCAT.
+
+The optimum mode for these experiments would be tau1 at the VHF, looking 
+northward at 30 degrees elevation along boresight, and tau0 at the ESR using 
+LowElSouth mode and 4:1 interleaving between the 32m and 42m dishes.

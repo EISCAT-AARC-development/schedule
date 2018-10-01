@@ -1,0 +1,16 @@
+experiment HT-WIND
+instrument HEA
+start 2000 01 24 0630
+end 2000 01 24 0830
+status R
+description Heating interferometer for WIND spacecraft
+contact Michael Rietveld
+phone +49 5556979234
+email rietveld@linmpi.mpg.de 
+fax +49 5556 979240
+operator EISCAT staff (Thorstein)
+resources GE(1.6)
+submitter Michael Rietveld
+notes
+Co-ordinated with HAARP Heating facility operation. 
+Reception on WIND satellite.

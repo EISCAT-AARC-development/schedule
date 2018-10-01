@@ -1,0 +1,11 @@
+experiment PolarDyna
+instrument ESR
+start 2013 11 25 1800
+end 2013 11 26 1800
+status R
+description 24-h run to study polar electrodynamic response of solar wind driving. CP2 experiment
+contact Anita Aikio
+email Anita.Aikio@oulu.fi
+operator Alexander Kozlovsky
+submitter Alexander Kozlovsky
+resources FI(24)

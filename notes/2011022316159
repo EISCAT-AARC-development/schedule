@@ -1,0 +1,19 @@
+experiment ASH
+instrument ESR
+start 2011 02 23 1000
+end 2011 02 23 1400
+status R
+description Azimuth scan across the SPEAR Heated volume 
+contact Hannah Vickers
+phone +47 7902 3390
+email hmsv1@ion.le.ac.uk
+operator Hannah Vickers
+submitter Hannah Vickers
+resources NO(24)
+notes
+SPEAR will be used to produce small-scale irregularities detectable by the 
+CUTLASS radars in Finland and Iceland
+The ESR 32m dish will be scanned 180 degrees in azimuth at fixed elevation to 
+investigate the heater-modified plasma parameters and ion line spectra across 
+the heated volume
+

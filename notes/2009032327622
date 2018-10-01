@@ -1,0 +1,31 @@
+experiment BARMY
+instrument TRO
+start 2009 03 23 1200
+end 2009 03 23 1600
+status R
+description Study of the heater power-dependence of the PGM in incoherent scatter spectra
+contact Hannah Vickers
+phone 01162100680
+email hmsv1@ion.le.ac.uk
+operator Hannah Vickers
+submitter Hannah Vickers
+resources UK(40)
+notes
+It is intended that the ionospheric heater will be operated in conjunction 
+with the UHF radar to study the following:
+1. To investigate how the purely growing mode (PGM) feature in incoherent 
+scatter spectra depends on the heater power transmitted, and the resulting 
+error incurred in estimates of the electron temperature. The heater will be 
+operated at power intervals of 2.5%,5%,10%,25%,50% and 100% full power, and 
+the beam aligned with the magnetic field, with the UHF radar operating in CP1L 
+mode aligned along the magnetic zenith. CUTLASS radars in Finland and Iceland 
+will also be making backscatter measurements simultaneously
+2. To test whether the electron temperature-dependence in current models of 
+heater-induced field-aligned irregularity (FAI) growth and decay are 
+compatible with experimental observations of artificial backscatter made by 
+the CUTLASS coherent scatter radar facility. It is intended that the heater 
+will be operated at full power and the heater beam aligned along the magnetic 
+zenith to induce strongest heating effects. The EISCAT UHF will be making 
+measurements at different scan positions available 
+Some scheduled hours may not be used owing to poor ionospheric conditions if 
+present

@@ -1,0 +1,20 @@
+experiment SP_NI_Ti
+instrument ESR
+start 2016 03 16 0700
+end 2016 03 16 1300
+status R
+description Investigation of the thermospheric variations
+contact Satonori NOZAWA
+phone +81-527894303
+email nozawa@stelab.nagoya-u.ac.jp
+operator Yasunobu OGAWA
+submitter Satonori NOZAWA
+resources NI(12)
+notes
+We aim at investigating variations of ion temperature and electric field in
+the F-region (Thermosphere) in order to understand more deeply the basic
+state of the polar Thermosphere as well as the coupling between
+Magnetosphere-Ionosphere-Thermosphere in the polar region. We run the Tromso UHF radar and ESR.
+PI is Prof Fujiwara.   We have requested 3 days, but we will only two days out of the 3 days.
+In case CP3 is run, we like to make tristatic VHF radar observations instead.
+

@@ -1,0 +1,22 @@
+experiment UK_TOI
+instrument TRO
+start 2008 02 11 1800
+end 2008 02 11 2400
+status R
+description High-latitude density measurements in conjunction with tomography
+contact Alan Wood
+phone +44-1970-622821
+email aow@aber.ac.uk
+fax +44-1970-622826
+operator UK Campaign Team
+submitter Ian McCrea
+resources UK(12)
+notes
+This request is for the TOI experiment, which is an elevation scan in support 
+of tomographic measurements by the Aberystwyth network of beacon satellite 
+receivers.  These experiment should run twice during the campaign for six hours 
+(18-24 UT on February 11 and 14).  The TOI experiment uses both 
+mainland and ESR, and does not depend on conditions. The experiment is 
+identical to that run during the December 2007 campaign.
+
+

@@ -1,0 +1,13 @@
+experiment CLUSTER
+instrument ESR
+start 2001 01 07 0700
+end 2001 01 07 1500
+status R
+description CLUSTER co-ordinated operation for the satellite pool
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(8)
+submitter Hermann Opgenoorth

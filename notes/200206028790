@@ -1,0 +1,15 @@
+experiment tau3_beta_UK@42m
+instrument ESR
+start 2002 06 02 2100
+end 2002 06 03 0100
+status R
+description Study of Ionospheric Anisotropies.
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk  
+fax +44-1235-445848
+operator To Be Decided
+resources UK(24)
+submitter Ken Freeman
+notes
+An experiment to study anisotropies in the polar ionosphere. It will employ the Mainland UHF Radar together with both Svalbard antennas. The Tromso beam will be orientated to intersect the beam of the fixed Svalbard antenna, and the beam of the steerable Svalbard antenna will intersect the Tromso beam at a lower height. All three beams will remain fixed during each observation run, although their elevations may be varied from night to night.

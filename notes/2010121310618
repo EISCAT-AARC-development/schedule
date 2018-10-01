@@ -1,0 +1,18 @@
+experiment UKMSP
+instrument VHF
+start 2010 12 13 2200
+end 2010 12 14 0200
+status R
+description Study of the Effects of a Major Meteor Shower on the Mesosphere / Lower Thermosphere Region
+contact Ivan Astin
+phone +44 1225 383506
+email eesia@bath.ac.uk
+fax +44 1225 383325
+operator Ian McCrea
+submitter Ken Freeman
+resources UK(22)
+notes
+The purpose of the booking is to extend the diurnal coverage of measurements 
+made by German EISCAT observations in relation to the ECOMA rocket campaign in 
+three days before, during, and after the peak of the meteor shower. The radar 
+requirements will be the same as for the German observations.

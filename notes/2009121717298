@@ -1,0 +1,19 @@
+experiment TEQUILA
+instrument VHF
+start 2009 12 17 0700
+end 2009 12 17 1000
+status R
+description Meteor Dust studies with VHF and Heater
+contact Antti Kero
+phone +358442894669
+email antti.kero@sgo.fi
+fax +35816619875
+operator Thomas Ulich
+submitter Thomas Ulich
+resources FI(5.4)
+notes
+TEQUILAsunrise (Transient Effects Quantification Under Ionospheric Low Angle sunrise). The idea is to 
+look at the polar wintertime mesophere through the transient
+caused by (scattered) sunrise around 8 UT.  Interestingly, this happens to
+be the maximum occurence time of the Polar Mesosphere Winter Echoes (PMWE).
+

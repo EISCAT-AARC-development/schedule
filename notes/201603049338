@@ -1,0 +1,31 @@
+experiment Swarm
+instrument TRO
+start 2016 03 04 1900
+end 2016 03 04 2300
+status R
+description Coordinated measurements during Swarm satellite overflight
+contact Heikki Vanhamäki and Stephan Buchert
+phone +358-50-5314127
+email heikki.vanhamaki@oulu.fi
+operator Heikki Vanhamäki
+submitter Heikki Vanhamäki
+resources AA(100)
+notes
+This EISCAT experiment covers Swarm A and C (C in brackets) passing first over
+ESR at 21:56 UT, elevation 88 (83) deg and then over Tromssa at 21:58 UT,
+elevation 78 (72) deg.
+
+We request simultaneous measurements by ESR (42m + 32m low elevation south), UHF
+(field-aligned) and VHF (vertical, tri-static).
+
+---------------------------------------------------------------------------
+
+Three Swarm satellites (A, B and C) perform high precision magnetic field
+measurements using both vector and scalar magnetometers. The electric field
+instrumentation (EFI) includes a thermal ion imager (TII) and Langmuir probe
+(LP). The EFI PI is David Knudsen <knudsen@ucalgary.ca> from the University of
+Calgary. For LP contact Stephan Buchert <scb@irfu.se>. Using EFI data electron
+density and temperature, ion drift vector and temperature and the perpendicular
+electric field can be derived. In addition accelerometer instruments, onboard
+GPS receivers and ground-based laser ranging of Swarm support a very precise 
+orbit determination.

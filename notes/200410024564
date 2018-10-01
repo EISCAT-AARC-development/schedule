@@ -1,0 +1,19 @@
+experiment HF_SEE
+instrument UHF
+start 2004 10 02 1000
+end 2004 10 02 1600
+status R
+description HF-induced SEE and Langmuir turbulence, directional dependence
+contact T. Hagfors
+email hagfors@linmpi.mpg.de
+operator B. Isham/V. Belyey
+submitter M. Rietveld
+resources GE(80)
+notes
+A multi-national campaign involving GE(80) and NO(24) and perhaps FR(?).
+Russian collaborators from PGI will bring a receiver to do interferometry 
+and determine the direction of arrival of SEE components at the ARIES (UK)
+site.
+UHF and VHF Langmuir turbulence measurements will be made simultaneously.
+It is uncertain whether Kiruna/Sodankyøa will be used.
+Perhaps CUTLASS also.

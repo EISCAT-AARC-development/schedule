@@ -1,0 +1,14 @@
+experiment CP4
+instrument VHF
+start 2018 02 14 0800
+end 2018 02 17 2300
+status R
+description Patches
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)
+notes
+ESR: runexp /kst/exp/folke/folke 0:0 ip4
+VHF: rem ksv runexp /kst/exp/bella/bella 0:0 lowel

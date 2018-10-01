@@ -1,0 +1,13 @@
+experiment WIND
+instrument HEA
+start 1999 01 18 1900
+end 1999 01 19 0200
+status R
+description Transionospheric propagation to the WIND spacecraft
+contact Mike Tietveld
+phone +49 5556 979234
+email Rietveld@linmpi.mpg.de 
+fax +49 5556 979240
+operator Thorstein Blomstrand
+resources GE(100)
+submitter Mike Rietveld

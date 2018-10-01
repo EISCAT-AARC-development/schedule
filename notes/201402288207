@@ -1,0 +1,31 @@
+experiment Tomography
+instrument TRO
+start 2014 02 28 1800
+end 2014 02 28 2300
+status R
+description Generalized auroral tomography
+contact Tima Sergienko
+phone +4698079071
+email tima@irf.se
+fax +4698079050
+operator Yoshimasa Tanaka
+submitter Urban Brändström
+resources NI(12),FI(12),SE(12)
+notes
+Inserted on behalf of Yoshimasa Tanaka
+
+We would like to conduct the generalized auroral tomography 
+observation using ALIS,  FMI imagers, NIPR imagers, and the EISCAT 
+radar again this year. We are planning to apply for the EISCAT
+experiments in the premidnight (18:00-23:00) around February 21-28, 
+2013. So, we hope to collaborate with you.
+
+The observation mode for each instrument that we plan is the same 
+as that of last year:
+- EISCAT radar: Meridian scan mode from 56 to 80 degrees elevation 
+angle during a period of 30sec.
+- ALIS: EISCAT south mode. 428nm for active aurora and 558nm for 
+weak aurora.
+- FMI and NIPR imagers: 428nm for the EMCCD imagers and 558nm for 
+the other NIPR monochromatic imagers.
+

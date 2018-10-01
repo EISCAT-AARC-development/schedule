@@ -1,0 +1,25 @@
+experiment LFIOS
+instrument KIR
+start 2014 01 09 2200
+end 2014 01 10 0300
+status R
+description Investigation of Ionospheric Structures and Conditions Surrounding Low-Frequency Scintillation
+contact Richard Fallows
+email fallows@astron.nl
+operator Richard Fallows
+submitter Richard Fallows
+resources PR(22)
+notes
+The Tromsø VHF radar should be used in a mode such that density profiles 
+covering the full F-region can be obtained.  The elevation should start 
+pointing vertically and be altered hourly to decrease to an elevation of 54º to 
+the north by the end.  The “beata” mode is probably adequate, but it may be 
+that a longer-range low-elevation mode is required for the latter half of the 
+observation.  The remote stations should follow the VHF radar beam, scanning 
+heights from 200 to 600km in a 30-minute cycle.  Settings will be confirmed 
+nearer the time.  Exact VHF antenna zenith angles and times are as follows:
+22:00 Vertical
+23:00 9 degrees north
+00:00 19 degrees north
+01:00 29 degrees north
+02:00 36 degrees north

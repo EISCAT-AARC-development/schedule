@@ -1,0 +1,13 @@
+experiment CP2L
+instrument ESR
+start 1999 12 07 1000
+end 1999 12 08 1600
+status C
+description Common Programme Two
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator EISCAT Staff
+resources CP(30)
+submitter Tony van Eyken

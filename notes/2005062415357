@@ -1,0 +1,23 @@
+experiment SOLD
+instrument ESR
+start 2005 06 24 0000
+end 2005 06 30 2400
+status R
+description EISCAT Observations of the Terrestrial Effects of Coronal Holes.
+contact Martin Birch
+phone +44 1772 893736
+email mjbirch@uclan.ac.uk
+fax +44 1772 892996
+operator Martin Birch
+submitter Ken Freeman
+resources UK(33)
+notes
+The purpose of this experiment is make EISCAT observations of the terrestrial 
+effects of coronal holes. A coronal hole is expected to cross the solar 
+meridian on 29 June, and the intention is to time the observations to coincide 
+with this. The precise time of the crossing is not yet known, and we have 
+therefore booked a continuous period of five days. We hope soon, however, to 
+refine this to a much shorter period. The experiment will require both the 
+Mainland UHF and VHF Radars, and also both of the Svalbard antennas. It is 
+hoped to make simultaneous observations of the solar disc using the EIT 
+instrument on SOHO.

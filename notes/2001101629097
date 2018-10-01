@@ -1,0 +1,13 @@
+experiment CP7
+instrument ESR
+start 2001 10 16 1000
+end 2001 10 18 1600
+status C
+description Co-ordinated IS observation period for POLITE
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(54)
+submitter Tony van Eyken

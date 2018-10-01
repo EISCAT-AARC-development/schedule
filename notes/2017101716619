@@ -1,0 +1,69 @@
+experiment WtG
+instrument TRO
+start 2017 10 17 0330
+end 2017 10 17 0600
+description IEEC
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources ES(7.5)
+notes
+runexp /kst/exp/ei/sonar/sonar 3:30
+
+When transmitter is up and antenna is tracking:
+
+gotoblock fm muzak17
+
+
+
+Target: RA 7h27m41.63s, DEC +05º11'42.04" (Luyten's Star).
+PENDING eventual corrections for e.g. atmospheric refraction.
+Pulse definition: see hereafter.
+Modulation: FSK pulse trains at 16ms, 8ms, 4ms and 2ms IPP
+
+Transmission considerations:
+- Only inter-pulse modulation requested (no intra-pulse modulation), thus, 1 bit
+per pulse.
+- Different transmission 'sections' requested. Some have different Inter-Pulse
+Period (IPP).
+- We expect to have short RF silence between each of these sections. Silences of
+at least ~16ms would be enough for us, but we would like (and assume) 10 seconds.
+- Some sections are longer than 100Kbit. We assume that these will have to be
+transmitted in "subsections" (for technical reasons at the data handling system
+of the radar transmitter). In these cases we would like to have the shortest
+possible RF silence between subsections.
+- We request the maximum possible duty cycle (we assume 12.5%) and maximum
+possible transmission power.
+
+Transmission contents: (still approximate)
+-   4856 bits, IPP 16ms -->   78 seconds. ["H #1"]
+-   8456 bits, IPP  8ms -->   68 seconds. ["H #2"]
+-  15400 bits, IPP  4ms -->   62 seconds. ["H #3"]
+-   2368 bits, IPP  4ms -->    5 seconds. ["TG"]
+- ~99500 bits, IPP  4ms -->  398 seconds. ["T1"]
+- ~99500 bits, IPP  4ms -->  398 seconds. ["T2"]
+-  31076 bits, IPP  2ms -->   63 seconds. ["Still"]
+- ~50000 bits, IPP  2ms -->  100 seconds. ["MG"]
+-   5000 bits, IPP  2ms -->   10 seconds. ["Get ready"]
+- 640000 bits, IPP  2ms --> 1280 seconds. ["MT1"]
+-   5000 bits, IPP  2ms -->   10 seconds. ["Silence"]
+- 640000 bits, IPP  2ms --> 1280 seconds. ["MT2"]
+-   5000 bits, IPP  2ms -->   10 seconds. ["Silence"]
+- 640000 bits, IPP  2ms --> 1280 seconds. ["MT3"]
+-   5000 bits, IPP  2ms -->   10 seconds. ["Silence"]
+- 640000 bits, IPP  2ms --> 1280 seconds. ["MT4"]
+-   5000 bits, IPP  2ms -->   10 seconds. ["Silence"]
+- 640000 bits, IPP  2ms --> 1280 seconds. ["MT5"]
+-   5000 bits, IPP  2ms -->   10 seconds. ["Silence"]
+- 640000 bits, IPP  2ms --> 1280 seconds. ["MT6"]
+-   3978 bits, IPP 16ms -->   78 seconds. ["Bye"]
+- RF silences assumed: 180 seconds.
+Total: 8990 seconds (2h 29min 50sec)
+The exact duration will, most probably, be less than this.
+
+Jordi Portell i de Mora <jportell@fqa.ub.edu>
+Ignasi Ribas <iribas@ice.cat>
+
+
+

@@ -1,0 +1,15 @@
+experiment Eigenmodes
+instrument ESR
+start 2008 01 09 0700
+end 2008 01 09 1300
+status R
+description High-latitude dayside plasma flow
+contact Alexander Kozlovsky
+phone +358408223677
+email alexander.kozlovsky@oulu.fi
+operator Alexander Kozlovsky
+submitter Thomas Ulich
+resources FI(36)
+notes
+The ESR will be pointed at low elevation to NW or SW to study the eigenmode
+Alfven oscillations in the high-latitude dayside magnetosphere.

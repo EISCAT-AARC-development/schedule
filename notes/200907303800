@@ -1,0 +1,20 @@
+experiment PMSE
+instrument HEA
+start 2009 07 30 0800
+end 2009 07 30 1200
+status R
+description Multi-radar and heating studies of PMSE
+contact Andrew Senior
+phone +44 1524 510410
+email a.senior@lancaster.ac.uk
+fax +44 1524 510493
+operator Campaign team
+submitter Andrew Senior
+resources NO(80),3P(20),UK(11)
+notes
+This is a joint experiment with contributions from Norway (Cesar La Hoz),
+third-party (Wayne Scales) and the UK (Mike Kosch).
+
+The VHF (pointing vertically), UHF and MORRO radars will be used together with
+the HF facility which will also operate partly in radar mode.
+

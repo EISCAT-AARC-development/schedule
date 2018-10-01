@@ -1,0 +1,23 @@
+experiment delta_cp2
+instrument UHF
+start 2004 12 17 1700
+end 2004 12 18 0500
+status R
+description CP-2 run supporting the rocket launch from Andenes
+contact Satonori Nozawa
+phone 81-52-789-4303
+email nozawa@stelab.nagoya-u.ac.jp
+fax 81-52-789-4311
+operator Satonori Nozawa
+submitter Satonori Nozawa
+resources NI(36),FR(24),SW(20),GE(20),UK(18),NO(12),FI(6)
+notes
+Main objective of this rocket campaign is to study the upper atmospheric dynamics and energetics in 
+the lower thermosphere accompanied with the auroral activity. In this campaign, rocket- borne 
+instruments and two remote (ground-based) facilities will be simultaneously operated as explained 
+below: 1. Measurements of neutral atmospheric temperature and density, the auroral emission rate, and 
+the  electron temperature and density by the rocket-borne instruments. 2. Measurements of the ion 
+drift, temperature and density as well as electron temperature and 
+density by EISCAT radar 3. Measurements of the neutral wind and temperature by the ground-based 
+Fabry-Perot  Interferometer (FPI).  We will run CP-2 mode with 12 hrs per day during the campaign 
+period.  So, if necessary, we like to  shift operation hours by up to 4 hrs.

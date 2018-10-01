@@ -1,0 +1,13 @@
+experiment ANTII
+instrument HEA
+start 2006 11 22 0830
+end 2006 11 22 1230
+status R
+description VHF and Heating experiment for D-region studies
+contact Antti Kero
+phone +358-16-619811
+email akero@mail.student.oulu.fi
+fax +358-16-619875
+operator Antti Kero
+submitter Thomas Ulich
+resources FI(7.2)

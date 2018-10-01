@@ -1,0 +1,21 @@
+experiment Heat
+instrument HEA
+start 2000 02 07 1500
+end 2000 02 07 2200
+status R
+description HF-induced airglow and plasma turbulence
+contact M. T. Rietveld
+phone +49 5556 979234
+email rietveld@linmpi.mpg.de 
+fax +49 5556 979240
+operator M. Rietveld or other
+resources GE(30)
+submitter M. Rietveld
+notes
+Collaborative campaign for heater-induced airglow and plasma turbulence:       
+GE 30 hrs, SW 20 hrs, UK 10 hrs, (NI contribution through separately       
+scheduled experiment on 4 Jan, 19-23 UT).       
+Contacts: M. Rietveld, T. B. Leyser, F. Honary, T. Aso.       
+Airglow will be measured using both ALIS and DASI (at Skibotn).       
+CUTLASS will also be requested.    
+

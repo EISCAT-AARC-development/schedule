@@ -1,0 +1,16 @@
+experiment HOAX
+instrument HEA
+start 2006 01 18 1100
+end 2006 01 18 1300
+status R
+description Heater O-mode and X-mode Operations.
+contact Mike Kosch
+phone +44 1524 510404
+email m.kosch@lancaster.ac.uk
+fax +44 1524 592713
+operator Andrew Senior
+submitter Ken Freeman
+resources UK(12)
+notes
+This experiment will investigate the alternative use of the Heater in O-mode 
+and then X-mode.

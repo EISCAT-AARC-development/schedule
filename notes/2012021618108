@@ -1,0 +1,16 @@
+experiment ASK_AIM
+instrument ESR
+start 2012 02 16 2000
+end 2012 02 16 2400
+status R
+description Auroral intensity modelling using radar measurments and multi-spectral imaging
+contact Sam Tuttle
+email sat1e10@soton.ac.uk
+operator EISCAT staff
+submitter Sam Tuttle
+resources PP(16)
+notes
+We will use single-station multi-spectral imaging in conjunction with radar
+measurements to model the intensity of small-scale aurora in the magnetic zenith.
+
+arc_slice program to be run

@@ -1,0 +1,47 @@
+experiment tomoquip
+instrument TRO
+start 2014 06 10 1830
+end 2014 06 10 2030
+status R
+description TomoScand verification and quadriphase-coded experiments
+contact Lassi Roininen
+phone +358404827773
+email lassi.roininen@sgo.fi
+fax +358 16 610248
+operator Lassi Roininen
+submitter Lassi Roininen
+resources FI(9)
+notes
+We request a test setup for continuing November 2013 TomoScand and May 2014 4phasecode 
+experiments. We have three objectives:
+1. Further development of the quadriphase-coded experiments.
+2. Verification of the TomoScand ionospheric tomography reconstruction against EISCAT quadriphase-
+coded measurements.
+3. Continuing USRP and EISCAT sampling studies.
+
+This experiment is a joint effort with B. Gustavsson/UiT.
+
+Satellite flybys are:
+
+2014.06.08
+
+2014-06-08 19:52:31   2014-06-08 20:01:31 CASSIOPE
+
+2014-06-08 21:46:21   2014-06-08 21:59:21 COSMOS_2407
+
+2014-06-08 23:57:21   2014-06-09 00:09:52 COSMOS_2414
+
+#########
+
+2014.06.09
+
+2014-06-09 00:00:01   2014-06-09 00:09:51 COSMOS_2414
+
+2014-06-09 19:49:41   2014-06-09 19:58:21 CASSIOPE
+
+#########
+
+2014.06.10
+
+2014-06-10 19:46:41   2014-06-10 19:55:11 CASSIOPE
+

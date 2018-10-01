@@ -1,0 +1,13 @@
+experiment CP1
+instrument KIR
+start 2014 03 24 0800
+end 2014 03 31 2400
+status R
+description  Hemispheric and latitudinal stormtime behavior
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(99)
+notes
+There are two windows for this one alert run. The decision to start will be based on predictions of magnetic disturbances. If there is no run in the March-April window, the next possibility is during the period from 14 September to 01 October. In the case of no magnetic storm, the run will fulfill the alternating-year quiet time measurements and will start on 27 September. The alert should be announced 5 days before the start of the run.

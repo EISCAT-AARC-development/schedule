@@ -1,0 +1,21 @@
+experiment Tomography
+instrument TRO
+start 2011 11 20 1800
+end 2011 11 20 2400
+status R
+description ALIS and EISCAT Coordinated Observation 
+contact Y. Tanaka
+phone +81-42-512-0769
+email ytanaka@nipr.ac.jp
+fax +81-42-528-3499
+operator Y. Ogawa
+submitter Y. Ogawa (yogawa at nipr.ac.jp)
+resources NI(12),SW(6)
+notes
+(PIs of the SP: Y. Tanaka and T. Sergienko)
+
+This SP is for ALIS and EISCAT coordinated observations.
+Arc1 or beata pulse code and meridian scanning radar mode 
+will be used for the Tromso UHF radar observation. We prefer 
+good weather condition for the optical observations.
+

@@ -1,0 +1,19 @@
+experiment PME_W2S
+instrument HEA
+start 2012 05 17 0800
+end 2012 05 17 1200
+status R
+description Multi-radar Polar Mesosphere Echoes: Transition from Winter to Summer season
+contact Henry Pinedo
+phone 77645153
+email henry.pinedo@uit.no
+operator Mike Rietveld
+submitter Henry Pinedo
+resources NO(120)
+notes
+We are interested to observe the transition period between PMWE and PMSE
+Running simultaneously with: VHF and UHF Tromsø (TRO) and Kiruna receiver (KIR)
+Using MANDA pulse configuration
+From 08:00 to 12:00 UT
+The operation of EISCAT radars and HF Heating will be conditional on the existence of echoes, which will 
+be monitored with MORRO radar.

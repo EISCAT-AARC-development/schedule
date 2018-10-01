@@ -1,0 +1,17 @@
+experiment Plasma0
+instrument ESR
+start 2001 12 06 0900
+end 2001 12 06 1700
+status R
+description Interferometry and high-resolution digital TV
+contact Tom Grydeland
+email tom@phys.uit.no 
+operator Tom Grydeland
+resources NO(8)
+submitter Cesar La Hoz
+notes
+Preparation and trial runs for a larger campaign in January -   
+Interferometry and/or plasma line observations co-ordinated with   
+high resolution tv recorder.   
+We will use the long pulse experiment slp0 for the interferometer   
+(both antennas) and the plasm0 alt. code (42m ant) for the plasma lines.

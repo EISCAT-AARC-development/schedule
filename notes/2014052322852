@@ -1,0 +1,42 @@
+experiment CSCS_UK
+instrument TRO
+start 2014 05 23 1830
+end 2014 05 23 2230
+status R
+description CLUSTER conjunctions with EISCAT
+contact Rob Fear
+phone 01162523548
+email rcf11@ion.le.ac.uk
+operator tbd
+submitter Ian McCrea
+resources UK(2)
+notes
+VHF: runexp /kst/exp/bella/bella lm lowel SP 
+UHF: runexp /kst/exp/bella/bella lm fi/lowelgm SP
+ESR: runexp /kst/exp/folke/folke lm lowelnorth SP
+
+This is a joint UK-Norwegian experiment to provide EISCAT observations in 
+support of a  potential CLUSTER spacecraft crossing of the substorm current 
+wedge. The potential crossing interval is from 19:50 to 21:20 on May 23rd 2014, 
+but a four hour run is scheduled on the basis that this is the minimum time for 
+an EISCAT radar operation.
+
+Although we are requesting 4-hour slots the experiment only really needs about 2
+hours. Thus if any other experimenters request overlapping time we could come to 
+an agreement to reduce the time that may be charged.
+
+The experiment configuration should be the same as used in the CCOC experiments 
+of April and May 2013: 
+
+The VHF will be operated pointing at low elevation to the north 
+The UHF will be operated at low elevation pointing generally north-west to
+provide wider cusp coverage and 2D velocity estimates in conjunction with the
+VHF 
+The ESR 32m dish will point at low elevation to the north, interleaved with 
+observations on the 42m dish.
+
+The UK will contribute two hours of accounting time to the observations on each 
+radar, on the basis that this will be matched by a similar contribution from 
+Norway.
+
+

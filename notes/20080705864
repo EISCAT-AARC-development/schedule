@@ -1,0 +1,18 @@
+experiment XMOD
+instrument VHF
+start 2008 07 05 0800
+end 2008 07 05 1200
+status R
+description D-region HF cross-modulation
+contact Andrew Senior
+phone +44 1524 510410
+email a.senior@lancaster.ac.uk
+operator UK campaign team
+submitter Andrew Senior
+resources UK(24)
+notes
+This experiment will use the HF facility and Dynasonde together to perform
+cross-modulation measurements in the D-region. The VHF radar will be used in the
+vertical to measure the D-region density profile.
+
+

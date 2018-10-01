@@ -1,0 +1,9 @@
+experiment Maintenance
+instrument SOD
+start 2002 06 03 0000
+end 2002 06 07 2359
+description Ultrasound inspection of Sodankyl%E4 antenna
+contact Gudmund Wannberg
+email ugw@eiscat.com 
+operator Gudmund Wannberg
+submitter Gudmund Wannberg

@@ -1,0 +1,32 @@
+experiment ARTEMIS
+instrument ESR
+start 2010 08 25 2200
+end 2010 08 26 0200
+status R
+description Radar support for the ARTEMIS/THEMIS mission
+contact Ian McCrea
+phone +44-1235-446513
+email ian.mccrea@stfc.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(4)
+notes
+This request is for ground-based radar support of the THEMIS/ARTEMIS mission.  
+THEMIS is NASA's multi-spacecraft magnetospheric exploration mission, of which 
+one spacecraft is being put into lunar orbit to explore lunar/solar 
+interactions.  This spacecraft becomes the ARTEMIS mission.
+
+At the end of August, the ARTEMIS spacecraft makes a pass through the magnetic 
+tail at a distance of about 75 RE, and this offers a potentially interesting 
+chance to study tail dynamics processes in conjunction with ground-based radars.
+
+We are requesting three experiments during this interval, of which two are 
+directed at combined EISCAT/ARTEMIS observations, and one is directed at 
+supporting a passage of THEMIS through the cusp.
+
+For all experiments, a low-elevation mode on boresight should be used on the 
+VHF, and a low-elevation northward looking mode should be used on the ESR with a 
+modulation scheme such as steffe or tau0 which is optimised for good range 
+coverage.  ESR data can be interleaved between the 32m and 42m dishes in a 
+suggested ratio of 4:1.

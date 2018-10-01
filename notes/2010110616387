@@ -1,0 +1,23 @@
+experiment Reimei_UHF
+instrument UHF
+start 2010 11 06 2200
+end 2010 11 07 0200
+status R
+description Reimei and EISCAT UHF coordinated observations
+contact M. Hirahara
+phone +81-3-5841-4582
+email hirahara@eps.s.u-tokyo.ac.jp
+fax +81-3-5841-8321
+operator S. Oyama
+submitter Y. Ogawa (yogawa at nipr.ac.jp)
+resources NI(6)
+notes
+(PIs of the SP: M. Hirahara and T. Sakanoi)
+
+We conduct coordinated EISCAT-Reimei observations of 
+nightside auroral phenomena. We will also run several 
+optical instruments (e.g., All sky and wide view TV 
+imagers) in the EISCAT Tromsoe site.
+CP-1/CP-3 mode (with beata code) will be used for the 
+UHF radar.
+

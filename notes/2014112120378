@@ -1,0 +1,14 @@
+experiment TomoScand
+instrument SOD
+start 2014 11 21 0200
+end 2014 11 21 0600
+status R
+description Ionospheric tomography validation
+contact Johannes Norberg
+phone +358 50 3803297
+email johannes.norberg@fmi.fi
+operator Lassi Roininen
+submitter Johannes Norberg
+resources FI(20)
+notes
+TomoScand ionospheric tomography validation. We request USRP sampling. Experiment Bella or Beata.

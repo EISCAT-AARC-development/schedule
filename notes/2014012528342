@@ -1,0 +1,11 @@
+experiment Polarlis
+instrument ESR
+start 2014 01 25 2100
+end 2014 01 26 0300
+status R
+description Mapping the polarization of the red line over the sky
+contact UnniPia Lövhaug
+email jean.lilensten@obs.ujf-grenoble.fr
+operator  Mathieu BARTHELEMY
+submitter I Häggström
+resources NO(6)

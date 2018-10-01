@@ -1,0 +1,11 @@
+experiment ICEE
+instrument HEA
+start 2016 09 19 1100
+end 2016 09 30 1500
+status R
+description Incoherent scatter echo enhancements with wide altitude extent by heating
+contact Wu Jun
+email wujun1969@163.com
+operator Wu Jun
+submitter Wu Jun
+resources CN(40)

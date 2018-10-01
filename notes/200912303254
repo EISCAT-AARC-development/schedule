@@ -1,0 +1,14 @@
+experiment junk
+instrument VHF
+start 2009 12 30 0800
+end 2009 12 30 0900
+status R
+contact junk
+phone 1
+email junk@junk
+fax 1
+operator junk
+submitter junk
+resources sw(20)
+notes
+dfd

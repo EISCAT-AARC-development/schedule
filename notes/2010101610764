@@ -1,0 +1,16 @@
+experiment EASI
+instrument ESR
+start 2010 10 16 0400
+end 2010 10 16 0800
+status R
+description Interferometric observations using 42 m, 32 m, and EASI antennas
+contact Vasyl Belyey
+phone +47-77645136
+email vasyl.belyey@uit.no
+fax +47-77645580
+operator Vasyl Belyey
+submitter Vasyl Belyey
+resources NO(20)
+notes
+Campaign is aimed at interferometric observations of small targets (NEIALs
+and/or satellites) using one transmitting and five receiving antennas.

@@ -1,0 +1,11 @@
+experiment sp-fr-gup3_n
+instrument ESR
+start 1999 12 08 1800
+end 1999 12 09 1800
+status R
+description northward scanning gup3
+contact jean lilensten
+email jean.lilensten@obs.uij-grenoble.fr 
+operator lilensten
+resources fr(24)
+submitter f forme

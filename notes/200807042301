@@ -1,0 +1,21 @@
+experiment MZE
+instrument TRO
+start 2008 07 04 0900
+end 2008 07 04 1200
+status R
+description Investigation of magnetic zenith effect in F-region heating
+contact Farideh Honary
+phone +44 1524 510402
+email f.honary@lancaster.ac.uk
+operator UK campaign team
+submitter Andrew Senior
+resources UK(30)
+notes
+The HF facility and UHF radar will be used to investigate the development of the
+magnetic zenith effect in F-region heating.
+
+The UHF and heater beams will be scanned between vertical and field-aligned. The
+experiment will be dependent of foF2 being sufficiently high to permit F-region
+heating.
+
+

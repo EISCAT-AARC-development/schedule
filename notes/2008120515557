@@ -1,0 +1,27 @@
+experiment ReimeiARS
+instrument ESR
+start 2008 12 05 0700
+end 2008 12 05 1200
+status R
+description Reimei-ARS-EISCAT coordinated observations
+contact Takeshi Sakanoi
+phone +81-22-795-6609
+email tsakanoi@pparc.geophys.tohoku.ac.jp
+fax +81-22-795-6406
+operator Yasunobu Ogawa and Yuka Sato
+submitter Yasunobu Ogawa (yogawa@nipr.ac.jp)  
+resources NI(20),SW(40)
+notes
+We will conduct Reimei-ESR coordinated observations 
+to investigate fine-scale auroral height distribution 
+and ion upflows. These observations are also run as 
+simultaneous observations between ESR and auroral radio 
+emissions in MF range.
+
+We will run the sweep observational mode with taro 
+pulse code.
+- Geomagnetic meridian scan with 32m dish (1 scan: 2-min).
+- Record ESR 42m data simultaneously.
+
+(PIs: Dr. T. Sakanoi, Prof. T. Ono, and Dr. S. C. Buchert)
+

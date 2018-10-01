@@ -1,0 +1,23 @@
+experiment SWARMAUR
+instrument KIR
+start 2016 12 06 2000
+end 2016 12 06 2400
+status R
+description Covering a SWARM overpass with UHF and tri-static VHF
+contact Ilkka Virtanen
+phone +358 294 481288
+email ilkka.i.virtanen@oulu.fi
+operator EISCAT staff
+submitter Ilkka Virtanen
+resources FI(10)
+notes
+Observations of electric field and precipitation during a swarm satellite overpass. 
+
+This is a compensation for radar time lost in October due to technical problems
+in the VHF. We ask for EISCAT staff to operate the radars for us. 
+
+UHF:
+/kst/exp/beata/beata cp1 FI
+
+VHF, KIR, SOD:
+/kst/exp/beata/beata zenith FI

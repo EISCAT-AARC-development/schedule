@@ -1,0 +1,35 @@
+experiment LANCS
+instrument TRO
+start 2011 11 18 1000
+end 2011 11 18 1600
+status R
+description Joint entry for six UK heating experiments.
+contact Mike Kosch
+phone +44 1524 510404
+email m.kosch@lancaster.ac.uk
+fax +44 1524 510493
+operator Andrew Senior/Carl Bryers
+submitter Carl Bryers
+resources UK(64.5),NI(9)
+notes
+This is a joint entry for the following UK experiments (mostly from Lancaster 
+University) which have similar requirements for heater and radar operations:
+
+POND UK(6),NI(9) – neutral density estimation via artificial ion upwelling.
+HAIL UK(13.5) – artificial ionisation layers.
+EARTH UK(12) - ???
+PRAISE UK(1) – artificial aurora.
+PLEE UK(8) – heater-accelerated electron fluxes via plasma lines
+RAMAN UK(24) – Raman amplification (PI: Bob Bingham, RAL)
+
+Note that POND is in fact a UK-Japan experiment.
+
+Except for RAMAN, the HF facility will be operated field-aligned, using O-mode. 
+The UHF radar will also operate field-aligned, most probably using the beata 
+code.
+
+Most of the operations are likely to take place during normal site working hours 
+and exact start and end times will be notified to the site staff as early as 
+possible. The period of 14:15-16:00 UT (outside working hours) will only be used 
+if weather conditions permit optical observations and the ionosphere is strong 
+enough for heating, therefore cancellation of this interval should be expected.

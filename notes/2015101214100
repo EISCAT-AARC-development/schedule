@@ -1,0 +1,23 @@
+experiment SCINT
+instrument TRO
+start 2015 10 12 1600
+end 2015 10 17 2100
+status R
+description Measurement of plasma density structures for the modelling of radio wave scintillation along co-aligned and simultaneous GNSS satellites ray paths
+contact Biagio Forte
+email b.forte@bath.ac.uk
+operator Ingemar Haggstrom
+submitter Biagio Forte
+resources EI(12)
+notes
+For 25 Oct 2016:
+runexp /kst/exp/bella/bella lm pp/scint25oct2016Tromso UK
+For 26 Oct 2016:
+runexp /kst/exp/bella/bella lm pp/scint26oct2016Tromso UK
+
+
+Monday 12 October 2015: 1600 - 2100 UT
+Tuesday 13 October 2015: 1600 - 2100 UT
+Wednesday 14 October 2015: 1600 - 2100 UT
+Thursday 15 October 2015: 1600 - 2100 UT
+Friday 16 October 2015: 1600 - 2000 UT

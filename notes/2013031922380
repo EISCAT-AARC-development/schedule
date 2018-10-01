@@ -1,0 +1,14 @@
+experiment KAIRAD
+instrument VHF
+start 2013 03 19 1000
+end 2013 03 19 1400
+description VHF and KAIRA measurements
+contact Ilkka Virtanen
+email ilkka.i.virtanen@oulu.fi
+operator Ilkka Virtanen
+submitter Carl-Fredrik Enell
+resources FI(4)
+notes
+The first actual D-region incoherent scatter measurement with the
+bistatic VHF + KAIRA combination.
+

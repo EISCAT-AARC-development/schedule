@@ -1,0 +1,15 @@
+experiment heatncool
+instrument HEA
+start 2013 11 27 1400
+end 2013 11 27 1800
+status R
+description Determining the D-region heating and cooling rates in a sub-millisecond resolution
+contact Antti Kero
+email antti.kero@sgo.fi
+operator Antti Kero
+submitter Antti Kero
+resources FI(14)
+notes
+To measure the D-region heating and cooling rates in a sub-millisecond
+resolution by superposing a sufficient number of short heater on/off modulations
+together. Raw data sampling makes the superposition possible.

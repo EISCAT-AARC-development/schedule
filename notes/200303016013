@@ -1,0 +1,17 @@
+experiment HFoptical
+instrument HEA
+start 2003 03 01 1800
+end 2003 03 01 2000
+status R
+description Stimulated optical emissions by HF pumping.
+contact Thomas Leyser
+phone +46-18-471 5941
+email thomas.leyser@irfu.se
+fax +46-18-471 5905
+operator Mike Rietveld
+submitter Thomas Leyser
+resources SW(20)
+notes
+Geomagnetically quiet conditions and clear skies. 
+Ionospheric critical frequency above about 4 MHz.
+Collaboration with UK and other associates.

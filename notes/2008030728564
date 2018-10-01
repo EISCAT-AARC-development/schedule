@@ -1,0 +1,23 @@
+experiment UK_SOLD
+instrument TRO
+start 2008 03 07 0000
+end 2008 03 08 2400
+status R
+description EISCAT Observations of Coronal Hole Effects
+contact Barbara Bromage
+phone +44-1772-893584
+email bjibromage@uclan.ac.uk
+fax +44-1772-892996
+operator Paul Gallop
+submitter Ian McCrea
+resources UK(30)
+notes
+This request is for a combined UHF/VHF experiment to monitor the impact of 
+coronal holes on the terrestrial upper atmosphere.  Results will also be used 
+from the ESR, assuming that it is operating in field-aligned IPY mode.  The 
+radars will run for 30 hours within a 48 hour window from 00 UT on 
+March 7th to 24 UT on March 8th.  The precise start of the run will 
+depend on solar surface features and cannot be predicted with complete 
+precision as yet (January 10).  For most of the time, the UHF will run in low-
+elevation northward-looking mode, with the VHF observing vertically in a D-
+region mode.  

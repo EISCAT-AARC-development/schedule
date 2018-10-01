@@ -1,0 +1,15 @@
+experiment ECUS
+instrument ESR
+start 1999 12 14 0500
+end 1999 12 14 1100
+status R
+description Studies of the Structure and Extent of the Cusp Region
+contact Ian McCrea
+phone +44 1235 446513
+email I.W.McCrea@rl.ac.uk 
+fax +44 1235 445848
+operator George Millward
+resources UK(12)
+submitter Ken Freeman
+notes
+Field-aligned GUP3 observations using the second Svalbard antenna.

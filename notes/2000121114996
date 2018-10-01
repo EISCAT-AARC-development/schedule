@@ -1,0 +1,31 @@
+experiment ACONV
+instrument VHF
+start 2000 12 11 1700
+end 2000 12 11 2200
+status R
+description Co-ordinated experiments with POLAR
+contact Joran Moen
+phone +47 22855666
+email jmoen@fys.uio.no 
+fax +47 22855671
+operator Joran Moen
+resources NO(5)
+submitter Joran Moen
+notes
+A series of POLAR overpasses of Svalbard for this November and December have                      
+been identified.  These passes will be in the prenoon and premidnight sectors.                     
+We will use the overflights to establish temporal correlations with the solar                     
+wind and establish merging and reconnection location relative to 2-dimensional                     
+patterns from ground based optics and superDARN radar.                       
+                     
+We aim to operate EISCAT UHF nd VHF in a 3-beam configuration, equally spaced,                      
+looking north at 30 degree elevation.  In addition we will direct the ESR-1                      
+antenna north along the magnetic meridian through Ny-Alesund at 30 degrees                     
+elevation.                      
+                     
+A scientific aim is to validate use of the electron temperature as potential                      
+tracer of the open closed field line boundary and to look in detail at plasma                     
+transport across the open-closed field line boundary.  I.e. will identify the                     
+radar signature of the X-line location, estimate the reconnection rate and                     
+study temporal and spatial variability of X-line dynamics night and day.  We                      
+will also use NOAA and DMSP particle data.

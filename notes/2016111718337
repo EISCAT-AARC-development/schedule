@@ -1,0 +1,22 @@
+experiment PMWE_SWE
+instrument VHF
+start 2016 11 17 0900
+end 2016 11 17 1300
+status R
+description Polar mesosphere winter echoes
+contact Evgenia Belova
+phone +46 98079112
+email belova@irf.se
+operator Evgenia Belova
+submitter Evgenia Belova
+resources SW(24)
+notes
+The VHF radar will run the standard manda experiment for  pointing
+positions  90 deg, 80 deg, 70 deg 
+If echo is strong it is desirable to use remote Rx. 
+This is unusual experiment. It WILL BE ONLY RUN if conditions are suitable 
+for PMWE, e.g.
+electron/proton precipitation to enhance the D-region and/or if PMWE has 
+been
+observed by nearby MST radars  Esrad and Maarsy. 
+

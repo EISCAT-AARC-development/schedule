@@ -1,0 +1,16 @@
+experiment PMSEOVER
+instrument TRO
+start 2012 07 02 0800
+end 2012 07 13 1400
+status R
+description Multi-radar PMSE overshoot effect
+contact Henry Pinedo
+phone 77645153
+email henry.pinedo@uit.no
+operator Mike Rietveld
+submitter Henry Pinedo
+resources NO(180)
+notes
+Running simultaneously with: VHF and UHF Tromsø (TRO) and Kiruna receiver (KIR)
+Using MANDA pulse configuration
+From 08:00 to 14:00 UT (+2 GMT)

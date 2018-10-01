@@ -1,0 +1,27 @@
+experiment RONE
+instrument VHF
+start 2015 01 03 1900
+end 2015 01 04 0100
+status R
+description Radar, radio, and optical observations of naturally-enhanced emissions
+contact Brett Isham
+phone +17878781289
+email brettisham@gmail.com
+fax +17872792205
+operator Brett Isham
+submitter Brett Isham
+resources NO(28),UK(12),SW(20)
+notes
+###  Note: We are requesting time from Sat 3 Jan due to predictions of good
+activity on 3 and 4 Jan.  We expect to run 4 nights, but we are requesting 6 in
+order to allow flexibility in scheduling at the Tromso site.  ###  Radar, radio,
+and optical observations of naturally-enhanced emissions (ion-acoustic,
+Langmuir, radio, and optical waves) conducted near local midnight and/or during
+satellite passes.  ISR data will be recorded using VHF vertical and UHF vertical
+or field-aligned simultaneously, or at low elevations, using both IL and PL
+channels on both antennas.  Radio emission data will be recorded using a
+wide-band (0-10 MHz) receiver provided by Interamerican University and Dartmouth
+College operating at the Auroral Observatory.  Optical data will be recorded by
+collaborating instruments.  HF radar data will be provided by SuperDARN.  The
+Swarm A and C satellites will pass in close proximity at and near field-aligned
+overhead the Tromso site at about 0110 UT on some of the requested nights. 

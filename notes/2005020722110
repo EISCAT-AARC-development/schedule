@@ -1,0 +1,25 @@
+experiment CUSP
+instrument ESR
+start 2005 02 07 0700
+end 2005 02 07 1300
+status R
+description  Optical observation at Ny Alesund and conjunction DSP polar satellite 
+contact Huigen Yang
+phone 86 21 68610583
+email huigen_yang@263.net
+fax 86 21 58711663
+operator TBD( NO(18), NI(18),3P(20))
+submitter Huigen Yang
+resources NI(18)
+notes
+This experiment is aimed to conduct coordinated observation on aurora and 
+dynamics of the cusp and ‘bright spots’ with ground based EISCAT Svalbard 
+radar detections and multi-wavelength monochromatic all-sky CCD imaging 
+measurements at Ny Alesund and conjunction with DSP polar satellite. The 
+interested time window is from 1000 to 1600 in MLT (or 0700-1300 in UT)in 
+January and February 2005. The ESR steerable antenna will be operated in 
+meridian scanning mode. The fixed and steerable antennas will be switched 
+between every 3.2 sec. The monochromatic all-sky CCD imaging system at Ny 
+Alesund will continuously measure 2-D intensity distributions of targeted 
+auroras on 427.8nm, 557.7nm and 630.0nm at a sampling rate of a frame every 6 
+seconds. 

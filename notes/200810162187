@@ -1,0 +1,33 @@
+experiment FROLOV
+instrument ESR
+start 2008 10 16 0700
+end 2008 10 16 0900
+status R
+description Spatial structure of the polar ionosphere modified by SPEAR
+contact Dr Vladimir Frolov
+phone 0078314325783
+email frolov.418@nirfi.sci-nnov.ru
+fax 0078314369902
+operator Dr Lisa Baddeley
+submitter Lisa Baddeley
+resources 3P(24)
+notes
+The study of non-linear processes within the framework of ionospheric
+modifications at polar latitudes, which could provide a better understanding
+some mechanisms of plasma turbulence generation. For experiments, SPEAR
+(Space Plasma Exploration by Active Radar) will be used for ionosphere pumping
+and DEMETER and DMSP satellites will be employed for in situ turbulence testing
+at topside ionosphere altitudes of ~ 660 – 840 km.
+To measure by means of onboard satellite instruments plasma density and
+temperature variations in the topside ionosphere when satellites will pass
+through the center part of the magnetic disturbed tube (not far than ~ 50 – 100
+km from its axis). Variations of electric and magnetic fields as well as energy
+of particles will be also registered, wherever possible.
+SPEAR has to begin operating 15 – 25 min before a satellite will be in the
+closest point of its orbit to the center of a HF disturbed magnetic tube and
+continue to radiate with full power at O-mode for 20 – 30 min. The pump beam has
+to be directed at the magnetic zenith to enhance turbulence generation due to
+the magnetic zenith effect. 
+It is expected that approx. 2 – 4 appropriate orbits will take place every
+day.Times when satellites will be over SPEAR are of about of 11 and 18 UT for
+DEMETER and 08 and 13 UT for DMSP.

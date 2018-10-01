@@ -1,0 +1,17 @@
+experiment tau0_cp2
+instrument ESR
+start 2002 10 04 1600
+end 2002 10 31 2400
+status C
+description Extended run for SELT and tidal studies
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com
+fax +47 790 21977
+operator Tony van Eyken
+submitter Tony van Eyken
+resources CP(720)
+notes
+Extended run, tau0, 6.4 seconds, CP2; swap antennas every 64 seconds.
+Reduce antenna slew speed to minimum necessary to make the longest movement in
+one minute.

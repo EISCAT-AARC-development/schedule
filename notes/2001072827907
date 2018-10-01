@@ -1,0 +1,16 @@
+experiment CLUSTER
+instrument ESR
+start 2001 07 28 2200
+end 2001 07 29 0600
+status C
+description CLUSTER conjunctions with EISCAT
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(8)
+submitter Tony van Eyken
+notes
+CLUSTER in the neutral sheet over the ESR and in neutral sheet over 
+Sondrestromfjord at 0500

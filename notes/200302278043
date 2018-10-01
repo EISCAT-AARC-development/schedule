@@ -1,0 +1,21 @@
+experiment FR_AURORA
+instrument VHF
+start 2003 02 27 2030
+end 2003 02 27 2230
+status R
+description French contribution to study of Langmuir turbulence in natural auroras
+contact Mike Kosch
+phone +44-1524-593016
+email m.kosch@lancaster.ac.uk
+fax +44-1524-592713
+operator Brett Isham
+submitter Ian McCrea
+resources FR(14)
+notes
+I am requesting this booking using French time at the request of the international heating campaign team, and with agreement from France.
+
+France is donating 14 hours to this campaign, primarily aimed at the study of turbulence in natural auroras using the VHF.  This time will be in the form of seven two-hour runs, which either directly follow (27-28 Feb, 3-5 March) or precede (1-2 March) the ALTA booking.  As the same modulation will be used for both experiments, the VHF will run for six hours continuously, thereby satisfying the current rules on minimum usage.
+
+This is the VHF part of the artificial Langmuir turbulence and aurora experiment, see the notes for the UHF part.
+
+Although a four-hour run has been requested, this will be followed by a two-hour run requested by France (FR-AURORA), from 2030-2230, using the same modulation to constitute a six-hour continuous VHF run in compliance with the rules. 

@@ -1,0 +1,19 @@
+experiment HARE
+instrument HEA
+start 2014 02 25 1900
+end 2014 02 25 2300
+status R
+description High Altitude Radar Echoes
+contact Björn Gustavsson
+phone +4777645668
+email bjorn@irf.se
+operator Björn Gustavsson
+submitter Herbert Gunell
+resources NO(12),PP(12),SW(30)
+notes
+We plan to search for enhanced ion acoustic lines at high altitude 
+using the Eiscat heating facility. Simultaneously, we shall be monitoring 
+the ionospheric conditions using the Eiscat uhf radar and observe auroral 
+emissions with the cameras of the Auroral Large Imaging System (Alis). 
+Tristatic vhf measurements will be conducted to provide further information 
+about the auroral conditions.

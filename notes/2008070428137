@@ -1,0 +1,17 @@
+experiment TRAP
+instrument HEA
+start 2008 07 04 0800
+end 2008 07 04 1200
+status R
+description Multi-radar measurements of HF-modulated PMSE
+contact Mike Kosch
+phone +44 1524 510404
+email m.kosch@lancaster.ac.uk
+operator Mike Rietveld
+submitter Andrew Senior
+resources UK(40),NO(50),CN(30)
+notes
+This is a joint UK-NO-CN experiment to study HF modulation of PMSE using the
+UHF, VHF and MORRO radars and possibly the HF facility partly configured as a radar.
+
+

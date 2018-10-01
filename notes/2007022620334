@@ -1,0 +1,27 @@
+experiment FAI
+instrument HEA
+start 2007 02 26 1000
+end 2007 02 26 1200
+description Study on artificially induced FAIs using EISCAT heater, UHF and SuperDARN radars
+contact A. S. Yukimatu
+phone +81-3-3962-5140
+email eiscatsensu@uap.nipr.ac.jp
+fax +81-3-3962-5742
+operator Yasunobu Ogawa
+submitter Yasunobu Ogawa (yogawa@nipr.ac.jp)
+notes
+FAIs artificially induced by ionospheric heater are ideal Targets 
+for studying creation and decay processes of FAIs. Though some or 
+many of such studies including those with heater, IS UHF radar(s) 
+together with SuperDARN radars, this time we'll use SuperDARN TMS 
+mode possibly with multi-frequency FDI technique together with 
+Tromso UHF radar which latitudinally sweeping over the heater 
+induced regions. This technique will, we hope, provide important 
+information to reveal the essential physical creation/decay 
+processes of FAIs.
+
+Arc1 pulse code and sweeping_pattern.elan will be used for the 
+Tromso UHF radar observation.
+
+
+

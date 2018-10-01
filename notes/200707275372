@@ -1,0 +1,18 @@
+experiment heating
+instrument TRO
+start 2007 07 27 0700
+end 2007 07 29 1100
+status R
+description ionospheric heating, tau2pl, ERP360MW, 
+contact Jun.Wu
+phone 861069731740
+email jun.wu@leme.ac.cn
+fax 861069731740
+operator Mike.R
+submitter Prof. Jian.Wu
+resources CN(18)
+notes
+   27 July 07:00 -- 11:00 UT (4 hours) UHF and Heating (accounted 6 hours)
+   28 July 07:00 -- 11:00 UT (4 hours) UHF and Heating (accounted 6 hours)
+   29 July 07:00 -- 11:00 UT (4 hours) UHF and Heating (accounted 6 hours)
+   total accounted 18 hours,which will be contributed by China.

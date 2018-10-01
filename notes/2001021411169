@@ -1,0 +1,13 @@
+experiment DMSP
+instrument TRO
+start 2001 02 14 1419
+end 2001 02 14 1629
+status R
+description Scanning experiment to detect auroral boundaries for comparison with new DMSP imager
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk 
+fax +44-1235-445848
+operator Andy Kavanagh
+resources UK(10)3P(16)
+submitter Ian McCrea

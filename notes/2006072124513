@@ -1,0 +1,26 @@
+experiment sp_ni_ion
+instrument ESR
+start 2006 07 21 1000
+end 2006 07 21 1400
+description Inspection of anisotorpic F-region ion temperature
+contact Sawako Maeda
+phone +81-75-531-9166
+email smaeda@kyoto-wu.ac.jp
+fax +81-75-531-9124
+operator Yasunobu Ogawa
+submitter Yasunobu Ogawa (yogawa@nipr.ac.jp)
+notes
+ We will investigate anisotropy of the F-region ion temperature 
+in the latitudes near the polar cap boundary, and the dayside 
+polar cap by using beams of the EISCAT-UHF radar and the ESR with 
+different aspect angles pointed toward the north and the south, 
+respectively.
+ Anisotropy of the F-region ion temperature depends upon collision 
+models (polarization type, charge-exchange type, Coulomb collision) 
+as well as on a strength of the electric field.
+ In the latitude range around the polar cap boundary and the dayside 
+polar cap, the convective electric filed shows a large variability 
+in time and space. It is valuable to derive anisotropy of the F-region 
+ion temperature in these region.
+
+

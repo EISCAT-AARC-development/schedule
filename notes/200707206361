@@ -1,0 +1,13 @@
+experiment PMSE
+instrument VHF
+start 2007 07 20 1700
+end 2007 07 20 2300
+status R
+description PMSE and heating investigation
+contact Cesar La Hoz
+phone +47 99774769
+email cesar@phys.uit.no
+fax +47 77645580
+operator Wu Jun
+submitter La Hoz
+resources CH(36)

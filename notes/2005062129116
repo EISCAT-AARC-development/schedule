@@ -1,0 +1,18 @@
+experiment DUST
+instrument UHF
+start 2005 06 21 0700
+end 2005 06 22 0700
+status R
+description Summes solstice in a series of tristatic solar system dust measurements
+contact Asta Pellinen-Wannberg
+phone + 46 980 79000
+email asta.pellinen-wannberg@irf.se
+fax +46 980 79050
+operator Johan Kero
+submitter Asta Pellinen-Wannberg
+resources SW(24)
+notes
+A series of tristatic EISCAT measurements on the global meteor flux on Earth at 
+1 AU is performed. The project will result in a statistically significant 
+knowledge of the dust population dynamical distribution at 1 AU thus increasing 
+understanding of the interplanetary dust particle system. 

@@ -1,0 +1,19 @@
+experiment CHAMPFAC
+instrument ESR
+start 2008 07 01 0000
+end 2008 07 01 0100
+status R
+description Models of large and small scale FACs in conjunction with CHAMP satellite
+contact P. Nenovski
+phone +35929793339
+email pnenovski@geophys.bas.bg
+fax +35929713005
+operator Lisa Baddeley / Petko Nenovski
+submitter Lisa Baddeley
+resources TNA(24)
+notes
+This is a TNA experiment to study the small and large scale FAC systems.  The
+observations are timed to co-incide with CHAMP satellite conjunctions.  The
+experiment time is overbooked due to the uncertain nature of the CHAMP orbit
+predictions.
+The 32m dish will run a 4 position CP2 scan

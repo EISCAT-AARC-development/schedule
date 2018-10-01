@@ -1,0 +1,29 @@
+experiment tau0_AA
+instrument ESR
+start 2008 04 01 0600
+end 2008 04 20 1000
+status R
+description ESR experiments in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(4)
+notes
+April 2008 is the best month for Cluster passes through the dayside cusp, with 
+the Cluster orbit plane being close to the Sun-Earth line.  We are requesting 
+four intervals, each of which includes a good dayside cusp pass close to 
+magnetic conjugacy with EISCAT. The four intervals are:
+
+April 1 06-10  
+April 8 07-11  
+April 20 06-10
+April 27 07-11
+
+For all of these intervals, the best configuration is to run tau1 on the VHF, 
+looking north at low (30 degrees) elevation along boresight, and to run tau0 on 
+the ESR, using the LowElNorth configuration the 32m dish, with dumps being 
+interleaved (4:1) between the 32m and 42m dishes.
+

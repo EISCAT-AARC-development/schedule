@@ -1,0 +1,21 @@
+experiment UK_TOI
+instrument ESR
+start 2008 03 24 1800
+end 2008 03 24 2400
+status R
+description Scanning measurements in support of ionospheric tomography
+contact Alan Wood
+phone +44-1970-622821
+email aow@aber.ac.uk
+fax +44-1970-622826
+operator Paul Gallop
+submitter Ian McCrea
+resources UK(6)
+notes
+This is a meridian-scanning experiment in support of ionospheric tomography 
+observations, using the Aberystwyth chain of beacon satellite receivers.  The 
+timing (18-24 UT) is chosen to allow the observation of nightside processes.
+
+Two intervals are scheduled, but only one will be run, with the other being 
+cancelled. The chosen dates (March 24 and 26) reflect the availability of 
+suitable satellites. 

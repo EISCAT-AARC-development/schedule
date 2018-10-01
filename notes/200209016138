@@ -1,0 +1,13 @@
+experiment POLAR
+instrument ESR
+start 2002 09 01 1030
+end 2002 09 01 1430
+status C
+description Conjunction with POLAR satellite
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com
+fax +47 790 21977
+operator Tony van Eyken
+submitter Tony van Eyken
+resources CP(4)

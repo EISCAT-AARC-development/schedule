@@ -1,0 +1,20 @@
+experiment Heating
+instrument VHF
+start 2003 06 11 0700
+end 2003 06 11 1300
+status R
+description Heating for Langmuir turbulence
+contact M. Rietveld
+phone +49 5556 979234
+email rietveld@linmpi.mpg.de
+fax +49 5556 979240
+operator M. Rietveld/B. Isham
+submitter M. Rietveld
+resources GE(50)
+notes
+Heating for Langmuir turbulence and possibly other
+related experiments (e.g. SEE measurements with spectrum analyser),
+and CUTLASS if possible.
+This experiment is overbooked so that some runs will be cancelled,
+13 June and 23 June are strong candidates to be cancelled.
+07-09 VHF will probably be d-layer, to cover the 6 hour minimum.

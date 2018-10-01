@@ -1,0 +1,11 @@
+experiment sonar
+instrument TRO
+start 2018 05 14 1515
+end 2018 05 14 1745
+status R
+description Sonar-2
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources TB(7.5)

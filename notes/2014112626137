@@ -1,0 +1,24 @@
+experiment RetRFE
+instrument ESR
+start 2014 11 26 0700
+end 2014 11 26 1100
+status R
+description Mapping return flow of RFEs
+contact Lasse Clausen
+phone +4791756267
+email lasse.clausen@fys.uio.no
+fax +4722855671
+operator Christer van Meeren
+submitter Lasse Clausen
+resources NO(4)
+notes
+Reverse-flow events (RFEs) were first observed in incoherent scatter
+data and have since been studied in detail. They are fast flows (~1
+km/s) in the opposite direction of the background convection flow,
+typically extending several 1000 km in longitude but only about 100 km
+in latitude. Whereas their connection to dayside reconnection is quite
+well studied, their connection to polar cap patch formation and the
+location of the return flow of this feature is unknown. We plan to
+study RFEs and their return flow by using two SuperDARN radars in a
+specifically designed mode in conjuction with the ESR in
+windscreen-wiper mode and auroral imager observations from Svalbard.

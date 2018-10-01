@@ -1,0 +1,24 @@
+experiment sp_ni_vw
+instrument UHF
+start 2004 09 09 0300
+end 2004 09 10 1500
+status R
+description This experiment addresses the lower ionospheric/thermospheric vertical motion
+contact Satonori Nozawa
+phone 81-52-789-4303
+email nozawa@stelab.nagoya-u.ac.jp
+fax 81-52-789-4311
+operator Yasunobu Ogawa
+submitter Satonori Nozawa
+resources NI(15),NO(12),FR(9)
+notes
+This experiment addresses the lower ionospheric/thermospheric vertical motion, which is one of the 
+critical aspects of Mesosphere-Thermosphere-Ionosphere coupling at high latitudes. The vertical wind 
+structure is not fully understood, although it is quite significant because one consequence of vertical 
+mixing associated with vertical motions is to modify the thermospheric and ionospheric compositional 
+structure. The goal of this project is to estimate vertical neutral winds using ionospheric parameters 
+observed with the EISCAT UHF radar, and to determine vertical neutral and plasma motions 
+accompanying geomagnetic and climatological activities. 
+
+This experiment will be done under collaborations of 3 countries such as Japan, Norway, and France.
+At now, Nozawa could not confirm the French SP time, but we think they will  contribute 9 hrs.

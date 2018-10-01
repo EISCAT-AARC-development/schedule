@@ -1,0 +1,15 @@
+experiment UK_TRIST
+instrument UHF
+start 2003 02 25 1630
+end 2003 02 26 0430
+status R
+description Tristatic Radar and FPI Comparison
+contact Anasuya Aruliah
+phone +44-20-7679-9023
+email a.aruliah@ucl.ac.uk
+fax +44-20-7679-9024
+operator Vikki Howells/Ivan Finch
+submitter Ian McCrea
+resources UK(24)
+notes
+This is a UHF tristatic experiment designed to be run in conjunction with simultaneous optical observations by three FPI systems at Skibotn, Kiruna and Sodankyla.  As such there is a very stringent dependence on optical conditions at all three sites.  Many of these runs will probably therefore be cancelled, but have been scheduled against the heating experiments for which conditions may be less demanding.  The common volume (in Tromso reference co-ordinates) will be az=100, el=45, alt=240.  As such the common volume will be far from Tromso, and the experiment may be able to run simultaneously with the heater without interference.

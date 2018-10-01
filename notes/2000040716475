@@ -1,0 +1,13 @@
+experiment EP316
+instrument ESR
+start 2000 04 07 0615
+end 2000 04 07 1215
+status R
+description Cusp/cleft studies in conjunction with Polar and CUTLASS
+contact T J Stubbs
+phone +44 20 7594 7758
+email tj.stubbs@ic.ac.uk 
+fax +44 20 7594 7772
+operator I W McCrea
+resources UK(36)
+submitter I W McCrea

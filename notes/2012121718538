@@ -1,0 +1,22 @@
+experiment lidar_gps
+instrument VHF
+start 2012 12 17 1700
+end 2012 12 18 0400
+status R
+description MSTID observations with EISCAT and GPS network
+contact Yuichi Otsuka
+phone +81-52-747-6317
+email otsuka@stelab.nagoya-u.ac.jp
+fax +81-52-747-6323
+operator Y. Ogawa
+submitter Y. Ogawa (yogawa at nipr.ac.jp)
+resources NI(13)
+notes
+PIs: S. Nozawa and Y. Otsuka
+
+We conduct observations of Medium-Scale Traveling Ionospheric Disturbances
+(MSTID) using the EISCAT UHF and VHF radars and European GPS networks. Antenna
+directions of the UHF and VHF radars are along the magnetic field line and
+vertical, respectively.
+
+

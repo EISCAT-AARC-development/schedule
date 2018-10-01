@@ -1,0 +1,13 @@
+experiment Medics
+instrument ESR
+start 2011 02 18 0700
+end 2011 02 18 1100
+status R
+description Multipoint Experiments for Dynamic Ionosphere Coupled Systems
+contact Phil Erickson
+email pje@haystack.mit.edu
+operator I Häggström
+submitter I Häggström
+resources PP(24)
+notes
+runexp /kst/exp/beata/beata 7:0 ip2 US

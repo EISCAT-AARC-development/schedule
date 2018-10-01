@@ -1,0 +1,13 @@
+experiment Blob
+instrument UHF
+start 1998 12 14 0800
+end 1998 12 14 1100
+status R
+description UHF scanning northward, ESR scanning southward
+contact Denis Alcayde
+phone +33 61 556677
+email Denis.Alcayde@cesr.fr 
+fax +33 61 556701
+operator Denis Alcayde
+resources FR(100)
+submitter Francois Forme

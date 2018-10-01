@@ -1,0 +1,18 @@
+experiment Reimei_ESR
+instrument ESR
+start 2006 07 03 0710
+end 2006 07 03 0910
+status R
+description Reimei-ESR coordinated observations
+contact Masafumi Hirahara
+phone +81-3-3985-2415
+email hirahara@rikkyo.ac.jp
+fax +81-3-3985-2418
+operator Yasunobu Ogawa
+submitter Yasunobu Ogawa (yogawa@nipr.ac.jp)
+resources NI(2)
+notes
+This is a comparative study of velocity distributions of 
+precipitating electrons and outflowing ions with the 
+ionospheric ion upflows using the Reimei(INDEX) satellite 
+and the ESR.

@@ -1,0 +1,17 @@
+experiment Next1800
+instrument HEA
+start 2014 11 24 1100
+end 2014 11 24 1400
+status R
+description The next 1800 ms of ionospheric HF-modification by EISCAT Heating
+contact Björn Gustavsson
+phone +4777645668
+email bjorn.gustavsson@uit.no
+operator Bjorn Gustavsson
+submitter Björn Gustavsson
+resources PP(18),NO(9)
+notes
+Experiment to study the transition from Langmuir-turbulence that dominates
+HF-modification just after HF-on to the UH-effects that has a slower growth.
+This experiment requires quiet ionospheric conditions and EISCAT Heating and the
+UHF and VHF radars simultaneously.

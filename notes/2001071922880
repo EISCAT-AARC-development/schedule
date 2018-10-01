@@ -1,0 +1,15 @@
+experiment CLUSTER
+instrument UHF
+start 2001 07 19 0000
+end 2001 07 19 0800
+status C
+description Geotail conjunction
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(8)
+submitter Tony van Eyken
+notes
+CLUSTER data taking 0117 to 0630

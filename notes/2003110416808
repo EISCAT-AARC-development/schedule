@@ -1,0 +1,32 @@
+experiment tau0_AA
+instrument ESR
+start 2003 11 04 1000
+end 2003 11 04 1600
+status R
+description ESR observations in support of Cluster - LowElNorth + Field-aligned
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT duty staff
+submitter Ian McCrea
+resources AA(6)
+notes
+For November 2003, I am requesting only three experiments in support of 
+Cluster.  The tail conjunction is by now effectively over, though the interval 
+requested on the 1st is predicted to co-incide with the last plasma sheet 
+crossing on the nightside.  As the month goes on, the orientation of the orbit 
+rotates with respect to the Earth, to become almost orthogonal to the Sun-Earth 
+line by the month's end.  This means that there will be some orbits where the 
+spacecraft may skim the magnetopause close to apogee around the middle of the 
+month, while late in the month there are clear magnetopause crossings.
+
+The three requested intervals are as follows:
+
+November 1  14-20 UT  (plasma sheet crossing)
+November 4  10-16 UT  (possible skim near magnetopause)
+November 15 04-10 UT  (perigee pass near dayside oval)
+
+None of these are sufficiently high priority to interrupt experiments which are 
+already scheduled, so I propose using only thoe radars which happen to be 
+available, i.e. VHF for the 1st and 15th, ESR for the 4th.

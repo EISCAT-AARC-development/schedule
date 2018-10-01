@@ -1,0 +1,22 @@
+experiment DAEA
+instrument UHF
+start 2005 02 10 1700
+end 2005 02 11 0500
+status R
+description Temperature Determination of Airglow Emission Altitude
+contact Eoghan Griffin
+phone +44 20 7679 9017
+email e.griffin@ucl.ac.uk
+fax +44 20 7679 9024
+operator Alan Aylward
+submitter Ken Freeman
+resources UK(12)
+notes
+The purpose of this experiment is to investigate the height profile of the 
+557.7nm emission line, by making EISCAT measurements simultaneously with FPI 
+observations. To do this, the EISCAT UHF Radar will be employed to make 
+magnetic field-aligned measurements of the ion temperature. These will then be 
+compared with FPI observations aligned with the EISCAT beam to establish the 
+height of the emission line. The use of the FPIs means that these operations 
+must be carried out during the hours of darkness, and therefore outside EISCAT 
+working hours. They will also require clear skies.

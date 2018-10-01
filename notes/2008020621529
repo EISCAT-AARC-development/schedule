@@ -1,0 +1,17 @@
+experiment NEMI
+instrument VHF
+start 2008 02 06 0930
+end 2008 02 06 1130
+status R
+description Support for NEMI experiment aboard Hotpay 2 rocket
+contact Esa Turunen
+phone +358405496699
+email esa@sgo.fi
+fax +35816619875
+operator C.-F. Enell, A. Kero
+submitter Thomas Ulich
+resources FI(80)
+notes
+Daytime experiment, VHF elevation 90 degree boresight, in order to establish ionospheric daytime 
+condition before rocket flight. Rocket launch window: 29 Jan to 9 Feb, 19UTC to 01UTC from 
+Andøya.Resources: Finland 40 hrs, Sweden 20 hrs, Norway 20 hrs (TBC)

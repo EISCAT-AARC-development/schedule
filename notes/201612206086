@@ -1,0 +1,16 @@
+experiment DMSP_ESR
+instrument ESR
+start 2016 12 20 0700
+end 2016 12 20 1600
+status R
+description Simultaneous observations with DMSP satellite and FPI
+contact Geonhwa Jee and Young-Sil Kwak
+email ghjee@kopri.re.kr
+operator Geonhwa Jee and Young-Sil Kwak
+submitter Geonhwa Jee and Young-Sil Kwak
+resources KR(52)
+notes
+The aim of observation is to study the ionospheric plasma structures in the 
+dayside polar cap/cusp region using simultaneous observations by ESR, DMSP 
+satellite, and FPI near Svalbard. The ESR will point at the field-aligned 
+direction. We prefer good weather condition for optical FPI observation.    

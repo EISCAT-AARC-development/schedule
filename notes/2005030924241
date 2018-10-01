@@ -1,0 +1,22 @@
+experiment RIOE2005
+instrument HEA
+start 2005 03 09 1800
+end 2005 03 09 2100
+status R
+description Investigation of radio induced optical emissions
+contact Bjorn Gustavsson
+phone +46 980 79000
+email bjorn@irf.se
+operator Tima Sergienko
+submitter Bjorn Gustavsson
+resources SW(38)
+notes
+The goal of the campaign is investigation of the fine temporal and spatial 
+structures of the optical emissions stimulated by the HF ionospheric heating, in
+particular the pump-power dependence of the emissions will be studied. 
+Multipoint, multiemission optical observations by ALIS will be conducted 
+simultaneously with running the high-resolution arc1 program by UHF EISCAT 
+radar. If ionospheric conditions will be insufficient ( critical frequency 
+less than 4 MHz) we will run same observations to study the influence of the 
+HF heating on natural aurora.
+

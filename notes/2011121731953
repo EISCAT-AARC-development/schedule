@@ -1,0 +1,14 @@
+experiment NWIND
+instrument TRO
+start 2011 12 17 1800
+end 2011 12 17 2400
+status R
+description  CP-2-type experiment for determination of electric field and neutral wind
+contact Anita Aikio
+email anita.aikio@oulu.fi
+operator Lei Cai
+submitter Antti Kero
+resources FI(24)
+notes
+CP-2-type experiment for determination of electric field and neutral wind in the nighttime simultaneously 
+with UHF and ESR. Also some cusp runs with ESR.

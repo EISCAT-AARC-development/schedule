@@ -1,0 +1,16 @@
+experiment FREE
+instrument ESR
+start 2012 07 08 0800
+end 2012 07 08 1100
+status R
+description F Region EASI Experiments
+contact Hannah Vickers
+phone 77645139
+email hannah.vickers@uit.no
+operator Vasyl Belyey
+submitter Hannah Vickers
+resources NO(27)
+notes
+Detection of F region heating effects produced using the SPEAR radar with the 
+EISCAT Aperture Synthesis Imaging (EASI) experiment and ESR. Either the LT4 or 
+beata codes will be run on ESR.

@@ -1,0 +1,19 @@
+experiment DLETE
+instrument HEA
+start 2007 06 22 0830
+end 2007 06 22 1220
+status R
+description D-region heating experiment
+contact Andrew Kavannah
+phone +44 1524510411
+email a.j.kavanagh@lancaster.ac.uk
+fax +44 1524510493
+operator Vikki Howells
+submitter Vikki Howells
+resources UK(14)
+notes
+The modulation for DLETE can be at 1 minute on/off at X mode. We are interested
+in getting the spectral width data from the VHF as a proxy for temperature so
+that we have something to compare the data from ARIES against. Ideally we need
+conditions with a decent D-layer and not too active.
+

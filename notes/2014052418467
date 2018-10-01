@@ -1,0 +1,14 @@
+experiment ASTERIITTI
+instrument UHF
+start 2014 05 24 0700
+end 2014 05 24 0900
+status R
+description Passive measurement of Lunar surface temperature
+contact Juha Vierinen
+email x@mit.edu
+operator Lassi Roininen
+submitter Juha Vierinen
+resources FI(2)
+notes
+Tri-static measurement using the UHF (930 MHz) in Tromso and VHF bands (224 MHz) 
+in Kiruna and Sodankyla.

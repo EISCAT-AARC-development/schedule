@@ -1,0 +1,22 @@
+experiment DEBRIS
+instrument UHF
+start 2009 02 17 1200
+end 2009 02 18 1300
+status R
+description 24-hour space debris monitoring
+contact Juha Vierinen
+phone +358404827774
+email j@sgo.fi
+fax +35816619875
+operator Juha Vierinen
+submitter Thomas Ulich
+resources FI(38)
+notes
+We (Jussi Markkanen, Markku Lehtinen and Juha Vierinen) want to run a 25 h space debris
+measurement for the upcoming ESA space debris conference. There has
+recently been renewed interest towards this from ESA, so it would be
+nice to show some new results. We need 24 h to
+cover all directions, and one hour extra for possible experiment
+start-up problems. In addition, we would like to measure orbital
+elements of the debris cloud caused by the Chinese space defence
+experiment.

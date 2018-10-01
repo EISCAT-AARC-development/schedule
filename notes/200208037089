@@ -1,0 +1,79 @@
+experiment CLUSTER
+instrument ESR
+start 2002 08 03 1100
+end 2002 08 03 1500
+status C
+description Conjunction with the CLUSTER satellites
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(4)
+submitter Tony van Eyken
+notes
+Start Date, Time   End Date, Time  Radars     Comments  
+   
+Jul 2  01:00      Jul 2  06:30    ESR, VHF   Skimming m-pause  
+Jul 2  06:30      Jul 2  11:00    Sondy  
+  
+Jul 4  01:00      Jul 4  06:30    ESR, VHF   Skimming m-pause  
+Jul 4  06:30      Jul 4  11:00    Sondy  
+  
+Jul 9  01:00      Jul 9  05:30    ESR, VHF   Skimming m-pause  
+Jul 9  05:30      Jul 9  10:00    Sondy  
+  
+Aug 3  11:00      Aug 3  15:00    ESR, VHF   Interior cusp ?  
+  
+Aug 13 22:00      Aug 14 02:00    ESR, VHF   Sheet crossing  
+Aug 14 02:00      Aug 14 06:00    Sondy       
+  
+Aug 15 08:00      Aug 15 12:00    ESR, VHF   Interior cusp ?  
+  
+Aug 25 21:00      Aug 26 01:00    ESR, VHF   Sheet crossing  
+Aug 26 01:00      Aug 26 05:00    Sondy  
+  
+  
+Notes:  
+  
+The skimming orbits at the beginning of July seem to be naturals for  
+EISCAT/Sondy collaboration, as the footprint moves west with time,  
+allowing Sondy to pick up the baton when the footprint is too far from  
+EISCAT.  EISCAT can probably use the "normal" Cluster mode, as the  
+footprint is either just north of, or above, Svalbard.  I'd probably  
+prioritise these in date order (i.e. 2nd the best, 9th the worst).  
+  
+I am assuming that we will only have single-beam VHF in July, because  
+of the PMSE campaigns.  
+  
+The August 3rd interval is close to perigee, with the footprint moving  
+from the Kola peninsula to north of Greenland.  It co-incides with a   
+long Cluster burst mode.  
+  
+The August 13/14 interval is covered by a long EISCAT Common programme.  
+The Cluster footprint passes between Svalbard and the Norwegian mainland  
+so it might be best for ESR to look south - the interval on the 25th/26th  
+is the same.  The footprint subsequently moves west over Greenland,   
+potentially allowing Sondy to pick up the baton.  
+  
+The August 15th interval has a footprint moving from Novaya Zemlya to  
+north of Greenland.  Again it co-incides with a long burst mode on   
+Cluster.  "Normal" EISCAT mode might be OK for this.  
+  
+The August 25/26th interval is similar to that of the 13th/14th.  
+  
+There are a number of other passes that I could have picked, but I've  
+chosen those that seem to be good candidates for co-ordination between  
+EISCAT and Sondy and those perigee passes close to EISCAT with long  
+Cluster burst modes.  
+  
+Other passes that I considered were....  
+  
+July 15/16  22-09  (EISCAT+Sondy)  
+August 6/7  22-02  (EISCAT)  
+August 21   02-06  (Sondy)  
+August 29   12-18  (Sondy)  
+  
+...but I'm reluctant to ask for too much, partly because of the pressure  
+on EISCAT time, and partly because the orbit plane will be even better  
+later in the autumn.

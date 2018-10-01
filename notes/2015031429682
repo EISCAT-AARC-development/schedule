@@ -1,0 +1,15 @@
+experiment Tomography
+instrument UHF
+start 2015 03 14 1900
+end 2015 03 14 2000
+status R
+description Impact of auroral precipitation in the ionosphere in Ne and volumetric 427.8 emission
+contact Kirsti Kauristie
+phone +358505978874
+email kirsti.kauristie@fmi.fi
+fax +35893232970
+operator Yasunobu Ogawa
+submitter Kirsti Kauristie
+resources FI(3)
+notes
+This is a Finnish contribution to the Tomography campaign by NI, SW, NO

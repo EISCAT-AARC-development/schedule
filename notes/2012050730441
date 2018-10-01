@@ -1,0 +1,19 @@
+experiment IPSS
+instrument UHF
+start 2012 05 07 0000
+end 2012 05 13 2359
+status R
+description EISCAT UHF IPS Test Observations with new VHF Kiruna, ESR, and LOFAR.
+contact Dr. Mario M. Bisi
+phone +441970622809
+email Mario.Bisi@aber.ac.uk
+fax +441970622826
+operator Mr. Stuart Hardwick
+submitter Dr. Mario M. Bisi
+resources UK(15)
+notes
+EISCAT Kiruna at VHF, EISCAT Sodankyla at 1420MHz with full wide-band receivers in 
+both cases, Tromso at 928MHz with as much bandwidth as is available.  ESR at 
+500MHz also required.  Tests are planned for the IPS experiment at the new VHF 
+frequency at Kiruna along with the ESR and similar VHF-type frequencies on the 
+LOFAR system.

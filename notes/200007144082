@@ -1,0 +1,15 @@
+experiment POLAR
+instrument ESR
+start 2000 07 14 0400
+end 2000 07 14 1000
+status C
+description Cusp observations
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(6)
+submitter Tony van Eyken
+notes
+Low elevation fixed beam observations towards the North using tau0

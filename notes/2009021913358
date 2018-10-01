@@ -1,0 +1,24 @@
+experiment steffe_AA
+instrument ESR
+start 2009 02 19 0100
+end 2009 02 19 1200
+status R
+description ESR and VHF measurements in support of Cluster and THEMIS
+contact Ian McCrea
+phone +441235446513
+email i.w.mccrea@rl.ac.uk
+fax +441235445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(11)
+notes
+During February 2009, THEMIS is in its optimal alignment in the magnetotail. I 
+am requesting two experiments in satellite pool time to provide EISCAT 
+observations during the interval of best alignment between the THEMIS 
+spacecraft.  The US radars will also be running during this interval. These 
+intervals follow on directly from the SUBTLE experiment, requested by Jim Wild, 
+which will look for substorm signatures in the longitude sector of EISCAT.  
+Depending on conditions, the radars can either continue with the configuration 
+used for SUBTLE (i.e. ESR pointing south and VHF pointing north) or, if SNR is 
+good enough, but radars can be pointed magnetic north to give the maximum 
+latiude coverage. 

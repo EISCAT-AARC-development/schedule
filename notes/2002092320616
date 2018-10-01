@@ -1,0 +1,13 @@
+experiment DUST
+instrument UHF
+start 2002 09 23 0900
+end 2002 09 24 1200
+status R
+description Monitoring the interplanetary and interstellar dust along the Earth's orbit - second session
+contact Asta Pellinen-Wannberg
+phone +46-980-79118
+email asta@irf.se
+fax +46-980-79050
+operator G. Wannberg
+submitter Asta Pellinen-Wannberg
+resources SW(24)

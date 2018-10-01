@@ -1,0 +1,22 @@
+experiment UK_METEOR
+instrument UHF
+start 2008 03 21 0000
+end 2008 03 21 2400
+status R
+description Multi-radar micrometeoroid measurements
+contact John Plane
+phone +44-113-3438044
+email j.m.c.plane@leeds.ac.uk
+fax +44-113-3436401
+operator Paul Gallop
+submitter Ian McCrea
+resources UK(36)
+notes
+This is a UK experiment to study the micrometeoroid flux at EISCAT.  It 
+consists of simple uncoded pulses to measure the intensity of the meteor 
+return, with tristatic UHF observations being used to calculate trajectory.
+
+The experiment proposal is at:
+
+http://www.eiscat.rl.ac.uk/Members/ian/EISCAT/Time%
+20Applications/september07/applications/micrometeor/

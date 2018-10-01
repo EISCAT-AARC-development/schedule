@@ -1,0 +1,45 @@
+experiment Reimei_ESR
+instrument ESR
+start 2010 11 03 0715
+end 2010 11 03 0945
+status R
+description Reimei-ESR coordinated observations of ion upflows/polar wind
+contact M. Hirahara
+phone +81-3-5841-4582
+email hirahara@eps.s.u-tokyo.ac.jp
+fax +81-3-5841-8321
+operator ESR site staff
+submitter Y. Ogawa (yogawa at nipr.ac.jp)
+resources NI(2.5)
+notes
+(PIs of the SP: M. Hirahara, T. Sakanoi, and Y. Ogawa)
+
+This is a comparative study of velocity distributions 
+of precipitating electrons and outflowing ions with 
+the ionospheric ion upflows/polar wind using the Reimei 
+satellite and ESR. 
+
+
+-----------------------------------------------------
+ESR observations:
+-----------------------------------------------------
+2010-11-01 08:00 UT - 2010-11-01 10:30 UT (2.5 hours)
+2010-11-02 07:00 UT - 2010-11-02 09:30 UT (2.5 hours)
+2010-11-03 07:15 UT - 2010-11-03 09:45 UT (2.5 hours)
+-----------------------------------------------------
+
+-----------------------------------------------------
+Satellite conjunctions:
+-----------------------------------------------------
+Time                Satellite              Azm  Elv
+-----------------------------------------------------
+2010-11-01 08:38:47 INDEX(20101003pm)     45.5 79.5
+2010-11-01 10:15:13 INDEX(20101003pm)    248.0 56.0
+2010-11-02 07:20:43 INDEX(20101003pm)     26.3 55.8
+2010-11-02 08:56:49 INDEX(20101003pm)     54.6 87.4
+2010-11-03 07:38:42 INDEX(20101003pm)     30.6 59.6
+2010-11-03 09:14:52 INDEX(20101003pm)    231.3 84.0
+-----------------------------------------------------
+
+
+

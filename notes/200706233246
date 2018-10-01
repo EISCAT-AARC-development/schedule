@@ -1,0 +1,13 @@
+experiment Convection
+instrument ESR
+start 2007 06 23 0720
+end 2007 06 23 1250
+status R
+description Monitor strength of dayside convection in conjunction with PKISR runs
+contact Larry Lyons
+phone 1-310-206-7876
+email larry@atmos.ucla.edu
+fax 310-825-5219
+operator Anja Strommer
+submitter Larry Lyons
+resources LL(6)

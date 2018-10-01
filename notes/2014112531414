@@ -1,0 +1,21 @@
+experiment AGW
+instrument ESR
+start 2014 11 25 1100
+end 2014 11 25 1859
+status R
+description Atmospheric Gravity Waves 
+contact Alexander Kozlovsky
+email alexander.kozlovsky@oulu.fi
+operator Daniel Whiter
+submitter Alexander Kozlovsky
+resources FI(24)
+notes
+SSignatures of propagating AGW were seen sometimes in the ion velocity observed by ESR at low 
+elevation to south. Such observations are to be likely during daytime (high enough F-region electron 
+density) under quiet geomagnetic condition. At the same time the AGW may be monitored with 
+SuperDARN, ionosondes, and optical instruments (in the case of dark sky). 
+Secondary purpose (in the case of geomagnetic disturbances) may be studying dayside long-period 
+geomagnetic pulsations and traveling convection vortices.
+- Radar to be used: ESR, taro, 32m antenna (e.g., 75% power) az=150, el=30; 42m (e.g., 25%) field-
+aligned; UT window: 11-19 UT, 3 x 8-h runs
+

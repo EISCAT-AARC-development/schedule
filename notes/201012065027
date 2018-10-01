@@ -1,0 +1,21 @@
+experiment VUHF
+instrument VHF
+start 2010 12 06 0900
+end 2010 12 06 1100
+status R
+description Combined VHF/UHF measurement of the same plasma volume
+contact  Ilkka Virtanen
+phone +358 40 8247168
+email ilkka.i.virtanen@oulu.fi
+fax  
+operator Ilkka Virtanen
+submitter Antti Kero
+resources FI(5)
+notes
+The idea is to measure the same plasma simultaneously with both UHF and VHF radars, and feed the 
+ACFs from both radars to same plasma parameter fit process. Because the effect of ion-neutral 
+collisions to IS spectrum depends on carrier frequency, the technique is expected to provide 
+improvements to collision frequency measurements especially in E-region, because it reduces the 
+correlation between collision frequency and temperature ratio. According to simulation studies, 
+simultaneous fit of these two parameters should become possible.  EISCAT heating facility will be used 
+for controlling the temperature ratio during the experiment.

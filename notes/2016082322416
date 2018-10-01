@@ -1,0 +1,29 @@
+experiment Mesoclouds
+instrument VHF
+start 2016 08 23 2000
+end 2016 08 24 0200
+status R
+description PMSE and NLC
+contact Peter Dalin
+phone +46-0980-79023
+email pdalin@irf.se
+fax +46-0980-79050
+operator Ingemar Häggström
+submitter Peter Dalin
+resources SW(54)
+notes
+In order to study the connection between PMSE and NLC we intend to
+simultaneously observe PMSE and NLC at about the same volume in space using two
+optical cameras at Kiruna and Nikkaluokta and the EISCAT VHF in Tromsö. Optical
+NLC observation conditions from Kiruna are better later in the summer. The NLC
+cameras will be automatically run each night from the beginning until the end of
+August.
+
+Requested observation:
+VHF tri-static observations during 6 hours around midnight (between 20:00 and
+02:00 UT) ideally during 2 nights per week, beginning from 8th August until 26th
+August, totally 54 hours for the VHF tri-static measurements (Tromsö, Kiruna and
+Sodankylä, i.e., 6 nights x 6 hrs x 1.5).
+
+A scientific motivation for these EISCAT measurements has been approved by
+Stephan Buchert as Swedish representative.

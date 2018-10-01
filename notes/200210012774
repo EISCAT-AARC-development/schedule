@@ -1,0 +1,18 @@
+experiment cp1l_ouch_UK@uhf
+instrument UHF
+start 2002 10 01 0700
+end 2002 10 01 1000
+status R
+description Measurement of ULF Wave Signatures in Artificially Induced Radar Backscatter.
+contact Tim Yeoman
+phone +44 116 252 3564
+email tim.yeoman@ion.le.ac.uk  
+fax +44 116 252 3555
+operator To Be Decided
+resources UK(30)
+submitter Ken Freeman
+notes
+The object of this experiment is to study the ionospheric signqatures of ULF    
+waves in artificially induced radar backscatter, in conjunction with the CUTLASS   
+Radar and the Leicester Doppler sounder. For this the Heater will be operated continuously in a reduced power mode. The UHF Radar beam will be kept aligned with the magnetic field line. It is expected to employ the CP-1L pulse code, but   
+it is possible that the tau2 pulse code might be used instead.

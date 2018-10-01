@@ -1,0 +1,14 @@
+experiment SwarmAur
+instrument ESR
+start 2015 11 11 0700
+end 2015 11 11 0900
+status R
+description Swarm overflight + auroral experiment
+contact Heikki Vanhamäki
+email heikki.vanhamaki@oulu.fi
+operator Heikki Vanhamäki
+submitter Heikki Vanhamäki
+resources FI(26)
+notes
+Measurements around a predicted overpass by Swarm satellites. 42m field-aligned,
+32m either at 90 deg angle to Swarm orbit or along the orbit northward.

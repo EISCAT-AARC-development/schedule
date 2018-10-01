@@ -1,0 +1,14 @@
+experiment PMSE99
+instrument ESR
+start 1999 07 01 0900
+end 1999 07 14 0900
+status R
+description PMSE search. Collaboration with MPAe (ESR & SSR) 
+contact Chris Hall
+phone 77645222
+email chris.hall@phys.uit.no 
+fax 77645676
+operator representative from MPAe
+telescience rep. from MPAe (info below will be changed)::129.242.28.39
+resources NO(48)
+submitter Chris Hall

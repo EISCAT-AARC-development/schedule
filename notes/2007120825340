@@ -1,0 +1,18 @@
+experiment PAAWS
+instrument UHF
+start 2007 12 08 0200
+end 2007 12 08 0600
+status R
+description Pulsating Aurora and Azimuthal Wave Structures
+contact Andrew J. Kavanagh
+phone +441524510411
+email a.j.kavanagh@lancs.ac.uk
+fax +44152451049
+operator Andrew J. Kavanagh
+submitter Andrew J. Kavanagh
+resources UK(40)
+notes
+Field-aligned UHF measurements to determine plasma parameters in the E and F
+region during pulsating aurora.  Tristatic measurements will provide electric
+field information.  Experiment depends on substorm activity and so cancellations
+will be made as appropriate.

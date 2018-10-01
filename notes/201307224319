@@ -1,0 +1,17 @@
+experiment IPSS
+instrument UHF
+start 2013 07 22 0000
+end 2013 07 22 2359
+status R
+description EISCAT and ESR Observations of IPS in the Vicinity of Venus on the Sky
+contact Dr. Mario M. Bisi
+phone +441970622809
+email Mario.Bisi@aber.ac.uk
+fax +441970622826
+operator Dr. Richard A. Fallows
+submitter Dr. Mario M. Bisi
+resources UK(15)
+notes
+EISCAT Kiruna and EISCAT Sodankyla at VHF with the full wide-band receivers in 
+both cases, Tromso at 928MHz with as much bandwidth as is available; ESR at 500MHz 
+also required with full tracking capabilities, please...

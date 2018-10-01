@@ -1,0 +1,12 @@
+experiment CP4
+instrument VHF
+start 2003 05 27 0900
+end 2003 05 29 1500
+description Low/High latitude
+contact I Häggström
+email ingemar@eiscat.com
+operator I Häggström
+submitter I Häggström
+notes
+tau1av, boresight, 30-deg elevation
+

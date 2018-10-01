@@ -1,0 +1,18 @@
+experiment Eclipse
+instrument ESR
+start 2008 08 01 0600
+end 2008 08 08 1200
+description Response of the dayside ionosphere to total eclipse
+contact Frederic Pitout
+email frederic.pitout@obs.ujf-grenoble.fr
+operator Frederic Pitout
+submitter F. Pitout
+notes
+runexp /kst/exp/ei/folke/folke 8 eclipse FR
+
+The use of both antenna is requested to observe and help model the response of
+the dayside polar ionosphere to the passage of the total eclipse.
+The 32m will be pointed towards the north at low elevation to study the
+propagation and evolution of a breifly non-sunlit ionospheric region.
+
+

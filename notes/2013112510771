@@ -1,0 +1,15 @@
+experiment AurDyn
+instrument VHF
+start 2013 11 25 1759
+end 2013 11 25 2159
+status R
+description Simultaneous UHF and tri-static VHF
+contact Anita Aikio
+phone +358503500641
+email anita.aikio@oulu.fi
+fax +35885531287
+operator Lei Cai
+submitter Anita Aikio
+resources FI(8)
+notes
+Vertical tri-static VHF and field-aligned UHF to study 2D structures of aurora.

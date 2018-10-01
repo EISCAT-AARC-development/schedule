@@ -1,0 +1,19 @@
+experiment MARE
+instrument HEA
+start 2004 06 10 1900
+end 2004 06 10 2400
+status R
+description Magnetospheric Radar Experiment
+contact Andrew Senior
+phone +44 1524 594440
+email a.senior@lancaster.ac.uk
+fax +44 1524 592713
+operator Mike Rietveld
+submitter Andrew Senior
+resources UK(24)
+notes
+The primary aim of this experiment is to repeat the observations made in March 2003 of 
+echoes at ranges between ~6000 and 16000 km in order to determine their cause. The period 
+of greatest interest will initially be 19-22 UT as this corresponds to the times when the echoes 
+were received in the previous experiment. 
+ 

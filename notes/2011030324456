@@ -1,0 +1,22 @@
+experiment ASK_EASI
+instrument ESR
+start 2011 03 03 0200
+end 2011 03 03 0900
+status R
+description Combined multi-monochromatic optical and interferometric IS observations aimed at answering everything about NEIALS
+contact Vasyl Belyey
+phone +47 77645136
+email vasyl.belyey@uit.no
+fax +47 77645580
+operator Vasyl Belyey
+submitter Vasyl Belyey
+resources NO(7)
+notes
+In this experiment we will use the combined resolving power of EASI and ASK to
+determine the horizontal structures of the Naturally Enhanced Ion Acoustic
+Echoes (NEIALs). Previous studies have revealed that the backscattering
+structures are less than 300 m perpendicular to B over several 100 km along. The
+combined radar+optical observations will clarify the relation between NEIALs and
+flaming auroral rays. LT4 will be run field-aligned.
+
+The hours actually used during the experiment will be shared between NO, SW and UK.

@@ -1,0 +1,44 @@
+experiment Rosetta
+instrument TRO
+start 2007 11 08 1800
+end 2007 11 08 2400
+status R
+description Rosetta Earth Flyby
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator Jo Sullivan
+submitter Ian McCrea
+resources UK(42)
+notes
+This proposal requests EISCAT time to support Rosetta observations of the 
+magnetotail during the 2nd Earth gravity assist, closest approach occurring on 
+13th November 2007.  In the week leading up to closest approach, Rosetta will 
+approach the Earth from the nightside, encountering the magnetotail at 
+distances of several hundred RE downstream of the planet.  Deep tail encounters 
+at such distances have not occurred since ISEE3 passed through the tail during 
+manoeuvres on its way to Comet Giacobini-Zinner in 1982/3.  
+
+We wish to optimise the radar operating mode to detect the occurrence of 
+substorms and diagnose the ionospheric flow during substorms.  We propose that 
+the mainland EISCAT VHF and UHF radars point polewards at low elevation (30°) 
+to cover the auroral latitude range from northern Norway to Svalbard, where 
+substorm signatures are most expected to observed.  The two should be separated 
+in azimuthal pointing direction, so that beam-swung vectors of the plasma flow 
+can be determined.  At the ESR the 42 m dish should make field-aligned 
+measurements, consistent with IPY requirements.  There are two options for the 
+32 m dish: if the SNR of the mainland radars is sufficient to allow high 
+quality measurements of plasma flow to be made all the way to Svalbard, then 
+the ESR 32 m dish should point polewards at low elevation to make measurements 
+in the polar cap; alternatively, it should point equatorwards at low elevation 
+to complete coverage of auroral latitudes.  This decision will be made as the 
+experiment is run and conditions are known.
+
+We request 6 hours (18-24 UT) on 7 nights (7-13 November 2007), totalling 84 
+hours on the mainland radar and 42 hours on the ESR 32 m dish.  The experiments 
+will be carried out in collaboration with Sweden, with both parties 
+contributing an equal amount of time.  If less than the full amount of time is 
+awarded we would reduce our operations on the nights of November 7th-9th when 
+no particle instrument data will be available from Rosetta.
+

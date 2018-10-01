@@ -1,0 +1,16 @@
+experiment CP3
+instrument TRO
+start 2015 03 13 0800
+end 2015 03 27 2300
+status R
+description Meridional Circle
+contact Ingemar Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(99)
+notes
+Hemispheric and latitudinal stormtime behavior
+Shunrong Zhang (Massachusetts Institute of Technology, USA)
+
+

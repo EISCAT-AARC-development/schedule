@@ -1,0 +1,38 @@
+experiment ReimeiVHF
+instrument VHF
+start 2007 11 19 2200
+end 2007 11 20 0200
+status R
+description Reimei-VHF coordinated observations
+contact Masafumi Hirahara
+phone +81-3-3-5841-4582
+email hirahara@eps.s.u-tokyo.ac.jp
+fax +81-3-5841-8321
+operator Yasunobu Ogawa
+submitter Yasunobu Ogawa (yogawa@nipr.ac.jp)
+resources NI(20)
+notes
+We conduct coordinated EISCAT-ALIS-Reimei observations of 
+nightside auroral phenomena. We also run several optical 
+instruments (e.g., All sky and wide view TV imagers, 
+Proton aurora camera) in Tromsoe.
+
+PI: Masafumi Hirahara (University of Tokyo)
+
+-------------------------------------------------------------------
+EISCAT Tromso VHF radar observations (CP7 mode), NI(20):
+-------------------------------------------------------------------
+YYYY-MM-DD HHMM(UT)-YYYY-MM-DD HHMM(UT) (total)  Note
+-------------------------------------------------------------------
+2007-11-09 0000 UT - 2007-11-09 0200 UT (2hours)
+2007-11-10 0000 UT - 2007-11-10 0200 UT (2hours)
+2007-11-14 0000 UT - 2007-11-14 0200 UT (2hours)
+2007-11-14 2200 UT - 2007-11-15 0200 UT (4hours)
+2007-11-15 2200 UT - 2007-11-16 0200 UT (4hours)
+2007-11-18 2200 UT - 2007-11-19 0200 UT (4hours)
+2007-11-19 2200 UT - 2007-11-20 0200 UT (4hours)
+2007-11-20 2200 UT - 2007-11-21 0200 UT (4hours) (lower priority)
+-------------------------------------------------------------------
+(26 hours in total)
+-------------------------------------------------------------------
+

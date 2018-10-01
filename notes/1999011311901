@@ -1,0 +1,13 @@
+experiment Patches
+instrument ESR
+start 1999 01 13 0900
+end 1999 01 13 1500
+status R
+description Polar patches campaign with Sondrestromfjord
+contact Denis Alcayde
+phone +33 561 556677
+email Denis.Alcayde@cesr.fr 
+fax +33 561 556701
+operator Denis Alcayde
+resources FR(100)
+submitter Francois Forme

@@ -1,0 +1,13 @@
+experiment spfr_cusp
+instrument ESR
+start 2003 01 10 0300
+end 2003 01 10 1100
+status R
+description a cusp experiment with the 2 ESR antennas 
+contact Jean.Lilensten
+phone 04 76 51 41 49
+email Jean.Lilensten@obs.ujf-grenoble.fr
+fax 04 76 51 41 46
+operator Jean.Lilensten
+submitter francois.forme@cetp.ipsl.fr
+resources fr(8)

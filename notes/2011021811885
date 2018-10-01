@@ -1,0 +1,17 @@
+experiment Artemis
+instrument ESR
+start 2011 02 18 1900
+end 2011 02 19 0100
+status R
+description Dayside dynamics in conjunction with Artemis spacecraft
+contact L. Palin
+email palin@cesr.fr
+operator F. Pitout
+submitter F.Pitout
+resources FR(6)
+notes
+We plan to observe the nighside ionophere in conjunction with the Artemis
+spacecraft. The following antenna will be used:
+- ESR 42m + 32m pointing south at low elevation
+- VHF pointing north at low elevation (split or single beam... to be defined)
+- UHF pointing field aligned.

@@ -1,0 +1,27 @@
+experiment tau1_AA
+instrument VHF
+start 2008 01 27 1900
+end 2008 01 28 0100
+status R
+description VHF experiments in support of Cluster and THEMIS
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +441235445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(6)
+notes
+In January 2008, Cluster is still on the magnetospheric flank, with apogee 
+approaching the dayside as the month continues.  This month also sees the 
+beginning of the THEMIS science phase with alignments of the spacecraft along 
+the magnetotail steadily improving as the month progresses.  Because of this, 
+we are requesting four midnight sector intervals at the end of the month where 
+two or more THEMIS spacecraft are aligned along the tail.  At least one of 
+these intervals will also have good complementary observations from a Cluster 
+perigee pass.  
+
+Given the low densities currently being experienced, the best mode for the ESR 
+would probably be to run LowElSouth and tau0 i.e. looking southward, with 
+something like 3:1 interleaving (32:42).  The VHF would point northwards at 30 
+degrees elevation along boresight, running tau1.

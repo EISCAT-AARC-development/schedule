@@ -1,0 +1,16 @@
+experiment CP2
+instrument ESR
+start 2017 01 15 0800
+end 2017 01 15 2000
+status R
+description ICSOM
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)
+notes
+runexp /kst/exp/ipy/ipy 0:0 ip2
+
+ISR observations during a campaign of Interhemispheric Coupling Study by
+Observations and Modeling (ICSOM)

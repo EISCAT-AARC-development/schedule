@@ -1,0 +1,35 @@
+experiment sp_ni_mi
+instrument UHF
+start 2008 11 06 1800
+end 2008 11 06 2200
+status R
+description Response of the M-I coupling system to artificial modulations of the ionosphere
+contact Ryoichi Fujii
+phone +81-52-789-4301
+email rfujii@stelab.nagoya-u.ac.jp
+fax +81-52-789-4311
+operator S. Oyama (soyama@stelab.nagoya-u.ac.jp)
+submitter Y. Ogawa
+resources NI(10)
+notes
+Development of polarization electric field due to artificial, sudden changes of 
+ionospheric parameters by the EISCAT Heating facility
+
+Here we propose an EISCAT heating experiment along with KST UHF observations 
+for understanding the nature of the magnetosphere-ionosphere (M-I) coupling, in 
+particular, of the electric field in the polar 
+ionosphere.
+
+EISCAT heater: 
+The carrier frequency is set close to the plasma frequency around 110 km high.
+The sequence of the on-off of the heater is 10 min on and 10 min off. (the 
+traveling time of the Alfven wave between M and I is a few minutes, so within 
+10 min saturation to reach an equilibrium state can be expected)
+
+EISCAT UHF radar:
+Multi-points Arc mode. The remote antennae point the common volume around 280 
+km. The EISCAT UHF radar can measure only one line of sight at one time and 
+cannot provide any information in other regions. It is therefore very important 
+to check if the spatial and temporal development of the enhanced region by the 
+heater and those of physical parameters have quantitative reappearance.
+

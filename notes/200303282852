@@ -1,0 +1,13 @@
+experiment tau2_pl
+instrument UHF
+start 2003 03 28 1100
+end 2003 03 28 1500
+status R
+description CRAF
+contact G Wannberg
+email ugw@eiscat.com
+operator G Wannberg
+submitter I Häggström
+resources CP(900)
+notes
+Demonstration for the CRAF meeting in Kiruna

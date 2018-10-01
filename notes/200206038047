@@ -1,0 +1,18 @@
+experiment CUSP-CHAMP
+instrument VHF
+start 2002 06 03 0900
+end 2002 06 03 1400
+status R
+description CHAMP/Oersted/SACC cusp conjunctions
+contact M. Rietveld
+phone +47 77692171
+email rietveld@linmpi.mpg.de 
+fax +47 77692360
+operator Request EISCAT staff
+resources GE(25)
+submitter M. Rietveld
+notes
+(Similar campaign to that run in February)          
+EISCAT VHF also requested, low elevation towards ESR. (tau1av preferred, but otherwise tau1avsingle)     
+ESR also requested.     
+

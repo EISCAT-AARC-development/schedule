@@ -1,0 +1,23 @@
+experiment GIVE
+instrument HEA
+start 2007 12 05 1000
+end 2007 12 05 1200
+status R
+description Artificial ion upwelling
+contact Andrew Senior
+phone +44 1524 510410
+email a.senior@lancaster.ac.uk
+fax +44 1524 510493
+operator Mike Rietveld
+submitter Andrew Senior
+resources UK(7.5),EI(2.5)
+notes
+The UHF will operate field-aligned, most probably running tau2pl.
+The Heater will operate 4 min on, 4 min off, 8 min on, 8 min off, 16 min on, 20
+min off (60 min cycle), O-mode, field-aligned.
+
+This experiment is heavily overscheduled, but takes place entirely within normal
+working hours. The experiment requires a stable ionosphere with foF2 > 4.04 MHz
+for heating.
+
+

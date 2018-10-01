@@ -1,0 +1,18 @@
+experiment SUBTLE
+instrument VHF
+start 2009 02 26 1900
+end 2009 02 27 0100
+status R
+description Substorm Timing and Location Experiment
+contact Jim Wild
+phone +441524510545
+email wildj@exchange.lancs.ac.uk
+fax +441524510493
+operator UK Campaign Team
+submitter Ian McCrea
+resources UK(40)
+notes
+Experiment aiming to locate substorm onset and timing by using the ESR and 
+Tromso VHF radars during a tail alignment of THEMIS. The experiment uses the 
+ESR in steffe mode pointing south and the VHF in tau1 mode pointing at low 
+elevation to the north.

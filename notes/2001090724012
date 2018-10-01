@@ -1,0 +1,15 @@
+experiment CLUSTER
+instrument VHF
+start 2001 09 07 1800
+end 2001 09 07 2300
+status C
+description Experiments co-ordinated with CLUSTER observations
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(5)
+submitter Tony van Eyken
+notes
+Neutral sheet at ESR and mainland

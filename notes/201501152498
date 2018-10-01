@@ -1,0 +1,24 @@
+experiment CP2
+instrument ESR
+start 2015 01 15 0800
+end 2015 01 31 2400
+status R
+description StratWarm and Gravity Wave Coupling
+contact Ingemar Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(99)
+notes
+runexp /kst/exp/ipy/ipy 8:0 ip2
+
+
+Sudden stratospheric warming
+Larisa Goncharenko (Massachusetts Institute of Technology, USA)
+
+Gravity wave coupling with winds and tides
+Andrew Kavanagh (British Antarctic Survey, UK)
+
+
+
+

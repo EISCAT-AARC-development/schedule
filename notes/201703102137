@@ -1,0 +1,33 @@
+experiment RAGL
+instrument TRO
+start 2017 03 10 1830
+end 2017 03 10 2230
+description SAR and GNSS satellite observation of plasma irregularity
+contact Hiroatsu Sato
+phone +49 3981 480-190
+email hiroatsu.sato@dlr.de
+fax +49 3981 480-123
+operator EISCAT staff
+submitter Hiroatsu Sato
+resources PP(20)
+notes
+The main objective is to study ionospheric irregularities and  propagation
+effect on L-band SAR and GNSS satellite signals. 
+
+18:30-19:30 Galileo E11/Norad 37846
+
+ runexp /kst/exp/beata/beata fm ei/sattrack PP 37846
+
+19:00-21:10 GLONASS R20/ Cosmos 2432/Norad 32276
+(check 19:00:00 or 19:30:00 ?)
+
+ gto beata                                <-important to break running sattrack
+ gotoblock sattrack 19:00:00 beata 32276  <- return to sattrack
+
+21:10- field-aligned
+ 
+ gto beata                                <- should be enough for cp1?
+
+
+
+

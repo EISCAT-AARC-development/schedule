@@ -1,0 +1,17 @@
+experiment cp1_aurora
+instrument UHF
+start 2004 10 16 1900
+end 2004 10 16 2300
+status R
+description CP1 run with optical measurements
+contact Satonori Nozawa
+phone 81-52-789-4303
+email nozawa@stelab.nagoya-u.ac.jp
+fax 81-52-789-4311
+operator Satonori Nozawa
+submitter Satonori Nozawa
+resources NI(4)
+notes
+We will make an optical campaign using high resolution aurora cameras
+and 4-wavelength photometer with EISCAT UHF radar.
+Clear sky and higher geomagnetic activity are desired.

@@ -1,0 +1,33 @@
+experiment SCANDI_UK
+instrument ESR
+start 2007 12 09 0500
+end 2007 12 09 1100
+status R
+description ESR observations in conjunction with SCANDI
+contact Anasuya Aruliah
+phone +442076792538
+email anasuya@apl.ucl.ac.uk
+operator Matthieu Barthelemy
+submitter Ian McCrea
+resources UK(6)
+notes
+This is request for ESR operations in support of the UCL SCANDI interferometer, 
+which should be operational in the new observatory at Breinosa by the time of 
+the campaign. The aim is to run the experiment for six hours, three times 
+within a week of new moon on December 9th, with one run taking place during the 
+cusp interval (05-11 UT) and the other two runs taking place during the 
+midnight sector (19-01 UT). 
+
+The experiment is over-booked by a factor 3 because it requires relatively 
+cloud-free conditions.
+
+In principle, the SCANDI imager can tolerate the presence of some cloud.  
+However, if conditions are not perfectly clear at the time of the run, the 
+experimenters should check with Eoghan Griffin (+442076793433, 
+eoghan@apl.ucl.ac.uk) to make sure that SCANI has sufficient signal to justify 
+a run.
+
+The experiment consists of a small scan, with three positions, one of which is 
+field-aligned, the other two having elevations of 63.5 degrees north and 
+south.  More complex scans may be used if justified by the conditions, but this 
+would require good SNR at the ESR.

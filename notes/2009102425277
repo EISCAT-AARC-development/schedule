@@ -1,0 +1,21 @@
+experiment niesr_ptid
+instrument ESR
+start 2009 10 24 0000
+end 2009 10 24 0700
+status R
+description Measurement of the poleward traveling ionospheric disturbances
+contact Shin-ichiro Oyama
+phone +81-52-789-4308
+email soyama@stelab.nagoya-u.ac.jp
+fax +81-52-789-4311
+operator Shin-ichiro Oyama
+submitter Yasunobu Ogawa (yogawa@nipr.ac.jp)
+resources NI(21)
+notes
+The major objective of this experiment is measurement of the poleward
+traveling ionospheric disturbances (TID) in association with geomagnetic
+activity located at the equator side of ESR.
+
+The 42m and 32m antennae are run with the ipy pulse scheme.
+The 32m dish is scanned in the magnetic meridian plane.
+

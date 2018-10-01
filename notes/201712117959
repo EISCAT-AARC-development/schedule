@@ -1,0 +1,18 @@
+experiment JH_Hotspot
+instrument ESR
+start 2017 12 11 0900
+end 2017 12 11 1500
+status R
+description Joule heating hot spot in the afternoon sector
+contact Lei Cai
+phone 00358409682510
+email lei.cai@oulu.fi
+operator lei.cai@oulu.fi
+submitter Lei Cai
+resources FI(6)
+notes
+runexp /kst/exp/ipy/ipy 0:0 ip2
+
+We will run CP2 experiment at ESR to study the afternoon Joule heating hot spot.
+The electric field will be estimated, and the Joule heating rate will be
+calculated. 

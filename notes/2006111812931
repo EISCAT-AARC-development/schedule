@@ -1,0 +1,27 @@
+experiment LANCS
+instrument UHF
+start 2006 11 18 1900
+end 2006 11 18 2400
+status R
+description Joint radar, optical and riometer studies of aurora and substorms
+contact Andrew Senior
+phone +44 1524 510410
+email a.senior@lancaster.ac.uk
+fax +44 1524 510493
+operator Andrew Senior/Andrew Kavanagh
+submitter Andrew Senior
+resources UK(49)
+notes
+This is a combination of three UK experiments:
+
+FACE: field-aligned currents and mapping the energy of precipitating particles
+BATTY: tomography of "black aurora"
+MISS: substorm studies
+
+All three experiments require the UHF system during the same time interval,
+hence the combined booking. The UHF will operate either field-aligned only or a
+small-scale scan close to field-aligned. The decision on scan pattern and
+modulation will be made at the time of the run. The experiments depend to a
+large degree on clear skies for optical support and are slightly over-booked.
+Therefore, some cancellation can be expected.
+

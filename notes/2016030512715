@@ -1,0 +1,18 @@
+experiment CP3
+instrument ESR
+start 2016 03 05 0800
+end 2016 03 19 2300
+status R
+description Meridian Circle
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)
+notes
+runexp /kst/exp/folke/folke 0:0 ip3
+
+5 days run, alert to be given one week before
+
+ISR world-­‐day proposal for space weather and climate observations along the
+120E/60W meridional circle and over its surrounding areas

@@ -1,0 +1,12 @@
+experiment tau0_42m_N
+instrument ESR
+start 2002 03 12 1100
+end 2002 03 12 1400
+status R
+description Test experiment of combined radar/optical measurements
+contact Marten Blixt
+phone +47 77 64 51 59
+email Marten.Blixt@phys.uit.no 
+operator Marten Blixt
+resources NO(3)
+submitter Marten Blixt

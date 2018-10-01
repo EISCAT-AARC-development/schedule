@@ -1,0 +1,13 @@
+experiment CP1
+instrument UHF
+start 1999 02 09 1000
+end 1999 02 12 1600
+status R
+description Global Ionosphere-Thermosphere Coupling Study
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(100)
+submitter Tony van Eyken

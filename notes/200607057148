@@ -1,0 +1,38 @@
+experiment EuroRocket
+instrument VHF
+start 2006 07 05 0700
+end 2006 07 05 1200
+status R
+description VHF PMSE measurements during a European rocket campaign at Andoya, Norway
+contact Markus Rapp
+phone +49 38293 68126
+email rapp@iap-kborn.de
+operator tbd
+submitter Markus Rapp
+resources NO(8),SW(8),GE(14)
+notes
+These VHF measurements are meant to support a campaign comprising two sounding 
+rockets and a comprehensive set of ground-based instruments which will be 
+carried out from Andøya Rocket Range in the period 27th June to 6 July 2006. The 
+purpose of the campaign is to study the mesosphere and lower ionosphere during a 
+period with noctilucent clouds (NLC) and Polar Summer Mesospheric Echoes (PMSE). 
+ The launches of two different rocket payloads will be coordinated in a salvo 
+within a period of about 30 minutes. An additional requirement for the salvo is 
+the presence of a weak to moderate auroral disturbance with particle 
+precipitation in the mesopause and E-region. The two rocket payloads are 
+codenamed ESPRIT and HotPay1.
+
+·          HotPay1 is the first of two rocket projects financed by EU through 
+the. This project was initiated by ALOMAR through an application to EU&#8217;s 6th 
+Framework Programme. The payload has been built as part of ARR&#8217;s Hotel Payload 
+Project and is instrumented by a series of European research institutions.
+
+·         ESPRIT is a US-Norwegian student project in which students from Penn 
+State University, the Universities in Oslo and Bergen as well as the Technical 
+College of Narvik have built and instrumented the payload. NASA is responsible 
+for the rocket configuration and Andøya Rocket Range for the launch and range 
+operations. 
+
+·         From the ground ALOMAR scientists will take part in the campaign with 
+all relevant lidar and radar instruments
+

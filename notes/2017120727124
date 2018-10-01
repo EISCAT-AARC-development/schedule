@@ -1,0 +1,39 @@
+experiment Cluster
+instrument VHF
+start 2017 12 07 0800
+end 2017 12 07 1200
+status R
+description EISCAT mainland and ESR observations in support of Cluster conjunctions
+contact Rob Fear
+phone +442380592099
+email r.c.fear@southampon.ac.uk
+fax +442380593910
+operator tbd
+submitter Ian McCrea
+resources UK(12)
+notes
+runexp /kst/exp/bella/bella lm lowel SP
+
+This is a collaborative experiment involving radar time from Norway, Sweden 
+and UK to cover a number of Cluster conjunctions between December 2017 and 
+March 2018.  
+
+During the cusp conjunctions (December 2017 and January 2018) the mainland 
+radar provides measurements of features from the open-closed field line 
+boundary propagating into the cusp, whilst the ESR monitors the progression 
+of features deep within the cusp. However, experience from the 2013/14 
+campaign suggests it may be more useful to obtain altitude profiles from the 
+mainland for comparison with those under the cusp. Therefore, we propose to 
+operate the ESR 32m dish pointing north at low elevation, whilst the 42m 
+dish will provide interleaved altitude profiles along the magnetic field. We 
+anticipate using the 'taro', 'folke' or ‘steffe’ experiment code on the ESR 
+to provide data out to long ranges af a good resolution (~15s). 
+Simultaneously, we will operate the mainland VHF at low elevation pointing 
+north using the ‘tau8’ code to maximise the range (61-1317km) at 5 second 
+cadence, and the UHF radar will be field-aligned to provide altitude 
+profile. 
+
+I am booking the time as UK, but we have promises of contributed time from 
+Norway and Sweden also.  The contributed hours will need to be confirmed by 
+Lisa Baddeley and Stephan Buchert as the responsible scheduling 
+representatives.

@@ -1,0 +1,22 @@
+experiment ELIN
+instrument HEA
+start 2010 02 08 1300
+end 2010 02 08 1700
+status R
+description Electron line observations (ELIN/BARMY)
+contact Mike Kosch
+phone +44-1524-510404
+email m.kosch@lancaster.ac.uk
+fax +44-1524-510493
+operator Bjorn Gustavsson
+submitter Mike Kosch
+resources UK(7),EI(7)
+notes
+To measure the "electron line", that is the doppler  widened  backscatter from 
+electrons, in varying solar EUV photo-ionization. To use the measured spectra 
+to monitor the energetic photo-electron distribution. Attempt to directly 
+measure the HF Heating accellerated electron spectra in the energy range 1-50 
+eV. Quiet geomagnetic conditions are required. Cancellations are anticipated. 
+The UHF will run a standard code, e.g. beata. The VHF will run a special 
+program.
+

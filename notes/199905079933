@@ -1,0 +1,16 @@
+experiment Heat-WIND
+instrument HEA
+start 1999 05 07 2300
+end 1999 05 08 0300
+status R
+description Transmissions to WIND
+contact Michael Rietveld
+phone +49 5556 979234
+email rietveld@linmpi.mpg.de 
+fax +49 5556 979240
+operator None
+resources GE(3.2)
+submitter M. Rietveld
+notes
+Joint transmissions with SURA facility to WIND satellite. 
+Interferometer

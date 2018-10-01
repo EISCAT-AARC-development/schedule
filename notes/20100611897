@@ -1,0 +1,19 @@
+experiment MARKUU
+instrument UHF
+start 2010 06 11 1000
+end 2010 06 11 1430
+status R
+description Tri-static lunar mapping experiment 
+contact Juha Vierinen
+phone +358404827774
+email j@gmail.com
+operator Juha Vierinen
+submitter Juha Vierinen
+resources FI(36)
+notes
+Hopefully still interference free side-stations with dual polarization. 
+ 8.6.2010 6-9 UT
+ 10.6.2010 7:30-13 UT
+ 11.6.2010 10-14:30 UT
+ 12.6.2010 11-15 UT
+ 14.6.2010 10-16:30 UT

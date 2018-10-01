@@ -1,0 +1,22 @@
+experiment NI_leoe
+instrument ESR
+start 2018 02 02 1400
+end 2018 02 02 2000
+status R
+description Observe and identify a specific group of debris fragments in LEO
+contact Satonori NOZAWA
+phone 81527894303
+email nozawa@nagoya-u.jp
+operator EISCAT Staff
+submitter Satonori NOZAWA
+resources NI(13)
+notes
+To observe and identify a specific group of debris fragments in LEO
+    Target: Debris fragments generated from a non-operational satellite called SNAPSHOT
+     (International Designator: 1965027A).
+   Observation date:
+    2018/Feb/1 13:00-20:00 UTC (7H),
+    2018/Feb/2 14:00-20:00 UTC (6H)
+     (Az, El) = (0.0 deg, 35.0 deg) FIXED
+    Pulse scheme will be used leo_e ( made by Dr. Markkanen)
+PI is Prof K Fujita

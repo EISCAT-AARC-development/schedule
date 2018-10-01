@@ -1,0 +1,21 @@
+experiment Pulsating
+instrument VHF
+start 2016 03 02 2300
+end 2016 03 03 0400
+status R
+description Observation of polarization electric field within patches of pulsating aurora
+contact Keisuke Hosokawa
+phone +81-42-443-5299
+email hosokawa@ice.uec.ac.jp
+fax +81-42-443-5293
+operator Toru Takahashi and Yasunobu Ogawa
+submitter Yasunobu Ogawa (yogawa@nipr.ac.jp)
+resources NI(19),FI(14.5)
+notes
+PIs of the SP: Keisuke Hosokawa (UEC) and Ilkka Virtanen (Oulu Univ.)
+
+We conduct simultaneous observations of pulsating aurora with 
+the EISCAT UHF/VHF system and KAIRA, to investigate polarization 
+electric field associated with pulsating aurora.
+We prefer good weather condition for optical observations.
+

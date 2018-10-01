@@ -1,0 +1,21 @@
+experiment sp_ni_con2
+instrument UHF
+start 2010 03 06 1900
+end 2010 03 07 0100
+status R
+description Combined CP1 and CP2 type experiment for conductivity, E-field, and wind with optical instruments
+contact Satonori Nozawa
+phone 81527894303
+email nozawa@stelab.nagoya-u.ac.jp
+fax 81527894311
+operator Satonori Nozawa
+submitter Satonori Nozawa
+resources NI(27)
+notes
+We will make an optical campaign using  FPI, aurora imager, aurora cameras, proton imagers
+and 4-wavelength photometer with the EISCAT UHF radar (CP-1 & CP2, arc1 or beata,
+tristatic measurements). The new LIDAR will start operation.
+Clear sky and higher geomagnetic activity are desired.
+
+So, we will run this SP for 3 nights out of 5 night requested.
+

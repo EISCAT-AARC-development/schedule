@@ -1,0 +1,17 @@
+experiment APES
+instrument ESR
+start 2012 07 06 1100
+end 2012 07 06 1400
+status R
+description Active PMSE Experiment on Svalbard
+contact Hannah Vickers
+phone 77645139
+email hannah.vickers@uit.no
+operator Vasyl Belyey
+submitter Hannah Vickers
+resources NO(27)
+notes
+PMSE modulation experiment with the EISCAT Aperture Synthesis Imaging (EASI) 
+experiment, SPEAR heater and Sousy Svalbard Radar (SSR). Experiments will only 
+proceed if PMSE is detected in SOUSY data, so APES time may be cancelled if 
+conditions do not allow for PMSE. The manda code will be run on ESR.

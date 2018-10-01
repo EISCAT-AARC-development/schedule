@@ -1,0 +1,14 @@
+experiment CLUSTER
+instrument ESR
+start 2002 04 01 1800
+end 2002 04 01 2200
+description Co-ordinated experiments with CLUSTER
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+submitter Tony van Eyken
+notes
+Perigee pass with footprint close to EISCAT 
+

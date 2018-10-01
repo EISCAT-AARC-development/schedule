@@ -1,0 +1,17 @@
+experiment AUROPT
+instrument ESR
+start 2011 11 23 1800
+end 2011 11 23 2359
+status R
+description Measurement of aurora
+contact Anita Aikio
+phone +358-8-553 1363
+email anita.aikio@oulu.fi
+fax +358-8-553 1287
+operator Anita Aikio
+submitter Anita Aikio
+resources FI(6)
+notes
+Experiment will be run in connection with a special UNIS course "Optical methods
+in auroral physics research". Simultaneously, several optical measurements at
+KHO will be made.

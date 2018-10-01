@@ -1,0 +1,12 @@
+experiment TEST 2
+radarprogramme tau2bt_cp1
+instrument VHF
+start 2002 10 09 1511
+end 2002 10 19 1511
+status R
+description this is another test
+contact Brett Isham
+email isham@eiscat.uit.no 
+operator Brett Isham
+resources EI(0)
+submitter Brett

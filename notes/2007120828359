@@ -1,0 +1,22 @@
+experiment ReimeiMAC
+instrument ESR
+start 2007 12 08 1200
+end 2007 12 08 1300
+status R
+description Reimei-EISCAT coordinated observations
+contact Takeshi Sakanoi
+phone +81-22-795-6609
+email tsakanoi@pparc.geophys.tohoku.ac.jp
+fax +81-22-795-6406
+operator Yasunobu Ogawa
+submitter Yasunobu Ogawa (yogawa@nipr.ac.jp)
+resources NI(3)
+notes
+We will conduct Reimei-ESR coordinated observations, 
+to investigate fine-scale auroral height distribution 
+and ion upflows. We run the sweep mode with taro code.
+
+2007-12-05 11:00-12:00 UT (1 hour)
+2007-12-08 12:00-13:00 UT (1 hour)
+2007-12-15 11:00-12:00 UT (1 hour)
+

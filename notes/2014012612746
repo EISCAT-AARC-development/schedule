@@ -1,0 +1,29 @@
+experiment ASKEASI14
+instrument ESR
+start 2014 01 26 0300
+end 2014 01 26 0900
+status R
+description ESR-EASI interferometric NEIAL-hunting campaign with ASK optical auroral observation
+contact Bjorn Gustavsson
+phone +47 776 45668
+email bjorn.gustavsson@uit.no
+operator Bjorn Gustavsson
+submitter Sam Tuttle
+resources UK(18),NO(18),SW(20)
+notes
+ASK-EASI
+
+The aims of this experiment which require the use of the EISCAT Svalbard Radar are:-
+   - to study the occurrence and spatial distribution of NEIALs using
+interferometry techniques
+   - to study the energy distribution within and surrounding narrow auroral
+forms (especially when associated with NEIALs),
+   - and apply the results to theories of NEIAL occurrence and production, and
+in general to theories of auroral acceleration processes.
+
+In addition to the ESR, the EASI interferometer and the Auroral Structure and
+Kinetics instrument (ASK) will be operated concurrently. The radar observations
+should be made in a field aligned mode and raw data must be saved.
+
+The experiment is part of a collaboration between UK (18 hours) Norway (18
+hours) and Sweden (20 hours) for a total of 56 hours.

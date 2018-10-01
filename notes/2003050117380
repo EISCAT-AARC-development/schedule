@@ -1,0 +1,44 @@
+experiment tau1_AA
+instrument VHF
+start 2003 05 01 1600
+end 2003 05 01 2000
+status R
+description VHF low-elevation experiment in support of Cluster overpass
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(4)
+notes
+I am submitting three Cluster requests for May 2003, as follows:
+
+May 1st  16-20 UT (ESR, UHF, VHF)
+May 4th  05-09 UT (ESR only)
+May 16th 04-10 UT (ESR, VHF)
+
+In addition, the interval
+
+May 28th 04-08 UT (ESR, VHF)
+
+would have been added, but is already covered by a World Day Common Programme (CP4+CP4L) which uses basically the required modes.
+
+Comments on each of these intervals:
+
+May 1st 16-20 UT.  I know that this is a holiday and so may not be possible.  If it is, I would request LowElNorth + field-aligned (1:1 interleaving) on the ESR, together with single-beam low elevation tau1 on the VHF and field-aligned tau2 on the UHF.  If only one mainland system is available (e.g. due to work on the VHF klystrons) the low elevation northward-looking observations could be done on the UHF, using tau3.
+
+May 4th 05-09 UT. ESR only using LowElNorth + field-aligned on the two ESR dishes (1:1 interleaving).
+
+May 16th 04-10 UT. ESR as for May 1st and 4th.  VHF as for May 1st.  If VHF unavailable, use UHF with tau3 at low elevation.
+
+May 28th 04-08 UT.  Already covered by CP.  If CP does not run for any reason, then use geometry as for the 16th.
+
+Priority Order:
+
+May 16th
+May 28th
+May 1st (but I'm aware this probably won't run because of the holiday)
+May 4th
+
+

@@ -1,0 +1,43 @@
+experiment SWARM_EFI
+instrument ESR
+start 2013 12 20 1100
+end 2013 12 20 1400
+status R
+description Support for the commissioning of the Swarm Electric Field Instruments
+contact Stephan Buchert
+phone +46708566324
+email scb@irfu.se
+operator Stephan Buchert
+submitter Stephan Buchert
+resources SW(50)
+notes
+Three Swarm satellites will be launched on November 22 into polar
+orbits. They carry Langmuir probes designed and built by IRF Uppsala and
+a new type of thermal ion imagers (TII) by the University of Calgary, PI
+David Knudsen. Together the LPs and TIIs form the electric field
+instruments (EFIs). From the EFI data electron density and temperature,
+ion drift vector and temperature and the electric field will be derived,
+essentialy the same parameters as EISCAT measures (but with very
+different spatial coverage and temporal resolutions).
+ 
+EISCAT is planning to conduct regular all Associates (AA) experiments
+related to the Swarm mission for various general scientific purposes in
+a similar manner as it was done for the Cluster mission. This would
+start after the commissioning phase of Swarm, i.e. commence
+earliest 3 months after the Swarm launch, that is after February 2014,
+when also the Swarm Level1 products will become available to the science 
+community.
+ 
+With this application we would like to cover the commissioning of
+the EFI in december 2013. EISCAT data will be used to validate the Swarm
+EFIs and optimize their performance. Addressed science topics
+include the comparison of voltage-current characteristics of LPs
+(with different titanium-nitride and gold surfaces) with "unbiased"
+incoherent scatter measurements of electron density and temperature,
+and of 3-d distribution images of the TIIs with the "unbiased" ion
+drifts and temperatures derived from the radar data.
+
+Because the exact satellite orbits are not known yet, and will be changed 
+frequently during commissioning in order to put the satellites into their more 
+permanent orbits, we cannot predict yet when passes over EISCAT can be covered, 
+and the initally requested EISCAT operations are preliminary times.

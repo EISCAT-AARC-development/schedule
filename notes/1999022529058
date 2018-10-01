@@ -1,0 +1,11 @@
+experiment geotail
+instrument ESR
+start 1999 02 25 0400
+end 1999 02 25 0800
+status R
+description Conjunction with Geotail pass
+contact Ryoichi Fujii
+email rfujii@stelab.nagoya-u.ac.jp 
+operator Tony van Eyken
+resources NI(4)
+submitter Ryoichi Fujii

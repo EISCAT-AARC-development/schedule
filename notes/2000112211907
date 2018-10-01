@@ -1,0 +1,15 @@
+experiment aurora
+instrument ESR
+start 2000 11 22 0630
+end 2000 11 29 1030
+status R
+description coordinated with high resolution optical measurements
+contact c la hoz
+phone +47 77 64 51 61
+email cesar@phys.uit.no 
+fax +47 77 64 55 80
+operator la hoz
+resources NO(32)
+submitter la hoz
+notes
+%09%09

@@ -1,0 +1,15 @@
+experiment SEE
+instrument UHF
+start 2001 06 05 1000
+end 2001 06 05 1300
+status R
+contact M. Rietveld
+phone +49 5556 979 234
+email rietveld@linmpi.mpg.de 
+fax +49 5556 979 240
+operator M.Rietveld or B. Isham
+resources GE(60),NO(34),FI(6),EI(15)
+submitter M. Rietveld
+notes
+SEE interferometer measurements during heating. 
+GE/NO/FI/EI campaign with 60/34/6/15 hours provisionally (115 hrs)

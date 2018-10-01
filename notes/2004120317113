@@ -1,0 +1,13 @@
+experiment tau0
+instrument ESR
+start 2004 12 03 1500
+end 2004 12 04 0900
+status R
+description conjunction with EPIS
+contact Chantal Lathuillere 
+phone 0476514148
+email Chantal.Lathuillere@obs.ujf-grenoble.fr
+fax 0476514146
+operator Chantal Lathuillere 
+submitter francois.forme@cetp.ipsl.fr
+resources FR(18)

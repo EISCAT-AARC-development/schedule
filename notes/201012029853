@@ -1,0 +1,19 @@
+experiment PCB
+instrument VHF
+start 2010 12 02 1800
+end 2010 12 02 2400
+status R
+description PCB experiment is used to study the dynamical features related to the polar cap boundary and convection across the boundary.
+contact Anita Aikio
+phone +358-8-553 1363
+email aaikio@sun3.oulu.fi
+fax  
+operator Timo Pitkänen
+submitter Antti Kero
+resources FI(54)
+notes
+PCB experiment is used to study the dynamical features related to the polar cap boundary and convection 
+across the boundary. The experiment utilizes both the UHF (tau1) and VHF (tau8v) radars, which are 
+pointed at 30 deg elevation but with different azimuths to the north to get the plasma velocity vector. In 
+addition, simultaneous ESR32m (low-elevation to north) and 42m antenna measurements are used (taro 
+or folke experiment).

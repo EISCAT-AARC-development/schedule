@@ -1,0 +1,11 @@
+experiment Polarlis
+instrument TRO
+start 2014 01 30 1900
+end 2014 01 31 0100
+status R
+description Mapping the polarization of the red line over the sky
+contact UnniPia Lövhaug
+email jean.lilensten@obs.ujf-grenoble.fr
+operator  Mathieu BARTHELEMY
+submitter I Häggström
+resources PP(9)

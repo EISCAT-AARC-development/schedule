@@ -1,0 +1,18 @@
+experiment sp_ni_tid
+instrument UHF
+start 2011 12 10 0700
+end 2011 12 11 1500
+status R
+description Observations of Medium-Scale Traveling Ionospheric Disturbances using the  EISCAT radar and European GPS networks
+contact Yuichi Otsuka
+phone +81-52-747-6317
+email otsuka@stelab.nagoya-u.ac.jp
+fax +81-52-747-6323
+operator Y. Ogawa
+submitter Y. Ogawa (yogawa at nipr.ac.jp)
+resources NI(8)
+notes
+We conduct observations of Medium-Scale Traveling Ionospheric Disturbances (MSTID) 
+using the EISCAT UHF and VHF radars and European GPS networks. 
+Antenna directions of the UHF and VHF radars are along the magnetic field line and 
+vertical, respectively.

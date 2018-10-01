@@ -1,0 +1,21 @@
+experiment LIDAR
+instrument TRO
+start 2014 12 17 1700
+end 2014 12 17 2300
+status R
+description EISCAT-LIDAR simultaneous observations
+contact S Nozawa
+phone 81-527894303
+email nozawa@stelab.nagoya-u.ac.jp
+fax 81-52-7894303
+operator S. Nozawa
+submitter Satonroi NOZAWA
+resources NI(9),NO(9)
+notes
+Pi: Satonor Nozawa 
+
+This experiment aims at examining variations of the temperature between 80 and
+110 km due to aurora effect (from above) and atmospheric wave effect (from
+below). Clear sky and aurora activity are desired. UHF mode will be  CP-2
+mode-like, but scan pattern will be different from standard ones. Collaborations of Japan and Norway.
+

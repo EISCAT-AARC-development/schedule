@@ -1,0 +1,18 @@
+experiment DELTA2
+instrument TRO
+start 2009 01 28 1700
+end 2009 01 29 0500
+status R
+description DELTA 2 rocket campaign with ground based observations such as EISCAT, FPI, all-sky imagers.
+contact Satonori Nozawa
+phone 81527894303
+email nozawa@stelab.nagoya-u.ac.jp
+fax 81527894311
+operator Satonori Nozawa
+submitter Satonori Nozawa
+resources NI(36),SW(30),NO(24),FI(15),GE(10),FR(15)
+notes
+In order to investigate the dynamics and energetics in the polar lower thermosphere, coordinated 
+sounding rocket observation with the European Incoherent Scatter (EISCAT) radar, ground-based Fabry-
+Perot Interferometers (FPIs), and other instruments will be made. After the rocket is launched, we will 
+cancel the remainder runs.  "CP-2" mode will be conducted.

@@ -1,0 +1,11 @@
+experiment MAINT
+instrument TRO
+start 2003 02 26 0700
+end 2003 02 26 1600
+status R
+description Installation of transmitter sampling HW and SW on the UHF
+contact Gudmund Wannberg
+email uge@eiscat.com
+operator Gudmund Wannberg
+submitter Gudmund Wannberg
+resources EI(9)

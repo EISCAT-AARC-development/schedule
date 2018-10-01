@@ -1,0 +1,26 @@
+experiment Reimei_gps
+instrument TRO
+start 2013 01 04 2000
+end 2013 01 05 0100
+status R
+description Reimei-KST coordinated observations of ion upflows in the auroral zone
+contact Takeshi Sakanoi
+phone +81-22-795-6609
+email tsakanoi@pparc.gp.tohoku.ac.jp
+fax +81-22-795-6406
+operator Y. Ogawa
+submitter Y. Ogawa (yogawa at nipr.ac.jp)
+resources NI(15)
+notes
+PI: T. Sakanoi and Y. Otsuka
+
+This is a comparative study of ion up/outflow using the Reimei satellite and
+Tromso UHF radar. 
+
+We also conduct observations of Medium-Scale Traveling Ionospheric Disturbances
+(MSTID) using the EISCAT UHF and VHF radars and European GPS networks. Antenna
+directions of the UHF and VHF radars are along the magnetic field line and
+vertical, respectively.
+
+
+

@@ -1,0 +1,16 @@
+experiment SP-UK-PNWN
+instrument ESR
+start 2000 11 29 1000
+end 2000 11 29 1600
+status R
+description Satellite Tomography Study.
+contact Eleri Pryse
+phone +44 1970 622801
+email sep@aberystwyth.ac.uk 
+fax +44 1970 622826
+operator Alan Aylward
+resources UK(30)
+submitter Ken Freeman
+notes
+This experiment will also be run concurrently on the Mainland. It will employ   
+the steerable antenna in a meridian scanning mode.

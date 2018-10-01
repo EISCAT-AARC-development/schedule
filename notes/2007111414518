@@ -1,0 +1,54 @@
+experiment OptReimei
+instrument UHF
+start 2007 11 14 2200
+end 2007 11 15 0200
+status R
+description coordinated EISCAT-Reimei-Optical observations
+contact Takehiko Aso
+phone +81-3-3962-4756
+email t-aso@nipr.ac.jp
+fax +81-3-3962-4914
+operator Yasunobu Ogawa
+submitter Yasunobu Ogawa (yogawa@nipr.ac.jp)
+resources SW(20),NI(40)
+notes
+We conduct coordinated EISCAT-Reimei-Optical observations
+of nightside auroral phenomena. We run ALIS, and several
+optical instruments (e.g. All sky and wide view TV imagers,
+Proton aurora camera) in Tromso.
+
+PIs: Ingrid Sandahl (IRF)
+     Takehiko Aso (NIPR)
+     Satonori Nozawa (STEL)
+     Keisuke Hosokawa (UEC)
+
+---------------------------------------------------------------------
+EISCAT KST UHF radar observations:
+---------------------------------------------------------------------
+YYYY-MM-DD HHMM(UT)-YYYY-MM-DD HHMM(UT) (total)  Note
+-------------------------------------------------------------------------
+2007-11-03 2200 UT - 2007-11-04 0200 UT (4hours) ***
+2007-11-06 0000 UT - 2007-11-06 0200 UT (2hours)
+2007-11-07 0000 UT - 2007-11-07 0200 UT (2hours)
+2007-11-08 0000 UT - 2007-11-08 0100 UT (1hours)
+2007-11-09 0000 UT - 2007-11-09 0200 UT (2hours) with VHF (New moon)
+2007-11-10 0000 UT - 2007-11-10 0200 UT (2hours) with VHF
+2007-11-11 0000 UT - 2007-11-11 0200 UT (2hours)
+2007-11-12 0000 UT - 2007-11-12 0200 UT (2hours)
+2007-11-13 0000 UT - 2007-11-13 0100 UT (1hours)
+2007-11-14 0000 UT - 2007-11-14 0200 UT (2hours) with VHF
+2007-11-14 2200 UT - 2007-11-15 0200 UT (4hours) with VHF
+2007-11-15 2200 UT - 2007-11-16 0200 UT (4hours) with VHF
+2007-11-16 2200 UT - 2007-11-17 0200 UT (4hours) (lower priority)
+2007-11-17 2200 UT - 2007-11-18 0200 UT (4hours) (lower priority)
+2007-11-18 2200 UT - 2007-11-19 0200 UT (4hours) with VHF
+2007-11-19 2200 UT - 2007-11-20 0200 UT (4hours) with VHF
+2007-11-20 2200 UT - 2007-11-21 0200 UT (4hours) (lower priority) with VHF
+2007-11-21 2200 UT - 2007-11-22 0200 UT (4hours) (lower priority)
+2007-11-24 2200 UT - 2007-11-25 0200 UT (4hours) ***
+2007-11-29 2200 UT - 2007-11-30 0200 UT (4hours) ***
+-------------------------------------------------------------------------
+60 hours (machine time: 90 hours) in total
+*** Experimenter is not decided.
+---------------------------------------------------------------------
+

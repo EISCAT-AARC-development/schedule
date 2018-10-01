@@ -1,0 +1,11 @@
+experiment SP-GE-WIND
+instrument HEA
+start 1998 12 15 0300
+end 1998 12 15 0700
+status R
+description WIND satellite conjunction (HF transmissions to the satellite)
+contact Mike Rietveld
+email mike@eiscat.uit.no 
+operator Thorstein Blomstrand
+resources GE(100)
+submitter Mike Rietveld

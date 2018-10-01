@@ -1,0 +1,20 @@
+experiment DROP
+instrument HEA
+start 2006 01 21 1400
+end 2006 01 21 1600
+status R
+description D-Region Artificial Optical Emissions.
+contact Mike Kosch
+phone +44 1524 510404
+email m.kosch@lancaster.ac.uk
+fax +44 1524 592713
+operator Andrew Senior
+submitter Ken Freeman
+resources UK(11)
+notes
+The purpose of this experiment is to attempt to produce D-Region optical 
+emissions by HF-pumping using the Heater. The latter will transmit both O-mode 
+and X-mode with a cycle of 5 min. on / 5 min. off. Pump frequencies of 4.0 MHz 
+and 5.4 MHz will (high gain array) will be employed. Optical equipment will be 
+employed to detect heater-modulated optical emissions from Na and OH in 
+the D-Region.

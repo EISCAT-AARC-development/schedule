@@ -1,0 +1,22 @@
+experiment Tomography
+instrument UHF
+start 2018 02 16 1900
+end 2018 02 16 2300
+status R
+description Generalized auroral tomography observation
+contact Yoshimasa Tanaka
+phone +81425129036
+email ytanaka@nipr.ac.jp
+fax +81425283499
+operator Y. Ogawa and Y. Tanaka
+submitter Satonori NOZAWA
+resources NI(13)
+notes
+We conduct the generalized auroral tomography observation using EISCAT
+radar, ALIS, MIRACLE imagers, and NIPR imagers.
+So, we desire clear sky with aurora activity.
+
+The observation modes of the instruments will be as follows:
+- EISCAT UHF radar: Field-line mode (CP-1).
+- MIRACLE imagers: "default" filter sequence (RGB).
+- ALIS: EISCAT south mode. The same filter sequence of the MIRACLE imagers.

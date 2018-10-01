@@ -1,0 +1,13 @@
+experiment CP1
+instrument ESR
+start 2015 03 19 0800
+end 2015 03 20 2300
+status R
+description Solar Eclipse
+contact Ingemar Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(99)
+notes
+To cover the solar eclipse over Svalbard at 11:12 20 Mar 2015.

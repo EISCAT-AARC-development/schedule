@@ -1,0 +1,16 @@
+experiment HF_STARE
+instrument HEA
+start 2004 03 18 1600
+end 2004 03 18 2200
+status R
+description HF effects on STARE
+contact E. Nielsen or M. Rietveld
+phone +49 5556 979 450
+email nielsen@linmpi.mpg.de
+fax +49 5556 979 240
+operator M. Rietveld
+submitter M. Rietveld
+resources GE(24)
+notes
+Search for gyro-harmonic dependence of HF-induced E-region backscatter using 
+real-time STARE data. 

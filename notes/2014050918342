@@ -1,0 +1,21 @@
+experiment 4PhaseCode
+instrument TRO
+start 2014 05 09 0900
+end 2014 05 09 1200
+status R
+description Quadriphase-coded incoherent scatter experiment with EISCAT UHF
+contact Björn Gustavsson
+phone +47 407 24 899
+email bjorn.gustavsson@irf.se
+fax +35816610248
+operator Björn Gustavsson
+submitter Lassi Roininen
+resources NO(5)
+notes
+N.B. This is a joint Finnish-Norwegian (UO-UiT) experiment. This time slot submitted by Lassi on behalf of 
+Björn.
+
+We request a test setup for the first quadriphase-coded incoherent scatter experiment with EISCAT UHF. A 
+new experiment with quadriphase coding and EISCAT raw data sampling will be designed in co-operation 
+with J. Markkanen. Voltage level USRP sampling will be used in parallel with the EISCAT recording.
+

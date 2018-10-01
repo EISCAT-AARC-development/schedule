@@ -1,0 +1,21 @@
+experiment SSEF
+instrument HEA
+start 2008 10 23 0800
+end 2008 10 23 1100
+status R
+description Investigating the scattering of the heater signal due to FAI produced by the same emission
+contact Yuri M. Yampolski
+phone +38 057 7203462
+email yampol@rian.kharkov.ua
+fax +38 057 7203462
+operator M. Rietveld
+submitter Y. M. Yampolski (yampol@rian.kharkov.ua)
+resources 3P(3)
+notes
+The experiment is aimed at investigating the scattering of signals from the 
+EISCAT heater at ionospheric irregularities produced by the heater radiation 
+itself. To that end we plan to monitor Doppler spectra of the heater signals at 
+several greatly dispesed receiving sites in Europe and the USA. Along with the 
+heating frequency we plan to radiate two probe signals of a reduced power close 
+to the first and second harmonic of the heater
+

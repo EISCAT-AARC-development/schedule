@@ -1,0 +1,24 @@
+experiment tau0_beta
+instrument ESR
+start 2005 06 29 0000
+end 2005 06 29 0800
+status R
+description Investigation of topside temperature anisotropy
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator Ivan Finch
+submitter Ian McCrea
+resources UK(24)
+notes
+This experiment is intended as an investigation of ion temperature anisotropies 
+in the topside ionosphere, using the Tromso UHF and ESR radars.
+There are two possible observing configurations.  The ESR fixed dish is used to 
+look field-aligned, and the mainland UHF is used to look into the ESR beam.  
+The ESR steerable dish is pointed toward the south, at fixed elevation, so that 
+its beam is also intersected by the Tromso UHF beam, at a lower altitude than 
+the interasection with the beam from the ESR fixed dish.
+A complete description of the experiment, and its scientific aims, can be found 
+at www.eiscat.rl.ac.uk/~ian/experiments/beta.html
+

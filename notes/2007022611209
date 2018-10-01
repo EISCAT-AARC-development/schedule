@@ -1,0 +1,26 @@
+experiment SCANDI_UK
+instrument ESR
+start 2007 02 26 1900
+end 2007 02 27 0500
+status R
+description ESR experiment in support of the new Svalbard Scanning Doppler Imager
+contact Eoghan Griffin
+phone +44-20-7679-9020
+email eoghan@apl.ucl.ac.uk
+fax +44-20-7679-7153
+operator Eoghan Griffin
+submitter Ian McCrea
+resources UK(20)
+notes
+This experiment is intended to provide radar support for the new Svalbard 
+Scanning Doppler Imager (SCANDI) instrument belonging to UCL, which is now 
+installed in the Adventdalen observatory.
+
+These experiments will use the standard ESR CP2.  Clear conditions are 
+required, hence three runs have been requested to allow some flexibility - it 
+is intended to run these experiments on two nights.
+
+The requested slot runs from 19 to 05 UT on each of three nights (Feb 26/27, 
+27/28 and 28/March 1st) coinciding with the SPEAR campaign and immediately 
+preceding the long IPY run.
+

@@ -1,0 +1,21 @@
+experiment DXL
+instrument ESR
+start 2018 12 15 0600
+end 2018 12 15 0800
+status R
+description  Global Structure and Morphology of the Magnetospheric Cusp Through Coordinated Radar and Rocket Measurements
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources PP(20)
+notes
+runexp folke/folke lm ip4 US
+
+Launching from Poker Flat in January 2018, the DXL sounding rocket will
+image the high and mid-altitude cusp with soft X-rays emitted from charge-exchange. EISCAT
+will provide the necessary low-altitude constraints on the morphology of the cusp footprint and
+convection within the ionosphere. This global picture will provide information of the true spatial
+extent, structure, and morphology, which in turn describes how energy and plasma is entering the
+magnetosphere from the solar wind.
+

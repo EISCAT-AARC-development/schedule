@@ -1,0 +1,13 @@
+experiment SPARC
+instrument UHF
+start 1999 04 19 1600
+end 1999 04 20 1000
+status R
+description SPARC collaboration
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Tony van Eyken
+resources TBD(100)
+submitter Tony van Eyken

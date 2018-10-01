@@ -1,0 +1,13 @@
+experiment CASE
+instrument UHF
+start 1998 12 20 1800
+end 1998 12 21 0600
+status R
+description Clasification of absorption events together with IRIS and STARE
+contact F Honary
+phone +44 1524 593055
+email f.honary@lancaster.ac.uk 
+fax +44 1524 594207
+operator Alan Aylward
+resources uk(100)
+submitter Ian McCrea

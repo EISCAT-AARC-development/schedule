@@ -1,0 +1,15 @@
+experiment SP-UK-IPSS
+instrument UHF
+start 2000 09 11 1330
+end 2000 09 11 1400
+status R
+description Interplanetary Scintillation Measurements
+contact Andy Breen
+phone +44 1970 622814
+email azb@aberystwyth.ac.uk 
+fax +44 1970 622826
+operator Phil Moran
+resources GE(10) NI(5) UK(5)
+submitter Ken Freeman
+notes
+Passive Use of the UHF Radar (Coordination with SOHO).

@@ -1,0 +1,15 @@
+experiment CP1
+instrument UHF
+start 2009 09 15 0700
+end 2009 09 17 1300
+status C
+description TID
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(300)
+notes
+runexp /kst/exp/beata/beata fm
+
+See https://e7.eiscat.se/Members/ingemar/skedule/2009WDschedule.htm

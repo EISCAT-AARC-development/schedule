@@ -1,0 +1,13 @@
+experiment CP2
+instrument UHF
+start 1999 07 06 1000
+end 1999 07 08 1600
+status C
+description Global ionospheric convection/Mid-July baseline
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(78)
+submitter Tony van Eyken

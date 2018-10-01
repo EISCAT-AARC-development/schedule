@@ -1,0 +1,16 @@
+experiment Dheating
+instrument HEA
+start 2003 03 10 0900
+end 2003 03 10 1500
+status R
+description Heating of the D region and measurement with the VHF radar
+contact Thomas Leyser
+phone +46-18-471 5941
+email thomas.leyser@irfu.se
+fax +46-18-471 5905
+operator Evgenia Belova/Michael Rietveld
+submitter Thomas Leyser
+resources SW(11)
+notes
+Magnetically quiet conditions
+Ionospheric critical frequency above 4 MHz

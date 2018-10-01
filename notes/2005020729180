@@ -1,0 +1,22 @@
+experiment HORSE
+instrument ESR
+start 2005 02 07 0800
+end 2005 02 07 1000
+status R
+description Observations of high latitude ion outflows in combination with FAST measurements.
+contact Darren Wright
+phone +44 116 2523568
+email Darren.Wright@ion.le.ac.uk
+fax +44 116 2523555
+operator To be Decided
+submitter Ken Freeman
+resources UK(18)
+notes
+The Svalbard Radar will monitor the ionospheric conditions during conjugate 
+overpassses of the FAST spacecraft. The fixed (42m) antenna will primarily be 
+used, as field-aligned measurements are principally required. It is possible, 
+however, that the steerable (32m) will also be used. Please note that the time 
+interval for this booking has been chosen on the basis of orbital predictions 
+of the FAST satellite. These predictions may not be accurate owing to 
+atmospheric drag. It might be necessary therefore to revise the booking closer 
+to the time.

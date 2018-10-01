@@ -1,0 +1,15 @@
+experiment HPLUS
+instrument ESR
+start 2000 10 15 1200
+end 2000 10 05 1800
+status 1
+description High altitude program 
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com
+fax +47 790 21751
+operator Tony van Eyken
+resources NO(6)
+submitter Tony van Eyken
+notes   
+Hi-altitude version of tau0

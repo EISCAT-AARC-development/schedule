@@ -1,0 +1,17 @@
+experiment IPSS
+instrument KIR
+start 2003 05 14 0000
+end 2003 05 25 2359
+status R
+description Interplanetary scintillation experiments at 1.4 GHz
+contact Andy Breen
+phone +44-1970-622814
+email azb@aber.ac.uk
+fax +44-1970-622826
+operator Richard Fallows
+submitter Ian McCrea
+resources UK(36)
+notes
+This request is for interplanetary scintillation observations at Kiruna and Sodankyla using the new higher frequency of 1.4 GHz. These observations will be co-ordinated with MERLIN, SOHO and various other instruments.  They extend over a six-week interval from May 7th to June 14th, with a week's break from May 25th to 31st to accommodate the World Day Common Programme.  
+
+The highest priority intervals will be those in which EISCAT will be operating in conjunction with the MERLIN network.  Although these dates are not yet finally confirmed, the current best guesses are May 9th, 12th, 13th and 21st and June 1st and 9th.   

@@ -1,0 +1,28 @@
+experiment CUSP
+instrument ESR
+start 2006 01 12 0700
+end 2006 01 12 1300
+description Optical observation about the characteristics of dynamics and morphology on cusp aurora at Ny-Alesund
+contact Huigen Yang
+phone 86 21 68610583
+email huigen_yang@263.net
+fax 86 21 58711663
+operator TBD( NO(18), 3P(18))
+submitter Huigen Yang
+notes
+This experiment is aimed to conduct coordinated observation on dynamics of 
+cusp and ¡®bright spots¡¯ auroras with EISCAT Svalbard radar and multi-
+wavelength monochromatic all-sky CCD imagers at Ny-Alesund. Interested time 
+window is from 1000 to 1600 in MLT (or 0700-1300 in UT). The ESR steerable 
+antenna will be operated in a azimuth scanning mode, sweeping 120¢ªeastward 
+from its magnetic north at an elevation of 45¢ª in 192 sec. The monochromatic 
+all-sky CCD imaging system at Ny-Alesund will continuously measure 2-D 
+intensity distributions of targeted auroras on 427.8nm, 557.7nm and 630.0nm at 
+a sampling rate of a frame every 6 seconds. 
+Scanning Program: "KOscanAZchina_pattern.elan"
+Parameter:# # NORTHEAST scan, 120 deg wide 192 sec (az = -45 to 75)
+set period 192.0;
+set AZ(1) -45.00; set EL(1)  45.00;
+set AZ(2)  75.00; set EL(1)  45.00;
+
+

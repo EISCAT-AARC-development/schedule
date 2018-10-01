@@ -1,0 +1,20 @@
+experiment NEMI
+instrument UHF
+start 2008 02 03 1800
+end 2008 02 04 0100
+status R
+description UK Contribution to NEMI Rocket and Optics Experiment
+contact Anasuya Aruliah
+phone +442076792538
+email anasuya@apl.ucl.ac.uk
+fax +442076797153
+operator Antti Kero
+submitter Ian McCrea
+resources UK(36)
+notes
+This request is being submitted to add 36 UK hours to the NEMI campaign. These 
+hours will be used to make all the UHF observations tristatic (the earlier 
+request was for Tromso only).  The experiment will also be extended, so that it 
+begins at 18 UT on every day from February 2nd to 9th. The original request was 
+for observations to begin at 19 UT. In return, some of the runs will use the 
+UK's choice of tristatic position (above the UCL FPI at Kiruna).

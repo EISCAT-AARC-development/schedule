@@ -1,0 +1,16 @@
+experiment USRP
+instrument TRO
+start 2017 06 30 1000
+end 2017 06 30 1400
+status R
+description Testing of new plasma-line receiver
+contact Juha Vierinen
+email jvi019@uit.no
+operator Juha Vierinen
+submitter Juha Vierinen
+resources NO(4)
+notes
+We request 25 MHz wide intermediate frequency signal with center-frequency 
+somewhere between 10..40, 60..90, or 110..140 MHz. 
+
+Experiment will be cancelled if technically not possible. 

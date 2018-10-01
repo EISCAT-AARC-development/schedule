@@ -1,0 +1,20 @@
+experiment Eclipse
+instrument ESR
+start 2008 08 01 0600
+end 2008 08 01 1200
+status R
+description Response of the polar ionosphere during solar eclipse
+contact R Behlke
+phone +4795272477
+email rico.behlke@gmx.net
+fax +4912120154607
+operator R Behlke
+submitter R Behlke
+resources NO(6)
+notes
+runexp /kst/exp/ipy/ipy 06 ip2
+
+This is an experiment to study the response of the polar ionosphere to a solar 
+eclipse. Supportive measurements include the ISACCO GPS scintillation 
+receivers and MIDAS tomography measurement for cross-calibration of TEC 
+values. In addition, large-scale TEC maps from DLR are available. 

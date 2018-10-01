@@ -1,0 +1,21 @@
+experiment Leonids (HF)
+instrument HEA
+start 1999 11 17 0000
+end 1999 11 19 1600
+status R
+description API and meteor trail detection using heater/dynasonde
+contact M. Rietveld
+phone 77692171
+email rietveld@linmpi.mpg.de 
+fax 77692360
+operator M. Rietveld
+resources GE(30)
+submitter M. Rietveld
+notes
+API (artificial periodic irregularity) experiment, together with 
+meteor trail detection, using dynasonde together with a few (like 4) 
+of the Heater transmitters during the Leonids meteor shower.  
+Coordinated with similar measurements using HAARP. 
+Collaboration or coordination with EISCAT radar experiments anticipated. 
+Maximum of 30 hours HF will be run. 
+GE(30) or GE(15), depending on results of discussions with SW.

@@ -1,0 +1,23 @@
+experiment MIT_Aurora
+instrument TRO
+start 2014 01 29 0000
+end 2014 01 29 0600
+status R
+description MIT-coupled system in active aurora
+contact Shin-ichiro Oyama
+phone 052-789-4308
+email soyama@stelab.nagoya-u.ac.jp
+fax 052-789-4311
+operator Shin-ichiro Oyama
+submitter Y. Ogawa
+resources NI(41)
+notes
+PIs: Kazuo Shiokawa, Yoshizumi Miyoshi, and Shin-ichiro Oyama
+
+This experiment focuses on causality to produce hard-particle
+precipitation and its effects on the ionosphere and thermosphere after
+substorm onset and in pulsating aurora. UHF and VHF collaborate with
+optical instruments at the site. Auroral activity in the clear sky is
+desirable. VHF keeps looking vertical to measure mainly lower
+ionosphere, and UHF covers whole ionosphere.
+

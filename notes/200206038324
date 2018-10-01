@@ -1,0 +1,16 @@
+experiment tau3_dmsp_3P@uhf
+instrument TRO
+start 2002 06 03 1915
+end 2002 06 03 2115
+status R
+description Scanning Experiment for DMSP Imager Calibration.
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk  
+fax +44-1235-445848
+operator To Be Decided
+resources 3P(19)
+submitter Ken Freeman
+notes
+Third party experiment for calibration/validation of DMSP-F16 SSUSI imager performance. Since DMSP-F16 has not yet been launched, this experiment will use the GUVI imager on TIMED, which is identical to SSUSI. The experiment will employ the UHF Radar only. It is hoped to use the tau3 pulse code, although this may need to be revised. The radar will be scanned in elevation from vertical to 30 degrees.  
+

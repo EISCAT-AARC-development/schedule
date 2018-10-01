@@ -1,0 +1,24 @@
+experiment SP_NI_PCA
+instrument ESR
+start 2012 11 21 0200
+end 2012 11 21 0600
+status R
+description High-speed measurements of polar cap aurora
+contact K. Hosokawa
+phone +81-42-443-5299
+email hosokawa@ice.uec.ac.jp
+fax +81-42-443-5293
+operator ESR staff
+submitter Y. Ogawa (yogawa at nipr.ac.jp)
+resources NI(24)
+notes
+We aim to visualize the 2D fine-scale electric field/current 
+structure in the vicinity of a type of morning-side polar cap 
+arc that propagates poleward very rapidly. For this purpose, 
+we plan to operate the 42m and 32m dishes simultaneously with 
+"best-efforts" temporal resolutions. We prefer good weather 
+conditions for possible comparison with the simultaneously 
+operating optical instruments at KHO. But we do not always need 
+magnetically disturbed conditions because the type of polar cap 
+arc is generally a phenomenon during quiet period.
+

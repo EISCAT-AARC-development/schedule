@@ -1,0 +1,30 @@
+experiment TAU1_AA
+instrument VHF
+start 2008 03 16 2200
+end 2008 03 17 0400
+status R
+description EISCAT measurements in support of Cluster and THEMIS
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(6)
+notes
+March 2008 is a very interesting month, with Cluster moving towards its best 
+cusp configuration, while good THEMIS tail conjunctions continue on the 
+nightside.
+
+Using a similar philosophy as in February, I am requesting two periods of 
+coverage for THEMIS from 22-04 UT on March 4/5 and 16/17.  These are two 
+periods when THEMIS is conjugate with the US sector, but when observations of 
+substorm effects in the European sector would be particularly valuable.
+
+I am also asking for support for a dayside conjunction of Cluster from 06-12 UT 
+on March 20th, and a longer interval from 00 to 10 UT on March 25th, which 
+includes a 4-spacecraft THEMIS tail conjunction and a Cluster cusp conjunction.
+
+The ideal mode is low-elevation northward-pointing VHF along boresight, using 
+tau1, and a LowElNorth mode on the ESR using tau0, with 4:1 interleaving 
+between the 32m and 42m dishes.

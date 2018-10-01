@@ -1,0 +1,18 @@
+experiment MONITOR
+instrument TRO
+start 2010 12 09 1000
+end 2010 12 09 1200
+status R
+description Preliminary tests on EISCAT Heater impact on GPS-signal.
+contact Kirsti Kauristie
+phone +358-505798874
+email antti.kero@sgo.fi
+fax  +358-9-19294603
+operator Max van de Kamp
+submitter Antti Kero
+resources FI(12)
+notes
+The purpose is to make preliminary tests on EISCAT Heater impact on GPS-signal. Especially, the 
+occurrence of scintillation will be investigated. The experiment will use EISCAT Heater (antenna field 2) 
+and UHF. Data from GPS receiver(s) located in Sodankylä and potentially also in some other Lapland 
+stations will be used in the analysis. 

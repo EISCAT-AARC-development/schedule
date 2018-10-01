@@ -1,0 +1,24 @@
+experiment CP1_aurora
+instrument UHF
+start 2003 11 23 1900
+end 2003 11 23 2300
+status R
+description Aurora, in particular, black aurora.
+contact Satonori Nozawa
+phone 81-52-789-4303
+email nozawa@stelab.nagoya-u.ac.jp
+fax 81-52-789-4311
+operator Satonori Nozawa
+submitter Satonori Nozawa
+resources NI(6),NO(6)
+notes
+We will make an optical campaign using high resolution aurora cameras
+and 4-wavelength photometer with EISCAT UHF radar.
+Clear sky and higher geomagnetic activity are desired.
+Although we made request for 5 nights, we will run only 3 nights depending on 
+conditions.
+
+According to Dr Maarten Blixt, Norway would contribute  6 hrs.
+
+Resources  NI(6) and NO(6)
+

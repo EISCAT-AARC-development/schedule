@@ -1,0 +1,17 @@
+experiment CHAMP
+instrument HEA
+start 2002 10 19 1000
+end 2002 10 19 1100
+status R
+description Heating for CHAMP pass through Tromso field line
+contact M. Rietveld
+phone +49 5556 979 234
+email rietveld@linmpi.mpg.de
+fax +49 5556 979 240
+operator M. Rietveld
+submitter M. Rietveld
+resources GE(1)
+notes
+Heating for CHAMP passing through Tromso field field line.
+Either F-region Te (Langmuir probe) or ULF wave excitation for
+magnetometer, depending on conditions.

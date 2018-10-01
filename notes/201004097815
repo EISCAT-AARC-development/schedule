@@ -1,0 +1,36 @@
+experiment FCE
+instrument ESR
+start 2010 04 09 0800
+end 2010 04 30 1400
+status R
+description Flow channel events
+contact Yvonne Rinne
+phone +47 99167164
+email yvonner@fys.uio.no
+fax +47 228 55671
+operator Yvonne Rinne
+submitter Yvonne Rinne
+resources NO(98)
+notes
+We have discovered two different flow channels events by EISCAT Svalbard
+Radar in the fast azimuth scam mode (SP-NO-FASM) . i) The Reversed Flow
+Channels connected to discrete daytime auroral forms of which direction
+opposing the background flow; ii) Flow channels events in the cusp inflow
+region consistent with the magnetic tension pull of newly reconnected flux.
+The observation material is still sparse and we need more observational
+material to advance our studies. After having developed real-time plotting
+for the SP-NO-FASM, we are now able to see data with only 1-2 minutes delay
+and can very effectively search for FCE's.
+Together with the ESR scanning the dayside cusp, parts of the campaign are
+planned to be run with Sondrestrømfjord, Poker Flat and Resolute Bay in
+addition to ESR in order to cover a largest possible area of the polar cap
+in order to look how FCE's move (if they do) and be able to monitor cross
+polar cap transport in great detail. SuperDARN radars will be asked to join
+for HF large scale.
+
+Fr  09 April 07-14 UT
+Mo 12 April 07-14 UT
+Th 15 April 07-14 UT
+Fr 16 April 07-14 UT
+19.04. - 23.04. 07-14 UT
+26.04. - 30.04. 07-14 UT

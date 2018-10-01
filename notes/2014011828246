@@ -1,0 +1,20 @@
+experiment PMWE_MORRO
+instrument VHF
+start 2014 01 18 1000
+end 2014 01 18 1400
+status R
+description EISCAT campaign to support MORRO radar observations of PMWE
+contact Henry Pinedo
+email henry.pinedo@uit.no
+operator Henry Pinedo
+submitter Henry Pinedo
+resources NO(40)
+notes
+Experiment for studying the Polar Mesosphere Winter Echoes (PMWE) under HF Heating using EISCAT 
+VHF for supporting MORRO radar. The HF heating uses a special setup oriented to promote an increase 
+of the PMWE strength right after the end of the heating pulse, i.e. the overshoot technique. We expect to 
+measure this overshoot effect in the PMWE.
+
+Running of the EISCAT facilities is subject to occurrence of PMWE in the MORRO radar.
+
+The daily time range is 4 hours starting from 10:00 to 14:00 UT

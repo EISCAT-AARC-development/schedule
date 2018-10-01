@@ -1,0 +1,18 @@
+experiment CAPER
+instrument ESR
+start 2014 11 27 0630
+end 2014 11 27 0700
+status R
+description ESR Support for the CAPER and C-REX campaigns
+contact Lasse Claussen
+phone +47-22855661
+email lasse.claussen@fys.uio.no
+operator tbd
+submitter Ian McCrea
+resources UK(36)
+notes
+This request is part of the international support for the CAPER and C-REX rocket 
+launches, which will use time contributed by Norway (RetRFE), UK (this booking) 
+and Jim LaBelle's third party CAPER allocation.  Decisions about what mode to run 
+will be made on the day of launch, according to weather conditions and launch 
+priorities at Andoya.

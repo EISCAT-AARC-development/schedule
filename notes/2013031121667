@@ -1,0 +1,15 @@
+experiment Aurora
+instrument TRO
+start 2013 03 11 2000
+end 2013 03 12 0100
+status R
+description UHF and coordinated optical measurements
+contact Carl-Fredrik Enell
+phone +358 40 1728599
+email carl-fredrik.enell@sgo.fi
+operator Kari Kaila
+submitter Carl-Fredrik Enell
+resources FI(20)
+notes
+Coordinated auroral observations with ground-based imagers and photometers and
+UHF radar measurements

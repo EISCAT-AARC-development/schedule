@@ -1,0 +1,29 @@
+experiment LT2_SAT
+instrument ESR
+start 2015 03 03 1600
+end 2015 03 03 2359
+status R
+description Study of plasma lines in conjunction with RELEC and SWARM satellite passes over ESR
+contact N. M. Schlatter
+phone 0046760171147
+email nmsc@kth.se
+operator EISCAT staff
+submitter N. M. Schlatter
+resources SW(20)
+notes
+Plasma line and plasma line enhancements will be studied with the new LT2 long pulse experiments. LT2 
+experiments resolve the plasma line spectrum with high frequency resolution in order to study wave-wave 
+interactions in the auroral ionosphere.
+
+The EISCAT aperture synthesis imaging (EASI) receivers will also record the experiment. Optical 
+observations are conducted with the auroral structures and kinetics (ASK) instrument when possible.
+
+During the requested radar times the RELEC and SWARM satellites will pass over ESR.
+RELEC:
+03 March 10:30
+03 March 17:12
+05 March 10:38
+05 March 17:11
+
+SWARM
+03 March 22:03

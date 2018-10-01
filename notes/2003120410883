@@ -1,0 +1,17 @@
+experiment HiResLayer
+instrument VHF
+start 2003 12 04 1000
+end 2003 12 04 1200
+status R
+description High resolution D and E layer measurements
+contact Jouni Jussila
+phone +358-8-5531289
+email jouni.jussila@oulu.fi
+fax +358-8-5531287
+operator Jouni Jussila
+submitter Jouni Jussila
+resources FI(20)
+notes
+Simultaneous high resolution measurements with arc-experiments and SGO receivers
+(responsible experimenter: Markku Lehtinen). Daytime target is D region. Evening
+measurements concentrate on E region.

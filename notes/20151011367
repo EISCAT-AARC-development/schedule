@@ -1,0 +1,43 @@
+experiment SWARM 
+instrument UHF
+start 2015 10 11 1030
+end 2015 10 11 1430
+status R
+description Measurements coordinated with Swarm satellite passes
+contact Stephan Buchert
+phone +46708566324
+email scb@irfu.se
+fax +46184715905
+operator Stephan Buchert
+submitter Stephan Buchert
+resources AA(100)
+notes
+runexp /kst/exp/beata/beata lm any AA
+pointdir 80.8 75.1
+1130 UT: pointdir 184 77
+1400 UT: pointdir 270.5 62.6
+1430 UT: pointdir 184 77
+
+This EISCAT experiment covers Swarm A and C (values for C in brackets) passing 
+over TRO at 11:00:08(00) UT, h=461.9 km, r=476.7(493.9) km
+
+Az=80.8 (79.4) deg, El=75.1 (68.5) deg
+======================================
+
+The UHF antenna should be pointing to Az=80.8, El=75.1
+
+SWARM B passes over Tromsø at 14:11:11 UT, h=518.7 km, r=578.4. The antenna 
+pointing 1400-1430 UT should be Az=270.5 deg and El=62.6 deg
+
+---------------------------------------------------------------------------
+
+Three Swarm satellites, A, B, and C, perform high precision magnetic field
+measurements using both vector and scalar magnetometers. The
+instrumentation includes a thermal ion imager (TII) and Langmuir probe
+(LP). Together the LP and TII form the electric field instruments
+(EFIs). The PI is David Knudsen <knudsen@ucalgary.ca> from the University of 
+Calgary. For LP contact Stephan Buchert <scb@irfu.se>. Using EFI data electron 
+density and temperature, ion drift vector and temperature and the perpendicular 
+electric field can be derived. In addition accelerometer instruments, onboard 
+GPS receivers and ground-based laser ranging of Swarm support a very precise 
+orbit determination.

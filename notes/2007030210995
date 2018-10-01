@@ -1,0 +1,27 @@
+experiment HEAT
+instrument TRO
+start 2007 03 02 0730
+end 2007 03 02 1130
+status R
+description Joint Heating experiment using the Tromso heater, UHF, SPEAR and the ESR in conjunction with a Polar satellite pass mapping through both heated patches
+contact Lisa Baddeley
+phone 00441162231302
+email ljb14@ion.le.ac.uk
+fax 00441162523555
+operator Mike Rietveld
+submitter Lisa Baddeley
+resources UK(6)
+notes
+The Tromso UHF will run tau2spl2_nov06 code with the dish pointed  field
+aligned
+This experiment is run in conjunction with the POUCH experiment at the ESR.
+
+The purpose of the experiment is to use both heaters in O mode polarisation to
+generate F-region artificial density irregularities which will act as targets
+for the CUTLASS radars.  The Heaters will be on continuously and it is hoped we
+will observe naturally occurring small scale ULF waves in the backscatter.  The
+two heated patches will hopefully be either side of the OCFLB.
+The UHF and ESR will provide data as to the plasma environment in the
+ionospheric interaction region.
+
+

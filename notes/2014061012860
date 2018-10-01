@@ -1,0 +1,17 @@
+experiment heatncool
+instrument VHF
+start 2014 06 10 0900
+end 2014 06 10 1100
+status R
+description Measurement of the D-region heating and cooling rates in a sub-millisecond resolution
+contact Antti Kero
+email antti.kero@sgo.fi
+operator Antti Kero
+submitter Antti Kero
+resources FI(14)
+notes
+Measurement of the D-region heating and cooling rates in a sub-millisecond
+resolution by superposing a sufficient number of short heater on/off modulations
+together. Raw-data sampling makes the superposition possible.
+
+

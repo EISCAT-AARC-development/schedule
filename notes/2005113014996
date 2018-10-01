@@ -1,0 +1,15 @@
+experiment iASK
+instrument ESR
+start 2005 11 30 1900
+end 2005 11 30 2400
+status R
+description ESR Joint Optical/Radar Winter Campaign
+contact Nickolay Ivchenko
+email Nickolay.Ivchenko@alfvenlab.kth.se
+operator Nickolay Ivchenko
+submitter Stephan Buchert <scb@irfu.se>
+resources SW(60),UK(20),NO(20)
+notes
+Optical campaign with the Spectrographic Imaging Facility at the auroral station
+in Adventdalen including a new ASK (auroral structure and kinetics) instrument
+deployed at the ESR site. Two experiments are to be used, interferometer and 'arc'.

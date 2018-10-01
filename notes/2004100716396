@@ -1,0 +1,14 @@
+experiment HEAT
+instrument ESR
+start 2004 10 07 1200
+end 2004 10 07 1400
+status R
+description Combined SPEAR-ESR experiments
+contact Terry Robinson
+phone +441162523562
+email txr@ion.le.ac.uk
+operator Chris Thomas/Tony van Eyken
+submitter Darren Wright
+resources UK(2)
+notes
+Experiments to support the SPEAR commissioning phase

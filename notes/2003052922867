@@ -1,0 +1,16 @@
+experiment CP1
+instrument ESR
+start 2003 05 29 1500
+end 2003 05 31 0800
+description Solar Eclipse
+contact I Häggström
+email ingemar@eiscat.com
+operator I Häggström
+submitter I Häggström
+notes
+To cover the annular solar eclipse occurring around 0400 UT 31 May.
+Do also 30 May for comparisons.
+Altitude range about 75 - 225 km.
+UHF: tau2_pl
+VHF: arc_dlayer
+ESR: tau0 only 42m

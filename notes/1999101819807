@@ -1,0 +1,16 @@
+experiment SP-UK-HUMS
+instrument UHF
+start 1999 10 18 1600
+end 1999 10 18 2200
+status R
+description Artificial Excitation of ULF Pulsations with EISCAT Heater modulation.
+contact Dr Ian Mann, York University
+phone +44 1904 432240
+email ian@aurora.york.ac.uk 
+fax +44 1904 432214
+operator To be decided.
+resources UK(24)
+submitter Ken Freeman
+notes
+A ULF Heater cycle will be used to modulate E-Region ionospheric conductivity and to excite large amplitude resonant Alfvenic ULF pulsations. (The latter will use modulation rates derived from near real time local Alfven eigenfrequencies estimated from magnetometer data.) EISCAT, CUTLASS, and magnetometer data will then be used to study the magnetosphere-ionosphere response.  
+

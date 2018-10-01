@@ -1,0 +1,28 @@
+experiment PRAISE
+instrument HEA
+start 2010 02 13 1600
+end 2010 02 13 2000
+status R
+description Plasma Resonance Artificially Induced Stimulated Emissions
+contact Mike Kosch
+phone +44-1524-510404
+email m.kosch@lancaster.ac.uk
+fax +44-1524-510493
+operator Mike Kosch
+submitter Mike Kosch
+resources UK(32)
+notes
+In the over-dense ionosphere: To determine the energy spectrum of HF pump-
+induced accelerated electrons resulting from various plasma resonances. In the 
+under-dense ionosphere: To determine whether purely collisional heating 
+of a plasma can produce artificial optical emissions. For both the above 
+cases, we will measure the neutral temperature increase resulting of 
+ionospheric modification for the first time, along with the ion and electron 
+temperatures. For an overdense ionosphere, the Heater will operate in a 
+standard cycle of 2-min on, 2-min off in O-mode. The beam pointing will 
+alternate between field-aligned and vertical. For an underdense ionosphere, 
+the Heater will operate in a standard cycle of 2-min on, 2-min off with beam 
+pointing field-aligned. The polarisation will alternate between O-mode and X-
+mode. The UHF monostatic radar will track the Heater beam using a standard 
+radar code, e.g. beata. Moon-free, cloud-free sky and geomagnetically quiet 
+conditions are required. Cancellations are anticipated.

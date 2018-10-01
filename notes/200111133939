@@ -1,0 +1,13 @@
+experiment CP4
+instrument ESR
+start 2001 11 13 1000
+end 2001 11 15 1600
+status C
+description Coordinated IS interval for HITRAC/SPARC
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(54)
+submitter Tony van Eyken

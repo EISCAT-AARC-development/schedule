@@ -1,0 +1,25 @@
+experiment HOX_SPEAR
+instrument ESR
+start 2011 11 04 0900
+end 2011 11 14 1400
+status R
+description Contrasting O/X-mode HF heater effects in the ionosphere F region
+contact Lisa Baddeley
+phone 0047 79023362
+email lisab@unis.no
+fax 0047 79023301
+operator Lisa Baddeley/ESR staff
+submitter Lisa Baddeley
+resources RU(20)
+notes
+We plan to continue studies of contrasting O/X-mode heating effects in the over-
+and underdense ionosphere F region using the SPEAR heating facility,
+specifically the behavior of artificial small-scale field-aligned
+irregularities. The experiments are in collaboration with colleagues at AARI and
+also supported by optical observations at Barentsburg and magnetic pulsation
+data in the frequency range of 1-10 Hz. HF Doppler observations will also be
+made using the research station at Gorkovskaya.
+The time has been slightly overbooked with cancellations taking place due to
+unsuitable ionospheric conditions.
+The beata code should be run with both dishes pointing FA.
+

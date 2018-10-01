@@ -1,0 +1,22 @@
+experiment HARE
+instrument ESR
+start 2012 11 14 1900
+end 2012 11 14 2300
+status R
+description High Altitude Radar Echoes
+contact Herbert Gunell
+phone +3223730381
+email herbert.gunell@physics.org
+fax +3223748423
+operator Herbert Gunell
+submitter Herbert Gunell
+resources PP(24)
+notes
+We plan to search for enhanced ion acoustic lines at high altitude 
+using the eiscat Svalbard radar. Simultaneously, we shall be monitoring 
+the ionospheric conditions at the footpoint of the same field-line using 
+the eiscat uhf radar and observe auroral emissions with the cameras of 
+the Auroral Large Imaging System (alis). In this way we aim at an increased 
+understanding of plasma processes taking place in the auroral
+acceleration region.
+

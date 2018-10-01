@@ -1,0 +1,17 @@
+experiment DualFreq
+instrument VHF
+start 2007 10 11 0030
+end 2007 10 11 0430
+status R
+description Observing tristatic EISCAT head echoes with optical telescopes
+contact Asta Pellinen-Wannberg
+phone +46 980 79118
+email asta@irf.se
+fax +46 980 79050
+operator Johan Kero
+submitter Asta Pellinen-Wannberg
+resources SW(30)
+notes
+UHF and VHF vertical, no aurora
+
+

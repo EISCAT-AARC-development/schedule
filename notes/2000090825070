@@ -1,0 +1,15 @@
+experiment SP-UK-OUCH
+instrument UHF
+start 2000 09 08 0600
+end 2000 09 08 1000
+status R
+description Measurement of ULF Wave Signatures in Artificially Generated Coherent Radar Backscatter
+contact Tim Yeoman
+phone +44 116 252 3564
+email tim.yeoman@ion.le.ac.uk 
+fax +44 116 252 3555
+operator Nigel Wade
+resources UK(20)
+submitter Ken Freeman
+notes
+CP-1-K with low power continuous wave Heater transmission.

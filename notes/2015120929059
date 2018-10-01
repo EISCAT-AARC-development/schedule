@@ -1,0 +1,28 @@
+experiment CP4
+instrument VHF
+start 2015 12 09 0800
+end 2015 12 13 2300
+status R
+description Deep Northern Polar Winter
+contact Ingemar Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(99)
+notes
+rem ksv runexp /kst/exp/bella/bella 0:0 lowel
+
+Polar Cap patches, global trans-polar coupling, sun-aligned arcs
+Herb Carlson (Air Force Research Lab, USA)
+Meso-scale phenomena in the polar cap (patches, reversed flow events, flow channel
+propagation)
+Yvonne Dabaak (U. of Oslo, Norway, and U. of Alaska, USA)
+PTRANS (Patch Transit) to study decay rate for patches, large-scale changes
+within patch structures
+Alan Wood (Nottingham Trent U., UK)
+Evolution of polar cap aurora and patches
+Hanna Dahlgren (Royal Inst. of Tech, Sweden, & U. of Southampton, UK) and Joshua
+Semeter (Boston U., USA)
+
+
+

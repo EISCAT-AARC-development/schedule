@@ -1,0 +1,21 @@
+experiment UK_PMSE
+instrument VHF
+start 2010 07 08 0900
+end 2010 07 08 1300
+description Dual-frequency observations of PMSE layers
+contact Ivan Astin
+phone +441225383506
+email eesia@bath.ac.uk
+operator to be confirmed
+submitter Ian McCrea
+notes
+runexp /kst/exp/manda/manda fm zenith UK
+
+A study of short-term variations in polar mesosphere summer echoes (PMSE) and 
+noctilucent clouds (NLC) is proposed involving the EISCAT UHF and VHF active 
+radars and the University of Bath's meteor radar at ESRANGE. This is linked to 
+the current UK STFC grant PP/E002218/1 "Dynamics and coupling of the mesosphere 
+and lower thermosphere - studies with meteor radar and EISCAT".  In particular, 
+we will investigate the dynamical conditions and meteor fluxes, affecting the 
+strength of PMSE. 
+

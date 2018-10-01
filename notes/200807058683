@@ -1,0 +1,23 @@
+experiment LANCS_HEAT
+instrument HEA
+start 2008 07 05 0800
+end 2008 07 05 1200
+status R
+description Combined heating operations for XMOD, MZE and REIMEI
+contact Andrew Senior
+phone +44 1524 510410
+email a.senior@lancaster.ac.uk
+operator UK campaign team
+submitter Andrew Senior
+resources UK(54)
+notes
+This is a joint entry to cover heating operations for three experiments (to save
+schedule complexity). All three experiments are from the same research group
+(Lancaster University). Note that the REIMEI experiment is to provide
+UHF/Heating coverage for Reimei satellite overpasses. This should be allowed to
+interrupt the joint UK-NO-CN "TRAP" experiment as well.
+
+MZE 09-12 UT in conjunction with UHF
+XMOD 08-12 UT in conjunction with VHF
+REIMEI - see UHF schedule for this experiment.
+

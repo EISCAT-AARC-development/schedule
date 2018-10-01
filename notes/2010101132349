@@ -1,0 +1,17 @@
+experiment lt3
+instrument ESR
+start 2010 10 11 1200
+end 2010 10 14 1600
+status R
+description SPEAR HF turbulence experiments
+contact  Brett Isham
+phone +1 787 685 5223
+email brettisham@gmail.com
+fax  +1 787 279 7028
+operator Lisa Baddeley
+submitter  Brett Isham
+resources 3P(35)
+notes
+This is the tentative first day of a twelve-day campaign. The dates and times
+are not yet definite. We expect to operate using 35 3P hours during perhaps 8
+to 10 days, about 3 to 4 hours per day.

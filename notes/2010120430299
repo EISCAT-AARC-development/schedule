@@ -1,0 +1,75 @@
+experiment RENU
+instrument ESR
+start 2010 12 04 0300
+end 2010 12 04 0900
+status R
+description EISCAT time for the RENU rocket launch
+contact Kjellmar Oksavik
+phone +47-79023387
+email kjellmar.oksavik@unis.no
+operator Kjellmar Oksavik
+submitter Kjellmar Oksavik
+resources SP(6)
+notes
+Accelerometer measurements from satellites (e.g. CHAMP; Lühr et al [2004]) 
+have revealed that the cusp ionosphere is dominant region of thermospheric 
+upwelling and increased satellite drag. Previous theoretical and observational 
+studies have shown that Joule heating is fundamental to upwelling, at least at 
+lower latitudes. But at higher latitudes the situation is more complex and 
+recent results show that Joule heating alone is not enough. Other mechanisms 
+may also influence the thermospheric upwelling; e.g. strong field-aligned 
+currents, soft electron precipitation, Alfvénic aurora, etc. To address these 
+issues a sounding rocket will be launched into the cusp ionosphere over 
+Svalbard in the time range Nov 28 – Dec 12, 2010. This rocket is called RENU 
+(Rocket Experiment for Neutral Upwelling, PI: Marc Lessard), and every day the 
+launch window is 0300-0900 UT. A successful rocket mission depends on 
+continuous operation of a series of ground-based instruments in the launch 
+window; radars (EISCAT and CUTLASS), optical instruments in Longyearbyen and 
+Ny-Aalesund (all-sky cameras, scanning photometers, magnetometers, etc). These 
+instruments will serve both as launch diagnostics (i.e. to identify the 
+optimal time to launch), and as supplementary data to the actual rocket 
+measurements. After the campaign these data will also be implemented into 
+models like AMIE and TIME CGM in order to provide new insight into the 
+physical processes of upwelling of thermospheric gas in the cusp region.
+
+RENU is a four-stage NASA Black Brant XII sounding rocket that will be 
+launched from Andøya Rocket Range, Norway. The RENU apogee will be in 572 km 
+apogee, just south of Svalbard. RENU will pass over Ny-Aalesund (in the 
+vicinity of the ESR) in 450 km altitude on its way down; i.e. RENU will drop 
+in altitude while it is in the cusp and thereby maximize the vertical extent 
+of measurements in the cusp. RENU will carry instruments that collect data on 
+particle precipitation and electric/magnetic fields in regions where heating 
+is expected to occur. 
+
+Required ground-based instrumentation: Continuous operation of EISCAT radars 
+is key to a successful RENU mission. EISCAT will monitor conditions along the 
+rocket trajectory in real-time; before, during, and after launch. The ESR 32m 
+and Tromsø UHF antennae will monitor conditions at a point along the rocket 
+trajectory, for comparison with RENU in-situ particle and field observations. 
+The ESR 42m and Tromsø VHF will monitor nearby flux tubes over Longyearbyen. 
+The 32m antenna will be aligned nearly vertical, but skewed slightly to the 
+west to acquire data near the footprint of RENU in the middle of the cusp. The 
+Tromsø UHF and VHF radars will be aligned northward at 30 degree elevation to 
+provide real-time information on the latitudinal location of Joule heating 
+(Ti), and the equatorward boundary of cusp precipitation (high Te boundary). 
+CUTLASS will measure convection and horizontal drifts. All instruments at 
+Kjell Henriksen Observatory (KHO) will also be operational during the rocket 
+flight. 
+
+Specific objectives:
+
+1. To measure neutral gas, ion, and electron temperature enhancements, which 
+will provide an initial assessment of the upwelling process.
+
+2. To measure large- and small-scale Joule heating in the cusp during the RENU 
+overflight. Large-scale data will be acquired by EISCAT; small-scale data 
+(perhaps associated with Alfvén waves) will be acquired using onboard electric 
+field measurements.
+
+3. To measure the precipitating electron energy input. Theory and observations 
+suggest that various types of electron precipitation may contribute to neutral 
+upwelling; knowledge of the precipitating population is critical for 
+understanding this effect.
+
+4. To use measured quantities as inputs to “thermodynamic” 
+and “electrodynamic” models for comparison to the observed upwelling.

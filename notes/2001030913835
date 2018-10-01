@@ -1,0 +1,15 @@
+experiment CLUSTER
+instrument ESR
+start 2001 03 09 1800
+end 2001 03 10 1200
+status C
+description CLUSTER satellite coordination
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(18)
+submitter Tony van Eyken
+notes
+burst mode, perigee, with Heating?

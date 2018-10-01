@@ -1,0 +1,23 @@
+experiment TRIST
+instrument UHF
+start 2005 02 09 1700
+end 2005 02 10 0500
+description Simultaneous Tristatic FPI and EISCAT Measurements of the Ionosphere and Thermosphere
+contact Anasuya Aruliah
+phone +44 20 7679 9017
+email a.aruliah@ucl.ac.uk
+fax +44 20 7679 9024
+operator Alan Aylward
+submitter Ken Freeman
+notes
+The purpose of this experiment is to investigate the height profile of the 
+630nm emission line, by making EISCAT measurements simultaneously with FPI 
+observations. (It is a fundamental concern of instruments such as the FPI to 
+know the height at which these emissions occur.) To do this, the EISCAT UHF 
+Radar will be employed tristatically in a CP1-like mode, with an intersection 
+height of 240km. FPIs at Kiruna and Sodankyla will then be used to observe this 
+common volume, while a third FPI at Skibotn will scan along the line of sight 
+of the Kiruna FPI. The use of the FPIs means that these operations must be 
+carried out during the hours of darkness, and therefore outside EISCAT working 
+hours. They will also require clear skies.
+

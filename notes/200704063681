@@ -1,0 +1,17 @@
+experiment Scinti
+instrument ESR
+start 2007 04 06 1045
+end 2007 04 06 1230
+status R
+description IPS observations of the solar wind
+contact Richard Fallows
+phone +44 1970 622805
+email raf@aber.ac.uk
+fax +44 1970 622826
+operator Richard Fallows
+submitter Richard Fallows
+resources UK(18)
+notes
+IPS observations:
+
+Ulysses streamline observations and others requiring EISCAT/ESR baselines.

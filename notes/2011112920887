@@ -1,0 +1,30 @@
+experiment Pulsating
+instrument VHF
+start 2011 11 29 1800
+end 2011 11 29 2400
+status R
+description Simultaneous observations of pulsating aurora with all-sky cameras
+contact K. Hosokawa
+phone +81-42-443-5299
+email hosokawa@ice.uec.ac.jp
+fax +81-42-443-5293
+operator S. Oyama and T. Tsuda
+submitter Y. Ogawa
+resources NI(6)
+notes
+(Note: This is a joint entry for Japanese VHF experiments.)
+
+Recent studies using SuperDARN radars have shown intriguing 
+relationships between pulsating aurora and changes in E region 
+auroral backscatter. On the one hand, regular pulsations are 
+associated with periodic changes in echo Doppler shift. 
+On the other, irregular pulsations are associated with a new 
+population of low altitude (D-region) backscatter echoes. 
+We aim to investigate these two phenomena with simultaneous 
+observations of the aurora by several cameras, and electron 
+density measurement by EISCAT radar in Tromso.
+
+Mandas code will be used for the Tromso VHF radar observation. 
+We prefer good weather condition for the simultaneous optical 
+observations.
+

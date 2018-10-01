@@ -1,0 +1,13 @@
+experiment CIV
+instrument UHF
+start 2000 10 17 0900
+end 2000 10 17 1100
+status R
+description CIV experiment
+contact Ingemar H%E4ggstr%F6m
+email inemar@irf.se 
+operator Ingemar H%E4ggstr%F6m
+resources SW
+submitter Ingemar H%E4ggstr%F6m
+notes
+Release at 1020 UT

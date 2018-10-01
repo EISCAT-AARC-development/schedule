@@ -1,0 +1,13 @@
+experiment pmse
+instrument HEA
+start 2006 07 29 1800
+end 2006 07 29 2400
+status R
+description PMSE research, overshoot effect with heater, night time pmse, VHF+UHF pmse
+contact Cesar La Hoz
+phone 47 77645161
+email cesar@phys.uit.no
+fax 47 77645580
+operator Ove Havnes
+submitter Cesar La Hoz
+resources NO(20)

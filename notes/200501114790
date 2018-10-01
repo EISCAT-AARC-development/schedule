@@ -1,0 +1,13 @@
+experiment CP1
+instrument UHF
+start 2005 01 11 0800
+end 2005 01 13 1400
+status R
+description CP1
+contact I Häggström
+email ingemar@eiscat.com
+operator I Häggström
+submitter I Häggström
+resources CP(1000)
+notes
+runexp tau2pl fullminute 

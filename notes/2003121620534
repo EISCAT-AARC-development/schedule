@@ -1,0 +1,11 @@
+experiment CP4
+instrument ESR
+start 2003 12 16 0900
+end 2003 12 18 1500
+description Low/High latitude
+contact I Häggström
+email ingemar@eiscat.com
+operator I Häggström
+submitter I Häggström
+notes
+/kst/exp/tau0/tau0 cp4

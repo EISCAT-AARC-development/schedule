@@ -1,0 +1,20 @@
+experiment CP1_ARC
+instrument UHF
+start 2003 03 02 1900
+end 2003 03 04 0100
+status R
+description Simultaneous observations of EISCAT UHF radar and optical instruments.
+contact Satonori Nozawa
+phone 81-52-789-4303
+email nozawa@stelab.nagoya-u.ac.jp
+fax 81-52-789-4311
+operator Satonori Nozawa
+submitter S. Nozawa
+resources NI(24)
+notes
+We will make an optical campaign using high resolution aurora cameras
+and 4-wavelength photometer with EISCAT UHF radar.
+We strongly hope to use the ARC mode (at field-aligned position) with the UHF radar.
+Sweden will contribute 8hrs to this campaign. Also Norway will contribute
+10hrs or more (under negotiations).
+

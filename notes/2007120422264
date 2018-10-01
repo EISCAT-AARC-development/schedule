@@ -1,0 +1,16 @@
+experiment CESMIC
+instrument ESR
+start 2007 12 04 0700
+end 2007 12 04 1100
+status R
+description Co-ordinated EISCAT, SuperDARN, MIRACLE, ITACA and Cluster observations of CUSP related processes
+contact Igino Coco 
+email igino.coco@ifsi-roma.inaf.it
+operator Lisa Baddeley
+submitter Lisa Baddeley
+resources TNA(24)
+notes
+This is a Trans-National Access experiment.
+The ESR will be running a scan in elevation from 30 to 150 degrees at a fixed
+azimuth.  The experiment will also hopefully be co-oridinated with the VHF radar.
+

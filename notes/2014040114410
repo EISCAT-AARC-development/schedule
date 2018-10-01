@@ -1,0 +1,20 @@
+experiment CP1
+instrument VHF
+start 2014 04 01 0000
+end 2014 04 06 2200
+status R
+description  Hemispheric and latitudinal stormtime behavior
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(99)
+notes
+ESR: runexp /kst/exp/ipy/ipy lm
+KST: runexp /kst/exp/beata/beata lm
+
+The decision to start will be based on predictions of magnetic disturbances. In
+the case of no magnetic storm, the run will fulfill the alternating‐year quiet
+time measurements and will start on 02 April. The alert should be announced 10
+days before the start of the run.
+

@@ -1,0 +1,13 @@
+experiment POLAR
+instrument ESR
+start 1999 09 05 0800
+end 1999 09 05 1200
+status R
+description Co-ordination with POLAR passes during cusp intervals
+contact Hermann Opgenoorth
+email opg@irfu.se 
+operator Tony van Eyken
+resources CP(4)
+submitter Hermann Opgenoorth
+notes
+field aligned

@@ -1,0 +1,16 @@
+experiment IPSS_933
+instrument UHF
+start 2002 04 30 0430
+end 2002 04 30 1530
+status R
+description Interplanetary Sciintillation measurements at 933 MHz
+contact Richard Fallows
+phone +44 1970 621907
+email raf@aber.ac.uk 
+fax +44 1970 622826
+operator Richard Fallows
+resources UK(2)
+submitter Tony van Eyken
+notes
+Passive operations using pairs of antennas.  Available bandwidth may be no be 
+no greater than 1.5MHz

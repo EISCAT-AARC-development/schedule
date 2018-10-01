@@ -1,0 +1,13 @@
+experiment Course
+instrument UHF
+start 2004 03 22 0700
+end 2004 03 26 1400
+status R
+description Radar course
+contact I Häggström
+email ingemar@eiscat.com
+operator I Häggström
+submitter I Häggström
+resources MA(50)
+notes
+ 

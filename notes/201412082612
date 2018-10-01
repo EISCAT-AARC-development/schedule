@@ -1,0 +1,23 @@
+experiment RONE
+instrument ESR
+start 2014 12 08 1530
+end 2014 12 08 1930
+status R
+description Radar, radio, and optical observations of naturally-enhanced emissions
+contact Brett Isham
+phone +17878781289
+email brettisham@gmail.com
+fax +17872792205
+operator Brett Isham
+submitter Brett Isham
+resources UK(12),SW(20),NO(20)
+notes
+Radar, radio, and optical observations of naturally-enhanced emissions (ion-acoustic, Langmuir, radio, and 
+optical waves) conducted near local midnight, in the cusp period, and/or during satellite passes.  ISR data 
+will be recorded using 32-m vertical and 42-m field-aligned simultaneously, using both IL and PL channels 
+on both antennas.  A new control program will be used for this purpose.  Radio emission data will be 
+recorded using a wide-band (0-10 MHz) receiver provided by Dartmouth College operating at the KHO. 
+Optical data will be recorded by collaborating instruments on Svalbard.  HF radar data will be provided by 
+SuperDARN.  In this case RELEC is expected to pass the ESR near field-aligned at about 1730 UT.  
+
+

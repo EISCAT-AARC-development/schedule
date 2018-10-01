@@ -1,0 +1,18 @@
+experiment SP-UK-SHAFTOUCH
+instrument HEA
+start 2001 04 27 1500
+end 2001 04 27 1800
+status R
+description Spacecraft Related Measurements of ULF Wave Signatures in Heater Generated Backscatter.
+contact Darren Wright
+phone +44 116 252 3568
+email darren.wright@ion.le.ac.uk 
+fax +44 116 252 3555
+operator Darren Wright
+resources UK(30)
+submitter Ken Freeman
+notes
+This experiment is normally operated in one of two modes:-    
+      a) CP-1-K with low power continuous wave Heater transmission.    
+      a) CP-1-K with full power modulated Heater transmission.    
+Observations will be made in conjunction with FAST measurements.

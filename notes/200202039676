@@ -1,0 +1,17 @@
+experiment TIMED
+instrument ESR
+start 2002 02 03 1600
+end 2002 02 03 2000
+status C
+description TIMED calibration 
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(4)
+submitter Tony van Eyken
+notes
+ESR:          tau0, 42m antenna only     
+Mainland CP1: Field aligned operation, Kiruna and Sodankyla intersection         
+              height in the E region.

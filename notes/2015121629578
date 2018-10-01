@@ -1,0 +1,21 @@
+experiment poleward
+instrument ESR
+start 2015 12 16 0800
+end 2015 12 16 1300
+status R
+description To study poleward moving arcs
+contact Akimasa IEDA
+phone +81-52-747-6336
+email ieda@stelab.nagoya-u.ac.jp
+fax +81-52-747-6334
+operator site staff
+submitter Shin-ichiro Oyama
+resources NI(23)
+notes
+To study poleward moving arcs during conjunctions with the MMS satellites that
+are located near the dayside magnetopause. 
+Pointing: ESR: magnetic north, 30 deg elevation angle.
+          VHF: low-elevation to north
+Pulse code: beata and tau8 for ESR and VHF, respectively
+Other instruments: ESR and VHF will be operated simultaneously. We hope to
+obtain optical data in the clear sky.

@@ -1,0 +1,17 @@
+experiment SP_NI_CP2
+instrument ESR
+start 2007 12 12 0600
+end 2007 12 14 2300
+status R
+description CP-2 run with SP times
+contact Satonori Nozawa
+phone 81-52-7894303
+email nozawa@stelab.nagoya-u.ac.jp
+fax 81-52-7894311
+operator Yasunobu Ogawa
+submitter Satonori Nozawa
+resources NI(14)
+notes
+We run ESR with CP2 mode to make simltaneous data sets with Tromso UHF CP-2 run. We like to run ESR 
+with CP2 for continuance 28 hours. Japan will contribute 14 hrs, and
+Norway (Asgeir Brekke) would contribute 14 hrs.

@@ -1,0 +1,49 @@
+experiment Reimei
+instrument VHF
+start 2006 12 17 0450
+end 2006 12 17 0850
+description Reimei-EISCAT coordinated observations
+contact Takeshi Sakanoi
+phone +81-22-795-6609
+email tsakanoi@pparc.geophys.tohoku.ac.jp
+fax +81-22-795-6406
+operator Yasunobu Ogawa
+submitter Yasunobu Ogawa (yogawa@nipr.ac.jp)
+notes
+runexp /kst/exp/tau8/tau8 fm lowel SW
+
+
+We will conduct Reimei-EISCAT coordinated observations, 
+to investigate fine-scale auroral height distribution, 
+ion upflow, and ion anisotropy around the cusp 
+(PIs: T. Sakanoi and S. Buchert). 
+34 conjunctions are included in the following intervals:
+
+2006/12/12 05:00-09:00 UT (4 hours, ESR):
+  5:09, 6:47, 8:24 UT
+2006/12/13 05:00-09:00 UT (4 hours, ESR):
+  5:28, 7:05, 8:43 UT
+2006/12/14 05:30-09:30 UT (4 hours, ESR):
+  5:47, 7:24, 9:15 UT
+2006/12/15 05:40-09:40 UT (4 hours, ESR):
+  6:06, 9:20 UT ***
+2006/12/16 06:00-10:00 UT (4 hours, ESR):
+  6:25, 8:02, 9:39 UT
+2006/12/17 04:50-08:50 UT (4 hours, ESR & VHF):
+  5:07, 6:44, 8:21 UT
+2006/12/18 05:00-09:00 UT (4 hours, ESR & VHF):
+  5:25, 7:02, 8:40 UT
+2006/12/19 05:20-09:20 UT (4 hours, ESR & VHF):
+  5:44, 8:59 UT
+2006/12/20 05:30-09:30 UT (4 hours, ESR & VHF):
+  6:03, 7:40, 9:17 UT *** (winter solstice)
+2006/12/21 06:00-10:00 UT (4 hours, ESR & VHF):
+  6:22, 7:59, 9:36 UT
+2006/12/22 06:00-10:00 UT (4 hours, ESR & VHF):
+  6:41, 8:18, 9:55 UT
+2006/12/23 05:00-09:00 UT (4 hours, ESR):
+  5:22, 7:00, 8:37 UT (winter solstice)
+
+*** : The Reimei makes the closest approach to ESR 42m beam.
+
+

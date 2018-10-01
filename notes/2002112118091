@@ -1,0 +1,20 @@
+experiment SP_NI_JSR
+instrument KIR
+start 2002 11 21 0130
+end 2002 11 21 0715
+status R
+description The experiment target is the observation of Jupiter's synchrotron radiation (JSR) at 930 MHz. 
+contact Satonori Nozawa
+phone 81-52-789-4303
+email nozawa@stelab.nagoya-u.ac.jp
+fax 81-52-789-4310
+operator Hiroyuki Misawa
+submitter Satonori Nozawa
+resources NI(15)
+notes
+The experiment target is the observation of Jupiter's synchrotron radiation
+(JSR) at 930 MHz. We plan to make the JSR monitoring quasi periodically; i.e.,
+30 min observations will be held approximately every 1hr in 5 to 6hr a day.
+In each observation unit, both Jupiter and some flux calibration stars will be
+observed with elevational sweeping of the antenna for monitoring atmospheric
+temperature.

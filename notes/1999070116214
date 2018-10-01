@@ -1,0 +1,15 @@
+experiment TidalAGW
+instrument ESR
+start 1999 07 01 1000
+end 1999 07 06 1000
+status R
+description Extended Tidal/AGW Experiment
+contact Phil Williams
+phone +44 1970 622817
+email pjw@aber.ac.uk 
+fax +44 1970 622826
+operator Phil Williams
+resources UK(60), GE(48), SW(16), FR(48), NO(30), NI(24) FI(10)
+submitter Phil Williams
+notes
+Will use CP2/CP2L

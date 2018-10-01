@@ -1,0 +1,32 @@
+experiment HeatTIDs
+instrument TRO
+start 2015 09 28 0630
+end 2015 09 28 1030
+status R
+description Studying of Heater-Induced Travelling Ionospheric disturbances
+contact Sergii Panasenko
+phone +380577076527
+email sergii.v.panasenko@gmail.com
+operator Maryna Siusiuk
+submitter Sergii Panasenko and Oleksandr Koloskov
+resources NO(4)
+notes
+We plan to use EISCAT heater to excite travelling ionospheric disturbances 
+(TIDs). These wave processes will be studied using ISR radars located in Norway 
+(EISCAT UHF radar located in Ramfjordmoen) and Ukraine (radar of the Institute 
+of Ionosphere situated near Kharkiv city). The coherent HF receivers located in 
+Tromso and Kharkiv (Ukraine) will be used as well. The EISCAT heater will 
+transmit pump waves with O-mode polarization and be operated in long cycles (30 
+min on, 30 min off). The heater frequency will be changed from about 5.5 to 7.9 
+MHz to be approximately equal to the upper hybrid resonance frequency near the 
+F2-peak. The effective radiated power will increase from 650 to 1250 MW being 
+dependent on pump frequency. Using such operation mode, we anticipate the 
+strong effects of high power HF radio wave on the F2 region to be produced. The 
+results obtained will permit to identify TIDs induced by high-power radio 
+waves, estimate their parameters and specify possible mechanisms for TIDs 
+generation in modified region. The observations will be conducted in the 
+framework of SIU Project “Harmonization of the Norwegian-Ukrainian educational 
+activities in geospace researches” (CPEALA-2014/10001). According to the 
+working plan of this project Maryna Siusiuk, who is PhD student from National 
+Technical University “Kharkiv Polytechnic Institute” will take part in the 
+preparation of the schedule of the campaign and run IS radar at EISCAT site. 

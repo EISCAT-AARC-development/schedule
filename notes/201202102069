@@ -1,0 +1,31 @@
+experiment LANCS
+instrument HEA
+start 2012 02 10 1200
+end 2012 02 10 1800
+status R
+description Joint entry for several UK heating experiments
+contact Andrew Senior
+email a.senior@lancaster.ac.uk
+operator Mike Rietveld
+submitter Andrew Senior
+resources UK(77)
+notes
+This a joint entry for several UK heating experiments which require similar 
+operating times and conditions:
+
+Lancaster University
+
+HAIL UK(45): heater-induced ionisation layers with optical diagnostics
+PLEE UK(8): plasma line diagnostics of heater-accelerated electrons
+
+Rutherford Appleton Lab
+
+RAMAN UK(24): Raman amplification of radio waves in the ionosphere
+
+Cancellation is likely due to unsuitable weather conditions for optical 
+observations 
+or due to elevated geomagnetic activity and also because of limitations on the 
+UK 
+mainland budget. The experiments will be co-ordinated with the Russian team 
+during 
+the overlap with the HOX_RU campaign.

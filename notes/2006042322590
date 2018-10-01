@@ -1,0 +1,41 @@
+experiment steffe_AA
+instrument ESR
+start 2006 04 23 0600
+end 2006 04 23 1000
+status R
+description ESR experiments in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea and Jackie Davies
+resources AA(4)
+notes
+Jackie Davies and I have checked the EISCAT/Cluster conjunctions for April 
+2006, and we have identified five intervals of potentially high interest.  This 
+month continues to be very good for potential cusp conjunctions, since the 
+orbit plane of Cluster is still sufficiently close to the Sun-Earth line to 
+produce a number of dayside magnetopause crossings.  We have identified three 
+potential cusp conjunctions, and two perigee passes which would merit EISCAT 
+coverage.  For all these conjunctions, the radar mode should be LowElNorth on 
+the ESR 32m dish, with some coarse interleaving of dumps from the 42m.  In the 
+past we have suggested 4:1 (32m:42m), which should be acceptable, depending on 
+conditions.  VHF should run a single low elevation (30o) beam on boresight, 
+using a modulation such as tau1.
+
+The intervals are as follows:
+
+March 4th  06-10  VHF only (ESR in use for CP).  Very good magnetopause 
+conjunction over Svalbard.
+
+8th  18-22  ESR, VHF. Perigee pass over the Scandinavian sector.
+
+16th  05-09 ESR, VHF.  Outbound magnetopause crossing, nominally slightly East 
+of the ESR.
+
+20th  18-22 ESR only.  Perigee pass over Svalbard.
+
+23rd  06-10 ESR, VHF.  Outbound magnetopause crossing, nominally slightly West 
+of the ESR.
+

@@ -1,0 +1,11 @@
+experiment CP2
+instrument UHF
+start 2008 01 31 0800
+end 2008 01 31 2400
+description IPY
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+notes
+runexp /kst/exp/beata/beata 8 ip2

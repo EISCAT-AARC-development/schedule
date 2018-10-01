@@ -1,0 +1,17 @@
+experiment ALTA
+instrument VHF
+start 2003 03 03 1630
+end 2003 03 03 2030
+status R
+description Artificial Langmuir Turbulence and Aurora Study
+contact Mike Kosch
+phone +44-1524-593016
+email m.kosch@lancaster.ac.uk
+fax +44-1524-592713
+operator Brett Isham
+submitter Ian McCrea
+resources UK(40),GE(40),SW(20)
+notes
+This is the VHF part of the artificial Langmuir turbulence and aurora experiment, see the notes for the UHF part.
+
+Although a four-hour run has been requested, this will be followed by a two-hour run requested by France (FR-AURORA), from 2030-2230, using the same modulation to constitute a six-hour continuous VHF run in compliance with the rules. 

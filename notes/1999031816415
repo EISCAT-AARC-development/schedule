@@ -1,0 +1,13 @@
+experiment GeoTail
+instrument VHF
+start 1999 03 18 1800
+end 1999 03 18 2200
+status R
+description EISCAT-GeoTail-SuperDARN conjunction experiment (PI: N Sato, NIPR)
+contact R Fujii
+phone +81 52 789 4309
+email rfujii@stelab.nagoya-u.ac.jp 
+fax +81 52 789 4311
+operator Takehiko Aso
+resources NI(24)
+submitter R Fujii

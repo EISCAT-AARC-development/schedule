@@ -1,0 +1,13 @@
+experiment SP-GE-CP1
+instrument UHF
+start 1999 09 09 1600
+end 1999 09 10 0800
+status R
+description Extension of CP-1, for SRAMP
+contact K. Schlegel
+phone +49 5556 979 468
+email schlegel@linmpi.mpg.de 
+fax 49 5556 979 240
+operator none (EISCAT staff ?)
+resources GE(16)
+submitter M. T. Rietveld

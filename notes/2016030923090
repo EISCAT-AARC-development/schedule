@@ -1,0 +1,24 @@
+experiment Hottie2016
+instrument HEA
+start 2016 03 09 1000
+end 2016 03 09 1300
+status R
+description Heating experiment to create descending ionization and artificial aurora   
+contact Björn Gustavsson
+phone  +47 77645688
+email bjorn.gustavsson@uit.no
+operator Björn Gustavsson
+submitter Björn Gustavsson
+resources NO(24),SE(24)
+notes
+The objective with the experiment is to do frequency-sweeping experiments  with
+EISCAT Heating at full power close to and several 100 kHz away from multiples of
+the double resonance to to investigate the altitude variation of enhanced ion
+and plasma-lines during day-time and night-time conditions and the altitude
+variation of artificial aurora (night-time only). The EISCAT UHF radar will be
+used to both observe the HF-modified ionospheric back-scatter spectra at both
+ion and plasma-lines and to monitor the thermal ionospheric response and use the
+ALIS optical system to observe the three-dimensional distribution of artificial
+aurora. UHF will be operated in magnetic zenith with the beata program.
+The evening experiments will be run under the condition of optically clear skies and
+cancellations of the experiments will be done.

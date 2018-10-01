@@ -1,0 +1,15 @@
+experiment RIM
+instrument VHF
+start 2001 06 09 1400
+end 2001 06 09 1800
+status R
+description Range imaging (RIM) measurements of PMSE with VHF.
+contact M. Rietveld 
+phone +49 5556 979 234
+email rietveld@linmpi.mpg.de 
+fax +49 5556 979 240
+operator P. Chilson
+resources GE(12)
+submitter M. T. Rietveld
+notes
+Vertical VHF antenna beam (unphased) desired.

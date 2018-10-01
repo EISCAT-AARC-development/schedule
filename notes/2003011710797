@@ -1,0 +1,17 @@
+experiment tau3_AA
+instrument TRO
+start 2003 01 17 0800
+end 2003 01 17 1200
+status R
+description Low-Elevation Northward Pointing Experiment in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(4)
+notes
+In order not to conflict with the MAC-WAVE campaign, or the French TEC studies, I am only requesting two observation periods for the mainland radars in support of Cluster for January, namely January 5th 09-14 UT and January 17th 08-12 UT, both co-inciding with requested ESR experiments.  As with the December bookings, I suggest low elevation tau3.  Using an azimuth of 354.9 degs and
+an elevation of 30 degs would give a pointing which intersects the Svalbard
+radar field-aligned beam at 610 km altitude.  This might be interesting, particularly if dual-klystron UHF operations were possible (although I guess this is unlikely).

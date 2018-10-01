@@ -1,0 +1,41 @@
+experiment HFAPI
+instrument HEA
+start 2017 07 10 1100
+end 2017 07 11 1100
+status R
+description HF-Radar Investigations
+contact Juha Vierinen or Mike Rietveld
+phone 77620739
+email jvi019@uit.no
+fax 77620740
+operator Juha
+submitter Mike Rietveld
+resources NO(6),EI(6),FI(6),UK(6)
+notes
+HF radar using the new digital receiver beam-former.
+Aims:
+1) Measure vertical winds and decay times from API. For this a 24hr run
+is important to remove wind bias from tides. Follow up earlier work
+started by Vierinen et al., 2013.
+2) Try a magnetospheric radar mode if conditions are not suitable for API
+(e.g. no E or F region reflection between 5.4 and 8 MHz), following up from
+Senior et al., 2008.
+3) Search for HF stratospheric echoes below 20-30 km as suggested by
+Reid, 2015, based on early observations at 2.75 MHz by Czechowsky et al.,1983
+
+References
+----------
+Czechowsky, P., G. Schmidt, and H. Kopka, Medium frequency radar observations 
+in the middle atmosphere, J. Atmos. Terr. Phys., 45, 10, 729-732, 1983.
+
+Reid, I. M., MF and HF radar techniques for investigating the dynamics and
+structure of the 50 to 110 km height region: a review, Progress in Earth and
+Planetary Science (2015) 2:33, DOI 10.1186/s40645-015-0060-7
+
+Senior, A, Honary, F, Chapman, PJ, Rietveld, MT, Kelso, TS & Kosch, MJ 2008, 
+'High-frequency magnetospheric sounding at EISCAT: Some trials and their
+implications' Radio Science, vol 43, no. RS4009, pp. 1-13. DOI: 10.1029/2007RS003779
+
+Vierinen, J., A. Kero, M. T. Rietveld, High latitude artificial periodic 
+irregularity observations with the upgraded EISCAT heating facility,
+Journal of Atmospheric and Solar-Terrestrial Physics, 105-106, 253-261, 2013.

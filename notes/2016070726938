@@ -1,0 +1,23 @@
+experiment MaxiDusty
+instrument VHF
+start 2016 07 07 0800
+end 2016 07 07 1200
+status R
+description Support MaxiDusty rocket campaign
+contact Henry Pinedo
+email henry.pinedo@uit.no
+operator EISCAT staff
+submitter Henry Pinedo
+resources NO(24)
+notes
+The MaxiDusty rocket launch window-time is between June 24th and July 10th (DoY 176-192).
+
+The whole EISCAT VHF campaign may be cancelled if rocket campaign is cancelled.
+
+Using MANDA program, raw data recording, TX vertical. Dates: 2016, July 1st & July 4-8th (DoY 183, 186-
+190). There may be cancellations the remaining days after the rocket is launched.
+
+There may be also the chance of monitoring the PMSE occurrence with the newly enabled low power mode 
+of the VHF antenna (currently in test mode with succesfull measurements on June 1st). This would cover the 
+possible rocket-launch days not included in present campaign, its operation will be in principle during 
+working hours.

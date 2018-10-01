@@ -1,0 +1,19 @@
+experiment ALTA
+instrument UHF
+start 2003 02 28 1630
+end 2003 02 28 2030
+status R
+description Multi-National Study of Artificial Langmuir Turbulence and Aurora
+contact Mike Kosch
+phone +44-1524-593016
+email m.kosch@lancaster.ac.uk
+fax +44-1524-592713
+operator Vikki Howells/Ivan Finch
+submitter Ian McCrea
+resources UK(40),GE(40),SW(20)
+notes
+This is the UHF part of the artificial aurora and Langmuir turbulence experiment.  The mode will probably be similar to previous artificial aurora
+campaigns, namely tau2 on the UHF with a dedicated Langmuir turbulence experiment (developed by Brett Isham) on the VHF and simultaneous heating.
+
+This experiment needs good optical conditions, but low geomagnetic activity.
+It can therefore be treated as an alternative to the CP1-ARC experiment on days when both are scheduled, as conditions for these are mutually exclusive.  Because of the requirements on optical conditions, there will almost inevitably be some degree of cancellation. 

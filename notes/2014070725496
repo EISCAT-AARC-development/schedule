@@ -1,0 +1,24 @@
+experiment PMSEOVER
+instrument HEA
+start 2014 07 07 0900
+end 2014 07 07 1300
+status R
+description Multi-radar (wavelength) PMSE studies including overshoot effect
+contact Cesar La Hoz
+email cesar.la.hoz@uit.no
+operator Henry Pinedo
+submitter Henry Pinedo
+resources NO(60),UK(24)
+notes
+Using MANDA program (MORRO radar-compatible experiment) and running simultaneously:
+1. HF heating/radar (HEA)
+2. VHF Tromsø (VHF)
+3. UHF Tromsø (TRO)
+4. Kiruna VHF receiver (KIR)
+5. Sodankylä VHF receiver (SOD)
+
+Dates: June 26 - July 11th (Week days), 09-13UT.
+
+We will try to dosify our resources along the campaign accordingly to the mesospheric conditions and 
+heating response of the PMSE. PMSE will be monitored by the MORRO radar at least from the beginning 
+of the campaign each day.

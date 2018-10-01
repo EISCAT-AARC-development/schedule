@@ -1,0 +1,13 @@
+experiment EME
+instrument ESR
+start 2003 09 19 1600
+end 2003 09 22 0400
+status R
+description Public relations / popular science activity: Using the ESR 32-m antenna for Earth-Moon-Earth (
+contact Gudmund Wannberg
+email ugw@eiscat.com
+operator Gudmund Wannberg
+submitter Gudmund Wannberg
+resources EI(15)
+notes
+This is a PASSIVE activity that will use only the ESR 32-m antenna and (possibly) the ESR receiver but NOT the ESR transmitter. Receiving and low-power transmitting equipment for the 432 MHz amateur radio band will be temporarily connected to the antenna for this activity.

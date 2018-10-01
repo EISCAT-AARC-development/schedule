@@ -1,0 +1,14 @@
+experiment GEXO
+instrument HEA
+start 2017 11 06 1100
+end 2017 11 06 1500
+status R
+description the gyroharmonic effects under the X-mode and plasma resonance absorption under O-mode
+contact Wu Jun
+email wujun1969@163.com
+operator Xu Tong
+submitter Wu Jun
+resources CN(4)
+notes
+The purpose of the heating experiment is to investigate the gyroharmonic effects
+under the X-mode and plasma resonance absorption under O-mode.

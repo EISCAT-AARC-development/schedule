@@ -1,0 +1,13 @@
+experiment WIND
+instrument HEA
+start 1999 02 22 2000
+end 1999 02 22 2359
+status R
+description Heater transmission to WIND spacecraft (replaces lost January run)
+contact M. Rietveld
+phone +47 776 92171
+email mike.rietveld@eiscat.uit.no 
+fax +47 776 92360
+operator M. Rietveld
+resources GE(3.2)
+submitter M. Rietveld

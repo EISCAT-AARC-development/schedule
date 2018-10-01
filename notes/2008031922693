@@ -1,0 +1,32 @@
+experiment UK_SCINTI
+instrument UHF
+start 2008 03 19 0400
+end 2008 03 31 1730
+status R
+description Interplanetary Scintillation Measurements during the Whole Heliosphere Interval
+contact Richard Fallows
+phone +44-1970-622805
+email raf@aber.ac.uk
+fax +44-1970-622826
+operator Richard Fallows
+submitter Ian McCrea
+resources UK(40)
+notes
+This is a block booking for an extended period of passive IPS observations, 
+required in support of the Whole Heliosphere Interval (WHI), which is part of 
+the International Heliophysical Year.
+
+EISCAT will not be used continuously, but will observe a few sources each day 
+using different combinations of radars.  
+
+The overall observing schedule for the EISCAT IPS observations is at:
+
+http://www.eiscat.rl.ac.uk/Members/ian/EISCAT/Campaigns/2008/camp125/experiments
+/scinti/document_view
+
+A web page describing the aims of the Whole Heliosphere Interval is at:
+
+http://ihy2007.org/WHI/WHI.shtml
+
+
+

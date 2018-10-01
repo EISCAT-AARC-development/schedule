@@ -1,0 +1,13 @@
+experiment TEST 3
+radarprogramme no preference
+instrument VHF
+start 2001 10 09 1514
+end 2001 10 09 1514
+status R
+contact me
+email isham@e.u.n 
+operator me
+resources EI(0)
+submitter me
+notes
+test!

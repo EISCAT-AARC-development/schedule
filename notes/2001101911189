@@ -1,0 +1,13 @@
+experiment EISCAT/Heating/Alis
+instrument UHF
+start 2001 10 19 0231
+end 2001 10 21 0231
+status R
+description Collaboration with IRF for EISCAT/Heating/ALIS exp.
+contact T. Aso
+email aso@nipr.ac.jp 
+operator I. Haagstroem
+resources JP(10hours)
+submitter Ryoichi Fujii
+notes
+Japan would like to provide our SP time for the experiment above. The EISCAT UHF, VHF, heating faclities are planned to be used for the exp. Note what I sent you a few minutes ago was wrong one, so please replace it with the present one.

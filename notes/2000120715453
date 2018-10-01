@@ -1,0 +1,31 @@
+experiment CLUSTER
+instrument ESR
+start 2000 12 07 0200
+end 2000 12 07 1300
+status C
+description Cluster co-ordinated observations
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(11) Sat-pool
+submitter Tony van Eyken
+notes
+Dec 7th.  On this day, CLUSTER will be somewhere over Russia about 02
+UT.  At about 0310 UT it passes just East of Svalbard, then moves into
+the polar cap, with the magnetic footprint describing a Descartes folium
+which moves back over Svalbard sometime around 1230 UT.  By 1400, the 
+footprint will be over Greenland.  CLUSTER crosses out of the magnetopause
+by 1700 UT.
+
+We have discussed an experiment which looked North at low
+elevation alternating with field aligned measurements.  This might
+be the best mode to use during the interval 02-13 UT. After that,
+the CLUSTER footprint will move toward the Greenland sector and it might
+be more productive to do a windshield-wiper mode looking towards Sondy
+(even better if we could get Sondy to do the same thing looking toward
+Svalbard).
+
+If we can get supporting CP4 observations from the mainland during this
+interval, they would undoubtedly be very useful.

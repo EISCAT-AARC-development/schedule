@@ -1,0 +1,22 @@
+experiment Heat2017
+instrument HEA
+start 2017 10 24 1000
+end 2017 10 24 1400
+status R
+description Heating experiment for ionospheric modifications
+contact Björn Gusavsson
+phone +47 40724899
+email bjorn.gustavsson@uit.no
+operator Björn Gustavsson
+submitter Björn Gustavsson
+resources NO(42)
+notes
+We will perform 3 experiments:
+1: Investigation of the role of density striations for L-mode propagation
+through the F-layer.
+2: Investigation of the role of HF-power for L-mode propagation through the
+F-layer and generation of top-side enhancements of ion-acoustic back-scatter.
+3: Verification of horizontal variation of electron-heating efficiency.
+
+Combining ionospheric HF-modifications with UHF and interferometric HF SEE
+observations

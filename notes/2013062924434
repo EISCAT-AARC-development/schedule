@@ -1,0 +1,14 @@
+experiment WADIS
+instrument VHF
+start 2013 06 29 1900
+end 2013 06 29 2359
+status R
+description WADIS rocket campaign
+contact B Strelninkov
+phone +47 76144515
+email strelnikov@iap-kborn.de
+operator EISCAT staff
+submitter I Häggström
+resources PP(24)
+notes
+runexp /kst/exp/arc_dlayer lm zenith GE

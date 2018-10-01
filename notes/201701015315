@@ -1,0 +1,20 @@
+experiment FlowChnls
+instrument VHF
+start 2017 01 01 1300
+end 2017 01 04 2000
+status R
+description Day-night connection by localized flow channels: Coordination with Heliophysics System Observatory campaign
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)
+notes
+rem ksv runexp /kst/exp/bella/bella 0:0 lowel
+
+To determine structure of fast flow channels forming on the dayside cusp region
+and their propagation across the polar cap toward the nightside auroral oval
+To determine impact of fast flow channels on global plasma circulation
+processes, including magnetic reconnection, flux transfer events, plasma sheet
+flow bursts, and subauroral polarization streams
+

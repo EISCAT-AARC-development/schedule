@@ -1,0 +1,20 @@
+experiment sp_ni_con
+instrument UHF
+start 2009 10 13 1900
+end 2009 10 13 2300
+status R
+description CP1 run with optical measurements
+contact Satonori Nozawa
+phone 81527894303
+email nozawa@stelab.nagoya-u.ac.jp
+fax 81527894311
+operator Takuo Tsuda
+submitter Satonori Nozawa
+resources NI(12)
+notes
+We will make an optical campaign using  FPI, aurora imager, aurora cameras, proton imagers
+and 4-wavelength photometer with the EISCAT UHF radar (CP-1, arc1 or beata,
+tristatic measurements).
+Clear sky and higher geomagnetic activity are desired.
+
+So, we will run this SP for 2 nights out of 3 night requested.

@@ -1,0 +1,21 @@
+experiment Deb_NI
+instrument ESR
+start 2017 01 13 1400
+end 2017 01 13 2200
+status R
+description This time, try to detect Iridium satellites for future studies of space debris
+contact Koki Fujita
+email fuji@aero.kyushu-u.ac.jp
+operator site STAFF
+submitter Satonori NOZAWA
+resources NI(16)
+notes
+poweron
+pointdirection 0 35
+run /kst/exp/ei/leo-e_22/leo-e fm ni 32m
+enablerecording
+stopexperiment
+
+We wil run ESR for two time intervals:  2:00-10:00, 14:00-22:00 UT, with 
+(Az, El) = (0.0 deg, 35.0 deg), and 
+leo_e (made by Dr. Markkanen)

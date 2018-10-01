@@ -1,0 +1,14 @@
+experiment Aurora
+instrument UHF
+start 2011 12 15 1900
+end 2011 12 16 0100
+status R
+description Coordinated ground-based radar and optical auroral observations.
+contact Carl-Fredrik Enell
+phone +358 40 1728599
+email carl-fredrik.enell@sgo.fi
+operator Carl-Fredrik Enell
+submitter Antti Kero
+resources FI(18)
+notes
+Will be overbooked and cancelled according to weather forecasts.

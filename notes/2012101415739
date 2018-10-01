@@ -1,0 +1,23 @@
+experiment AARI
+instrument HEA
+start 2012 10 14 1300
+end 2012 10 14 1800
+status R
+description X-mode HF heater-induced phenomena
+contact Nataly Blagoveshchenskaya
+phone +7-812-337-3191
+email nataly@aari.nw.ru
+fax +7-812-352-2688
+operator Nataly Blagoveshchenskaya
+submitter Nataly Blagoveshchenskaya
+resources RU(50)
+notes
+We will continue studies of phenomena in the F-region of the ionosphere induced 
+by powerful HF radio waves with X-mode polarisation when the heater frequency 
+is above the critical frequency of the F2 layer under power stepping of the HF 
+heater. We also plan to study the gyro harmonic effects under the X-mode 
+heating.The phased array 1 resulting in ERP = 600 - 1200 MW will be used in the 
+course of experiments. Experiments will be carried out from 12 October to 22 
+October every day from 13 to 18 UT by using the HF heating facility (HEA) and 
+Tromso UHF radar (TRO). The experiments to be cancelled due to unsuitable 
+ionospheric conditions. 

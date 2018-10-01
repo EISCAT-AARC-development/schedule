@@ -1,0 +1,19 @@
+experiment SDII_camp
+instrument UHF
+start 2004 03 04 1100
+end 2004 03 05 1100
+status R
+description The second SD-project 's measurement campaign
+contact Markku Postila
+phone +358-16-619881
+email markku.postila@eiscat.sgo.fi
+fax +358-16-610375
+operator Jussi Markkanen
+submitter Markku Postila
+resources EI(24)
+notes
+Special SD-receiver will be used to sample the EISCAT signal on the IF2 level 
+(11MHz) at the Tromsö site. Standard EISCAT receivers and DSP will be used at 
+the remote sites. Standard EISCAT experiments (with fixed antenna pointing) 
+will be used at the Tromsö site and the modified versions of the same 
+experiments at the remotes. 

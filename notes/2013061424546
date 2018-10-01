@@ -1,0 +1,38 @@
+experiment CCOC
+instrument VHF
+start 2013 06 14 0600
+end 2013 06 14 1000
+status R
+description CLUSTER conjunctions with EISCAT in the cusp
+contact Andrew J. Kavanagh
+phone +44 1223221314
+email andkav@bas.ac.uk
+fax +44 1223 362616
+operator Andrew J. Kavanagh
+submitter Andrew J. Kavanagh
+resources UK(4),NO(8),SW(8)
+notes
+This is a a joint experiment between the UK, Sweden and Norway to provide EISCAT
+observations in support of the CLUSTER spacecraft as they traverse the southern
+hemisphere cusp. Five intervals have been selected, each run lasting four hours
+(minimum time for radar operation).
+
+The time contributed by the three partners is:
+Norway: 12 hours
+Sweden: 12 hours
+UK: 12 hours (ESR), 24 hours (mainland)
+
+Although we are requesting 4-hour slots the experiment only really needs about 2
+hours. Thus if other experimenters request overlapping time we could come to an
+agreement to reduce the time that may be scheduled for CCOC.
+
+The VHF will be operated pointing at low elevation to the north (potential time
+split: UK(4),NO(8), SW(8))
+The UHF will be operated at low elevation pointing generally north-west to
+provide wider cusp coverage and 2D velocity estimates in conjunction with the
+VHF (potential time split: UK(20))
+The ESR 32m dish will point at low elevation to the north, interleaved with the
+42m dish n(potential time split: NO(4), SW(4), UK(12))
+This configuration will optimise the chances of observing features in the Cusp
+to provide context and interhemispheric comparison with the CLUSTER satellites.
+All partners will have equal access to all of the data taken.

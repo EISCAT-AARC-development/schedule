@@ -1,0 +1,13 @@
+experiment WIND
+instrument HEA
+start 1998 11 29 0600
+end 1998 11 29 1000
+status R
+description Transmissions to the WIND spacecraft
+contact Mike Rietveld
+phone +47 776 92171
+email mike@eiscat.uit.no 
+fax +47 776 92360
+operator Mike Rietveld
+resources GE(100)
+submitter Mike Reitveld

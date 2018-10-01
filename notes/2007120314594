@@ -1,0 +1,17 @@
+experiment E_heating
+instrument UHF
+start 2007 12 03 1800
+end 2007 12 03 2200
+status R
+description EISCAT-ALIS experiment on E-region HF heating 
+contact Tima Sergienko
+phone +4698079071
+email tima@irf.se
+fax +4698079050
+operator Mike Rietveld 
+submitter Tima Sergienko
+resources SW(30)
+notes
+Radar (EISCAT UHF) and optical (ALIS) observations during the E-region HF 
+heating experiment to study HF heating effects on ionosphere-magnetosphere 
+interaction. 

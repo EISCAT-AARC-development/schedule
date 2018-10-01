@@ -1,0 +1,20 @@
+experiment SP-UK-PBIE
+instrument UHF
+start 2002 02 17 2100
+end 2002 02 18 0100
+status R
+description Poleward Boundary Intensification Study.
+contact Ian Mann
+phone +44 1904 432240
+email ian@aurora.york.ac.uk 
+fax +44 1904 432214
+operator To Be Decided
+resources UK(24)
+submitter Ken Freeman
+notes
+This experiment is an investigation into the role of Alfven waves in the           
+coupling between the auroral zone and the magnetotail. EISCAT observations will          
+be made in conjunction with optical and satellite measurements. (The latter are          
+variously Geotail, Polar, and Cluster.) The experiment will employ CP1 on the           
+Mainland UHF Radar, and CP4 on the Mainland VHF Radar. Both Svalbard antennas           
+will be used, with the Steerable Antenna pointing northwards on 10/11 January observing run and southwards on all other days.

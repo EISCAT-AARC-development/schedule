@@ -1,0 +1,12 @@
+experiment UK_ASK
+instrument ESR
+start 2007 12 06 0600
+end 2007 12 06 1100
+status R
+description High time resolution experiment (arc) 42 m field-aligned
+contact Betty Lanchester
+phone +44 2380592049
+email bsl@soton.ac.uk
+operator Mina Ashrafi
+submitter Betty Lanchester
+resources UK(10)

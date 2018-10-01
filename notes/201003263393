@@ -1,0 +1,24 @@
+experiment AGF304
+instrument ESR
+start 2010 03 26 0830
+end 2010 03 26 1230
+status R
+description ESR measurements for UNIS students
+contact Kjellmar Oksavik
+phone +47-79023387
+email kjellmar.oksavik@unis.no
+fax +47-79023301
+operator Kjellmar Oksavik
+submitter Kjellmar Oksavik
+resources NO(20)
+notes
+The purpose of this experiment is to study the dayside ionosphere. Particular 
+areas of interest are signatures of poleward moving forms, polar cap patches, 
+and flow channels that enter the dayside polar cap. This experiment also 
+provides training to students taking the AGF-304 radar course at UNIS. We plan 
+to use both antennas, and depending on the geophysical conditions at the time, 
+we will use different pulse codes (e.g. tau0 and taro) and a combination of 
+fixed positions one day, and azimuth and elevation scans the next day. We may 
+also use the SPEAR heating facility for part of the run. The purpose is to 
+show the students different ways of operating the radar, and collect data that 
+they can use for GUISDAP analysis, project work and thesis work.

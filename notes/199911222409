@@ -1,0 +1,16 @@
+experiment SCHUMANN
+instrument HEA
+start 1999 11 22 1400
+end 1999 11 22 1600
+status R
+description Schumann resonance excitation
+contact Mike Rietveld
+phone 77692171
+email rietveld@linmpi.mpg.de 
+fax 77692360
+operator M. Rietveld
+resources GE(1.6)
+submitter Michael Rietveld
+notes
+Schumann resonance excitation experiment. 
+Reception in Ukraine (Y. Yampolski) and possibly elsewhere.

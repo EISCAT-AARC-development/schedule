@@ -1,0 +1,27 @@
+experiment tau1_AA
+instrument VHF
+start 2004 01 16 1000
+end 2004 01 16 1400
+status R
+description VHF single-beam experiment in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator Paul Gallop
+submitter Ian McCrea
+resources AA(4)
+notes
+I am submitting only two requests for Cluster operation in January 2004.  Both 
+are magnetopause crossings, though the timing is not yet optimal for studies of 
+the cusp (i.e. local time is still later than nominal for a cusp crossing) - 
+the geometry will improve steadily during February and March.
+
+The best geometry is probably the combination of VHF and ESR northward-looking 
+modes, with ESR 32m observations being alternated (dump for dump) with field-
+aligned observations from the 42m dish.
+
+The proposed runs are  January 16   1000-1400
+                  and  January 23   1000-1400
+
+

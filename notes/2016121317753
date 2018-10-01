@@ -1,0 +1,16 @@
+experiment LOAPI
+instrument HEA
+start 2016 12 13 1230
+end 2016 12 13 1430
+status R
+description GNSS observation of HF heating
+contact Hiroatsu Sato
+phone +49-3981-480-190
+email hiroatsu.sato@dlr.de
+fax +49-3981-480-142
+operator EISCAT staff
+submitter Hiroatsu Sato
+resources PP(12)
+notes
+The main objective is spaced receiver observation of GNSS signals when the
+satellite ray paths cross the magnetic zenith during HF heating.

@@ -1,0 +1,19 @@
+experiment tau0_AA
+instrument ESR
+start 2005 01 18 0800
+end 2005 01 18 1400
+status R
+description ESR experiment in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator Jean Lilensten
+submitter Ian McCrea
+resources AA(6)
+notes
+By agreement with Jean Lilensten this interval will form part of the French 
+experiment, but the ESR will be used in the standard Cluster mode during the 
+period of the Cluster overpass.  Data from the 42m (field-aligned) and 32m 
+(LowElNorth)dishes will be interleaved (one dump from each) using whichever 
+modulation is adopted for the French experiment.

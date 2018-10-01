@@ -1,0 +1,17 @@
+experiment 1.4GHz IPS
+instrument KIR
+start 2002 08 05 0600
+end 2002 08 08 1800
+status R
+description Test of dual polarisation 1.4 GHz IPS receiver system
+contact Gudmund Wannberg
+phone +46 980 787 07
+email ugw@eiscat.com 
+operator Gudmund Wannberg
+resources maint(max 84)
+submitter Gudmund Wannberg
+notes
+First on-the-air test of the dual channel 1.4 GHz IPS receiver system and  
+associated DSP software for estimation of Stokes parameters. 
+ 
+2x 4 hours required to swap feeds at beginning and end.

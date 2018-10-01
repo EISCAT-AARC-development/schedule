@@ -1,0 +1,17 @@
+experiment CARE_II
+instrument TRO
+start 2015 09 18 1800
+end 2015 09 18 200
+status R
+description Ground-based support for the CARE II rocket launch
+contact Björn Gustavsson
+email bjorn.gustavsson@uit.no
+operator TBD
+submitter Björn Gustavsson
+resources NO(26)
+notes
+The CARE II rocket will perform a dust release at ̃260-280 km of altitude on the
+down-leg after a release from Andøya. The UHF radar will observe the ionospheric
+response to the dust and the dust charging.
+
+All radar runs after Launch-day will be canceled

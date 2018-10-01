@@ -1,0 +1,16 @@
+experiment SP-UK-OUCH
+instrument HEA
+start 2001 03 18 1500
+end 2001 03 18 1700
+status R
+description Use of the Heater in collaboration with the HAARP Facility in Alaska.
+contact Darren Wright
+phone +44 116 2523568
+email Darren.Wright@ion.le.ac.uk 
+fax +44 116 2523555
+operator Mike Rietveld
+resources UK(60)
+submitter Ken Freeman
+notes
+This experiment will employ the Heater only. The times have been revised to  
+avoid conflict with a Swedish experiment, and, as a result, supersede an earlier booking. It is anticipated that only three of the four intervals booked will be used. Please note that the time quoted under "Resources" is that of a pool with other UK experiments. There are plans for these to run in April/May of this year.

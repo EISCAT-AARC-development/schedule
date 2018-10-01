@@ -1,0 +1,13 @@
+experiment CUSP
+instrument ESR
+start 2007 12 06 0700
+end 2007 12 06 1200
+description Observation of the open-closed field line boundary and cusp ionosphere
+contact Frederic Pitout
+phone +33 4 76 63 54 24
+email frederic.pitout@obs.ujf-grenoble.fr
+fax +33 4 76 51 41 46
+operator Jean Lilensten
+submitter Frederic Pitout
+notes
+32m dish pointing at low elevation northward (or southward depending on IMF)

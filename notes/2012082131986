@@ -1,0 +1,14 @@
+experiment SchoolTest
+instrument TRO
+start 2012 08 21 0800
+end 2012 08 21 1000
+status R
+description Finnish upper secondary school space camp experiment
+contact Noora Partamies
+email noora.partamies@fmi.fi
+operator Noora Partamies
+submitter Noora Partamies
+resources FI(2)
+notes
+A group of Finnish upper secondary school students will have a space camp in Kiruna. For educational 
+purposes, we are planning to run a short CP1 type experiment remotely from the Kiruna EISCAT site

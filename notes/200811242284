@@ -1,0 +1,16 @@
+experiment AERO
+instrument VHF
+start 2008 11 24 0930
+end 2008 11 24 1130
+status R
+description Combined D-region heating and aerosol measurements
+contact Antti Kero/Esa Turunen
+phone +35816619837
+email esa.turunen@sgo.fi
+operator Thomas Ulich
+submitter Thomas Ulich
+resources FI(33)
+notes
+AEROnomy measurements: D-region probing by radar with (Kero) and without (Turunen) heating (heating 
+experiments to be cancelled according to geophysical conditions). Experiments without heating are for 
+aerosol measurements. Contact for Antti Kero: antti.kero@sgo.fi

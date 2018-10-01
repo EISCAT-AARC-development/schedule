@@ -1,0 +1,21 @@
+experiment tau3_UK
+instrument UHF
+start 2002 09 26 1800
+end 2002 09 26 2100
+status R
+description Scanning experiment for verification of CHAMP limb-sounding and TEC
+contact Bob Meggs
+phone +44 1225 826610
+email eeprwm@bath.ac.uk
+fax +44 1225 826305
+operator Bob Meggs
+submitter Ian McCrea
+resources UK(9)
+notes
+Meridian scanning experiment going from 74.8 down to 66.6 degrees north, as used in January 2002.  The elan file is on puny, and can be found in
+/opt/kst/exp/uk/tau3t_limb_UK.
+
+Three four-hour slots are requested for Setpember 2002 in support of CHAMP
+overpasses.  One of these will be cancelled nearer the time.  Some tweaking
+of the run times may be necessary, because CHAMP is currently in low orbit which makes accurate prediction of overpasses two months in advance very difficult.
+

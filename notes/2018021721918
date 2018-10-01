@@ -1,0 +1,34 @@
+experiment Cluster UK
+instrument VHF
+start 2018 02 17 2030
+end 2018 02 18 0030
+status R
+description EISCAT mainland and ESR observations in support of Cluster conjunctions
+contact Rob Fear
+phone +442380592099
+email r.c.fear@southampton.ac.uk
+fax +442380593910
+operator tbd
+submitter Ian McCrea
+resources UK(12)
+notes
+This is the latest in a series of schedule requests to cover a series of 
+EISCAT/Cluster conjunctions between December 2017 and March 2018.  
+
+Unlike the conjunctions of December 2017 and January 2018, the February and 
+March 2018 conjunctions occur in the auroral zone. Hence the ESR32m dish 
+should now be pointed SOUTH at low elevation, whilst the 42m dish will 
+provide interleaved altitude profiles along the magnetic field.  As in 
+December and January, we propose to use the ‘folke’ code on the ESR.  
+Simultaneously, we will operate the mainland VHF at low elevation pointing 
+north using the ‘bella’ code to maximise the range coverage, and the UHF 
+radar will be run field-aligned using the ‘beata’ modulation, to provide 
+altitude profiles.   In summary:
+
+- Modulation scheme “bella” with pointing file “lowel1” on the VHF
+- Modulation scheme “beata” with pointing file “cp1” on the UHF
+- Modulation scheme “folke” with pointing file “lowelsouth” on the ESR 
+- Interleaved data from the ESR 32m dish
+
+I am booking the time as UK, but it is possible that other countries may 
+also chose to contribute.

@@ -1,0 +1,20 @@
+experiment sp_ni_jup
+instrument KIR
+start 2004 07 19 1130
+end 2004 07 19 1630
+status R
+description Jupiter's synchrotron radiation
+contact Satonori Nozawa
+phone 81-52-789-4303
+email nozawa@stelab.nagoya-u.ac.jp
+fax 81-52-789-4311
+operator Hiroaki Misawa
+submitter Satonori Nozawa
+resources NI(13)
+notes
+The experiment target is the observation of Jupiter's synchrotron radiation
+(JSR), which reflects dynamics of relativistic electrons in Jupiter's
+inner magnetosphere. We plan to make the JSR monitoring for about 3 weeks and
+5hr a day. In each observation unit, both Jupiter and some flux calibration
+stars will be observed with elevational sweeping of the antenna for measuring
+atmospheric extinction effect of the earth.

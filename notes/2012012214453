@@ -1,0 +1,20 @@
+experiment EASI SPEAR
+instrument ESR
+start 2012 01 22 1800
+end 2012 01 22 2200
+status R
+description Studying the effect of SPEAR heating using radar interferometer techniques
+contact Nicola Schlatter
+phone 0047736785880
+email Nicola.Schlatter@gmx.at
+operator Nicola Schlatter
+submitter Nicola Schlatter
+resources SW(28)
+notes
+The aims of the experiment using the SPEAR heating facility together with the
+EISCAT Svalbard Radar and EISCAT
+Aperture Synthesis Imaging (EASI) are:
+   - to study heating introduced plasma instabilities in the E-region
+   - and the horizontal distribution of modifications introduced by the heater
+using radar interferometry.
+Pulse code LT4FL and Beata will be run on the Radar.

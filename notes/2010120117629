@@ -1,0 +1,23 @@
+experiment KAPCORC
+instrument ESR
+start 2010 12 01 1900
+end 2010 12 04 2400
+status R
+description Polar cap patch campaign
+contact Magnar G. Johnsen
+phone +4777646956
+email Magnar.g.Johnsen@uit.no
+operator Magnar G. Johnsen
+submitter Magnar G. Johnsen
+resources NO(15)
+notes
+Experiment objective: Make simultainous radar measurements and
+mulitspectral imaging of polar cap patches as they approach the
+nightside auroral oval. American colegues are collaborating and will
+provide multispectral data from All-sky imagers at KHO and Station
+Nord and Qaanaaq in Greenland
+Experiment conditions: Clear skies and prolonged IMF Bz < 0 conditions
+Both 42 m and 32 m antennas will be used. 42m field aligned and 32 m
+antenna will do meridonial half scans from zenith and northward. The
+aziumuth scanning direction will be towards station Nord in Greenland
+(43.6 degrees west of geographic north).

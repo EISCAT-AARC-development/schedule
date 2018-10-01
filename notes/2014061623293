@@ -1,0 +1,18 @@
+experiment SCINTI
+instrument TRO
+start 2014 06 16 0800
+end 2014 06 16 1300
+status R
+description Interplanetary scintillation
+contact Richard Fallows
+phone +31 521 595764
+email fallows@astron.nl
+operator Richard Fallows
+submitter Richard Fallows
+resources UK(5)
+notes
+This is a five hour observation of the natural radio source CTA21 at a time when 
+it passes very close to Venus. VLBI telescopes will observe phase scintillation 
+from the Venus Express spacecraft. Intensity scintillation will be observed with 
+EISCAT, LOFAR and other worldwide systems.  Please note that Richard Fallows 
+will not be at EISCAT at this time, but will need to operate the system remotely.

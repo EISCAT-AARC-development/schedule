@@ -1,0 +1,15 @@
+experiment EISCAT/ALIS
+instrument HEA
+start 2002 03 04 0550
+end 2002 03 10 0550
+status R
+description EISCAT/Heating/ALIS Experiment
+contact T. Aso, B. Gustavsson
+phone +81-3-3962-4717
+email aso@nipr.ac.jp 
+fax +81-3-3962-5701
+operator N. Isham, M. Rietveld
+resources JP(10)
+submitter Ryoichi FUJII
+notes
+This experiment requested here will be a part of the project by Kosch and RAL researchers in UK during March 4-10. We Japan would like to provide them with10 hours for it. The radars being planned to be used are the UHF, VHF and heating facility in the mainland.

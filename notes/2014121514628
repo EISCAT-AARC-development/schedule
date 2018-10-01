@@ -1,0 +1,19 @@
+experiment CP4
+instrument KIR
+start 2014 12 15 0800
+end 2014 12 22 2300
+status R
+description Northern Deep Winter  Observations
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(99)
+notes
+runexp /kst/exp/bella/bella 8:0 lowel
+
+Designed to exploit the high‐latitude dark skies near winter solstice. All
+proposals will be considered and operating modes for each facility will be
+designed to maximize the scientific goals of the interested parties. In
+particular, we expect to focus on SED, SAPS, and patch evolution, among other
+topics as requested.

@@ -1,0 +1,26 @@
+experiment AARR2
+instrument ESR
+start 2015 03 12 1900
+end 2015 03 12 2300
+status R
+description Observations of the Acceleration Region and the Associated Ionospheric Effects in the Auroral Zone.
+contact Bjorn Gustavsson
+phone +47 77645688
+email bjorn.gustavsson@phys.uit.no
+operator Anja Strømme
+submitter Björn Gustavsson
+resources NO(40)
+notes
+The objectives of the experiment are to look for turbulent radar echoes 
+parallel to the Earth's magnetic field in the acceleration region at about 
+3000-6000 km altitude, and simultaneously observe the ionospheric effects in 
+the E- and F- regions along the same field line. Such simultaneous observations 
+can shed light on several important and not yet resolved questions about 
+magnetosphere-ionosphere coupling and auroral acceleration. The formation of 
+arcs, ion outflow and mechanisms causing the turbulent Naturally Enhanced Ion 
+Acoustic Lines (NEIALs) in the ionosphere will be studied.
+
+This is an experiment done in collaboration with and proposed by:
+Anja Strømme
+SRI
+

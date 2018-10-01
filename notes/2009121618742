@@ -1,0 +1,20 @@
+experiment Boundary
+instrument VHF
+start 2009 12 16 2000
+end 2009 12 17 0100
+status R
+description Polar Cap Boundary Experiments
+contact Anita Aikio
+phone +358405774743
+email anita.aikio@oulu.fi
+operator Thomas Ulich
+submitter Thomas Ulich
+resources FI(5)
+notes
+We want to study processes taking place within the auroral oval, at the polar cap boundary and even 
+within the polar cap, like:
+- Reconnection (determination ofthe reconnection electric field)
+- Poleward boundary intensifications (PBIs), auroral streamers and fast flows
+- Drift of F-region polar cap patches across the nightside auroral oval boundary and the effects of that 
+to the boundary
+

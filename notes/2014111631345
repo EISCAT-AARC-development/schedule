@@ -1,0 +1,32 @@
+experiment SCRAP 14
+instrument TRO
+start 2014 11 16 0900
+end 2014 11 17 1500
+status R
+description SCattering of Radar Waves on Aerosols in Plasmas
+contact Hannah Lindberg
+phone +46 072 032 7591
+email hannahli@kth.se
+operator Matteo Crimella
+submitter Matteo Crimella
+resources PR(12)
+notes
+The main objective of the SCRAP rocket experiment is to validate theories on density fluctuations in 
+dusty plasmas by measuring the scattering of ultra-high frequency radio waves on a cloud of electrically 
+conductive microparticles spread in the mesospheric plasma. By using the EISCAT UHF radar to observe 
+a cloud of calibrated mesospheric dust particles, the SCRAP experiment will relate theoretical 
+predictions to a controlled object. The results will provide a new insight on phenomena such as polar 
+mesospheric summer echoes, anomalous radar echoes which are thought to be caused by mesospheric 
+clouds of ice particles.
+The SCARP experiment will be performed in spring 2015. The success of the experiment relies on the 
+possibility to detect the radar backscatter of the microparticle cloud and resolve the spectra of so called 
+dust acoustic waves.
+The experiment has been selected into the REXUS/BEXUS Programme under ESA, DLR, SNSB, SSC and 
+ZARM and will be launched on one of their rockets during the spring of 2015.
+
+During the November campaign we will observe the Leonids meteor shower which deposits meteor dust 
+in the upper atmosphere. We are interested in the observation of the presence of dust, related to this 
+event, in the Ionosphere.
+
+The SCRAP experiment obtained 12 hours of use of EISCAT radar from the peer review application which 
+will be used in this campaign.

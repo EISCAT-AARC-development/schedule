@@ -1,0 +1,22 @@
+experiment MAGIC
+instrument VHF
+start 2005 01 10 0704
+end 2005 01 17 1500
+status R
+description PMWE  observations for the Magic sounding rocket Campaign
+contact Sheila Kirkwood
+phone +46 980 79083
+email sheila.kirkwood@irf.se
+fax +46 980 79050
+operator Peter Dalin
+submitter Sheila Kirkwood
+resources SW(24)
+notes
+We want to be scheduled as second priority and to other experiments or to maintenance 
+during the working day, and to any other experiments which happen to be scheduled 
+during nighttime. For the weekend,  15/16 January, we would like to be scheduled for 
+daytime operations at first priority if no other experiments are scheduled then. We want to 
+run actively when one of the following conditions is fulfilled 
+1) PMWE are observed with the ESRAD radar
+2) the Magic rocket is launched
+3) the Magic rocket has been launched the previous night

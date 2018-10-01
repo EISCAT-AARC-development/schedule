@@ -1,0 +1,38 @@
+experiment SCIFER
+instrument TRO
+start 2008 01 12 0400
+end 2008 01 12 0900
+status R
+description Experiments to support the SCIFER rocket campaign
+contact Anja Stromme
+phone +1-650-859-5084
+email anja.stromme@sri.com
+fax +1-650-322-2318
+operator Anja Stromme
+submitter Ian McCrea
+resources UK(20)
+notes
+The SCIFER-2 launch vehicle will be a Black Brant XII rocket, capable of 
+achieving an apogee of 1400 km.  The mission payload consists of a 5.5m boom to 
+measure electric fields, ELF and VLF emissions and plasma waves; four “top hat” 
+particle detectors (two sets of two, on short booms) to measure the field-
+parallel and field-perpendicular phase space distributions of electrons and 
+ions, a retarding potential analyser with upward and downward-looking heads to 
+measure electron energy and temperature and a boom-mounted magnetometer from 
+whose data field-aligned currents can be calculated. An extensive description 
+of the SCIFER-2 rocket, together with details of the payload, the science goals 
+and the ethos of the launch campaign can be found at 
+http://www.dartmouth.edu/~aurora/scifer2.html.
+
+We propose to use all three of EISCAT’s radar systems in support of the SCIFER-
+2 campaign.  The most important measurements will come from the EISCAT Svalbard 
+Radar, with the 32m steerable dish being pointed to the nominal apogee of the 
+rocket flight while the field-aligned dish provides contextual information 
+along the local field line.  The mainland VHF radar will be used in low-
+elevation boresight mode, looking essentially geographic north at an elevation 
+of 30o.  The UHF radar will also be used in a low elevation northward pointing 
+mode, but offset in azimuth from the VHF so that electric fields can be 
+inferred using the “beamswinging” technique.  The aim of both mainland radars 
+is to characterise the latitudinal variation of the ionosphere up to and beyond 
+Svalbard, while the ESR provides a direct measurement of conditions below and 
+up to the rocket volume.

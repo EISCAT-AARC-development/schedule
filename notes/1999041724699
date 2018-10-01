@@ -1,0 +1,10 @@
+experiment NoName
+instrument HEA
+start 1999 04 17 1600
+end 1999 04 17 1900
+status R
+contact Thomas Leyser
+email Sheila.Kirkwood@irf.se 
+operator Dr C F Del Pozo
+resources SW(100)
+submitter Sheila Kirkwood

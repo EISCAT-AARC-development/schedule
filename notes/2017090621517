@@ -1,0 +1,13 @@
+experiment CP4
+instrument KIR
+start 2017 09 06 0700
+end 2017 09 10 2100
+status R
+description Meridian circle
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)
+notes
+rem ksv runexp /kst/exp/bella/bella 0:0 lowel

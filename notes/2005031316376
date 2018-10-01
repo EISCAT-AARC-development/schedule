@@ -1,0 +1,20 @@
+experiment tau1_AA
+instrument VHF
+start 2005 03 13 1900
+end 2005 03 14 0100
+status R
+description VHF experiments in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT duty staff
+submitter Ian McCrea
+resources AA(6)
+notes
+I am submitting two nightside Cluster experiments, in response to a request 
+from Anita Aikio, who is interested to try and capture data during auroral 
+perigee passes using the improved programs now available on the EISCAT 
+radars.  Anita points out that perigee passes have not been as well covered as 
+the cusp passes which occur in this phase of the mission.  The two intervals 
+are: March 1st 2100 - 0300 (2nd) and March 13th 1900 - 0100 (14th).

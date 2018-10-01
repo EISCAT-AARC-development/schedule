@@ -1,0 +1,11 @@
+experiment CP1
+instrument TRO
+start 2016 10 27 0700
+end 2016 10 28 2200
+status R
+description Synoptic run
+contact I Häggström
+email ingemar.haggstrom@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)

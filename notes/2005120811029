@@ -1,0 +1,17 @@
+experiment HEAT
+instrument ESR
+start 2005 12 08 2200
+end 2005 12 08 2400
+status R
+description will run the recently developed SLOPES expt., or steffe, both with plasma lines
+contact Tim Yeoman
+phone +44-116-252-3564
+email tim.yeoman@ion.le.ac.uk
+fax +44-116-252-3555
+operator Lisa Baddeley
+submitter Vikki Howells
+resources UK(30)
+notes
+ESR operations requested in support of SPEAR high power operations.  Leicester 
+Personnel will be available at SPEAR and the ESR - Ammended
+

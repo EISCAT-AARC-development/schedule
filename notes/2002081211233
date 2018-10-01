@@ -1,0 +1,18 @@
+experiment NEIL_offB
+instrument ESR
+start 2002 08 12 0700
+end 2002 08 12 1300
+description Simultaneous NEIL ESR and Sondy experiment 
+contact Anja Str%F8mme
+phone +1 650 859-2298
+email anja@phys.uit.no 
+fax +1 650 322 2318
+operator Anja Str%F8mme
+submitter Anja Str%F8mme
+notes
+We want to investigate the angular distribution (with respect to B) of Naturally  
+Enhanced Ion Lines (NEIL) by use of the 42m up B, and the 32m in fixed positions  
+(on the order of the beam width) south. By using the ESR and Sondy simultaneous   
+we can investigate k-vector differences on the occurrence and the angular   
+distributions of the NEIL  
+

@@ -1,0 +1,24 @@
+experiment EFOLD
+instrument ESR
+start 2010 02 04 1500
+end 2010 02 05 0700
+status R
+description E-region ion-neutral coupling near auroral arcs
+contact Mike Kosch
+phone +44-1524-510404
+email m.kosch@lancaster.ac.uk
+fax +44-1524-510493
+operator Mike Kosch
+submitter Mike Kosch
+resources UK(24)
+notes
+To determine unambiguously the height-resolved neutral-wind-compensated 
+electrodynamics of an auroral arc at meso-scale resolution, in particular the 
+local spatial distribution of Joule heating and field-aligned currents in the 
+vicinity of an auroral arc. To determine the E-region neutral wind response 
+time to ion drag as a function of plasma density. The SCANDI will provide 
+neutral wind measurements in the E- and F-layers. The ESR will be scanned in 
+azimuth angle at a continuous rate sequentially at 3 elevation angles to match 
+the SCANDI sectors.  Clear sky is required. Cancellations are anticipated. The 
+ESR will run a standard code on both dishes, i.e. folke. 
+

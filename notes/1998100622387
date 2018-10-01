@@ -1,0 +1,13 @@
+experiment SP-EI-LEON
+instrument UHF
+start 1998 11 17 1000
+end 1998 11 18 1000
+status R
+description D and E region effects of Leonids and 3d maps of head echo scattering cross sections
+contact Gudmund Wannberg
+phone +46 980 79158
+email ugw@eiscathq.irf.se 
+fax +46 980 79161
+operator Gudmund Wannberg
+resources EI(100)
+submitter Gudmund Wannberg

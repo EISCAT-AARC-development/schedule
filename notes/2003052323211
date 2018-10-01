@@ -1,0 +1,16 @@
+experiment RYC4lab
+instrument UHF
+start 2003 05 23 0700
+end 2003 05 23 1300
+status R
+description Space engineering student practical with EISCAT
+contact Ingrid Sandahl
+phone 0980-79191
+email ingrid.sandahl@ryp.umu.se
+fax 0980-79190
+operator Carl-Fredrik Enell (carl-fredrik.enell@irf.se)
+submitter Carl-Fredrik Enell
+resources SW(6)
+notes
+This is a practical within the course "Optics- and Radar-based observations"
+which focuses on instruments and techniques for remote sensing 

@@ -1,0 +1,12 @@
+experiment CIV
+instrument UHF
+start 2001 03 15 1000
+end 2001 03 15 1200
+status R
+description CIV experiment
+contact A Pellinen-Wannberg
+phone +4698079118
+email asta@irf.se 
+operator I H%E4ggstr%F6m/A Pellinen-W
+resources SW(6)
+submitter A Pellinen-Wannberg

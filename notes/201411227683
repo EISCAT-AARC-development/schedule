@@ -1,0 +1,21 @@
+experiment NEIALS2014
+instrument ESR
+start 2014 11 22 0300
+end 2014 11 22 1000
+status R
+description ESR-EASI-NEIAL-experiment, aiming for determining the spatial and temporal variations of auroral plasma turbulence
+contact Björn Gustavsson
+phone +4777645668
+email bjorn.gustavsson@uit.no
+operator Bjorn Gustavsson
+submitter Björn Gustavsson
+resources NO(40)
+notes
+The primary purpose of this experiment is to investigate the
+altitude-variation of Naturally Enhanced Ion-Acoustic echoes (NEIAL)
+with the ESR-radars simultaneously with determining their horizontal
+structure with interferometric aperture synthesis imaging with
+EASI-measurements. Requirements for the experiments are auroral
+activity, and preferably clear skies to ease complementary optical
+observations.
+

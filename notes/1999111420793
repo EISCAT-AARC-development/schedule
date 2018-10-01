@@ -1,0 +1,15 @@
+experiment PULSE
+instrument UHF
+start 1999 11 14 1700
+end 1999 11 15 0300
+status R
+description Alfv%E9n resonator, Auroral fine structure and VLF emissions. http://spaceweb/campaigns/fall99/
+contact Hannu Holma
+phone +358 8 553 1367
+email Hannu.Holma@oulu.fi 
+fax +358 8 553 1287
+operator Thomas Ulich
+resources FI(53.5)
+submitter Hannu Holma
+notes
+Coordinated measurement with heating (1930 - 2130 UT) VLF ground station. 

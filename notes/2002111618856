@@ -1,0 +1,16 @@
+experiment UNIS2002
+instrument ESR
+start 2002 11 16 1200
+end 2002 11 16 1500
+status R
+description UNIS course AGF-210 - Campaign to teach students about EISCAT and the middle atmosphere
+contact Cesar La Hoz
+phone 77645161
+email cesar@phys.uit.no
+fax 77645580
+operator Cesar La Hoz
+submitter Cesar La Hoz
+resources NO(18)
+notes
+Will be in coordination with optical and lidar measurements.
+3 hours per day, 6 days, total 18 hours

@@ -1,0 +1,15 @@
+experiment QP TIDs
+instrument UHF
+start 2008 06 03 0900
+end 2008 06 05 1300
+status C
+description CP1
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(300)
+notes
+rem kst runexp /kst/exp/beata/beata fm
+
+http://people.ece.cornell.edu/wes/URSI_ISWG/2008WDschedule.htm

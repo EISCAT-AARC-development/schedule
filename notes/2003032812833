@@ -1,0 +1,21 @@
+experiment tau2_DMSP
+instrument TRO
+start 2003 03 28 0050
+end 2003 03 28 0120
+status R
+description UHF break-in experiment in support of TIMED pass
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT duty staff
+submitter Ian McCrea
+resources UK(24)
+notes
+We are requesting three short break-in experiments into the March UHF common programme to cover overpasses of TIMED.  This experiment would be a collaboration with Phil Anderson at Aerospace Corp and could be run automatically by using a modified elan file for the Common Programme as was done in November and December last year.  The times of the break-ins would be:
+
+0020-0050 UT March 26th
+0040-0110 UT March 27th
+0050-0120 UT March 28th
+
+Suitable ELAN files already exist at Tromso (created by Paul Gallop last year) and would only need minor modification

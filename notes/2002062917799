@@ -1,0 +1,20 @@
+experiment PMSE
+instrument VHF
+start 2002 06 29 1900
+end 2002 06 30 0100
+status R
+description Studies of PMSE coordinated with rockets from Andoya, ALOMAR, ALWIN, etc
+contact Ulf-Peter Hoppe
+email Ulf.Hoppe@ffi.no 
+operator Ulf -Peter Hoppe
+resources NO(20) GE(50) UK(30)
+submitter Tony van Eyken
+notes
+I would like to apply for EISCAT observation time this summer.    
+We want to study PMSE with the VHF (the new CP-6) and the    
+UHF (to measure electric fields over Andenes and electron densities).    
+There will be a rocket campaign from Andenes 29.06. to 14.07. this year.    
+Launches will be near local midnight. We will also measure NLC with    
+ALOMAR, and use the ALWIN radar. We would like to run EISCAT for    
+6 hours each night, centered on local midnight. We would need approximately    
+100 hours SP time for this. 

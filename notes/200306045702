@@ -1,0 +1,15 @@
+experiment HOAX
+instrument VHF
+start 2003 06 04 1200
+end 2003 06 04 1800
+status R
+description Heater O-mode And X-mode experiment (HOAX)
+contact Mike Kosch
+phone +44-1524-593016
+email m.kosch@lancaster.ac.uk
+fax +44-1524-592713
+operator Brett Isham
+submitter Mike Kosch
+resources UK(30)
+notes
+This campaign will use simultaneous HEATER O-mode and X-mode pumping to check for damping effects on the following phenomena: (1) growth of striations (diagnostic: CUTLASS), (2) electron temperature enhancements (diagnostic: UHF), (3) growth of Langmuir turbulence (diagnostic: VHF), (4) by proxy, the (non-) appearance of artificial optical emissions.

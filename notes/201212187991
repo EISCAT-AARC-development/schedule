@@ -1,0 +1,26 @@
+experiment NIEAS12
+instrument TRO
+start 2012 12 18 1700
+end 2012 12 18 2400
+status R
+description see notes
+contact Nickolay Ivchenko
+phone +4687907692
+email nickolay@kth.se
+operator T. Sergienko
+submitter N. IVchenko
+resources SW(75)
+notes
+Request is made to further study enhanced ion acoustic spectra, both produced in
+heating experiments and naturally occurring. 
+
+The request is made for four evenings with heating, Dec 4-7, 17-23 UT, and 11
+evenings, Dec 8-18, of UHF radar alone (17-24). 
+
+Observations with heating will run independent of optical conditions at Tromsö.
+Observations of natural aurora include overbooking, and some time will be
+cancelled depending on the weather and activity level. A choice of two
+experiments will be used, either field-aligned, to be used with imagers on site
+(planned to be deployed by SWRI), or scanning over Esrange (as the October
+SPIDER12 experiment), depending on what is the most likely to return interesting
+data.

@@ -1,0 +1,22 @@
+experiment SP-NI-JUP
+instrument TRO
+start 2001 10 25 2200
+end 2001 10 26 0900
+status R
+description The experiment aims at the observation of Jupiter's synchrotron radiation.
+contact Satonori Nozawa
+phone 81-52-789-4303
+email nozawa@stelab.nagoya-u.ac.jp 
+fax 81-52-789-4311
+operator NO
+resources NI(6)
+submitter Satonori Nozawa
+notes
+The experiment target is the observation of Jupiter's synchrotron radiation  
+(JSR) at 930MHz. We plan to make following experiments in this October,  
+1. Investigation of sky-temperature by a sky-tipping method.  
+2. Investigation of galactic noise and environmental radio noise.  
+3. 10-hour(one Jupiter rotation period) continuous monitor of JSR by     
+    trackingJupiter.  
+We make a small campaign from October 23 to October 26.  
+PI is Dr H. Misawa, who will be at the Tromso site during the experiment. 

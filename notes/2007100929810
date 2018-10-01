@@ -1,0 +1,17 @@
+experiment AURORANEMI
+instrument TRO
+start 2007 10 09 1800
+end 2007 10 10 0200
+status R
+description Support for Hotpay 2 rocket or optical auroral campaign
+contact Thomas Ulich
+phone +358405408942
+email thu@sgo.fi
+fax +35816619875
+operator Thomas Ulich
+submitter Thomas Ulich
+resources FI(96)
+notes
+Some of these runs might/will be cancelled. Within the Finnish campaign, first priority is for support of the 
+Finnish/Swedish NEMI instrument aboard Hotpay 2, second priority is for optical auroral campaign. PIs for 
+this experiment: Esa Turunen, Kari Kaila, Anita Aikio.

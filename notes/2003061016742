@@ -1,0 +1,19 @@
+experiment Heating
+instrument TRO
+start 2003 06 10 0900
+end 2003 06 10 1300
+status R
+description Heating for Langmuir turbulence
+contact M. Rietveld
+phone +49 5556 979234
+email rietveld@linmpi.mpg.de
+fax +49 5556 979240
+operator B. Isham
+submitter M. Rietveld
+resources GE(50)
+notes
+Heating for Langmuir turbulence and possibly other
+related experiments (e.g. SEE measurements with spectrum analyser),
+and CUTLASS if possible.
+This experiment is overbooked so that some runs will be cancelled.  
+13 June and 23 June are strong candidates to be cancelled.

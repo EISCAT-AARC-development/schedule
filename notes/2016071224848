@@ -1,0 +1,13 @@
+experiment CP6
+instrument ESR
+start 2016 07 12 0700
+end 2016 07 13 1400
+status R
+description Synoptic run
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)
+notes
+runexp /kst/exp/manda/manda lm

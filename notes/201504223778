@@ -1,0 +1,13 @@
+experiment gyro
+instrument TRO
+start 2015 04 22 0900
+end 2015 04 22 1300
+status R
+description To detect the gyro line, natural and enhanced by the heater
+contact Cesar La Hoz
+phone 99774769
+email cl146@cornell.edu
+fax 99774769
+operator Cesar La Hoz
+submitter La Hoz
+resources NO(12)

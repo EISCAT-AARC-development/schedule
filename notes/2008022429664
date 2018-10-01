@@ -1,0 +1,15 @@
+experiment SCINTI
+instrument SOD
+start 2008 02 24 1430
+end 2008 02 24 1530
+status R
+description Interplanetary Scintillation observations of the Solar Wind
+contact Richard Fallows
+phone +44 1970 622805
+email raf@aber.ac.uk
+fax +44 1970 622826
+operator Richard Fallows
+submitter Richard Fallows
+resources UK(18)
+notes
+Simultaneous IPS observations with the MERLIN system in the UK.

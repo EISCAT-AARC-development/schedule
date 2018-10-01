@@ -1,0 +1,18 @@
+experiment AEOEAII
+instrument HEA
+start 2003 11 03 1500
+end 2003 11 03 1800
+status R
+description Artificial enhanced optical emissions and ionospheric irregularities
+contact Bjorn Gustavsson
+phone +81 3 3962 2418
+email bjorn@nipr.ac.jp
+fax +81 3 3962
+operator Mike Rietveldt
+submitter Bjorn Gustavsson
+resources NI(10)
+notes
+HF-pumping of the ionosphere will be used to enhance optical emissions, create
+ionospheric irregularities and increase the electron temperature in the F-region.
+Quiet magnetospheric conditions with high enough critial frequency and for the
+optical observations clear skies.

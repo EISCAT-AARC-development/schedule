@@ -1,0 +1,16 @@
+experiment UV_FPIL
+instrument TRO
+start 2011 11 24 2000
+end 2011 11 25 0400
+status R
+description Thermospheric winds and mesospheric temperature in the pulsating aurora
+contact Shin-ichiro Oyama
+phone +81 52 789 4308
+email soyama@stelab.nagoya-u.ac.jp
+fax +81 52 789 4311
+operator Shin-ichiro Oyama
+submitter Shin-ichiro Oyama
+resources NI(36),NO(28)
+notes
+Simultaneous observations with UHF (CP2), VHF (vertical), and STEL FPI and Na 
+Lidar in the pulsating aurora.

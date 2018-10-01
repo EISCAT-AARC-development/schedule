@@ -1,0 +1,20 @@
+experiment TOMO/SEE
+instrument HEA
+start 2001 06 13 1000
+end 2001 06 13 1300
+status R
+description SEE interferometer measurements during heating. 
+contact M. Rietveld
+phone +49 5556 979 234
+email rietveld@linmpi.mpg.de 
+fax +49 5556 979 240
+operator M. Rietveld or B. Isham
+resources GE(60),NO(34),FI(6),EI(15)
+submitter M. Rietveld
+notes
+SEE interferometer measurements during heating     
+        
+Collaborative campaign with GE(60),NO(34),FI(6),EI(15)-tentative,              
+and Russian collaborators.                    
+                
+

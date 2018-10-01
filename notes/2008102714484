@@ -1,0 +1,20 @@
+experiment Grains
+instrument HEA
+start 2008 10 27 1800
+end 2008 10 27 2200
+status R
+description HF-Heating to reproduce specles of enhanced optical emissions in diffuse/pulsating aurora
+contact Björn Gustavsson
+phone +47 77645188
+email bjorn.gustavsson@phys.uit.no
+fax +47 77645580
+operator M Rietveld
+submitter Björn Gustavsson
+resources No(40)
+notes
+Tristatic UHF observations (Beata) of ionospheric conditions during HF-Heating
+reproducing specles of enhanced optical emissions in diffuse/pulsating aurora,
+and ionospheric modification of auroral arcs. A requirement for running this
+experiment is previous substorm activity. This experiment is a collaboration
+between KTH Stockholm (N Ivchenko), IRF Kiruna (T Sergienko) and UIT Tromso (B
+Gustavsson)

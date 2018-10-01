@@ -1,0 +1,15 @@
+experiment AGF210
+instrument ESR
+start 2017 09 21 1200
+end 2017 09 21 1400
+status R
+description Student experiment for UNIS course AGF210
+contact Noora Partamies
+email noora.partamies@unis.no
+operator Noora Partamies
+submitter Noora Partamies
+resources NO(2)
+notes
+We will run a basic experiment (TBD) for demonstration purposes. The experiment is related to a 
+UNIS course on middle atmospheric physics (AGF-210) and will be run in collaboration with our guest 
+lecturer Asta Pellinen-Wannberg. 

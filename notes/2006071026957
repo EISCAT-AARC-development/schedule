@@ -1,0 +1,16 @@
+experiment OUCH
+instrument HEA
+start 2006 07 10 1230
+end 2006 07 10 1430
+status R
+description Observations of Heating with CUTLASS in conjunction with Cluster
+contact Darren Wright
+phone 01162523568
+email Darren.Wright@ion.le.ac.uk
+operator Mike Rietveld
+submitter Darren Wright
+resources UK(9)
+notes
+This experiment represents a unique opportunity to perform joint heating at 
+Tromso and at SPEAR in conjunction with the Cluster, DoubleStar and Polar 
+spacecraft simultaneously.

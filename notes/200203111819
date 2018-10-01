@@ -1,0 +1,20 @@
+experiment tau0_flye_UK@42
+instrument ESR
+start 2002 03 11 1800
+end 2002 03 12 0200
+status R
+description Study of the Neutral Atmosphere Flywheel Effect.
+contact Anasuya Aruliah
+phone +44 20 7679 9017
+email anasuya@apg.ph.ucl.ac.uk 
+fax +44 20 7679 9024
+operator To Be Decided
+resources UK(13)
+submitter Ken Freeman
+notes
+This experiment will investigate the Neutral Atmosphere Flywheel Effect, by    
+which substorm energy is stored in the neutral atmosphere. It will employ the     
+UHF and VHF Radars on the Mainland and both Svalbard antennas. The VHF Radar     
+must be operated in dual beam mode. The pulse codes are tau0 on the ESR, tau1 on the VHF Radar and tau2 on the UHF Radar. The experiment requires active    
+conditions. Two intervals have been booked, but only one will be used. The    
+second is intended as a backup should the experiment not run on the first.

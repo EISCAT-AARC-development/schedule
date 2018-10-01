@@ -1,0 +1,14 @@
+experiment 3static
+instrument UHF
+start 2013 03 14 1800
+end 2013 03 14 2400
+status R
+description Tristatic VHF measurements
+contact Anita Aikio
+email anita.aikio@oulu.fi
+operator Carl-Fredrik Enell
+submitter Carl-Fredrik Enell
+resources FI(9)
+notes
+Tromsø VHF and remote receivers at F region CP1 position, for vector velocities
+and electric fields

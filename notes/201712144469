@@ -1,0 +1,32 @@
+experiment ESR_SD_FC
+instrument ESR
+start 2017 12 14 1400
+end 2017 12 15 1500
+status R
+description Coordinated EISCAT Svalbard Radar (32m) and Svalbard Superdarn Observations of Flow Channels
+contact Katie Herlingshaw
+phone +47 79 02 33 00
+email katieh@unis.no
+fax +47 79 02 33 01
+operator Lisa Baddeley
+submitter Katie Herlingshaw
+resources NO(16),SW(50)
+notes
+The EISCAT Svalbard Radar 32m dish and the Svalbard SuperDARN radar scans will be 
+synchronized within a common scattering volume. 
+With this we will study the structure and evolution of ionospheric Flow Channels 
+(FC), which are small-scale (~100km wide) velocity enhancements of >1km/s within 
+the background convection flow.
+
+It is important that this experiment is carried out at the requested time as this 
+coincides with the requested SuperDARN discretionary time, which allows us to 
+operate the Longyearbyen radar in our specialized scanning mode. We also require 
+times when the moon is down or very dim so that we can record optics at the time 
+of the experiment. This is the only available period in December.
+
+*NOTE* We have 40 confirmed SW hours but are awaiting confirmation for another 10 
+and should receive before November. 
+***Also, I have requested SuperDARN discretionary time for this period but will 
+not hear the final decision from them on whether I get the time until the first 
+week of November.
+

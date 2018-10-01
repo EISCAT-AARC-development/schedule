@@ -1,0 +1,21 @@
+experiment PCAA
+instrument ESR
+start 2006 01 25 1700
+end 2006 01 25 2100
+status R
+description SPEAR-Induced Polar Cap Artificial Auroras.
+contact Mike Kosch
+phone +44 1524 510404
+email m.kosch@lancaster.ac.uk
+fax +44 1524 592713
+operator Andrew Senior
+submitter Ken Freeman
+resources UK(22)
+notes
+The purpose of this experiment is to verify that SPEAR O-Mode HF-pumping will 
+produce an observable artificial optical emission. (This is in preparation for 
+the CASSIOPE satellite due for launch in 2007.) A standard program will be run 
+on the ESR simultaneously on both the 32m an 42m antennas, with the 32m antenna 
+being pointed vertically. SPEAR will transmit O-mode below foF2 on a 2 min. 
+on / 2 min. off cycle - or possibly CW. Artificial optical emissions will be 
+observed using the AFRL imager located at Ny Alesund.

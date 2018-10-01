@@ -1,0 +1,19 @@
+experiment HF effects
+instrument VHF
+start 2002 11 07 1500
+end 2002 11 07 2000
+status R
+description HF-induced aurora, striations and other effects.
+contact M. Rietveld
+phone +49 5556 979234
+email rietveld@linmpi.mpg.de
+fax +49 5556 979240
+operator B. Isham 
+submitter M. Rietveld
+resources GE(30)
+notes
+Combined GE:SW:UK:FI campaign to examine HF-induced optical emissions and
+the associated striations, heating and Langmuir turbulence effects.
+New Moon and cloud-free skies required, quiet geomagnetic conditions preferred.
+Some cancellation is likely.
+GE: 30, SW:14, UK:12, FI:8  = 64 hours

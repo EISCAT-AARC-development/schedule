@@ -1,0 +1,18 @@
+experiment TEQUILA
+instrument VHF
+start 2010 12 15 0700
+end 2010 12 15 0900
+status R
+description Transient Effects Quantification Under Ionospheric Low Angle sunrise
+contact Antti Kero
+phone + 358 44 2894 669
+email antti.kero@sgo.fi
+operator Antti Kero
+submitter Antti Kero
+resources FI(36)
+notes
+The idea is to look for meteoric dust particles at the polar wintertime mesophere through the transient 
+caused by (scattered) sunrise 07-09 UT. Interestingly, the project period covers the meteor shower 
+(Geminids) and the time of day (07-09 UT) the maximum occurence of the Polar Mesosphere Winter 
+Echoes (PMWE). Heating will be used for modifying the PMWE and dust properties. The TEQUILAsunrise is 
+designed to be a complementary to the ECOMA project. 

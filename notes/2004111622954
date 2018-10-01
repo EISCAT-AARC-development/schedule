@@ -1,0 +1,19 @@
+experiment OPTI
+instrument ESR
+start 2004 11 16 0300
+end 2004 11 16 0700
+status R
+description Auroral Studies using Combined Radar and Optical Measurements
+contact Molly Stockton-Chalk
+phone +44 23 8059 2048
+email asc@phys.soton.ac.uk
+fax +44 23 8059 3910
+operator Molly Stockton-Chalk
+submitter Ken Freeman
+resources UK(25)
+notes
+The purpose of this experiment is to study particle precipitation and auroral 
+structures by means of radar measurements made in collaboration with various 
+optical observations. It is envisaged that the experiment will employ the 42m 
+antenna using the "arc" pulse code. The experiment will require clear skies and 
+disturbed conditions.

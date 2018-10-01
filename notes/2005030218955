@@ -1,0 +1,18 @@
+experiment HF_STARE
+instrument HEA
+start 2005 03 02 1500
+end 2005 03 02 1900
+status R
+description HF effects on STARE
+contact E. Nielsen
+phone +49 5556 979 450
+email nielsen@mps.mpg.de
+fax +49 5556 979 240
+operator M. Rietveld
+submitter M. Rietveld
+resources GE(20)
+notes
+Search for gyro-harmonic dependence of HF-induced E-region backscatter using 
+real-time STARE data.  Experiments must be done soon before STARE is shut down.
+The time is over-booked: The experiment will only be run if the rare conditions
+are met: no natural backscatter and foE>4 MHz.

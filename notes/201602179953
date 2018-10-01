@@ -1,0 +1,21 @@
+experiment AGF304
+instrument ESR
+start 2016 02 17 1800
+end 2016 02 17 2200
+status R
+description ESR operations for UNIS students on course AGF304/804
+contact Lisa Baddeley / Anja Stromme / Kjellmar Oksavik
+phone 00441223221213
+email lisab@unis.no
+fax 004779023301
+operator Anja Stromme / Kjellmar Oksavik / UNIS students
+submitter Lisa Baddeley
+resources NO(20)
+notes
+The purpose of this experiment is to provide training to students taking the
+AGF-304 radar course at UNIS. We plan to use both antennas, and depending on the
+geophysical conditions at the time, we will use different pulse codes
+(e.g.beata, ipy, tau0 and taro) and a combination of fixed positions, azimuth
+and elevation scans.  The students will decide on the operating mode and pulse
+code used based on a proposal they have submitted as part of their course. The
+data will be used for their project work. We will have optical support from KHO.

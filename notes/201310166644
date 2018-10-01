@@ -1,0 +1,16 @@
+experiment SCINT
+instrument TRO
+start 2013 10 16 1400
+end 2013 10 16 2100
+status R
+description Measurement of plasma density structures for the modelling of radio wave scintillation along co-linear and simultaneous GNSS satellites ray paths.
+contact B Forte
+email b.forte@bath.ac.uk
+operator I Häggström
+submitter I Häggström
+resources PP(12)
+notes
+runexp /kst/exp/bella/bella lm pp/scint16oct UK
+
+Measurement of plasma density structures for the modelling of radio wave
+scintillation along co-linear and simultaneous GNSS satellites ray paths.

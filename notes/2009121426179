@@ -1,0 +1,48 @@
+experiment HiRDoppler
+instrument ESR
+start 2009 12 14 1200
+end 2009 12 14 1600
+status R
+description Doppler measurements of the ionospheric plasma with high spatial resolution
+contact Stephan Buchert
+phone 018-471-5928
+email scb@irfu.se
+operator Yasunobu Ogawa
+submitter Yasunobu Ogawa (yogawa (at) nipr.ac.jp)
+resources NI(14),SW(28)
+notes
+Delay-Doppler Observations of the Ionospheric Plasma
+
+At present the spatial resolution of EISCAT observations in the plane
+perpendicular to the antenna beam is limited by the beam width. This is
+for the UHF about 1 km (half power beam width) in the E region (100 km
+height), and 3 km in the F region (300 km height). Optical recordings of
+the aurora reveal a wealth of structure at smaller scales, and also the
+magnetic field seen by low orbiting satellites (CHAMP) indicates that
+currents over sub-kilometer scales are flowing. Therefore radar
+observations of electric field/plasma convection at scales of less than
+a kilometer would be scientifically valuable.
+
+High spatial resolution can be achieved along the beam with coding
+techniques. Thus one can in principle achieve the required resolution by
+tilting the beam away from the magnetic fields lines. One problem is
+that in the F region the IS spectrum is too wide in order to use
+pulse-to-pulse coding, and in long pulse coding the spectrum becomes
+unresolved if spatial resolution is squeezed to less than 1 km at all
+time lags. However, in order to observe electric field/plasma
+convection, one really only needs Doppler information, not the full
+spectrum. In order words, one needs to measure the autocorrelation only
+at time lags which can be much shorter than the correlation time of the
+IS signal. The corresponding technique called delay-Doppler has been
+successfully used in planetary radar applications (eg, Harmon et al,
+JGR, 104, 14065-14089, 1999). It originates itself from the long pulse
+coding method done in ionospheric (IS) radar.
+
+We plan to use a special code suitable for delay-Doppler developed by
+Ingemar Häggström with 0.6km/1.6s resolution. The antenna beam will be
+tilted to around 45 deg elevation. 
+
+We use 20 accounted hours of Swedish time for the EISCAT ESR.  
+The time of radar operations is 4 hours on each of five days in
+December 2009. 
+

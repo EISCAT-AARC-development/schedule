@@ -1,0 +1,35 @@
+experiment tau0_AA
+instrument ESR
+start 2007 11 25 0700
+end 2007 11 25 1100
+status R
+description ESR Experiments in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445759
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(4)
+notes
+During November 2007, the Cluster orbit plane moves progressively away from the 
+plane of the magnetotail until by the end of the month it crosses the dusk 
+flank almost orthogonal to the Sun-Earth line.  This is not one of the most 
+interesting periods, but the main scientific interest in this month seems to be 
+in possible flank-skimming orbits (toward the beginning of the month) and flank-
+crossing orbits (toward the end).
+
+Unfortunately none of the flank-skimming periods appear to be in the right 
+time/longitude sector for studies with EISCAT.  I am requesting one flank-
+crossing interval, from 07-11 UT on November 25th, when Cluster nominally 
+exists the magnetopause just east of Svalbard.
+
+The best configuration for this experiment is the standard mode with the ESR 
+32m dish in LowElNorth configuration and dumps interleaved 4:1 with the 42m 
+dish, which also satsifies the requirements of the IPY run.
+
+The VHF radar should be used in low elevation mode at 30 degrees elevationa 
+long boresight, running tau1.
+
+In the case of conflict with Special Programmes or scheduled maintenance 
+periods, this experiment should be given a relatively low priority. 

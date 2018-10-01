@@ -1,0 +1,20 @@
+experiment ReimeiESR
+instrument ESR
+start 2008 10 31 0700
+end 2008 10 31 1000
+status R
+description Reimei-ESR coordinated observations of ion upflows/polar wind
+contact M. Hirahara
+phone +81-3-5841-4582
+email hirahara@eps.s.u-tokyo.ac.jp
+fax +81-3-5841-8321
+operator Y. Ogawa from Tromso site
+submitter Yasunobu Ogawa (yogawa@nipr.ac.jp)
+resources NI(3)
+notes
+This is a comparative study of velocity distributions 
+of precipitating electrons and outflowing ions with 
+the ionospheric ion upflows/polar wind using the Reimei 
+satellite and ESR.
+Reimei will pass over Svalbard at about 07:43 and
+09:19 UT on October 31.

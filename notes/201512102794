@@ -1,0 +1,30 @@
+experiment VANTAA
+instrument ESR
+start 2015 12 10 1800
+end 2015 12 10 2400
+status R
+description Variability of neutral temperature in the auroral ionosphere
+contact Dan Whiter
+phone +44 23 8059 2095
+email d.whiter@soton.ac.uk
+operator Dan Whiter
+submitter Andrew J Kavanagh
+resources UK(30)
+notes
+Experiment requires high time resolution with coverage of E-region and electron
+density peak (necessary for inversion to precipitating electron energy spectra)
+with Ti and Te measurements at ~100-350 km. Both 32m and 42m dishes expected to
+be used probably with the arc_slice experiment. This is in collaboration with
+Sweden and Norway who will be requesting separate time for runs in the morning
+hours.
+
+
+Scientific Objectives are:
+To investigate the response of neutral temperature in the thermosphere and
+mesopause to different auroral energy inputs and processes; Tto investigate
+whether neutral temperature height profiles vary between the polar cap and
+auroral oval; to validate a new technique for inferring F-region neutral
+temperature from spectrographic measurements of O+ aurora.
+Field-aligned only – no scanning
+
+

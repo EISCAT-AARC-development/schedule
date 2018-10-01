@@ -1,0 +1,19 @@
+experiment L mode Te
+instrument TRO
+start 2017 03 03 1000
+end 2017 03 03 1400
+status R
+description Investigation of the magnetic zenith effect during HF pumping of the ionosphere,  particularly variation of electron heating at different angles to B 
+contact Björn Gusavsson
+phone +4777645668
+email bgu001@uit.no
+operator Björn Gustavsson
+submitter Björn Gustavsson
+resources NO(30)
+notes
+The main purpose is to study the magnetic zenith effect during ordinary mode HF
+pumping of the quiet ionospheric plasma, especially variation of electron
+heating at different angles to the magnetic field. Experiments to determine the
+fraction of Ohmic heating and heating due to other effects will be attempted.
+The pump frequency needs to be below the ionospheric critical frequency. 
+

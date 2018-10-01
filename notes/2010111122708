@@ -1,0 +1,16 @@
+experiment substorm
+instrument ESR
+start 2010 11 11 1800
+end 2010 11 11 2300
+status R
+description UNIS Substorm school experiment: http://www.unis.no/studies/geophysics/agf_345.htm
+contact Noora Partamies
+phone +47 79 02 33 87
+email Noora.Partamies@fmi.fi
+operator Noora Partamies
+submitter Antti Kero
+resources FI(5)
+notes
+This a one night experiment for UNIS substorm course (another night requested will be cancelled). 
+The substorm course gives an overview of polar magnetospheric substorms, the primary process 
+responsible for large-scale auroral breakups (see http://www.unis.no/studies/geophysics/agf_345.htm)

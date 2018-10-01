@@ -1,0 +1,16 @@
+experiment sp_ni_uec
+instrument ESR
+start 2011 12 21 0700
+end 2011 12 21 1200
+status R
+description  Identification of the spatio-temporal evolution of the rippled boundary in the cusp/polar cap electron density with ESR iso-latitude observing mode
+contact Satoshi Taguchi
+phone +81-42-443-5204
+email taguchi@ice.uec.ac.jp
+fax +81-42-443-5204
+operator ESR site staff
+submitter Y. Ogawa (yogawa at nipr.ac.jp)
+resources NI(5)
+notes
+We conduct ESR observations with AZ/EL sweep mode to identify the spatio-temporal 
+evolution of the rippled boundary in the cusp/polar cap electron density.

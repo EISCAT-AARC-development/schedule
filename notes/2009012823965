@@ -1,0 +1,22 @@
+experiment OptiUHF
+instrument KIR
+start 2009 01 28 1800
+end 2009 01 28 2200
+status R
+description Coordinated EISCAT radar and optical observations of time-variable auroral phenomena
+contact Takeshi Sakanoi
+phone +81-22-795-6609
+email tsakanoi@pparc.geophys.tohoku.ac.jp
+fax +81-22-795-6406
+operator Yasunobu Ogawa
+submitter Yasunobu Ogawa (yogawa@nipr.ac.jp)
+resources NI(16)
+notes
+We will conduct coordinated EISCAT-optical observations 
+to investigate time-variable auroral phenomena such as 
+flickering and pulsating aurorae. An optical instrument 
+will be installed at S-Range in Kiruna.
+
+We will run a sweep observational mode with beata pulse 
+code.
+

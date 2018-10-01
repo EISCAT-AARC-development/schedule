@@ -1,0 +1,15 @@
+experiment CP1
+instrument ESR
+start 2010 08 10 0700
+end 2010 08 11 2200
+status C
+description SolarMin
+contact I Häggström
+email ingemar.haggstrom@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(750)
+notes
+runexp /kst/exp/ipy/ipy lm
+see
+http://www.eiscat.se/Members/ingemar/skedule/WD2010.htm

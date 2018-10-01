@@ -1,0 +1,33 @@
+experiment INDEX_ESR
+instrument ESR
+start 2005 11 16 0900
+end 2005 11 16 1100
+status R
+description INDEX-EISCAT coordinated observations
+contact Masafumi Hirahara
+phone +81-3-3985-2415
+email hirahara@rikkyo.ac.jp
+fax +81-3-3985-2418
+operator TBD
+submitter Yasunobu Ogawa (yogawa@stelab.nagoya-u.ac.jp)
+resources NI(6),SW(20)
+notes
+This is a comparative study of velocity distributions of 
+precipitating electrons and outflowing ions with the 
+ionospheric ion upflows using the INDEX (REIMEI) satellite 
+and EISCAT radars. We plan the following ESR observations 
+in November: 
+
+01 November (Tue), 09:00 UT - 11:00 UT*
+02 November (Wed), 07:45 UT - 09:45 UT
+03 November (Thu), 08:05 UT - 10:05 UT
+04 November (Fri), 08:25 UT - 10:25 UT
+05 November (Sat), 07:00 UT - 11:00 UT
+06 November (Sun), 07:00 UT - 11:00 UT*
+07 November (Mon), 07:45 UT - 09:45 UT
+15 November (Tue), 08:40 UT - 10:40 UT
+16 November (Wed), 09:00 UT - 11:00 UT*
+21 November (Mon), 08:55 UT - 10:55 UT*
+22 November (Tue), 07:45 UT - 09:45 UT
+*: the INDEX satellite will make the closest approach to ESR.
+

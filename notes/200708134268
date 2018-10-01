@@ -1,0 +1,17 @@
+experiment RS2
+instrument UHF
+start 2007 08 13 1200
+end 2007 08 13 1500
+status R
+description Practical of EISCAT Radar School, Part 2
+contact Thomas Ulich
+phone +358405408942
+email thu@sgo.fi
+fax +35816619875
+operator Thomas Ulich
+submitter Thomas Ulich
+resources FI(3)
+notes
+We will run a few different experiments as practical experience for the students of the EISCAT Radar 
+School.  The school takes place at the EISCAT Sodankylä Site and will be run from Sodankylä. The details of 
+this will be available later.

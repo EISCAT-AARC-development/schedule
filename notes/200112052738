@@ -1,0 +1,15 @@
+experiment CLUSTER
+instrument ESR
+start 2001 12 05 0800
+end 2001 12 05 1600
+status C
+description Sondrestrom scanning co-ordination
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony.van.Eyken
+resources CP(8)
+submitter Tony van Eyken
+notes
+Sondrestrom scan mode; 32m only, integrate for 64s

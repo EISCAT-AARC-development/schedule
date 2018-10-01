@@ -1,0 +1,17 @@
+experiment MARE
+instrument HEA
+start 2012 02 13 1930
+end 2012 02 13 2330
+status R
+description HF radar measurements of enhanced plasma waves in aurora
+contact Andrew Senior
+email a.senior@lancaster.ac.uk
+operator Mike Rietveld
+submitter Andrew Senior
+resources UK(18)
+notes
+The HF facility will be operated in radar mode to detect possible enhanced plasma 
+waves in 
+the aurora. The experiment will be cancelled if there is insufficient auroral 
+activity.
+

@@ -1,0 +1,31 @@
+experiment RONE
+instrument TRO
+start 2015 03 09 0630
+end 2015 03 09 0900
+status R
+description Radar, radio, and optical observations of natural and HF enhancements
+contact Brett Isham
+phone +17876855223
+email brettisham@gmail.com
+operator tbd
+submitter Brett Isham
+resources SE(24),NO(24)
+notes
+Radar, radio, and optical observations of natural and HF enhancements (ion-acoustic, Langmuir, 
+gyro line, radio, and optical) preferably conducted during satellite passes. ISR data will be 
+recorded using VHF vertical and UHF vertical or field-aligned mostly simultaneously, using both IL 
+and PL channels on both antennas.  Radio emission data will be recorded using a wide-band (0-10 
+MHz) receiver provided by Interamerican University and Dartmouth College operating at the 
+Auroral Observatory.  Optical data will be recorded by collaborating instruments.  HF radar data 
+will be provided by SuperDARN. 
+
+During 0630-0900 UT on 9, 10, 11, and 12 March we will dovetail with STD, pmwe_swe, and/or 
+SP_NI_Ti observations, starting earlier with VHF, UHF, and possibly also HF (Heating).  
+
+Cassiope/ePOP passes will occur during the middle of the requested observation periods as 
+follows: 
+20150309 075149 UT
+20150310 074108 UT (best one)
+20150311 073023 UT
+20150312 071936 UT
+

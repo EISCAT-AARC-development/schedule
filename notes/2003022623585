@@ -1,0 +1,16 @@
+experiment Zhong_Sval
+instrument ESR
+start 2003 02 26 1600
+end 2003 02 26 2200
+status R
+description  Zhongshan-Svalbard Conjugate Campaign.
+contact R Fujii
+phone 81-52-789-4309
+email rfujii@stelab.nagoya-u.ac.jp
+fax 81-52-789-4311
+operator R Fujii (tentative)
+submitter S Nozawa
+resources NI(18)
+notes
+ The aim of this experiment is to conduct conjugate observation of substorm auroras over Zhongshan and Svalbard with optical and  magnetic measurements,  SuperDARN HF radars  EISCAT Svalbard Radar detections.
+

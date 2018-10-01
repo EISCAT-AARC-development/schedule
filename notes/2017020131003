@@ -1,0 +1,30 @@
+experiment ROSA
+instrument ESR
+start 2017 02 01 0300
+end 2017 02 01 0800
+status R
+description Radar and optical studies of the auroral atmosphere
+contact Dan Whiter
+email d.whiter@soton.ac.uk
+operator Josh Chadney
+submitter Andrew J. Kavanagh
+resources UK(10),SW(25)
+notes
+This is a joint experiment between the University of Southampton (UK) and
+KTH(SW) & the time should be split: UK(10)SW(25)
+
+Main science objectives:
+- To investigate the response of neutral temperature in the thermosphere and
+mesopause to different auroral energy inputs and processes.
+- To compare neutral temperature changes with radar measured ion and electron
+temperatures in order to understand the heating of the upper atmosphere better.
+- To validate a new technique for inferring F-region neutral temperature from
+spectrographic measurements of O+ aurora.
+- To understand the mechanisms that operate at the boundary of the polar cap and
+auroral oval.
+- To investigate the aurora that occurs within the polar cap, in order to
+differentiate between possible acceleration mechanisms.
+
+The radar will be run in a field-aligned position, and it is likely that the
+arc_slice experiment will be used. Clear skies and aurora are strongly preferred.
+

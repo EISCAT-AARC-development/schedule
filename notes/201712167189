@@ -1,0 +1,24 @@
+experiment ConvecPCP
+instrument SOD
+start 2017 12 16 1300
+end 2017 12 20 2000
+status R
+description Observations of Ionospheric Convection and response times utilizing Polar Cap Patches
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)
+notes
+rem ksv runexp /kst/exp/bella/bella 0:0 lowel
+
+Tracking of Polar Cap patches (PCPs) across the entire polar cap from their
+formation in the cusp region to their disappearance into the night time auroral
+oval.
+Science Aims:
+ Direct measurements of the ionospheric convection velocity through multi-radar
+tracking of PCPs augmented with optical data where possible
+ Comparison with co-located SuperDARN ionospheric velocities (both fitted and
+direct line of sight)
+ Temporal variation of PCP velocities
+ Spatial variation of the PCP

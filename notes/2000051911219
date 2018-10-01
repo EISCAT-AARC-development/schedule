@@ -1,0 +1,10 @@
+experiment North
+instrument ESR
+start 2000 05 19 0600
+end 2000 05 20 0600
+status R
+contact Kofman
+email wlodek.kofman@obs.ujf-grenoble.fr 
+operator kofman
+resources fr(24)
+submitter F. Forme

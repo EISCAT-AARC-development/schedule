@@ -1,0 +1,23 @@
+experiment HEAT
+instrument ESR
+start 2007 08 14 1200
+end 2007 08 14 1600
+status R
+description ESR operations in support of SPEAR heating campaign
+contact Ranvir Dhillon
+phone 00441162523565
+email rsd6@ion.le.ac.uk
+fax 00441162523555
+operator Lasse Clausen
+submitter Ranvir Dhillon
+resources UK(16)
+notes
+The ESR will run an experiment that depends on ionospheric conditions and
+experimental objectives (probably the slopes long pulse experiment) using the
+32m dish in support of SPEAR operations. The particular scan mode depends on
+conditions.
+
+The experiment will be run in conjunction with equipment at Barentsburg, which
+will be observing a variety of SPEAR-induced effects. The CUTLASS radars will
+also be running in support of the campaign.
+

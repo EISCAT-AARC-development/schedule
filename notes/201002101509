@@ -1,0 +1,20 @@
+experiment MZE
+instrument HEA
+start 2010 02 10 1200
+end 2010 02 10 1500
+status R
+description Magnetic Zenith Effect
+contact Mike Kosch
+phone +44-1524-510404
+email m.kosch@lancaster.ac.uk
+fax +44-1524-510493
+operator Mike Kosch
+submitter Mike Kosch
+resources UK(12)
+notes
+Detect the temporal and spatial dynamics of pump-induced electron temperature 
+enhancements as well as SEE as a function of aspect angle to the magnetic 
+field line. The UHF and Heater will be scanned in zenith angle. Quiet 
+geophysical conditions are required. Cancellations are anticipated. The UHF-
+tristatic will run a standard code, e.g. beata. 
+

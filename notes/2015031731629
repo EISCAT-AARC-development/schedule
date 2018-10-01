@@ -1,0 +1,28 @@
+experiment SCRAP
+instrument TRO
+start 2015 03 17 0500
+end 2015 03 17 1400
+status R
+description The objective of the SCRAP experiment is to validate theories on density fluctuations in dusty plasmas by measuring the scattering of ultra-high frequency radio waves on a cloud of electrically conductive micro particles spread in the mesospheric plasma
+contact Matteo Crimella
+phone +46 72-0327591
+email crimella@kth.se
+operator Matteo Crimella
+submitter Matteo Crimella
+resources PR(20)
+notes
+This EISCAT schedule request is submitted for the SCRAP experiment launch campaign. 
+During this days the SCRAP experiment will be launched from Esrange on the REXUS 
+rocket. 20 hours have been allocated for SCRAP in the EISCAT peer review program.
+The possible days for the launch are: from March the 17th to March the 24th; the launch 
+window during the launch days opens at 6:00 local time and closes at 16:00 local time. 
+During this campaign the EISCAT UHF radar will be used to collect the data for the SCRAP 
+experiment. The UHF radar will be used in a low elevation mode looking over the Esrange 
+rocket range. 
+After the rocket launch, when the metal dust is released from the rocket, a scan pattern 
+covering the location of the rocket apogee will be run: the location of the apogee is 
+expected to at 90 km of altitude above Esrange, corresponding to 154.3 azimuth and 22.5 
+elevation from the UHF radar. 
+Raw data will be collected and cancellations depending on launch conditions are 
+expected.
+

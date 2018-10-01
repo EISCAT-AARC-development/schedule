@@ -1,0 +1,22 @@
+experiment VLF 
+instrument HEA
+start 2014 03 01 1200
+end 2014 03 20 1600
+status R
+description Long rang detection of VLF excited by heating auroal electrojet
+contact Wu Jun
+email wujun1969@163.com
+operator Wu Jun
+submitter Wu Jun
+resources CN(50)
+notes
+From Mar.1 to 20, we plan to carry out long detection of VLF(6kHz-10kHz) 
+radiation produced by ionospheric heating using EISCAT VHF radar and heater.
+The receivers will be installed at Kannuslehto near Sodankyla Geophysical 
+Observatory and XinJiang in China respectively.
+In fact, the success in this experimnet will greatly depends on the ionospheric 
+background conditions, so during the period of order as above, we will find a 
+chance with the good background to perform the experiment.
+Also, considing the logistics for the receiving staff in China, it will be 
+better to perform the experiment in daytime. 
+

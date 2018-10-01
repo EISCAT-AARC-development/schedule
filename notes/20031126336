@@ -1,0 +1,15 @@
+experiment TECSCINTIL
+instrument TRO
+start 2003 11 26 1800
+end 2003 11 26 2359
+status R
+description as before
+contact Ulf-Peter Hoppe
+phone +47 63 80 72 87
+email uph@ffi.no
+fax +47 63 80 72 12
+operator Ulf-Peter Hoppe
+submitter Ulf-Peter Hoppe
+resources SE(30)
+notes
+actually SE(30) and NO(24), but the form would not accept this.

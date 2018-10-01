@@ -1,0 +1,20 @@
+experiment Draconids
+instrument TRO
+start 2011 10 08 1600
+end 2011 10 08 2300
+description Draconids
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources SW(10)
+notes
+On VHF:
+runexp /kst/exp/manda/manda 16:00 zenith SW
+
+On UHF:
+runexp /kst/exp/manda/manda lm ei/draconids SW
+
+In Kir:
+runexp /kst/exp/manda/manda 16:00 zenithv SW 100
+

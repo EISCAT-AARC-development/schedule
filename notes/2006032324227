@@ -1,0 +1,42 @@
+experiment tau1_AA
+instrument VHF
+start 2006 03 23 0800
+end 2006 03 23 1200
+status R
+description VHF experiments in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(4)
+notes
+March 2006 is the optimum month for the sixth campaign of Cluster cusp 
+conjunctions. The plane of the Cluster orbit is once again close to the Sun-
+Earth line, and a number of magnetopause crossings occur close to EISCAT in the 
+morning sector.  One issue affecting EISCAT/Cluster coverage in this month is 
+that the ESR and UHF radars are scheduled for a month-long Common Programme 
+(CP1) operation (March 6th to April 6th inclusive).  This means that four of 
+our five requests are for VHF experiments only.  The other request (March 4th: 
+08-12 UT) falls before the start of the Common Programme, and for this we 
+request both the ESR and VF radars.  This period should be counted as the 
+highest priority.
+
+The specific intervals for which we are requesting coverage are as follows:
+
+March 4th: 08-12 UT  (ESR+VHF) Outbound magnetopause crossing shortly before 12 
+UT.
+
+March 8th: 20-24 UT  (VHF) Auroral zone perigee pass
+
+March 11th: 09-13 UT (VHF) Outbound magnetopause crossing aroud 14 UT
+
+March 16th: 07-11 UT (VHF) Outbound magnetopause crossing around 08 UT
+
+March 23rd: 08-12 UT (VHF) Outbound magnetopause crossing around 12 UT.
+
+Of course not all of these intervals correspond to the nominal times at which 
+the ESR would be observing the cusp, but actual magnetopause timings will 
+depend on solar wind conditions, and could vary by an hour or more.
+

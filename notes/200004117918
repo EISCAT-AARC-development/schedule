@@ -1,0 +1,25 @@
+experiment CP3
+instrument UHF
+start 2000 04 11 1000
+end 2000 04 13 1600
+status C
+description CP3, floating period 04-26 April, final selection by John Foster
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(78)
+submitter Tony van Eyken
+notes
+Wide-Latitude Substorm Dynamics 
+     These are 'floating' days, the exact operation dates to be selected about one month before based on available 
+     predictions. Modes with temporal resolutions better than 5 minutes should be used since we need to address substorm 
+     phenomena with better time resolution. 
+     Contact: John Foster  
+   SPARC 
+     SPARC brings together researchers in upper atmospheric and space physics from around the world, providing them a 
+     set of online collaboration tools and workspaces that link together scientific instruments, data, and models. The 
+     collaboratory is itself a subject of study by computer and behavioral scientists who are developing and refining the 
+     tools and organizational structures that will make such real-time, online collaborative research commonplace. 
+     Contact: Tim Killeen 

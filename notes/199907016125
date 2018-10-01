@@ -1,0 +1,16 @@
+experiment TidalAGW
+instrument UHF
+start 1999 07 01 1000
+end 1999 07 06 1000
+status R
+description Extended Tidal/AGW Experiment
+contact K. Schlegel
+phone +49 5556 979468
+email schlegel@linmpi.mpg.de  
+fax +49 5556 979 240
+operator K. Schlegel
+resources GE(24)
+submitter M. Rietveld
+notes
+German time contribution: 24 hrs ESR, 24 hrs UHF  
+CP2L

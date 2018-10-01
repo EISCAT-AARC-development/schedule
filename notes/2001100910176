@@ -1,0 +1,16 @@
+experiment WLS
+instrument ESR
+start 2001 10 09 1000
+end 2001 10 11 1600
+status C
+description Wide-Latitude Study
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(54)
+submitter Tony van Eyken
+notes
+These are often 'floating' days, the exact operation dates to be selected about one month before based on available predictions. Modes with temporal resolutions better than 5 minutes should be used since we need to address substorm phenomena with better time resolution.  
+Contact: John Foster

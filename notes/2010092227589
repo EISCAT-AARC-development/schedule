@@ -1,0 +1,28 @@
+experiment emTEE
+instrument TRO
+start 2010 09 22 1200
+end 2010 09 22 1800
+status R
+description Magnetospheric artificial wave injection for magnetotelluric surveying 
+contact Mai Mai Lam
+phone +441162523571
+email mml9@ion.le.ac.uk
+operator Mai Mai Lam
+submitter Ian McCrea
+resources UK(84)
+notes
+This experiment will make measurements of ionospheric artificial wave injection 
+(0.1-10 Hz) using the EISCAT Heater and UHF radar in conjunction with an 
+industrial magnetotelluric surveying magnetometer, the IMAGE fluxgate 
+magnetometers, and Finland (Oulu) pulsation magnetometers. 
+
+The plan is to run seven 6-h runs spread over about a week. In each run, the 
+heating signal at should be at ~4MHz, with full power and field-aligned X-mode 
+polarisation.  The modulation should be as follows:
+
+(i) Heater on for 5 seconds, off for 5 seconds for 5 minutes
+(ii) Heater then off for 5 minutes 
+
+The magnetometers are only available for a short period (18-28 September) so the 
+campaign has to take place on the dates specified.  The UHF radar will run in a 
+simple survey mode to characterise the ionospheric conditions.

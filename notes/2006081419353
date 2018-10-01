@@ -1,0 +1,18 @@
+experiment UHFheating
+instrument HEA
+start 2006 08 14 1300
+end 2006 08 15 1545
+status R
+description the UHF radar observation of the artificial irregularity induced by the ionosphyeric heating
+contact jun.wu
+phone 861069731740
+email jun.wu@leme.ac.cn
+fax 861069731740
+operator jun.wu anfd yubo.yan
+submitter jun.wu
+resources CN(10)
+notes
+sorry,it is late.On July 3, we submitted the schedule request of this 
+experiment to Tony.Van.Eyken by e-mail,and he told us that he had passed the 
+request to the schedule system.But we can find the experiment in HQ operations 
+Schedule,so we submit it again.thank you.

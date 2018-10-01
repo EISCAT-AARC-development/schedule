@@ -1,0 +1,17 @@
+experiment SP-UK-OUCH
+instrument UHF
+start 1999 10 28 1200
+end 1999 10 28 1600
+status R
+description High temporal and spatial multi-instrument measurements of ULF wave signatures.
+contact Dr Tim Yeoman, Leicester University
+phone +44 116 2523564
+email tim.yeoman@ion.le.ac.uk 
+fax +44 116 2523555
+operator To be decided.
+resources UK(30)
+submitter Ken Freeman
+notes
+The Heater will be operated in a continuous mode at low power. Any ULF waves generated will be measured by the CUTLASS Radar and the Leicester HF Doppler sounder (DOPE), with the EISCAT UHF Radar being employed to monitor background parameters.                                  
+                                  
+Please note that this time interval may be used by experiment SP-UK-HEAT instead.

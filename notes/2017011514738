@@ -1,0 +1,22 @@
+experiment Swarm_DMSP
+instrument SOD
+start 2017 01 15 0600
+end 2017 01 15 0800
+status R
+description Coordinated measurements during Swarm and DMSP satellite overflight
+contact Heikki Vanhamäki and Stephan Buchert
+phone +358-50-5314127
+email heikki.vanhamaki@oulu.fi
+operator EISCAT staff
+submitter Heikki Vanhamäki
+resources AA(100)
+notes
+This EISCAT experiment covers first Swarm A+C and then DMSP F17 passing over
+Tromssa on January 15. According to the latest orbit predictions, the closest
+approach of Swarm A+C takes place at 06:43 UT, with maximum elevation of 89
+degrees. DMPS F-17 passes about 7 minutes later, with maximum elevation of 88
+degrees.
+
+We request simultaneous measurements by UHF (field-aligned) and VHF (vertical,
+tri-static).
+

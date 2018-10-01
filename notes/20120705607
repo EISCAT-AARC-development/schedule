@@ -1,0 +1,14 @@
+experiment AMME
+instrument VHF
+start 2012 07 05 0800
+end 2012 07 05 1100
+status R
+description Simultaneous API and PMSE experiment
+contact Irina Strelnikova
+email strelnikova@iap-kborn.de
+operator Antti Kero
+submitter Antti Kero
+resources PP(24)
+notes
+A novel heating experiment combining the API and the PMSE modulation schemes. Modulated PMSE is 
+monitored simultaneously by UHF, VHF, MST and HF radars.

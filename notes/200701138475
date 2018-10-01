@@ -1,0 +1,15 @@
+experiment LPACI_07
+instrument ESR
+start 2007 01 13 0400
+end 2007 01 13 1300
+status R
+description combined optics and NEILS experiment
+contact Betty Lanchester
+phone +44 2380592049
+email bsl@phys.soton.ac.uk
+fax +44 2380592048
+operator Dan Whiter
+submitter Vikki Howells
+resources UK(20),SW(10)
+notes
+The ESR experiment will be supporting SIF, either arc or interferometry 

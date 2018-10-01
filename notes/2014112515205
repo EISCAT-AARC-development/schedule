@@ -1,0 +1,22 @@
+experiment RIOE2014
+instrument TRO
+start 2014 11 25 1500
+end 2014 11 25 1900
+status R
+description Heating-experiment on radio induced optical emissions (Artificial Aurora), investigating frequency and power dependencies
+contact Björn Gustavsson
+phone +47 776 45 668
+email bgu001@uit.no
+operator Björn Gustavsson
+submitter Björn Gustavsson
+resources NO(30),SE(30)
+notes
+Studies of artificial aurora/radio-induced optical emissions from the F-layer
+with main focus on how the three-dimensional volume emission rates varies with
+frequency and ERP of Heating. The expectations is to be able to detect
+time-variation of descending HF-enhanced ion-line and plasma-line spectra as
+evidence of HF-induced Heating, and make observations of its variation with ERP
+and frequency. Previous experiment in February 2014 was performed with
+significantly reduced ERP, so since the ionospheric response to Heating is
+strongly non-linear the experiment needs to be done with the maximum ERP
+achievable with Heating.

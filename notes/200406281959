@@ -1,0 +1,29 @@
+experiment steffe_AA
+instrument ESR
+start 2004 06 28 0100
+end 2004 06 28 0700
+status R
+description ESR (42m only) experiment in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT duty staff
+submitter Ian McCrea
+resources AA(6)
+notes
+In June, the ESR is scheduled to run a long Common Programme, continuously 
+until June 25th.  There are a large number of ESR/Cluster conjunctions in 
+this interval, but given that none of them is perhaps particularly 
+scientifically exciting, and that all of them will be covered by some 
+sort of ESR observation, I suggest that no specific ESR/Cluster 
+experiments are scheduled for this interval.
+
+The only interval that I suggest adding as a specific request for 
+EISCAT/Cluster operations in June is 28/06/2004 01-07 UT, which might 
+(depending on solar wind) be the one of the first flank-skimming orbits of the 
+year, close to conjugacy with EISCAT.  No radar experiments have yet been 
+requested for this interval, and since the overpass is fairly close to ESR it 
+would be worth requesting CP1 at ESR and (1-beam) CP4 on the 
+mainland.
+

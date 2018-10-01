@@ -1,0 +1,21 @@
+experiment ECOMA PMSE
+instrument VHF
+start 2008 07 12 0900
+end 2008 07 12 1300
+status R
+description Two frequency PMSE measurements during the ECOMA rocket campaign
+contact M. Rapp
+email rapp@iap-kborn.de
+operator tbd
+submitter Renate Scherer
+resources Ge(60)
+notes
+In the period June 30th until July 14th 2008, the international ECOMA
+(=Existence and charge state of meteor smoke particles in the middle atmosphere)
+rocket campaign will take place at the Andoya Rocket Range. Three sounding
+rocket payloads will be launched to characterize particle and plasma parameters
+as well as the neutral atmosphere under conditions of polar mesosphere summer
+echoes (PMSE) and noctilucent clouds. Complementary to these rocket
+observations, we plan for PMSE-observations with the EISCAT VHF and UHF-radars,
+in part to study the frequency dependence of PMSE, but primarily to seek for
+particle signatures in the incoherent scatter signal.

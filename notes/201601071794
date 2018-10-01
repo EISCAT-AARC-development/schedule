@@ -1,0 +1,25 @@
+experiment Tomography
+instrument TRO
+start 2016 01 07 1800
+end 2016 01 08 0200
+status R
+description Generalized auroral tomography and small-scale aurora observations
+contact Yoshimasa Tanaka
+phone +81425120769
+email ytanaka@nipr.ac.jp
+fax +81425120769
+operator Y. Ogawa and H. Kondo 
+submitter Y. Ogawa (yogawa@nipr.ac.jp)
+resources NI(31),NO(15),SW(15),FI(15)
+notes
+PIs of the SP:
+Y. Tanaka, T. Sakanoi, K. Kauristie, T. Sergienko, and B. Gustavsson
+
+We conduct the generalized auroral tomography and small-scale aurora
+observations using EISCAT radar, ALIS, MIRACLE imagers, and NIPR imagers.
+
+The observation modes of the instruments will be as follows:
+- EISCAT UHF radar: Field-line mode (CP-1).
+- MIRACLE imagers: "default" filter sequence (RGB).
+- ALIS: EISCAT south mode. The same filter sequence of the MIRACLE imagers.
+

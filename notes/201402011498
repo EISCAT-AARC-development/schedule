@@ -1,0 +1,17 @@
+experiment StratWarm
+instrument TRO
+start 2014 02 01 0000
+end 2014 02 14 2300
+status R
+description Effects of Sudden Stratospheric  Warming
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(99)
+notes
+The decision to start will be based on predictions of Sudden Stratospheric
+Warming. In the case of no SSW event, the World Day will revert to a 5‐day run
+at the end of the alert period, 9‐14 February. There should be one week's notice
+for the alert.
+

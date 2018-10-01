@@ -1,0 +1,26 @@
+experiment POLARED
+instrument TRO
+start 2014 12 16 1900
+end 2014 12 20 2300
+status R
+description Combined obs of aurora : optical spectropolarimeter / EISCAT/ALIS
+contact Herve Lamy
+phone 0032474906555
+email herve.lamy@skynet.be
+fax 003223748423
+operator Prof. Björn Gustavsson
+submitter Herve Lamy
+resources 3P(18)
+notes
+Combined optical and radar observations of aurora. Optical observations are
+carried out with ALIS network and with a new dedicated spectropolarimeter which
+will be located in Skibotn observatory.
+
+We need astronomical twilight to avoid contamination by Rayleigh scattering of
+Sunlight. In December this is not a stringent constraint. The 18h allocated are
+splitted into 3 slots of 4h and 2 slots of 3h on 5 consecutive days, from 16 to
+20 December.  Since we also need clear sky, we may decide to change the schedule
+the afternoon before depending on the weather forecast (if still allowed). 
+
+The radar will be used field-aligned with the BEATA code.
+

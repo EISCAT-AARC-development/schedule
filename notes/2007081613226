@@ -1,0 +1,14 @@
+experiment CP2
+instrument UHF
+start 2007 08 16 1300
+end 2007 08 17 1900
+status C
+description CP2
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(450)
+notes
+runexp /kst/exp/tau2pl/tau2pl 13 cp2
+Synoptic

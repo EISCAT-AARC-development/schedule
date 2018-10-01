@@ -1,0 +1,53 @@
+experiment ARASE
+instrument TRO
+start 2017 05 01 2300
+end 2017 05 02 0300
+status R
+description Coordinated ARASE-EISCAT observations
+contact Yasunobu Ogawa
+phone +81-42-512-0664
+email yogawa@nipr.ac.jp
+fax +81-42-512-0664
+operator EISCAT staff
+submitter Y. Ogawa
+resources PP(12),FI(12)
+notes
+PP (PI: Prof. K. Shiokawa, 24-h for March, April, and May obs.)
+and Finnish SP (PI: Dr. A. Kero, FI, 12-h)
+
+
+We conduct coordinated observations of high energy particle precipitations 
+with ERG (Arase), EISCAT radars, and several ground-based instruments.
+
+UHF: 
+runexp /kst/exp/ei/arc1/arc1 fm cp1 PP
+enablerec
+
+UHF: 
+runexp /kst/exp/manda/manda fm zenith PP
+enablerec
+
+
+---------------------------------------------
+Coordinated ARASE-EISCAT observations (May, 2017)
+---------------------------------------------
+UHF radar
+2017-05-01 2300 UT - 2017-05-02 0300 UT (4-h)
+2017-05-03 2300 UT - 2017-05-04 0300 UT (4-h)
+2017-05-16 2200 UT - 2017-05-17 0200 UT (4-h)
+2017-05-18 2100 UT - 2017-05-19 0100 UT (4-h)
+2017-05-20 2200 UT - 2017-05-21 0200 UT (4-h)
+
+VHF radar
+2017-05-01 2400 UT - 2017-05-02 0200 UT (2-h)
+2017-05-03 2400 UT - 2017-05-04 0200 UT (2-h)
+2017-05-16 2200 UT - 2017-05-17 0000 UT (2-h)
+2017-05-18 2200 UT - 2017-05-19 0100 UT (2-h)
+2017-05-20 2300 UT - 2017-05-21 0100 UT (2-h)
+---------------------------------------------
+
+ERG-EISCAT collaboration page:
+https://ergsc.isee.nagoya-u.ac.jp/mw/index.php/ErgGround/ErgEiscat
+
+
+

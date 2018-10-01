@@ -1,0 +1,33 @@
+experiment steffe_AA
+instrument ESR
+start 2004 04 13 0500
+end 2004 04 13 1100
+status R
+description ESR experiments in support of Cluster and Double Star
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT duty staff
+submitter Ian McCrea
+resources AA(6)
+notes
+By April 2004, the plane of the Cluster orbit has moved away from the Sun-Earth 
+line.  Nevertheless, dayside magnetospause crossings continue to occur with 
+magnetic footprints in the vicinity of EISCAT/ESR, and there continues to be a 
+potential for cusp crossings throughout this interval.  For April 2004, I am 
+requesting five intervals of EISCAT operation as follows:
+
+April 01   06-12 UT
+April 06   03-09 UT
+April 13   05-11 UT
+April 20   06-12 UT
+April 25   03-09 UT
+
+all of which are outbound magnetopause crossings.  The run on April 20 will be 
+a combined operation with Sondrestrom, which will run from 09-14 UT.
+
+As with the March operations, the best mode is LowElNorth on the ESR 32m dish, 
+interleaved (1:1) with field-aligned operations on the 42m dish and low-
+elevation northward-looking modes from the mainland, using either tau8 on the 
+VHF or (if not available) dual-klystron tau1u on the Tromso UHF. 

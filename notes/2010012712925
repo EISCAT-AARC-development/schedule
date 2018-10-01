@@ -1,0 +1,22 @@
+experiment SPEAR
+instrument ESR
+start 2010 01 27 1700
+end 2010 01 27 2200
+status R
+description EISCAT measurements as part of a SPEAR heating campaign
+contact Lisa Baddeley
+phone 0047 79023362
+email lisa.baddeley@unis.no
+fax 0047 79 02 33 01
+operator Lisa Baddeley
+submitter Lisa Baddeley
+resources NO(25)
+notes
+EISCAT experiment in conjunction with a SPEAR heating campaign.
+Additional time on the SuperDARN radars will be run in conjunction with the
+experiment.
+The experiment and exact scan will be decided on the day but it will be one of
+the SPEAR scan modes and probably the SLOPES code.
+The time is heavily overbooked in anticipation of the 10 day CP2 run starting
+during the campaign. If this happens then most of the runs during this period
+will be cancelled.

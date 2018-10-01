@@ -1,0 +1,21 @@
+experiment HAIL_POND
+instrument HEA
+start 2011 07 07 1000
+end 2011 07 07 1300
+status R
+description Heater-induced artificial ionisation layers / ion upwelling for neutral atmosphere measurements
+contact Mike Kosch
+phone +44 1524 510404
+email m.kosch@lancaster.ac.uk
+fax +44 1524 510493
+operator Mike Rietveld
+submitter Andrew Senior
+resources UK(32)
+notes
+This is a single entry for the UK HAIL and POND experiments by Lancaster 
+University, which both require similar conditions and heater/radar operations.
+
+The Heater will operate field-aligned, O-mode. For the HAIL experiment, 
+frequency stepping will be applied to keep the frequency above the local 
+gyroharmonic frequency as the interaction height descends.
+

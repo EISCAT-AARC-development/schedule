@@ -1,0 +1,20 @@
+experiment TRISTATIC
+instrument UHF
+start 2010 02 06 1600
+end 2010 02 07 0500
+status R
+description Tristatic UHF and FPI observations of ion-neutral coupling in the thermosphere
+contact Mike Kosch
+phone +44-1524-510404
+email m.kosch@lancaster.ac.uk
+fax +44-1524-510493
+operator Anasuya Aruliah
+submitter Mike Kosch
+resources UK(42)
+notes
+Tristatic UHF and Fabry-Perot Interferometer (FPI) observations of ion and 
+neutral flow in the upper and lower thermosphere. The objection is to study 
+meso-scale variability of the ion-neutral coupling. Clear sky is required at 
+Kiruna, Ramfjord and Sodankyla. Cancellations are anticipated. The UHF-
+tristatic will run a standard code, e.g. beata. 
+

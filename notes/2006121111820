@@ -1,0 +1,14 @@
+experiment HASK
+instrument UHF
+start 2006 12 11 2000
+end 2006 12 12 0100
+status R
+description Heating and ASK
+contact N. Ivchenko
+email nickolay.ivchenko@ee.kth.se
+operator T. Sergienko
+submitter N. Ivchenko
+resources SW(30)
+notes
+Optical and heating campaign, focusing on 
+E-region heating and its optical effect

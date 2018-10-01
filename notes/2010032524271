@@ -1,0 +1,14 @@
+experiment Debris
+instrument UHF
+start 2010 03 25 0800
+end 2010 03 30 0800
+status R
+description Space debris observation with Tau1 program by UHF tristatic radar
+contact Jin Wang
+email jinwang0410@163.com
+operator Jin Wang
+submitter Wu Jun
+resources CN(30)
+notes
+The purpose of this required experiment is to obtain the characters of space 
+debris by tristatic UHF radar.

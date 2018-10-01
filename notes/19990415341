@@ -1,0 +1,13 @@
+experiment Astrid-2
+instrument UHF
+start 1999 04 15 2000
+end 1999 04 15 2400
+status R
+description Astrid-2 conjunctions with ESR and/or mainland EISCAT and CUTLASS
+contact Paul Eglitis
+phone +46 18 30 36 63
+email paul@irfu.se 
+fax +46 18 40 31 00
+operator Paul Eglitis
+resources SW(4)
+submitter Hermann Opgenoorth

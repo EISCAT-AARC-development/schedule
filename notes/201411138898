@@ -1,0 +1,22 @@
+experiment PMWE
+instrument VHF
+start 2014 11 13 0800
+end 2014 11 13 1000
+status R
+description Heater-induced modulation of Polar Mesospheric Winter Echoes
+contact Andrew Senior
+phone +44 1524 510410
+email a.senior@lancaster.ac.uk
+operator Andrew Senior
+submitter Andrew Senior
+resources UK(24),NO(12)
+notes
+The HF facility will radiate vertically to modulate the D-region electron 
+temperature while the VHF and UHF radars observe any modulation of PMWE. The 
+radars will point vertically and run the standard "manda" program.
+
+The experiment will only run if conditions are suitable for PMWE, e.g. electron 
+precipitation to enhance the D-region and/or if PMWE has been observed in other 
+radars such as MORRO. It is also possible that some facilities (e.g. UHF or VHF 
+remotes) will not be used in each case.
+

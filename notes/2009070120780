@@ -1,0 +1,19 @@
+experiment CNHeating
+instrument HEA
+start 2009 07 01 0900
+end 2009 07 05 1300
+status R
+description spatial variation of electron temperature and density induced by heating
+contact Dr.Jun.Wu
+phone 8601080712642
+email wujun1969@163.com
+fax 8601069731740
+operator CN campaign team
+submitter Jun.Wu
+resources CN(20)
+notes
+An ionospheric heating experiment which requires simultaneous Heater, UHF radar
+operation. The Heater will be pointed 12 deg. South. Depending on the
+ionosphere, the pump frequency should be just at the critical frequency of F
+region. The UHF will scan in 1 deg. steps either north-south in order to confirm
+the temperature and density structure. 

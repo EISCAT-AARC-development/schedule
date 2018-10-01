@@ -1,0 +1,20 @@
+experiment IPS_KAIRA
+instrument TRO
+start 2015 03 11 1830
+end 2015 03 11 2000
+status R
+description Radar Measurements to support Ionospheric Scintillation with KAIRA
+contact Richard Fallows
+phone +358503837525
+email fallows@astron.nl
+operator Richard Fallows
+submitter Richard Fallows
+resources FI(3)
+notes
+Tromso UHF density measurements are requested to support KAIRA ionospheric 
+scintillation observations of Cas A at times when KAIRA, Tromso and Cas A are 
+closely aligned.  For the best scintillation possibilities, evening observations 
+are preferred.  Since the necessary alignment only occurs at specific times and 
+is only useful over a short period of time, only 1.5 hours is requested per day.  
+The times chosen are attached to other radar requests commencing immediately 
+afterwards to enable such a short time request to be accommodated. 

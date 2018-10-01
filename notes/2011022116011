@@ -1,0 +1,19 @@
+experiment FILO
+instrument ESR
+start 2011 02 21 1000
+end 2011 02 22 1500
+status R
+description SPEAR Pump Frequency dependence of the Ion Line Overshoot
+contact Hannah Vickers
+phone +47 7902 3390
+email hmsv1@ion.le.ac.uk
+operator Hannah Vickers
+submitter Hannah Vickers
+resources NO(24)
+notes
+SPEAR will be used to transmit HF waves at a range of frequencies to produce 
+enhanced ion lines which will be detected using the ESR radar.
+ESR 32m dish will be pointed in a fixed direction along the magnetic field
+CUTLASS radars will also be used to detect small-scale irregularities generated 
+by SPEAR
+

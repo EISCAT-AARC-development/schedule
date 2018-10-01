@@ -1,0 +1,23 @@
+experiment CUSP99
+instrument ESR
+start 1999 12 08 0630
+end 1999 12 08 1100
+status R
+description ESR and ground based optical campaign
+contact J%F8ran Moen
+phone +47 790 23336
+email jmoen@unis.no 
+fax +47 790 23301
+operator J%F8ran Moen
+resources NO(18)
+submitter J%F8ran Moen
+notes
+ESR and ground-based optical campaign with purpose to study ionospheric plasma  
+dynamics in relation to cusp auroral activity.  Three experiment modes are  
+proposed: 
+1. Fixed beam pointing towards the magnetic North pole at low elevation 
+2. Scanning along the magnetic meridian 
+3. Azimuth sweeps at low elevation 
+Which mode to be run will be decided according to geomagnetic and auroral  
+conditions. 
+

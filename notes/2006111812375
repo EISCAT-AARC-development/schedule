@@ -1,0 +1,21 @@
+experiment MISS_UK
+instrument ESR
+start 2006 11 18 1900
+end 2006 11 18 2400
+status R
+description Multi-Instrument Measurement of Substorms
+contact Andrew Kavanagh
+phone +44-1524-510411
+email a.j.kavanagh@lancaster.ac.uk
+fax +44-1524-510493
+operator UK Campaign Team
+submitter Ian McCrea
+resources UK(36)
+notes
+This is the ESR component of a multi-instrument programme of sub-storm 
+measurements, proposed by the University of Lancaster.  The precise mode and 
+pointing direction will be defined nearer the time of the campaign, but it is 
+likely that this experiment will use a standard modulation.
+
+The MISS experiment has an allocation of 36 hours, but is being over-scheduled 
+since it depends to some extent on good optical conditions.

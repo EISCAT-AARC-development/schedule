@@ -1,0 +1,16 @@
+experiment SP-UK-CVOL
+instrument VHF
+start 2001 06 07 0800
+end 2001 06 08 0800
+status R
+description Measurements in Conjunction with the SKYMET Meteor Radar.
+contact Vikki Howells
+phone +44 1235 445044
+email V.S.C.Howells@rl.ac.uk 
+fax +44 1235 445848
+operator Vikki Howells
+resources UK(36)
+submitter Ken Freeman
+notes
+This experiment requires a continuous run of 24 hours, which cannot be   
+interrupted. It will only be run in the absence of PMSE. Both the UHF Radar and the VHF Radar will be employed.

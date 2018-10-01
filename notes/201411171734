@@ -1,0 +1,24 @@
+experiment DIME
+instrument TRO
+start 2014 11 17 1000
+end 2014 11 17 1400
+status R
+description Investigations of the magnetic zenith effect
+contact Farideh Honary
+phone +441524510402
+email f.honary@lancaster.ac.uk
+operator Andrew Senior
+submitter Andrew Senior
+resources UK(6)
+notes
+Detailed investigation of the angular dependence of the magnetic zenith (MZ) 
+effect associated with the heating of electrons. See July 2014 for further 
+details.
+
+These schedule requests are indicative of the period in which the experiment is 
+likely to be run: it is in site working hours and it is assumed that operations 
+will be flexible. The site staff will be kept informed of the intention to run. 
+Due to the small available resource, there may be only a single 3-hour run.
+
+Quiet geomagnetic conditions are required.
+

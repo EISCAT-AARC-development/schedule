@@ -1,0 +1,18 @@
+experiment HF-effects
+instrument VHF
+start 2002 03 09 1700
+end 2002 03 09 2200
+status R
+description HF-induced Optical emissions, Langmuir turbulence, SEE, electron temperatures 
+contact M. Rietveld
+phone +49 5556 979 234
+email rietveld@linmpi.mpg.de 
+fax +49 5556 979 240
+operator B. Isham
+resources GE(20)
+submitter M. T. Rietveld
+notes
+After exciting results in November 2001, this is a multi-national campaign involving optical instruments from UK, SW/NI, FI to observe optical emissions from energetic electrons caused by HF-heating of the F-region (or E-region). Simultaneous plasma/ion line enhancements will be attempted with VHF, HF SEE observations, and other coherent radar measurements.        
+VHF desired single beam (unphased).        
+Preliminary time distribution:        
+UK(20),NI(10),FI(10),GE(20),SW(?)

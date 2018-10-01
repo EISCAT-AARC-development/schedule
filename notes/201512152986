@@ -1,0 +1,38 @@
+experiment PTRANS
+instrument VHF
+start 2015 12 15 1900
+end 2015 12 15 2300
+status R
+description Patch-Transit experiment
+contact Dr Alan Wood
+phone +44 115 848 8404
+email alan.wood@ntu.ac.uk
+operator TBC
+submitter Andrew J Kavanagh
+resources UK(16)
+notes
+This is a joint experiment using EISCAT and RISR-C to track polar patches across
+the polar cap.
+The aim is to observe the same patches at different locations and at different
+times. These observations will be used to determine:
+1) The reaction rate for the decay of the polar cap plasma.
+2)Changes in the large-scale plasma structures within the polar cap patch.
+
+ESR 32m will observe northwards at low elevation (El=30, Az=0)
+The ESR 42m should observe along the geomagnetic field line
+The VHF should observe northwards at low elevation (El=30, Az=0)
+RISR-C should observe at 25 points in a 5 x 5 grid, in the same manner as
+described in Dahlgren et al. (2012).
+
+Two evening runs are required
+
+In terms of the transmission codes:
+ESR: tau0, with one dump on the ESR-42m followed by four dumps on the ESR-32m 
+EISCAT VHF: tau8
+RISR-C:  The same transmission code as described in Dahlgren et al. (2012). 
+This was a long-pulse experiment with the radar observing using a 5 x 5 beam grid.
+
+The final decision on coding used will be confirmed closer to the time
+
+
+

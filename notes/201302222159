@@ -1,0 +1,28 @@
+experiment HFOX
+instrument HEA
+start 2013 02 22 1200
+end 2013 02 22 1800
+status R
+description Phenomena in the ionosphere F-region induced by O/X-mode HF pump wave
+contact Nataly Blagoveshchenskaya
+phone +7-812-337-3191
+email nataly@aari.nw.ru
+fax +7-812-352-2688
+operator Nataly Blagoveshchenskaya
+submitter Nataly Blagoveshchenskaya
+resources RU(60)
+notes
+We will study the HF-induced phenomena in the F-region of the ionosphere under 
+contrasting O/X mode heating near the critical frequency or under X-mode 
+heating when the heater frequency is above the critical frequency of the F2 
+layer. Experiments will be conducted with power, angle and frequency stepping 
+the HF pump wave. The UHF radar will be pointed in the magnetic field-aligned 
+direction or will be scanned between 74 and 92 degrees. We also would like to 
+repeat our October 2012 experiment when for the first time the X-mode 
+artificial aurora was seen by ALIS. These observations again will be carried 
+out in collaboration with IRF (Urban Brandstrom and others) with the use of 
+ALIS. The phased array 1 resulting in ERP = 600 - 1200 MW will be mostly used 
+in the course of experiments. Experiments will be carried out from 17 to 22 
+February from 12 to 18 UT and from 23 to 26 February from 7 to 15 UT with the 
+use of  HF heating facility (HEA) and Tromso UHF radar (TRO). The experiments 
+to be cancelled due to unsuitable ionospheric conditions. 

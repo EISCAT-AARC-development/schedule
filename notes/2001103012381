@@ -1,0 +1,21 @@
+experiment CLUSTER
+instrument ESR
+start 2001 10 30 1200
+end 2001 10 30 2000
+status C
+description Co-ordinated operations with the CLUSTER satellites
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(8)
+submitter Tony van Eyken
+notes
+there's one other  
+interval that I might add, especially if we decide to cancel the runs  
+on the 20th and 22nd.  It's the afternoon of the 30th, maybe 12 to  
+20 UT - although by now the geometry is not nearly so good for EISCAT  
+and in fact Sondy will have the most important role in the tail  
+campaign if I understand things correctly.  
+

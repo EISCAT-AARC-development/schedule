@@ -1,0 +1,22 @@
+experiment PLAR
+instrument UHF
+start 2004 06 11 1200
+end 2004 06 11 1700
+status R
+description Plasma Line experiment of the Auroral Ring
+contact Mina Ashrafi
+phone +44 1524 594440
+email m.ashrafi@lancaster.ac.uk
+fax +44 1524 592713
+operator Mina Ashrafi
+submitter Mina Ashrafi
+resources UK(22.5)
+notes
+This is a Plasma Line Auroral Ring (PLAR) experiment which requires 
+simultaneous Heater, UHF and CUTLASS radar operation. The super-Heater will be 
+pointed 9 deg. South at 5.423 MHz. Depending on the ionosphere, the pump 
+frequency should be just above the gyroharmonic. This has previously produced 
+an artificial optical ring. The UHF will scan in 1 deg. steps either 
+north-south or east-west in order to confirm the ring-like structure at radar 
+wavelengths. TAU2-PL will be run to be sensitive to Langmuir turbulence. The 
+CUTLASS radar is sensitive to upper-hybrid resonance. 

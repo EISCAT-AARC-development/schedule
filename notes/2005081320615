@@ -1,0 +1,13 @@
+experiment PMSE
+instrument VHF
+start 2005 08 13 1600
+end 2005 08 13 2200
+status R
+description PMSE overshoot and Perseids meteor shower
+contact La Hoz
+phone 77645161
+email cesar@phys.uit.no
+fax 77645580
+operator La Hoz
+submitter La Hoz
+resources NO(12),SW(12),GE(12),UK(12),EI(12)

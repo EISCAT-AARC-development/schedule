@@ -1,0 +1,11 @@
+experiment DEMO
+instrument UHF
+start 2003 02 12 0800
+end 2003 02 12 1100
+status R
+description Demonstration of UHF radar operation to international engineering students group
+contact Gudmund Wannberg
+email ugw@eiscat.com
+operator Gudmund Wannberg
+submitter Gudmund Wannberg
+resources EI(3)

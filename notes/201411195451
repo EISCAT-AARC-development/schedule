@@ -1,0 +1,20 @@
+experiment CAPER
+instrument TRO
+start 2014 11 19 0700
+end 2014 11 19 1100
+status R
+description ESR Support for the CAPER and C-REX campaigns
+contact Lasse Claussen
+phone +47-22855661
+email lasse.claussen@fys.uio.no
+operator tbd
+submitter Ian McCrea
+resources UK(24)
+notes
+This request is part of the international support for the CAPER and C-REX rocket 
+launches. I am scheduling 24 hours of UK mainland time to support this launch, 
+but there will certainly be cancellations.  Probably the experiments will only 
+actually be run on three days, including the two days on which the rockets are  
+launched. Decisions about what mode to run will be made on the day of launch, 
+according to weather conditions and launch priorities at Andoya.  Once both 
+rockets have been launched, any further bookings will be cancelled.

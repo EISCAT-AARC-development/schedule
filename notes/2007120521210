@@ -1,0 +1,14 @@
+experiment CUSP
+instrument VHF
+start 2007 12 05 0600
+end 2007 12 12 1200
+status R
+description Observation of the open-closed field line boundary and cusp ionosphere
+contact Frederic Pitout
+email frederic.pitout@obs.ujf-grenoble.fr
+operator F. Pitout
+submitter F. Pitout
+resources FR(6)
+notes
+VHF pointing poleward at low elevation
+Coordination with the ESR.

@@ -1,0 +1,16 @@
+experiment ESR-SSR
+instrument ESR
+start 1999 07 14 1600
+end 1999 07 14 2400
+status R
+description ESR and SOUSY
+contact K. Schlegel
+phone +49 5556 979468
+email schlegel@linmpi.mpg.de  
+fax +49 5556 979 240
+operator Michael Bantin
+resources GE(64)
+submitter M. Rietveld
+notes
+Search for E-region echoes simultaneous with SOUSY. Modulation=gup3, field       
+aligned.   

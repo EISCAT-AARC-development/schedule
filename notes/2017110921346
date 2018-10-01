@@ -1,0 +1,14 @@
+experiment ARASE
+instrument VHF
+start 2017 11 09 1200
+end 2017 11 09 1600
+status R
+description Ground based measurement for energetic particle precipitation in support of ARASE satellite mission
+contact Antti Kero
+phone +358 44 2894669
+email antti.kero@sgo.fi
+operator Antti Kero
+submitter Ilkka Virtanen
+resources FI(4)
+notes
+Vertical VHF, manda experiment with raw sample recording, heating off.

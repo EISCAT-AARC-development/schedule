@@ -1,0 +1,13 @@
+experiment pmse
+instrument TRO
+start 2006 08 12 1100
+end 2006 08 12 1500
+status R
+description Overshoot effect of PMSE - night time PMSE - Perseids meteor shower
+contact Ove Havnes
+phone 77645132
+email havnes@phys.uit.no
+fax 77645580
+operator Ove Havnes
+submitter Cesar La Hoz
+resources NO(20),EI(5),GE(35),CN(20)

@@ -1,0 +1,15 @@
+experiment UK_MARE
+instrument HEA
+start 2003 02 28 2030
+end 2003 02 28 2400
+status R
+description Magnetospheric Radar Experiment
+contact Andrew Senior
+phone +44-1524-594674
+email a.senior@lancaster.ac.uk
+fax +44-1524-592713
+operator Mike Rietveld
+submitter Ian McCrea
+resources UK(8)
+notes
+This experiment is an attempt to use the heater as a magnetospheric radar, using long Barker-coded modulations and receiving equipment deployed by the University of Lancaster.  Quiet conditions are required, with critical frequencies less than 4 MHz.  Shoudl such conditions not be obtained, some of the slots booked for this experiment could be used for the turbulence and aurora studies.

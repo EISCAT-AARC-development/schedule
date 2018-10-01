@@ -1,0 +1,14 @@
+experiment CP6
+instrument VHF
+start 2009 07 14 0800
+end 2009 07 14 1200
+description SpaceShuttle
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+notes
+runexp /kst/exp/manda/manda fm
+
+See https://e7.eiscat.se/Members/ingemar/skedule/2009WDschedule.htm
+

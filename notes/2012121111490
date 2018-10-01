@@ -1,0 +1,16 @@
+experiment CP4
+instrument VHF
+start 2012 12 11 0800
+end 2012 12 14 2300
+description Synoptic
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)
+notes
+runexp /kst/exp/bella/bella 8:0 lowel
+
+See
+http://www.eiscat.se/Members/ingemar/skedule/WD2012.htm
+

@@ -1,0 +1,27 @@
+experiment steffe_AA
+instrument ESR
+start 2006 05 09 1600
+end 2006 05 09 2000
+status R
+description ESR experiments in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea and Jackie Davies
+resources AA(4)
+notes
+With the Cluster orbit moving away from the Sun-Earth line, May is no longer 
+such a good month for Cluster conjunctions.  However, we have identified three 
+conjunctions which would be well worthwhile to cover with EISCAT observations, 
+namely
+
+May 5 06-10 UT (magnetopause crossing)
+May 9 16-20 UT (perigee pass) and
+May 21 16-20 UT (perigee pass)
+
+the May 5th interval has the highest priority of these.  Observing modes should 
+be as for April (see the April notes), steffe low_el_north on the ESR, 
+interleaving obsevrations from the 32m and 42m dishes at something like 4:1, 
+and low-elevation boresight tau1 on the vhf.

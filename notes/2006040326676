@@ -1,0 +1,16 @@
+experiment OUCH
+instrument HEA
+start 2006 04 03 0730
+end 2006 04 03 0930
+status R
+description Observations of ULF waves with CUTLASS and the Heater
+contact Darren Wright
+phone +441162523568
+email Darren.Wright@ion.le.ac.uk
+fax +441162523555
+operator Mike Rietveld
+submitter Darren Wright
+resources UK(9)
+notes
+Interval of EISCAT Heating to coincide with a conjunction of the Polar 
+spacecraft.

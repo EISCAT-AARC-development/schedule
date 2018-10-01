@@ -1,0 +1,17 @@
+experiment SP-UK-HEAT
+instrument UHF
+start 1999 10 29 1200
+end 1999 10 29 1600
+status R
+description Measurements of the autocorrelation decay time of long lived Heater induced backscatter.
+contact Prof Terry Robinson, Leicester University
+phone +44 116 2523562
+email txr@ion.le.ac.uk 
+fax +44 116 2523555
+operator To be decided.
+resources UK(18)
+submitter Ken Freeman
+notes
+The Heater will be employed to excite F-Region irregularities, whose spectral characteristics will be measured by the CUTLASS Radar. Background parameters will be monitored by the EISCAT UHF Radar.                 
+                 
+Please note that this time interval may be used by experiment SP-UK-OUCH instead.

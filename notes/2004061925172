@@ -1,0 +1,12 @@
+experiment CP1
+instrument ESR
+start 2004 06 19 0000
+end 2004 06 25 1400
+status R
+contact I Häggström
+email ingemar@eiscat.com
+operator I Häggström
+submitter I Häggström
+resources CP(1000)
+notes
+steffe cp1 

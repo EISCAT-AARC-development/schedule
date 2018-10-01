@@ -1,0 +1,13 @@
+experiment CUSP
+instrument ESR
+start 1998 12 21 0600
+end 1998 12 21 1200
+status R
+description Investigate cusp together with CUTLASS, msp and hp radar cusp scatter
+contact Mark Lester
+phone +44 116 2523580
+email mlester@ion.le.ac.uk 
+fax +44 116 2523555
+operator Paul Eglitis
+resources uk(60)
+submitter Ian McCrea

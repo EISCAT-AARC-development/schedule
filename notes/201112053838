@@ -1,0 +1,23 @@
+experiment GEISHA11B
+instrument TRO
+start 2011 12 05 1323
+end 2011 12 09 1323
+status R
+description Tracking of GNSS disturbances due to natural auroral heating
+contact Dr. Michael Danielides
+phone +493981480204
+email michael.danielides@dlr.de
+fax +493981480123
+operator EISCAT staff
+submitter M. Danielides
+resources GE(8)
+notes
+The aim of this experiment is to track GNSS satellites with the EISCAT radar 
+through active auroral regions. Active pre midnight conditions are needed, but 
+the actual day is not important. The day may also be moved forward to November 
+if needed. Azimuth and elevation for the satellite tracks will be provided by 
+DLR, as discussed in Roma on the ESPAS Kick-Off meeting with Ingemar. This 
+request was not yet discussed with the German fellows but will stand down if 
+IAP needs all German time! DLR operates two high rate GNSS receivers at Tromso 
+and was already able to show that discrete aurora causes disturbances bigger 
+than 5 TECU. This must now be understood by utiliying ISR data.

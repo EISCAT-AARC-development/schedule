@@ -1,0 +1,19 @@
+experiment dmsp_UK
+instrument TRO
+start 2005 03 10 1600
+end 2005 03 10 2000
+status R
+description Tau2 field-aligned experiment in support of DMSP overpass
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator tbd if scheduled
+submitter Ian McCrea
+resources UK(12)
+notes
+I am requesting a simple field-aligned tau2 experiment to cover three passes 
+of DMSP F-16 in the interval 16-20 UT on March 9,10 and 11.  This will be the 
+last chance to cover auroral passes this winter before daylight interferes.  
+The aim is to calibrate and evaluate the DMSP auroral imager against EISCAT 
+data showing precipitation characteristics and boundaries.

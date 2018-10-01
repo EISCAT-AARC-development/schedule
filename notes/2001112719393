@@ -1,0 +1,13 @@
+experiment CLUSTER
+instrument ESR
+start 2001 11 27 0900
+end 2001 11 27 1500
+description Coordinated observations with CLUSTER spacecraft and Sondrestromfjord
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+submitter Tony van Eyken
+notes
+Sondrestromfjord scan

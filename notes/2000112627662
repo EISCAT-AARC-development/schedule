@@ -1,0 +1,16 @@
+experiment SP-UK-ECUS
+instrument VHF
+start 2000 11 26 0400
+end 2000 11 26 1400
+status R
+description Auroral and Cusp Studies.
+contact Ian McCrea
+phone +44 1235 446513
+email ian@eiscatm.stp.rl.ac.uk 
+fax +44 1235 445848
+operator Steve Crothers
+resources UK(24)
+submitter Ken Freeman
+notes
+There will also be concurrent Svalbard observations. The radar mode has yet                      
+to be decided. We understand that other EISCAT countries will also be contributing time to these observations.                

@@ -1,0 +1,22 @@
+experiment Upwelling
+instrument VHF
+start 2017 01 28 1600
+end 2017 01 28 2200
+status R
+description Observations of upwelling and density variations in the thermosphere
+contact Anasuya Aruliah
+email anasuya@star.ucl.ac.uk
+operator TBC
+submitter Andrew J. Kavanagh
+resources UK(30)
+notes
+This is an experiment to study thermospheric density variations and upwelling
+using the two mainland radars and the ESR to get coverage of the polar cap to
+the auroral oval.
+
+Radar observations are required to coincide with optical measurements so clear,
+dark skies are needed. Results will be compared with polar cap observations and
+feed into modelling studies.
+
+The VHF will be tilted to the north along with the VHF to provide 'beam
+swinging' information.

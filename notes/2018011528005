@@ -1,0 +1,14 @@
+experiment CP1
+instrument ESR
+start 2018 01 15 0800
+end 2018 01 17 2300
+status R
+description QB50
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)
+notes
+ESR: runexp /kst/exp/ipy/ipy lm
+UHF: runexp /kst/exp/beata/beata lm

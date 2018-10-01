@@ -1,0 +1,26 @@
+experiment tau1_AA
+instrument VHF
+start 2005 03 09 0600
+end 2005 03 09 1200
+status R
+description VHF experiments in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT duty staff
+submitter Ian McCrea
+resources AA(6)
+notes
+March sees the best configuration for Cluster cusp passes during 2005, and as 
+such is one of the two most favourable months for EISCAT/Cluster experiments.  
+The Cluster orbit plane is pretty much in the direction of the Sun-Earth line 
+during the early part of the month, evolving slowly duskward as the month goes 
+on.  We are requesting four EISCAT runs in support of Cluster, all of which 
+correspond to possible cusp conjunctions. The best intervals are those on the 
+9th and 28th, but the conjunctions of the 16th and 4th might be just as good, 
+depending on solar-terrestrial conditions. We request the normal operation, 
+namely a combination of low-elevation tau1 experiments on the VHF and the 
+standard Cluster operation (based on tau0) on the ESR, using both dishes with 
+the steerable dish in LowElNorth mode, and dumping interleaved between the two 
+dishes (1:1, i.e. one dump on each).  

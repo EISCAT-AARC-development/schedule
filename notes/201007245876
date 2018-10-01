@@ -1,0 +1,25 @@
+experiment test
+instrument UHF
+start 2010 07 24 1029
+end 2010 07 24 2029
+status R
+description test
+contact ingemar
+phone 79155
+email ingemar@eiscat.se
+fax 79159
+operator ingemar
+submitter ingemar
+resources TE(22)
+notes
+none
+From apache Thu Jun 24 20:53:32 2010
+Date: Thu, 24 Jun 2010 20:53:32 +0000
+To: ingemar@eiscat.se
+User-Agent: Heirloom mailx 12.4 7/29/08
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+=
+

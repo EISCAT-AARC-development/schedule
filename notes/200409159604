@@ -1,0 +1,11 @@
+experiment ARM04
+instrument UHF
+start 2004 09 15 0600
+end 2004 09 17 1400
+status R
+description EISCAT annual rewiev meeting
+contact I Häggström
+email ingemar@eiscat.com
+operator I Häggström
+submitter I Häggström
+resources MA(50)

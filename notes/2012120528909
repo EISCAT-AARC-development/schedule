@@ -1,0 +1,15 @@
+experiment DHEATS
+instrument VHF
+start 2012 12 05 0900
+end 2012 12 05 1300
+status R
+description Studying D-region ionosphere response to short heating pulses
+contact Antti Kero
+email antti.kero@sgo.fi
+operator Antti Kero
+submitter Antti Kero
+resources FI(18)
+notes
+In the design of the EISCAT 3D, a potential heating effect of the radar itself, "self-heating", must be taken 
+into account. The purpose of this experiment is to try to quantify the self-heating effect with the present 
+VHF system and to imitate the expected self-heating effects of EISCAT_3D by using the EISCAT heater. 

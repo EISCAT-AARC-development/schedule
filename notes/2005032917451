@@ -1,0 +1,12 @@
+experiment CP3
+instrument ESR
+start 2005 03 29 0730
+end 2005 03 31 2400
+description M-I Coupling
+contact I Häggström
+email ingemar@eiscat.com
+operator I Häggström
+submitter I Häggström
+notes
+runexp steffe 6:30 fixed42m CP
+http://people.ece.cornell.edu/wes/URSI_ISWG/2005WDschedule.htm

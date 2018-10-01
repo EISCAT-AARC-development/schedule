@@ -1,0 +1,15 @@
+experiment Hot_arc
+instrument HEA
+start 2008 02 08 1800
+end 2008 02 08 2200
+status R
+description Heating experiment in auroral arcs
+contact Björn Gustvsson
+phone +47 776 45188
+email bjorn@irf.se
+operator M Rietveld
+submitter Björn Gustavsson
+resources NO(20)
+notes
+The experiment is a collaboration with the NEMI campaign. Here the objective is
+to study the auroral E-region respons to HF-Heating.

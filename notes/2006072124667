@@ -1,0 +1,23 @@
+experiment SSEOS
+instrument UHF
+start 2006 07 21 1400
+end 2006 07 22 1000
+status R
+description Simultaneous Scintillation Observations at EISCAT and STELAB
+contact William A. Coles
+phone 858-534-2703
+email bcoles@ucsd.edu
+fax 858-534-2703
+operator TBD
+submitter Yasunobu Ogawa (yogawa@nipr.ac.jp)
+resources NI(5),NO(5),3P(5)
+notes
+Simultaneous scintillation observations at EISCAT and STELAB will be conducted
+between 26 June and 24 July. We need 30 hrs of actual time. This translates to
+15 hrs of EISCAT time if we use the 1400 MHz receivers at S and K, and 7.5 hrs
+if we use only the 933MHz receivers. Since we want to try both, we need 15 hrs
+of EISCAT time. We request 5 hrs each from Japan (through PI Kojima,
+kojima@stelab.nagoya-u.ac.jp) and from Norway (through PI Esser,
+ruth.esser@phys.uit.no), and are requesting 5 hrs of "Third-Party" time from USA
+because PI Coles is not associated with an EISCAT member country.
+

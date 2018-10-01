@@ -1,0 +1,30 @@
+experiment CP2L
+instrument ESR
+start 2000 12 11 1000
+end 2000 12 15 1600
+status C
+description CP2L, floating interval 04-22 December, final selection by Joe Salah
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(102)
+submitter Tony van Eyken
+notes
+LTCS 
+     Combined local E and F region measurements, including vector velocities, with 15 minute time resolution. Latitudinal 
+     coverage may be sacrificed to meet this goal. 
+     Contact: Cassandra Fessen  
+CEDAR-TIMED Joint Observations of the Effects of Storms on the Lower Thermosphere 
+     The goal of this project is to gather observations on the temperature and winds in the lower thermosphere during 
+     geomagnetic storms. Data from ISRs and supporting instrumentation available at the upper atmosphere facilities are 
+     needed in the primary altitude range of 90-150 km with fine altitude and time resolution (similar to LTCS modes). 
+     Data at altitudes in the middle and upper atmosphere will also be useful to study coupling with the lower 
+     thermosphere. The observations will be made in response to an alert of a major sustained geomagnetic storm (Kp>5 or 
+     6), and will be studied in coordination with TIMED satellite observations using general circulation and tidal models. A 
+     one-month period will be identified one year in advance, and then narrowed to a 10-day stand-by period 6 weeks 
+     before the start of the month. The observations will last 4 full days. We request two such periods in year 2000 
+     following the launch of the TIMED satellite (May 2000) and initial validation of its data. The requested periods are for 
+     Fall (Sep or Oct) and Winter 2000 (Nov, Dec or Jan 2001). 
+     Contact: Joe Salah 

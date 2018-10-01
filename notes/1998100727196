@@ -1,0 +1,13 @@
+experiment Auroral Experiment
+instrument HEA
+start 1998 11 19 2000
+end 1998 11 19 2400
+status R
+description Finnish EISCAT/Auroral Experiments 1998
+contact Hannu Holma
+phone +358 8 553 1367
+email Hannu.Holma@oulu.fi 
+fax +358 8 553 1287
+operator Mike Reitveld
+resources FI(100)
+submitter Tuomo Nygren

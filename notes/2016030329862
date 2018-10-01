@@ -1,0 +1,13 @@
+experiment Polarlis
+instrument TRO
+start 2016 03 03 2100
+end 2016 03 04 0100
+status R
+description To run in parallel to optical exp. in Skibotn 
+contact Jean Lilensten
+phone +33 4 76 51 41 49
+email jean.lilensten@univ-grenoble-alpes.fr
+fax +33 4 76 51 41 46 
+operator Jean Lilensten
+submitter Frédéric Pitout
+resources FR(4)

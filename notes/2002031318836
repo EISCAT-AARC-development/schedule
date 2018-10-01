@@ -1,0 +1,16 @@
+experiment CP1-Proton
+instrument UHF
+start 2002 03 13 1830
+end 2002 03 13 2200
+status R
+description UHF CP-1 experiment coordinated with HiTIES optical observations
+contact Marina Galand
+phone +1 617 353 7431
+email mgaland@bu.edu 
+fax +1 617 353 6463
+operator Unni Pia Lovhaug
+resources 3rd party time (7)
+submitter Marina Galand
+notes
+A high resolution spectrograph HiTIES was set up last November at Ramfjordmoen for proton and electron aurora measurements. It will be running over the whole winter.  
+This combined experiment between the optical instruments and the EISCAT radar is in collaboration with Unni Pia Lovhaug, Tromso University.

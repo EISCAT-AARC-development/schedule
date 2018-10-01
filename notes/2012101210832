@@ -1,0 +1,17 @@
+experiment POND
+instrument TRO
+start 2012 10 12 1400
+end 2012 10 12 1800
+status R
+description Profiling of neutral density
+contact Yasunobu Ogawa
+email yogawa@nipr.ac.jp
+operator Hannah Vickers
+submitter Mike Kosch
+resources JP(15),UK(12)
+notes
+Heater-induced ion outflow experiment.
+This requires quiet geomagnetic conditions and over-dense ionosphere with foF2 
+4-8 MHz.
+Cancellations will happen for non-ideal conditions.
+

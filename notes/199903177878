@@ -1,0 +1,13 @@
+experiment AirGlow
+instrument HEA
+start 1999 03 17 1800
+end 1999 03 17 2000
+status R
+description Stimulated airglow using ALIS diagnostics
+contact Dr. Thomas B. Leyser
+phone +46 18 303633 
+email thomas.leyser@irfu.se 
+fax +46 18 403100
+operator Mike Rietveld
+resources SW(16)
+submitter Sheila Kirkwood

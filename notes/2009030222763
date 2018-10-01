@@ -1,0 +1,22 @@
+experiment SP_NI_REC
+instrument TRO
+start 2009 03 02 0900
+end 2009 03 02 1100
+status R
+description Lower-ionospheric dynamics with a developed receiving system
+contact Shin-ichiro Oyama
+phone +81-52-789-4308
+email soyama@stelab.nagoya-u.ac.jp
+fax +81-52-789-4311
+operator Shin-ichiro Oyama
+submitter Yasunobu Ogawa (yogawa@nipr.ac.jp)
+resources NI(6)
+notes
+The scientific objective is development of the pulse scheme
+appropriate for the height-resolved ion-speed measurement
+in the lower ionosphere. Coherent echo analysis is employed
+for the development as well as general incoherent analysis.
+To achieve it we are planning to install an independent
+receiving system for the backscatter signal onto the present 
+system.
+

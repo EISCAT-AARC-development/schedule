@@ -1,0 +1,20 @@
+experiment AZURE
+instrument TRO
+start 2018 03 05 1730
+end 2018 03 05 2130
+status R
+description AZURE rocket campaign observation
+contact Miguel Larsen
+email mlarsen@clemson.edu
+operator I Häggström
+submitter I Häggström
+resources PP(24)
+notes
+We require active aurora in the region of the tracer releases. We also require
+clear skies for ground-based camera observations at two of four sites for
+observation of the releases at the time of the launch.
+We request the use of EISCAT Tromsø UHF and VHF radar facilities to detect
+ionization and plasma drifts in the ionosphere for a period of three hours
+centered around the time of the launch.
+We require the electron density, ion/electron temperature and line-of-sight ion
+velocity at altitudes between 80 and 300 km.

@@ -1,0 +1,16 @@
+experiment tau0_beta_UK@esr
+instrument ESR
+start 2002 07 02 0700
+end 2002 07 02 1100
+status R
+description UHF/ESR auroral anisotropy experiment
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk 
+fax +44-1235-445848
+operator Paul Gallop
+resources UK(24)
+submitter Ian McCrea
+notes
+This experiment was designed to be a joint UHF/ESR study of high-altitude ion temperature anisotropies above Svalbard.  The UHF radar will be used to look above Svalbard, intersecting the field-aligned beam of the 42m dish.  The 32m dish will be used to intersect the UHF beam at a position between Tromso and Svalbard.  The ESR modulation will be tau0, although there may be some use of the "hialt" modulation in collaboration with Anja Stromme and Tony van Eyken. 
+Ideally the UHF would use the tau3 modulation scheme.  If this scheme cannot be run because of the recent waveguide-arcing problems, then pia will be used.  If the UHF waveguide problems allow insufficient power to get the necessary range coverage (~1100 km) then subsequent runs will probably be cancelled.

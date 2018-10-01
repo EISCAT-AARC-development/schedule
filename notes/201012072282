@@ -1,0 +1,20 @@
+experiment ASK EASI
+instrument ESR
+start 2010 12 07 0600
+end 2010 12 07 1100
+status R
+description Combined multi-monochromatic optical and interferometric IS observations aimed at answering everything about NEIALS
+contact B Gustavsson
+phone +44 238059 2099
+email bjorn@irf.se
+operator B. Gustavsson
+submitter B Gustavsson
+resources UK(40)
+notes
+In this experiment we will use the combined resolving power of EASI and ASK to
+determine the horizontal structures of the Naturally Enhanced Ion Acoustic
+Echoes (NEIALs). Previous studies have revealed that the backscattering
+structures are less than 300 m perpendicular to B over several 100 km along. The
+combined radar+optical observations will clarify the relation between NEIALs and
+flaming auroral rays. EITHER LT4 or iSlopes will be run. Clear skies
+required/preferable.

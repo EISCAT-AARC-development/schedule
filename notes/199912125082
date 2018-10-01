@@ -1,0 +1,10 @@
+experiment sp-fr-pulse
+instrument UHF
+start 1999 12 12 1800
+end 1999 12 12 2400
+status R
+contact wlodek kofman
+email wlodek.kofman@obs.ujf-grenoble.fr 
+operator kofman
+resources Fr(6)
+submitter F Forme

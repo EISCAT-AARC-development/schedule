@@ -1,0 +1,17 @@
+experiment tau1_AA
+instrument VHF
+start 2005 01 18 0800
+end 2005 01 18 1400
+status R
+description VHF experiment in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT duty staff
+submitter Ian McCrea
+resources AA(6)
+notes
+This will be a standard VHF operation to support the Cluster overpass also 
+covered by the ESR.  A northward, low-elevation pointing will be used and the 
+tau1 modulation would be most suitable. 

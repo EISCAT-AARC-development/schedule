@@ -1,0 +1,14 @@
+experiment CP2
+instrument ESR
+start 2018 01 10 0800
+end 2018 01 31 2000
+status R
+description StratWarm
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)
+notes
+ESR: runexp /kst/exp/tyko/tyko lm ip2
+UHF: runexp /kst/exp/beata/beata lm ip2

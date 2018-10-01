@@ -1,0 +1,13 @@
+experiment SIDE
+instrument VHF
+start 1999 01 18 1700
+end 1999 01 19 0300
+status R
+description Coordination with IRIS and DASI
+contact Farideh Honary
+phone +44 1524 593055801
+email f.honary@lancaster.ac.uk 
+fax +44 1524 594207
+operator Vicky Howells
+resources UK(100) GE(15)
+submitter Ian McCrea

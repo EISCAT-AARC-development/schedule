@@ -1,0 +1,13 @@
+experiment MAGION 5
+instrument HEA
+start 2000 04 06 1300
+end 2000 04 06 1300
+status R
+description Study of heating induced VLF using conjunctions with the Magion 5 satellite
+contact Tilmann Bosinger
+phone +358 8 553 1260
+email tilmann.bosinger@oulu.fi 
+fax +358 8 553 1287
+operator Mike Rietveld
+resources FI(6)
+submitter Tuomo Nygren

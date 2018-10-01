@@ -1,0 +1,17 @@
+experiment PMSEOVER
+instrument KIR
+start 2012 07 12 0800
+end 2012 07 12 1300
+status R
+description Multi-radar (wavelength) PMSE overshoot effect
+contact Henry Pinedo
+phone 77645153
+email henry.pinedo@uit.no
+operator Mike Rietveld
+submitter Henry Pinedo
+resources NO(126),UK(24)
+notes
+Multi-radar  (wavelength) PMSE overshoot effect
+Running simultaneously with: HF Heating (HEA), VHF, UHF (TRO) and Kiruna receiver (KIR)
+Using MANDA pulse configuration (MORRO-compatible experiment)
+From 08:00 to 13:00 UT (+2 GMT)

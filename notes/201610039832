@@ -1,0 +1,15 @@
+experiment HSSEF
+instrument ESR
+start 2016 10 03 0800
+end 2016 10 05 0759
+status R
+description Electric field during solar wind high-speed stream
+contact Maxime Grandin
+phone +358-505750526
+email maxime.grandin@sgo.fi
+operator Site staff
+submitter Maxime Grandin
+resources FI(48)
+notes
+We will run the ip2 experiment for the whole duration to cover all MLTs twice during the time when solar wind 
+speed is high.

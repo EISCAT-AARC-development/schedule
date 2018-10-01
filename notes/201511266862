@@ -1,0 +1,24 @@
+experiment SPACECAMP
+instrument ESR
+start 2015 11 26 0700
+end 2015 11 26 0900
+status R
+description Finnish students space weather experiment
+contact Esa Turunen
+phone +358505663264
+email esa.turunen@sgo.fi
+fax +35816610248
+operator EISCAT staff
+submitter Esa Turunen
+resources FI(2)
+notes
+Field-aligned CP1 measurement at both TRO UHF and ESR for monitoring ionospheric response to 
+prevailing space weather conditions.
+
+Finnish high school students will visit Nagoya University and Kyoto University/Shigaraki MU radar in order 
+to have a one week education on space weather, including an incoherent scatter radar experiment at 
+Tromso UHF radar and EISCAT Svalbard radar. Basic field-aligned profiles from the high latitudes will be 
+followed in real time and analyzed afterwards, for understanding of ionospheric response in the prevailing 
+space weather situation and demonstration of the power of incoherent scatter measurements by the global 
+ISR network. Experiment time is selected to see possible signature of high-energy electron precipitation 
+during early morning hours in case of possible activity.

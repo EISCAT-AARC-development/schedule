@@ -1,0 +1,27 @@
+experiment DIME
+instrument TRO
+start 2014 07 09 0900
+end 2014 07 09 1300
+status R
+description Investigations of the magnetic zenith effect
+contact Farideh Honary
+phone +441524510402
+email f.honary@lancaster.ac.uk
+operator Andrew Senior
+submitter Andrew Senior
+resources UK(6)
+notes
+Detailed investigation of the angular dependence of the magnetic zenith (MZ) 
+effect associated with the heating of electrons. 
+
+The plan is to heat the ionosphere with the heater pump wave directed along the 
+local magnetic field in cycles of 1 min on / 1.5 min off. The pump wave 
+frequency should be below the local foF2 with O-mode polarization. Use UHF radar 
+to obtain electron and ion data at five different angles: MZ, MZ ± 1.5°, MZ ± 3° 
+(1 minute at each direction per cycle). This should be synchronized with heater 
+cycles. Beata UHF programme should be used.
+
+It is anticipated that the experiment will be run for 2 hours within the time 
+intervals in the schedule. Operations will be co-ordinated with those of the 
+PMSEOVER experiment.
+

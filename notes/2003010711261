@@ -1,0 +1,13 @@
+experiment spfr
+instrument ESR
+start 2003 01 07 1400
+end 2003 01 08 0800
+status R
+description the  2 ESR antennas in conjunction with EPIS
+contact Jean.Lilensten
+phone 04 76 51 41 49
+email Jean.Lilensten@obs.ujf-grenoble.fr
+fax 04 76 51 41 46
+operator Jean.Lilensten
+submitter francois.forme@cetp.ipsl.fr
+resources fr(18)

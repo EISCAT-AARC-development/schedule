@@ -1,0 +1,15 @@
+experiment SP-UK-OPTI
+instrument ESR
+start 2000 10 31 1700
+end 2000 10 31 2000
+status R
+description Test of an experiment to be run in conjunction with the UK spectrometer at Adventdalen.
+contact Alan Aylward
+phone +44 20 7504 9021
+email alan@apg.ph.ucl.ac.uk 
+fax +44 20 7504 9024
+operator Ian Furniss
+resources UK(6)
+submitter Ken Freeman
+notes
+More extensive observations are planned for November.

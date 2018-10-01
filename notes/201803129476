@@ -1,0 +1,33 @@
+experiment SCINT
+instrument TRO
+start 2018 03 12 2000
+end 2018 03 12 2400
+status R
+description Characterisation of plasma density structures causing VHF and L-band scintillation
+contact Biagio Forte
+phone +441225386693
+email b.forte@bath.ac.uk
+operator tbd
+submitter Ian McCrea
+resources UK(4)
+notes
+TRO: runexp /kst/exp/bella/bella lm uk/tro_scint12mar UK
+ESR: runexp /kst/exp/folke/folke lm esr_scint12mar UK
+
+The proposed experiment is a continuation of previous campaigns which 
+provided (a) an inter-calibration between EISCAT and GNSS Total Electron 
+Content [1] and (b) the identification of properties of auroral ionisation 
+structures originating L-band scintillation [2]. Following from (b), the 
+proposed experiment intends to advance the understanding of the mechanisms 
+behind large-to-small scale structures in the auroral ionosphere and how 
+they originate scintillation at VHF (LOFAR) and L-band (GNSS) as well as 
+clutter on HF backscattered power (SuperDARN). While in previous campaigns 
+the EISCAT radars were co-aligned towards a given GNSS satellite, this time 
+(owing to the experience gained) the radars beams will be intersecting given 
+ray paths (to both GNSS satellites and fixed radio sources). The objective 
+is to determine the spatial spectrum of irregularities and how this is 
+related to the scattering that originates scintillation at VHF and L-band as 
+well as clutter at HF.
+
+Details of the scan and modulation will be added once the schedule requests 
+are confirmed.

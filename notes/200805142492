@@ -1,0 +1,24 @@
+experiment PolarDARN
+instrument ESR
+start 2008 05 14 1900
+end 2008 05 14 2300
+status R
+description Joint Study of Polar Cap Convection with the EISCAT and Polar Cap SuperDARN Radars (PolarDARN)
+contact K. A. McWilliams
+phone +13069962906
+email kathryn.mcwilliams@usask.ca
+fax +13069966400
+operator Lisa Baddeley / Kathryn McWilliams
+submitter Lisa Baddeley
+resources 3P(24)
+notes
+3rd Party Experiment 
+This experiment will compare SuperDARN data of the ExB flow across the polar cap
+with line of sight velocity observations made by the ESR.  The measurements will
+be centred around noon and midnight MLT so as best to observe the anti-sunward
+flow across the polar cap.  
+The 32m dish will be doing a 48 degree wide azimuthal scan, centred on the
+magnetic pole direction, at a 30 degree elevation.  The scan will feature a
+number of specified positions (nominally 8) with a dwell time of approx 54
+seconds in each position.  Taking into account the time needed to move the dish
+this would work out at approx 8 mins for a complete scan.

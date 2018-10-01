@@ -1,0 +1,15 @@
+experiment SP_SDD_NI
+instrument ESR
+start 2017 01 16 1500
+end 2017 01 16 2300
+status R
+description To observe Iridium satellites for future studies of Space Debris Detection
+contact Koki Fujita
+phone 81928023048
+email fuji@aero.kyushu-u.ac.jp
+operator TBD
+submitter Satonori NOZAWA
+resources NI(16)
+notes
+To observe active Iridium satellites as a first step to learn a new method of detecting and analyzing space 
+debris via EISCAT radar

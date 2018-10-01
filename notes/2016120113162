@@ -1,0 +1,16 @@
+experiment CP4
+instrument ESR
+start 2016 12 01 0000
+end 2016 12 03 2300
+status R
+description Irregularities
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)
+notes
+runexp /kst/exp/folke/folke 0:0 ip4
+
+Development of decameter-scale field-aligned irregularities following sudden
+changes in the drift direction of polar cap patches.

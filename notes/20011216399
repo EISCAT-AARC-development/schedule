@@ -1,0 +1,15 @@
+experiment SP-NO-PROT
+instrument UHF
+start 2001 12 16 1500
+end 2001 12 16 2200
+status R
+description UHF CP-1 experiment coordinated with HiTIES observations
+contact Unni Pia Loevhaug
+phone +47 776 46292
+email unni@phys.uit.no 
+fax +47 776 45580
+operator Unni Pia Loevhaug
+resources NO(7)
+submitter Unni Pia Loevhaug
+notes
+A high resolution spectrograph will be installed at Ramfjordmoen for proton measurements. This is a collaboration between Marina Galand, Boston University and Betty Lanchester, Southampton University.

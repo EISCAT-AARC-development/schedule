@@ -1,0 +1,13 @@
+experiment Orsted-EISCAT simultaneous obs.
+instrument UHF
+start 1999 10 09 2000
+end 1999 10 10 0200
+status R
+description To derive FAC distribution from Orsted and EISCAT obs.
+contact Ryoichi Fujii
+phone +81527894309
+email rfujii@stelab.nagoya-u.ac.jp 
+fax +81527894311
+operator Ryoichi Fujii
+resources NI(6)
+submitter Ryoichi Fujii

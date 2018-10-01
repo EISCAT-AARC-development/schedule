@@ -1,0 +1,27 @@
+experiment SP_PATCH
+instrument ESR
+start 2015 03 04 2000
+end 2015 03 04 2400
+status R
+description Observations of vertical motion of polar cap patches
+contact K. Hosokawa
+phone +81-42-443-5299
+email hosokawa@ice.uec.ac.jp
+fax +81-42-443-5299
+operator Y. Ogawa
+submitter Y. Ogawa
+resources NI(12)
+notes
+(We run the SP after repair of the 32m antenna.)
+
+We plan to observe vertical motion of polar cap patches with ESR.
+We prefer good weather conditions for possible comparison with 
+the simultaneously operating optical instruments at KHO.
+
+EROS commands:
+
+pointdir 90 75
+run /kst/exp/beata/beata fm patch NI
+enablerec all
+
+

@@ -1,0 +1,17 @@
+experiment ALISReimei
+instrument UHF
+start 2008 01 20 2300
+end 2008 01 21 0200
+status R
+description EISCAT-ALIS-Reimei coordinated auroral observations
+contact Tima Sergienko
+phone +4698079071
+email tima@irf.se
+fax +4698079050
+operator Tima Sergienko
+submitter Tima Sergienko
+resources SW(12)
+notes
+This is experiment for investigation of the auroral fine structure using 
+coordinated ground based (EISCAT, ALIS) and satellite (Reimei) measurements
+

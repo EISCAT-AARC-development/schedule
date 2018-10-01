@@ -1,0 +1,15 @@
+experiment TEST 4
+radarprogramme cp1lt_cp2
+instrument HEA
+vhfphasing phased 0/15 (cp4)
+start 2001 10 09 1527
+end 2001 10 09 1527
+status R
+description a test, maybe okay this time
+contact Brett Isham
+email isham@e 
+operator me
+resources EI(0)
+submitter Brett
+notes
+JUST A TEST... a test

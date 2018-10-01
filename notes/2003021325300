@@ -1,0 +1,11 @@
+experiment MAINT
+instrument TRO
+start 2003 02 13 0800
+end 2003 02 14 1800
+status R
+description Checking out new plasma line channel on the Tromso UHF
+contact Gudmund Wannberg
+email ugw@eiscat.com
+operator Gudmund Wannberg
+submitter Gudmund Wannberg
+resources EI(34)

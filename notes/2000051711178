@@ -1,0 +1,10 @@
+experiment CUSP
+instrument ESR
+start 2000 05 17 0600
+end 2000 05 17 1200
+status R
+contact Kofman
+email wlodek.kofman@obs.ujf-grenoble.fr 
+operator kofman
+resources fr(6)
+submitter F. Forme

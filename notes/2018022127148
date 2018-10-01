@@ -1,0 +1,20 @@
+experiment ARASE_VHF
+instrument VHF
+start 2018 02 21 0900
+end 2018 02 21 1100
+status R
+description Coordinated observations of ERG (Arase) and EISCAT
+contact Yoshizumi Miyoshi
+phone 052-747-6340
+email miyoshi@isee.nagoya-u.ac.jp
+fax 052-747-6340
+operator site staff
+submitter Yasunobu Ogawa
+resources NI(2)
+notes
+We conduct coordinated observations of ERG (Arase) and EISCAT VHF radar.
+
+EROS commands:
+run /kst/exp/manda/manda fm zenith NI
+enablerec
+

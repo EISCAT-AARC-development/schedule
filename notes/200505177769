@@ -1,0 +1,25 @@
+experiment tau1_AA
+instrument VHF
+start 2005 05 17 0400
+end 2005 05 17 1000
+status R
+description VHF radar experiment in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT duty staff
+submitter Ian McCrea
+resources AA(6)
+notes
+For May 2005, we are requesting three EISCAT runs in support of Cluster.  One 
+of these (May 2nd 16-22) is to cover an auroral perigee pass over Scandinavia, 
+the other two (May 17 04-10 UT and May 29 03-09 UT) are to cover boundary-
+crossing orbits where the magnetic footprint of the Cluster satellites is 
+conjugate to Svalbard.  Because the orientation of the orbit is now moving 
+towards orthogonal to the Sun-Earth line, this month is not the highest 
+priority period for EISCAT-Cluster operations.
+The preferred mode is the standard one for EISCAT/Cluster operations, namely 
+northward-looking VHF, accompanied by dual radar ESR operations, with the 32m 
+dish in LowElNorth mode and the 42m dish field-aligned, with data dumps being 
+alternated (1:1) between the two dishes.

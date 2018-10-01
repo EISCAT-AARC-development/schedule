@@ -1,0 +1,17 @@
+experiment Heating
+instrument HEA
+start 2010 09 10 1000
+end 2010 09 15 1230
+status R
+description Temporal-spatial variation of heating-induced effects
+contact Xu Bin
+email jasur82@163.com
+operator Xu Bin
+submitter Wu Jun
+resources CN(30)
+notes
+A heating experiment is designed to detect the temporal and spatial variation 
+of pump-induced electron temperature, electron density and ion line power. The 
+UHF radar will work in the scan mode to get the spatial distribution of 
+heating effects. VHF radar will be used to measure the modulation in D region. 
+The UHF and VHF will run a standard code, e.g. beata and manda.

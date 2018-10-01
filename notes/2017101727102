@@ -1,0 +1,16 @@
+experiment Heat2017
+instrument HEA
+start 2017 10 17 1600
+end 2017 10 17 1900
+status R
+description Heating experiment for ionospheric modifications
+contact Björn Gusavsson
+phone +47 40724899
+email bjorn.gustavsson@uit.no
+operator Björn Gustavsson
+submitter Björn Gustavsson
+resources NO(30)
+notes
+We will perform experiments on HF-acceleration of electrons generating
+artificial aurora. Combining ionospheric HF-modifications with optical, UHF and
+interferometric HF SEE observations.

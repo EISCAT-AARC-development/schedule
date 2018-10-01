@@ -1,0 +1,16 @@
+experiment DCSscint
+instrument HEA
+start 2015 02 05 1400
+end 2015 02 05 1600
+status R
+description Investigation of heater-stimulated ionospheric scintillations
+contact Olesia Charkina
+email charkina@rian.kharkov.ua
+operator Michael Rietveld
+submitter Olesia Charkina
+resources UA(8)
+notes
+Investigation of scintillation intensity for discreet cosmic source (DCS) 
+radiation in the modified polar ionosphere. Analyzing the characteristic features 
+of DCS scintillations induced by natural and artificial inhomogeneities of a 
+Fresnel size in the ionospheric F-layer.

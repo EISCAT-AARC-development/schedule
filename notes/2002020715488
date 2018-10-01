@@ -1,0 +1,17 @@
+experiment PCFL
+instrument ESR
+start 2002 02 07 1600
+end 2002 02 07 2300
+status R
+description Polar Cap Flow Lines
+contact Joran Moen
+phone +4722855666
+email jmoen@fys.uio.no 
+fax +4722855671
+operator Joran Moen
+resources NO(7)
+submitter Joran Moen
+notes
+Many properties of the Polar Cap Ionospheric Patches (PCIP) are known, but      
+their origin and ultimate fate are is at best poorly understood.  The critical question on their origin is determination of their dominant formation mechanism.  In 2001 we have made very significant progress on this question by using the fast sweep modes on ESR-1.  In January 2001 we successfully mapped polar cap patches in their region of origin, an experimental first, and in December we successfully advanced our experiment and understanding by operating the EISCAT UHF (scanning) and VHF in low elevation split- beam configuration over Svalbard.  We now wish to apply these tools to understanding of the ultimate fate of these patches, for which the critical question is how do patches negotiate the complex electrodynamics of exiting the polar cap. The same data set will address whether this electrodynamics deforms them to produce the major plasma density enhancements (%93blobs%94) often observed in the sub-auroral return flow, one theory, or are the %93blobs%94 due to high production rates in midnight aurora.  (The critical question here is transport of ionisation or production of ionisation as their creation mechanism.)  When the IMF is positive, we will gain significant new insights into Northward IMF polar cap flow and polar cap arc dynamics, especially in the complex region of connection to the auroral oval.  The experiment will be supported by the optical observations from Ny-%C5lesund and Longyearbyen, and CUTLASS HF radar.  ESR-1 will be operated in a set of different modes appropriate for the actual geophysical activity level.     
+

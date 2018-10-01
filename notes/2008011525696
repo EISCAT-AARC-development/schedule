@@ -1,0 +1,12 @@
+experiment ASK
+instrument ESR
+start 2008 01 15 0500
+end 2008 01 15 1000
+status R
+description High time resolution experiment (arc) 42 m field-aligned
+contact Hanna Dahlgren
+phone +4687907691
+email hanna.dahlgren@ee.kth.se
+operator Hanna Dahlgren
+submitter Hanna Dahlgren
+resources SW(20)

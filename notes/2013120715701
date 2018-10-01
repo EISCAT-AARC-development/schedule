@@ -1,0 +1,17 @@
+experiment UEC_CUSP
+instrument ESR
+start 2013 12 07 0700
+end 2013 12 07 1100
+status R
+description Observation of rippled boundary in the cusp
+contact Satoshi Taguchi
+phone +81-42-443-5204
+email taguchi@ice.uec.ac.jp
+fax +81-42-443-5204
+operator ESR site staff
+submitter Yasunobu Ogawa
+resources NI(12)
+notes
+We conduct ESR observations with elevation sweep modes to 
+identify the spatio-temporal evolution of the rippled 
+boundary in the cusp/polar cap electron density. 

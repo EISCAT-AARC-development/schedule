@@ -1,0 +1,18 @@
+experiment meteopolar
+instrument UHF
+start 2009 10 05 0900
+end 2009 10 05 1200
+status R
+description A study on meteor cross section form utilizing the polarization feature
+contact Asta Pellinen-Wannberg
+phone + 46 980 79118
+email asta.pellinen-wannberg@ryp.umu.se
+fax +46 980 79050
+operator Gudmund Wannberg
+submitter Asta Pellinen-Wannberg
+resources SW(24)
+notes
+2009-10-05 0900-1200 calibration
+2009-10-06 0900-1200 calibration
+2009-10-07 0000-0900 experiment
+2009-10-08 0000-0900 experiment

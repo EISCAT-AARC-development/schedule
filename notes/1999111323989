@@ -1,0 +1,17 @@
+experiment fjord
+instrument ESR
+start 1999 11 13 1900
+end 1999 11 13 2300
+status R
+description Auroral structure. http://spaceweb.oulu.fi/campaigns/fall99/
+contact Hannu Holma
+phone +358 8 553 1367
+email Hannu.Holma@oulu.fi 
+fax +358 8 553 1287
+operator Pekka Hiitola
+resources FI(53.5)
+submitter Hannu Holma
+notes
+Coordinated experiment with KST, Polar satellite (19:24 UT, ESR), FAST 
+satellite (20:37 UT, ESR) and Oersted satellite (20:36 UT, Tromso).   
+ 

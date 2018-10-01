@@ -1,0 +1,32 @@
+experiment SoTExGlo
+instrument TRO
+start 2002 10 26 0200
+end 2002 10 30 0800
+status R
+description Attempt to: 1) detect global ducting of HF radio waves along solar terminator; and 2) excite and detect artificial oscillations within the "Earth-ionosphere" cavity.
+contact Vasyl Belyey
+phone +47 776-45-136
+email vasyl.belyey@phys.uit.no
+fax +47 776-45-580
+operator Vasyl Belyey
+submitter Vasyl Belyey
+resources NO(30)
+notes
+The scientific goals are:
+
+1. Detection of global ducting of HF radio waves along solar
+terminator.
+The idea is to use the heater emission in the capacity of probe signal
+to be registered in Antarctica (Ukrainian Antarctic Station
+"Academician Vernadsky").
+
+2. An attempt to excite and detect artificial oscillations within the
+"Earth-ionosphere" cavity. The pump wave is supposed to be modulated
+by an ELF signal with the frequency corresponding to one of the modes
+of Schumann resonances. The results are expected to be obtained from
+simultaneous ELF measurements in Tromsø (Norway), UTR-2 radio
+telescope observatory (Kharkiv, Ukraine), and Academician Vernadsky
+station (Antarctica).
+
+Participants are:
+Vasyl Belyey, Cesar La Hoz, Michael Rietveld, and Brett Isham.

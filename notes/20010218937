@@ -1,0 +1,17 @@
+experiment HF-airglow
+instrument UHF
+start 2001 02 18 1600
+end 2001 02 18 2000
+status R
+description HF enhanced electron temperatures and airglow etc.
+contact M. Rietveld
+phone +49 5556 979234
+email rietveld@linmpi.mpg.de 
+fax +49 5556 979 240
+operator A. Kavanagh
+resources GE(27)
+submitter M. Rietveld
+notes
+Combined UK/GE Heating campaign for HF-enhanced temperatures and airglow.         
+Other diagnostics probably include ALIS, CUTLASS, DASI etc. GE:UK ratio 50:50.         
+UK: Lancaster University (Honary, Kosch)

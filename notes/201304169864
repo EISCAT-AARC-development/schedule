@@ -1,0 +1,16 @@
+experiment CP1
+instrument ESR
+start 2013 04 16 0700
+end 2013 04 19 2200
+status C
+description Synoptic
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(500)
+notes
+runexp /kst/exp/ipy/ipy lm
+
+See
+http://www.isr.sri.com/wd2013.html

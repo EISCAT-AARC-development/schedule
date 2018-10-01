@@ -1,0 +1,23 @@
+experiment Heat
+instrument VHF
+start 2000 03 23 1800
+end 2000 03 23 2400
+status R
+description HF-induced airglow and plasma turbulence
+contact M. T. Rietveld
+phone +49 5556 979234
+email rietveld@linmpi.mpg.de 
+fax +49 5556 979240
+operator M. T. Rietveld or UK person
+resources GE(20)
+submitter M. Rietveld
+notes
+Collaborative campaign for heater-induced airglow and plasma turbulence:   
+GE:20, SW:20, UK:16, NI, ?     
+Contacts: M. Rietveld, T. B. Leyser, F. Honary, T. Aso.     
+Airglow will be measured using both ALIS and DASI (at Skibotn).     
+CUTLASS HF radar is also requested, as well as dynasonde.   
+   
+Actually EISCAT UHF is the preferred radar,    
+but due to unavailability we choose VHF.   
+

@@ -1,0 +1,11 @@
+experiment CP2
+instrument UHF
+start 2008 02 01 0000
+end 2008 02 01 2300
+status C
+description IPY
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(450)

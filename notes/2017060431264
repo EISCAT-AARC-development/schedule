@@ -1,0 +1,20 @@
+experiment AraseSwarm
+instrument TRO
+start 2017 06 04 2000
+end 2017 06 04 2400
+status R
+description Coordinated SWARM-ARASE-EISCAT observations
+contact Yasunobu Ogawa
+phone +81-42-512-0664
+email yogawa@nipr.ac.jp
+fax +81-42-512-0664
+operator EISCAT staff
+submitter Y. Ogawa and S. C. Buchert
+resources AA(4)
+notes
+This is a coordinated observation for SWARM, ERG(Arase), and EISCAT.
+
+UHF: 
+runexp /kst/exp/ei/arc1/arc1 fm cp1 AA
+enablerec
+

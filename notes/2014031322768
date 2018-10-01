@@ -1,0 +1,23 @@
+experiment RONE
+instrument VHF
+start 2014 03 13 2100
+end 2014 03 14 0100
+status R
+description  Radar, radio, and optical observations of naturally-enhanced emissions
+contact Brett Isham
+phone +17878781289
+email brettisham@gmail.com
+fax +17872792205
+operator Brett Isham
+submitter Brett Isham
+resources NO(24),SE(20),EI(16)
+notes
+Radar, radio, and optical observations of naturally-enhanced emissions (ion-acoustic, Langmuir, radio, 
+and 
+optical waves) conducted near local midnight. Both VHF (22:00-02:00 UT) and UHF (22:00-02:00 UT) 
+Tromsø radars will be used to monitor the ionosphere (90-1200 km). VHF and UHF radars will be 
+operated 
+4 hours per night with antennas directed to zenith using lt1v and lt1t control programs. Radio emission 
+data will be recorded using a wide-band (0-10 MHz) receiver provided by Dartmouth College. Optical 
+data 
+will be recorded by collaborators operating instruments in and near Tromso.

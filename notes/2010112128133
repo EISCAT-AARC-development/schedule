@@ -1,0 +1,21 @@
+experiment DIoDE
+instrument ESR
+start 2010 11 21 0600
+end 2010 11 21 1200
+status R
+description Dayside Ionospheric Dayside Experiments
+contact Frederic Pitout
+email Frederic.Pitout@obs.ujf-grenoble.fr
+operator F. Pitout
+submitter F. Pitout
+resources FR(6)
+notes
+We wish to observe ionospheric dynamics and transients due to dayside solar
+wind-magnetosphere coupling processes taking place at magnetopause
+(reconnection, sudden impulses, etc.). The ESR 32m will point at low elevation
+towards the North or the South depending on the orientation of the IMF and 42m
+dish will observe field aligned. We shall favour, anytime we have suitable solar
+wind/IMF conditions, configurations where the ESR 32m points due south so that
+we have can cover the open-closed field line boundary. Besides, possible
+coordinated measurements with the THEMIS spacecraft orbiting near the
+magnetopause may be performed.

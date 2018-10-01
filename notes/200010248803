@@ -1,0 +1,48 @@
+experiment CP1L
+instrument ESR
+start 2000 10 24 1000
+end 2000 10 27 1600
+status C
+description CP1L
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(760)
+submitter Tony van Eyken
+notes
+Global Ionosphere-Thermosphere Coupling Study   
+     All radars should measure electron density, ion and electron temperature and ion velocities parallel to the magnetic  
+     field direction. Electric field measurements are not essential for monostatic radars.  
+     Objectives:  
+        1.Fit and constrain global models of the thermosphere (eg. UCL 3D thermospheric model) and ionosphere (eg.  
+          Grenoble TRANSCAR model) using simultaneous measurements at F-region altitudes.   
+        2.Compute ion-neutral collision frequencies (O-O+) using neutral meridional winds from interferometer and  
+          radar measurements. This will include the O-density from the adjusted neutral atmosphere model (from above)  
+          and direct neutral temperature measurements where available.   
+     Both objectives are best studied during quiet geomagnetic conditions. In the case of substorms, however, a study of the  
+     global thermospheric response will be possible. All available interferometers near radar sites suitable for thermospheric  
+     measurements should be operated. Neutral wind measurements at OID 630 nm are essential. Neutral temperature  
+     measurements at OID 630 nm should be done if possible.  
+     All radars should measure in the magnetic field parallel direction. Electron density, ion and electron temperature and  
+     ion velocities parallel to the magnetic field direction are required. Ionospheric electric field measurements are not  
+     essential for monostatic radars.  
+     A long coordinated run is preferred (3-5 days) in order to (1) cover a variety of geomagnetic conditions, (2) measure  
+     for extended periods during quiet times to improve the collision frequency estimate and (3) maximise the chance of  
+     success due to cloud cover problems for ground-based optical observations. Moon free periods are essential to reduce  
+     any optical scattering which can severely affect optical interferometry.  
+     This experiment was run in February 1999, however, it would be greatly advantageous to increase the data base.  
+     This would help confirm any results and provide for better consistency.  
+     Contact: Mike Kosch and Chantal Lathuillere   
+Wide-Latitude Substorm Dynamics  
+     These are 'floating' days, the exact operation dates to be selected about one month before based on available  
+     predictions. Modes with temporal resolutions better than 5 minutes should be used since we need to address substorm  
+     phenomena with better time resolution.  
+     Contact: John Foster   
+SPARC  
+     SPARC brings together researchers in upper atmospheric and space physics from around the world, providing them a  
+     set of online collaboration tools and workspaces that link together scientific instruments, data, and models. The  
+     collaboratory is itself a subject of study by computer and behavioral scientists who are developing and refining the  
+     tools and organizational structures that will make such real-time, online collaborative research commonplace.  
+     Contact: Tim Killeen 

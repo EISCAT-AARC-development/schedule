@@ -1,0 +1,16 @@
+experiment Te_on
+instrument HEA
+start 2014 11 27 1000
+end 2014 11 27 1300
+status R
+description Investigation of initial electron temperature increases caused by HF-modification
+contact Björn Gustavsson
+phone +4777645668
+email bjorn.gustavsson@uit.no
+operator Bjorn Gustavsson
+submitter Björn Gustavsson
+resources PP(18),NO(9)
+notes
+Experiment to study the spatial variation of the initial electron temperature
+increases after HF-on. Quiet ionospheric conditions are required together with
+EISCAT-Heating and the UHF radar.

@@ -1,0 +1,14 @@
+experiment CIV
+instrument UHF
+start 2000 10 19 1030
+end 2000 10 19 1230
+status R
+description CIV experiment with the ARGOS satellite
+contact Ingemar H%E4ggstr%F6m
+phone +4698079117
+email ingemar@irf.se 
+operator Ingemar H%E4ggstr%F6m
+resources SW
+submitter Ingemar H%E4ggstr%F6m
+notes
+Release at 1130

@@ -1,0 +1,13 @@
+experiment CP6
+instrument VHF,ESR
+start 2008 08 14 1300
+end 2008 08 15 1300
+status C
+description CP6
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(300)
+notes
+runexp /kst/exp/manda/manda fm zenith

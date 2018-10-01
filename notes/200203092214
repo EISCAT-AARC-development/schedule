@@ -1,0 +1,15 @@
+experiment CLUSTER
+instrument VHF
+start 2002 03 09 0600
+end 2002 03 09 1200
+status C
+description Co-ordinated observations with the CLUSTER spacecraft
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(6)
+submitter Tony van Eyken
+notes
+Low el North, split beam preferred but single beam acceptable

@@ -1,0 +1,15 @@
+experiment EMEnergy
+instrument ESR
+start 2017 11 12 1600
+end 2017 11 12 1800
+status R
+description Electromagnetic energy input to the high-latitude ionosphere
+contact Lei Cai
+email lei.cai@oulu.fi
+operator EISCAT staff
+submitter Lei Cai
+resources FI(2)
+notes
+We will study the electromagnetic energy input to the high-latitude ionosphere
+using the ESR radar (CP2 experiment). The electric field and conductivities will
+be estimated. 

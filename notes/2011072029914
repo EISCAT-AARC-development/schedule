@@ -1,0 +1,25 @@
+experiment DualPMSE
+instrument ESR
+start 2011 07 20 0800
+end 2011 07 20 1300
+status R
+description PMSE interferometric observation
+contact Norbert Engler
+phone +49 38293 68 238
+email engler@iap-kborn.de
+fax +49 38293 68 50
+operator Norbert Engler
+submitter Norbert Engler
+resources GE(39)
+notes
+We want to study PMSE and thin layers in the D-region/lower E-region with using
+the 42m antenna (field aligned) and the 32m antenna with complementary code
+program and 90 m range resolution for interferometric observations. The 32m dish
+should be adjusted in vertical position or tilted 7 degees perpendicular to the
+42m dish. Desired altitude is 60 to 140 km with a high time and altitude
+resolution. Prefered measuring time is 0700 - 1300 UT. The overlap with the
+heating campaign will be considered and is already discussed and agreed. In this
+case the heating experiment has priority.
+
+Experimentor: N. Engler
+Program to run: jurg4-256-bothv2 or jurg3

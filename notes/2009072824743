@@ -1,0 +1,20 @@
+experiment EMIC
+instrument VHF
+start 2009 07 28 1200
+end 2009 07 28 1600
+status R
+description VHF observations of high energy precipitation in the afternoon sector
+contact Andrew J. Kavanagh
+phone +441524510411
+email a.j.kavanagh@lancaster.ac.uk
+fax +441524510493
+operator Andrew J. Kavanagh
+submitter Andrew J. Kavanagh
+resources UK(16)
+notes
+This experiment uses the VHF in the vertical position running the manda
+experiment to look for signs of high energy precipitation in the afternoon
+sector, possibly associated with relativistic electrons scattered by EMIC waves.
+Active conditions are required, specifically during high speed solar wind
+streams from coronal holes. Cancellation is likely if geomagnetic conditions
+remain calm.

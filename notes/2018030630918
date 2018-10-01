@@ -1,0 +1,32 @@
+experiment AUROPOL
+instrument TRO
+start 2018 03 06 2018
+end 2018 03 11 0300
+status R
+description EISCAT measurements in conjunction with auroral polarization measurements
+contact Magnar G. Johnsen
+email Magnar.G.Johnsen@uit.no
+operator Hervé Lamy, Mathieu Barthelemy, Jean Lilensten and/or Magnar G. Johnsen
+submitter Magnar G. Johnsen
+resources NO(12)
+notes
+We are setting up a new experimental campaign to collect more data on the pola
+polarisation of the auroral emissions. We will use two instruments; the first one 
+one is a spectropolarimeter that has been already used in 2016 and 2017. The seco
+second one is a simpler instrument under development, that will be tested for the 
+the first time to monitor the polarisation of the red line only.
+
+A program devoted to this has been developped in March 2016 (/
+(/kst/exp/scans/kst/fr/polarlis_pattern.elan) by J. Lilensten and Arild, from EI
+EISCAT. This program was used in 2016 but unfortunately in cloudy conditions, wh
+which did not allow to couple with our optical measurements. 
+However, it was succesfully tested. It scans along the polarimeters line of s
+sight in a successions of 7 elevations (from 30 to 60 degrees) and then back, i
+i.e. 12 positions in a full cycle. Each position is monitored during 60 s
+seconds. This code will be used again during the 2018 experiment campaign.
+
+
+EISCAT data will allow us to monitor the state of the ionosphere and better u
+understand the physics of the auroral polarisation.  We will also complement t
+the polarimetric observations with optical observations from the ALIS network.
+

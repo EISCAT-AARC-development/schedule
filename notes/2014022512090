@@ -1,0 +1,19 @@
+experiment GPSscintNO
+instrument ESR
+start 2014 02 25 1800
+end 2014 02 25 2300
+status R
+description 32m and 42m, Ne and Te, use in multi-instrument study of scintillation and patches
+contact Christer van der Meeren
+phone 47075792
+email cmeeren@gmail.com
+operator Christer van der Meeren
+submitter Christer van der Meeren
+resources NO(5)
+notes
+I am a PhD student with Kjellmar Oksavik as my supervisor. I need data for my
+PhD thesis "Dynamics of mesoscale ionospheric irregularities over Svalbard".
+Will be measuring Ne and Te with 32m and 42m for use in a multi-instrument study
+looking at ionospheric GPS scintillations in the nightside polar cap over
+Svalbard. I request 20 hours of Norway's time, 18-23 UT from 22 February to 25
+February inclusive.

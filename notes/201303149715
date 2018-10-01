@@ -1,0 +1,15 @@
+experiment FLH_NEIAL
+instrument ESR
+start 2013 03 14 0800
+end 2013 03 14 1100
+status R
+description Search for First Langmuir Harmonic During NEIALs Events
+contact Marcos Diaz
+email mdiazq@ing.uchile.cl
+operator I Häggström
+submitter I Häggström
+resources PP(12)
+notes
+The main goal of this experiment is the use of ESR facility to look for evidence
+of first Langmuir harmonic formation.
+

@@ -1,0 +1,15 @@
+experiment fin-hea
+instrument VHF
+start 2001 11 17 1000
+end 2001 11 17 1300
+status R
+description http://spaceweb.oulu.fi/campaigns/Nov2001/
+contact Jouni Jussila
+phone +358-8-553 1289
+email Jouni.Jussila@oulu.fi 
+fax +358-8-553 1287
+operator Thomas Ulich
+resources FI(58)
+submitter Jouni Jussila
+notes
+Finnish Auroral campaign, more detailed information from the web page at http://spaceweb.oulu.fi/campaigns/Nov2001/

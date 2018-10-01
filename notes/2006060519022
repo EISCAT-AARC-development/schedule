@@ -1,0 +1,15 @@
+experiment tau1_AA
+instrument VHF
+start 2006 06 05 0400
+end 2006 06 05 0900
+status R
+description VHF experiment in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea and Jackie Davies
+resources AA(5)
+notes
+See notes for corresponding ESR experiment

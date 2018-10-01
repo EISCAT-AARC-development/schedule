@@ -1,0 +1,15 @@
+experiment SpaceCamp
+instrument ESR
+start 2013 10 22 1800
+end 2013 10 22 2000
+status R
+description High school space camp experiment on Svalbard
+contact Noora Partamies
+phone +358503802716
+email noora.partamies@fmi.fi
+operator Noora Partamies
+submitter Noora Partamies
+resources FI(2)
+notes
+We will run a 2-hour basic field aligned experiment to learn about the radar
+system and as a part of a space weather project.

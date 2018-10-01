@@ -1,0 +1,17 @@
+experiment tau0_AA
+instrument ESR
+start 2002 10 26 1500
+end 2002 10 26 1900
+status R
+description ESR tau0 experiment (both dishes) co-ordinated with Cluster 
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(4)
+notes
+The Cluster requests for October mainly relate to passes in the midnight sector.  By this time, the orbit apogee is moving away from the noon-midnight plane, but some of these tail conjunctions might still be worth covering.  As in September, the best geometry is probably the dual-beam "cp4-type" experiment on the VHF with a southward-looking (161.6, 31.0) pointing on the ESR 32m dish, interleaved with field-aligned dumps from the 42m dish.
+
+I have submitted requests for runs on the 2nd, 7th, 14th, 19th and 26th.  I would also have submitted a request to cover the interior cusp pass of October 4th (7-13 UT), but this same interval has already been identified by UK experimenters who want to exploit a conjunction of Cluster, GEOTAIL and Image during this interval, and their request was already in the system.

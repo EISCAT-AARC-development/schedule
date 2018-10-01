@@ -1,0 +1,19 @@
+experiment Heating-excited plasma turbulence
+instrument HEA
+start 1999 11 06 1000
+end 1999 11 06 1300
+status R
+description Study of Heating-excited plasma turbulence during different ionospheric conditions, using airglow, UHF, VHF, stimulated electromagnetic emissions, and other diagnostics.
+contact Thomas Leyser
+phone +46-18-303600
+email thomas.leyser@irfu.se 
+fax +46-18-403100
+operator Thomas Leyser
+resources SW(25)
+submitter Thomas Leyser
+notes
+The scheduling request concerns an experiment to be run from 1 Nov to 12 Nov, 
+at 10-13 UT and 16-20 UT each day. It is a collaboration between Sweden  
+(approximately 25 hours), Germany (30 hours), Norway (approximately 10 hours),  
+UK (10 hours), Japan (6 hours), and approximately 25 hours of international  
+time.

@@ -1,0 +1,13 @@
+experiment CP4L
+instrument ESR
+start 1999 11 09 1000
+end 1999 11 11 1600
+status C
+description Common Programme Four
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator EISCAT Staff
+resources CP(54)
+submitter Tony van Eyken

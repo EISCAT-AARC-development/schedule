@@ -1,0 +1,19 @@
+experiment tau0_AA
+instrument ESR
+start 2005 02 06 0800
+end 2005 02 06 1400
+status R
+description ESR experiments in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT duty staff
+submitter Ian McCrea
+resources AA(6)
+notes
+February 2005 sees the beginning of the fourth Cluster cusp campaign, as the 
+orbit plane rotates back into the Sun-Earth line by the end of the month.  We 
+are requesting three intervals of potential Cluster/cup conjunctions in the 
+vicinity of EISCAT.  March will see better conjunctions, as the overpasses 
+will occur at earlier local times.

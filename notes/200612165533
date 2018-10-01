@@ -1,0 +1,15 @@
+experiment TEC Trom
+instrument UHF
+start 2006 12 16 1000
+end 2006 12 16 1600
+status R
+description Coordinated exp for TEC
+contact Jean Lilensten
+phone +33 4 76 51 41 49
+email jean.lilensten@obs.ujf-grenoble.fr
+fax +33 4 76 51 41 46
+operator Béatrice Pibaret
+submitter Francois Forme
+resources FR(6)
+notes
+Coordinated exp for TEC measurements

@@ -1,0 +1,40 @@
+experiment steffe_AA
+instrument ESR
+start 2006 01 13 1000
+end 2006 01 13 1400
+status R
+description ESR experiment in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(4)
+notes
+For January 2006, we are requesting four EISCAT/Cluster runs, as follows:
+
+January 13th  1000-1400 UT
+January 18th  0600-1000 UT
+January 24th  2300-0300 UT (25th)
+January 25th  0800-1200 UT
+
+The runs on the 13th, 18th and the second run on the 25th were identified by 
+Jackie Davies.  The run on the 24th/25th is in support of a perigee pass, for 
+which coverage was requested by Ingrid Sandahl.
+
+The Cluster orbit axis is evolving from the dawn-dusk plane towards the noon-
+midnight plane.  We have not yet reached the time of the best cusp conjunctions 
+(from late Feb) but observations in previous years have shown that cusp 
+conjunctions can occur even in this time sector under unusual IMF conditions.
+
+The configuration should be VHF northward-looking tau1 (along boresight) with 
+ESR LowElNorth for the runs of Jan 13, 18 and 25 (second run).  For the run of 
+January 24/25, we could use LowElSouth on the ESR 32m dish, since the 
+conjunction primarily takes place over northern Scandinavia.  (I will confirm 
+this with Ingrid).
+
+For all ESR experiments, some level of inter-leaving between the 32m and 42m 
+dishes would be acceptable, e.g 4:1 (32m:42m) but the main focus should be on 
+preserving the quality of the 32m data which is needed to give good latitudinal 
+coverage.

@@ -1,0 +1,22 @@
+experiment cp1l_heat_UK@uhf
+instrument UHF
+start 2002 09 26 1600
+end 2002 09 26 1800
+status R
+description Study of Heater-Induced Irregularities for Different Heater Beam Directions.
+contact Terry Robinson
+phone +44 116 252 3562
+email txr@ion.le.ac.uk  
+fax +44 116 252 3555
+operator To Be Decided
+resources UK(18)
+submitter Ken Freeman
+notes
+The purpose of this study is to investigate the relationship between the        
+measured ionospheric plasma parameters and the direction of the Heater beam        
+with respect to the terrestrial magnetic field. To do this, the Heater beam will       
+be held in a particular direction and the UHF Radar be scanned through the heated region to measure the plasma parameters at different positions. The        
+CUTLASS Radar will be used to measure the backscatter power. This procedure will then be repeated for several Heater pointing directions and powers. One       
+should note that the reference to "cp1l" in the experiment name is to the pulse       
+code rather than to the pointing direction. It is possible that pulse code        
+actually employed may be tau2 or tau3 rather than cp1l.

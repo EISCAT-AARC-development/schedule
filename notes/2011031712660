@@ -1,0 +1,25 @@
+experiment HMZ_SPEAR
+instrument ESR
+start 2011 03 17 1200
+end 2011 03 17 1700
+status R
+description HF heater-induced phenomena in the over- and uderdense ionosphere F region
+contact Lisa Baddeley
+phone 0047 79023362
+email lisab@unis.no
+fax 0047 79023301
+operator Hannah Vickers / Lisa Baddeley
+submitter Lisa Baddeley
+resources RU(10)
+notes
+This study is to repeat experiments done at the mainland site with the Tromsø
+heater and UHF radar. Here we use the ESR in conjunction with the SPEAR heater.
+We plan to study contrasting O/X-mode heating effects in the over- and
+underdense ionospheric F region.
+The behavior of artificial small-scale field-aligned irregularities will be
+investigated in combination with electron density and temperature and ion
+velocities measurements.
+The results will then be compared to similar experiment which have been recently
+carried out at Tromsø.
+The beata experiment will be used.
+

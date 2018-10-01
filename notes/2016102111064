@@ -1,0 +1,24 @@
+experiment AARI_HFOX
+instrument HEA
+start 2016 10 21 1200
+end 2016 10 21 1500
+status R
+description The comparison between O- and X-mode HF-induced phenomena 
+contact Nataly Blagoveshchenskaya
+phone +7 812 3373191
+email nataly@aari.nw.ru
+operator Nataly Blagoveshchenskaya
+submitter Nataly Blagoveshchenskaya
+resources RU(20)
+notes
+Russian EISCAT/heating campaign (AARI_HFOX) is planned from 19 to 30 October 
+2016 (except of 27 and 28 October). Experiments will be carried out from 12 to 
+15 UT under quiet magnetic conditions. The experiments will to be cancelled due 
+to unsuitable ionospheric conditions. We will continue to study phenomena in 
+the F-region of the ionosphere (plasma parameters, HF-induced plasma and ion 
+lines, artificial field-aligned irregularities, narrowband SEE spectral 
+components) induced by powerful O/X-polarized HF pump waves. The determination 
+and comparison of the ERP thresholds needed to generate various O/X-mode HF-
+induced phenomena is planned. Under suitable background geophysical conditions 
+it is also planned to carry out X-mode experiments under frequency stepping the 
+heater frequency near the fourth electron gyro harmonic frequency.

@@ -1,0 +1,15 @@
+experiment PMSE RIM
+instrument VHF
+start 2003 07 14 0800
+end 2003 07 14 1600
+status R
+description Observations of PMSE using range imaging and possibly spaced antenna techniques
+contact Phillip Chilson
+phone 1 303 497 4346
+email Phillip.Chilson@noaa.gov
+fax 1 303 497 5318
+operator Phillip Chilson and Bob Palmer
+submitter Phillip Chilson
+resources GE(08)
+notes
+Request use of UHF receiver to accomodate multiple frequency and multiple receive antenna measurements

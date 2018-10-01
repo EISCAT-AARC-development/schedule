@@ -1,0 +1,31 @@
+experiment ISHAM
+instrument ESR
+start 2008 10 11 1000
+end 2008 10 11 1400
+status R
+description High-resolution ESR observations of Langmuir and upper hybrid turbulence
+contact Dr Brett Isham
+phone 17876855223
+email brettisham@gmail.com
+fax 17878781289
+operator Dr Lisa Baddeley
+submitter Lisa Baddeley
+resources 3P(36)
+notes
+The goals of the proposed observations would be to study artificially-pumped
+Langmuir and upper hybrid turbulence at high time and frequency resolution in
+both the ion-acoustic and Langmuir (up and down-shifted
+plasma line) ISR spectra.
+The proposed observations would use a new ESR observation program jointly
+developed by Brett Isham (PI on this proposal) and Paul Gallop (formerly at the
+Rutherford-Appleton Laboratory EISCAT support group in the UK). This program
+would be an adaptation of the lt2 program developed and used by Brett Isham
+and collaborators on the EISCAT VHF radar, and is somewhat simlar to the lt4
+program used by Strømme et al. (2005) which also was developed from the same lt2
+VHF code.
+If conditions are poor or excessive scheduling conflicts exist during the
+mid-day hours, it may be possible to negotiate time-sharing, to find appropriate
+conditions with sufficiently large fOF2 during times before or after midday,
+and/or to search for active conditions during other periods of the day. We would
+hope however that a significant fraction of the of the hours could be run during
+or near mid-day (local noon) and when conditions are favorable.

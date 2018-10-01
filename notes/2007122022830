@@ -1,0 +1,16 @@
+experiment CESMIC
+instrument VHF
+start 2007 12 20 0700
+end 2007 12 20 1100
+description Co-ordinated EISCAT, SuperDARN, MIRACLE, ITACA and Cluster observations of CUSP related processes
+contact Igino Coco
+email igino.coco@ifsi-roma.inaf.it
+operator EISCAT staff
+submitter Lisa Baddeley
+notes
+runexp /kst/exp/tau8/tau8 fm lowel IT
+
+This is a Trans-National Access experiment.
+The experiment will also hopefully be co-oridinated with the ESR.
+
+

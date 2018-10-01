@@ -1,0 +1,15 @@
+experiment narrow_fov
+instrument ESR
+start 2011 12 05 0500
+end 2011 12 05 0700
+status R
+description Narrow field-of-view observation of plasma lines
+contact Yasunobu Ogawa
+phone +81-42-512-0664
+email yogawa@nipr.ac.jp
+fax +81-42-512-0664
+operator Y. Ogawa
+submitter Y. Ogawa (yogawa at nipr.ac.jp)
+resources NI(2)
+notes
+This is an narrow field-of-view observation of ion and plasma lines.

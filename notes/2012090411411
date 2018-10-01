@@ -1,0 +1,15 @@
+experiment CP1
+instrument ESR
+start 2012 09 04 0700
+end 2012 09 07 2200
+status C
+description Synoptic
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)
+notes
+runexp /kst/exp/ipy/ipy lm
+See
+http://www.eiscat.se/Members/ingemar/skedule/WD2012.htm

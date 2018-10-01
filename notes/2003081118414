@@ -1,0 +1,11 @@
+experiment MAINT
+instrument VHF
+start 2003 08 11 0600
+end 2003 08 16 2200
+status R
+description Testing and commissioning rebuilt VHF klystron
+contact Gudmund Wannberg
+email ugw@eiscat.com
+operator Gudmund Wannberg
+submitter Gudmund Wannberg
+resources EI(184)

@@ -1,0 +1,15 @@
+experiment SPEAR_TEST
+instrument ESR
+start 2010 07 01 1000
+end 2010 07 01 1300
+status R
+description testing time for SPEAR experimental code
+contact Lisa Baddeley
+phone 0047 79023362
+email lisab@unis.no
+operator Lisa Baddeley / Paul Gallop
+submitter Lisa Baddeley
+resources NO(30)
+notes
+This experiment is to test new code which is to be used with up and coming 
+SPEAR experiments. The codes developed will be SLOPES and / or LT3

@@ -1,0 +1,22 @@
+experiment DMSP
+instrument UHF
+start 2005 02 10 1615
+end 2005 02 10 1645
+status R
+description UHF Experiment for Calibration of the DMSP SSUSI Imager.
+contact Phil Anderson
+phone +1-310-336-2244
+email phillip.c.anderson@aero.org
+fax +1-310-336-1636
+operator Alan Aylward
+submitter Ken Freeman
+resources UK(12)
+notes
+These experiments are intended to support the calibration and validation of 
+DMSP GUVI imager by detecting auroral boundaries during overpasses of the 
+satellite. The satellite is in a sun-synchronous orbit, so that overpasses of 
+EISCAT always occur in the evening sector at around 17 and 19 UT.  The 
+experiment needs dark conditions with no moonlight, but there is no need for 
+cloud-free conditions, because the auroral imaging is done from above.  
+
+Please note that the times quoted may be approximate.

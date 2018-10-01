@@ -1,0 +1,32 @@
+experiment RIOE2013
+instrument HEA
+start 2013 11 12 1500
+end 2013 11 12 2000
+status R
+description Radio Induced Optical Effects 2013, Heating+UHF campaign for stimulating optical emissions and other HF radio-wave driven phenomena
+contact Bjorn Gustavsson
+phone +47 776 45668
+email bjorn.gustavsson@uit.no
+operator Bjorn Gustavsson
+submitter Bjorn Gustavsson
+resources EI(20),SW(40),NO(20)
+notes
+The scientific objectives with the experiment are:
+
+1, studies of F-region artificial aurora/Radio-Induced Optical Emissions.
+With main focus on determining the volume emission rate varies in 3-D
+for emissions from atomic oxygen (6300, 5577, 8446 Å) and molecular
+Nitrogen ions (4278 Å), as a function of frequency and ERP. Descending
+HF-enhanced ion-lines would if observed act as another direct measure
+of ionisation which would reveal how it varies with frequency and ERP.
+
+2, studies of enhanced ion and plasma-lines in auroral E-layers, with
+the ambition to determine how the aurora is affected by HF-pumping.
+
+3, studies of generation of pulsating aurora. For this we should heat
+the E region with working cycle of 10 s ON 20 OFF with amplitude
+modulation at frequency of several kHz (whistler wave resonance
+frequency).
+
+Experiments will be canceled due to unfavourable ionospheric
+conditions, and cloudy skies.

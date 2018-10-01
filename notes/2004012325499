@@ -1,0 +1,16 @@
+experiment day_arcs
+instrument VHF
+start 2004 01 23 0900
+end 2004 01 23 1200
+status R
+description Studies of dayside aurora together with all-sky and TV camera
+contact Hans Nilsson
+phone +4698079127
+email hans.nilsson@irf.se
+fax +4698079050
+operator Tima Sergienko
+submitter Hans Nilsson
+resources SW(20),FI(7)
+notes
+Must be run in conjunction with the EISCAT Svalbard radar 
+Split beam mode 

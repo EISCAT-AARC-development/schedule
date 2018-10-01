@@ -1,0 +1,21 @@
+experiment L_mode2017
+instrument HEA
+start 2017 11 22 1400
+end 2017 11 22 1800
+status R
+description Investigation of the magnetic zenith effect during HF pumping of the ionosphere, particularly the possible role of L-mode propagation.
+contact Björn Gusavsson
+phone +47 40724899
+email bjorn.gustavsson@uit.no
+operator Björn Gustavsson
+submitter Björn Gustavsson
+resources NO(42),SE(30)
+notes
+The main purpose is to study the magnetic zenith effect during ordinary mode HF
+pumping of the quiet ionospheric plasma, especially possible L-mode propagation
+to bring about the self focusing of the pump wave. The pump frequency needs to
+be below the ionospheric critical frequency. The experiments are supported by
+optical measurements of the ALIS system (IRF, Kiruna). In the event of not too
+intense auroral activity, pump-induced perturbations in the vicinity of auroral
+arcs will be attempted.
+

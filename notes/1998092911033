@@ -1,0 +1,12 @@
+experiment Pulsar
+instrument SOD
+start 1998 10 01 1000
+end 1998 10 04 1600
+status S
+description Jussi's repeated 3-day pulsar experiment - passive
+contact Jussi Markkanen
+phone +358 16 619882
+email Jussi.Markkanen@eiscat.sgo.fi 
+operator Jussi Markkanen
+resources EI(100)
+submitter Tony van Eyken

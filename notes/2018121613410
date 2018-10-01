@@ -1,0 +1,13 @@
+experiment DXL
+instrument ESR
+start 2018 12 16 0600
+end 2018 12 16 0800
+status R
+description  Global Structure and Morphology of the Magnetospheric Cusp Through Coordinated Radar and Rocket Measurements
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources PP(20)
+notes
+runexp taro/taro lm ip4 US

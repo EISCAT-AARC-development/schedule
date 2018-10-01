@@ -1,0 +1,18 @@
+experiment SP-UK-OUCH
+instrument HEA
+start 2001 03 20 1700
+end 2001 03 20 1900
+status R
+description Use of the Heater in collaboration with US Measurements.
+contact Darren Wright
+phone +44 116 2523568
+email Darren.Wright@ion.le.ac.uk 
+fax +44 116 2523555
+operator Mike Rietveld
+resources UK(60)
+submitter Ken Freeman
+notes
+This experiment will employ the Heater only. It is anticipated that only three   
+of the four intervals booked will be used. Please note that the time given    
+under "Resources" is a pool with other UK experiments, for which there are    
+plans to run in April/May of this year.

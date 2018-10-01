@@ -1,0 +1,11 @@
+experiment tau0_AA
+instrument ESR
+start 2003 02 12 1300
+end 2003 02 12 1700
+description Conjunction with FAST/POLAR
+contact I. Häggström
+email ingemar@eiscat.com
+operator I Häggström
+submitter I Häggström
+notes
+tau0_cp2

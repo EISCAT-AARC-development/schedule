@@ -1,0 +1,22 @@
+experiment SP_AURORA
+instrument TRO
+start 2016 12 03 2300
+end 2016 12 04 0400
+status R
+description Coordinated observations of various auroras with EISCAT and optical imagers
+contact Yasunobu Ogawa
+phone +81-42-512-0664
+email yogawa@nipr.ac.jp
+fax +81-42-512-0664
+operator Y. Ogawa and Y. Endo
+submitter Y. Ogawa
+resources NI(27)
+notes
+PIs of the SP: T. Sakanoi and Y. Ogawa
+
+We conduct coordinated observations of various auroras with the EISCAT radar 
+and ground-based optical imagers, to investigate small-scale aurora and also 
+develop a method for estimating characteristic energy of pulsating auroral
+electrons. 
+A clear sky and active geomagnetic condition are desirable.
+

@@ -1,0 +1,13 @@
+experiment meteor
+instrument VHF
+start 2003 11 26 0200
+end 2003 11 26 0800
+description FAIs in meteor trails
+contact Asta Pellinen-Wannberg
+phone +46 980 79118
+email asta@irf.se
+fax +46 980 79050
+operator Asta Pellinen-Wannberg
+submitter Asta Pellinen-Wannberg
+notes
+/kst/exp/sw/meteor/meteor-v

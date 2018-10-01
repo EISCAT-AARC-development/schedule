@@ -1,0 +1,18 @@
+experiment SP_NI_CUSP
+instrument ESR
+start 2017 12 01 0700
+end 2017 12 01 1100
+status R
+description Observation of the mesoscale structure and dynamics of the plasma flow toward the cusp
+contact Satoshi Taguchi
+phone +81-75-753-3951
+email taguchi@kugi.kyoto-u.ac.jp
+fax +81-75-753-3951
+operator TBD
+submitter Y. Ogawa (yogawa@nipr.ac.jp)
+resources NI(4)
+notes
+This investigates the mesoscale structure and dynamics of the plasma flow toward
+the cusp, using simultaneous observations between the ESR 32-m radar and an
+all-sky imager. 
+

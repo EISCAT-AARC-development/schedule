@@ -1,0 +1,15 @@
+experiment CLUSTER
+instrument ESR
+start 2002 01 25 0500
+end 2002 01 25 1200
+description Co-ordinated operations with CLUSTER
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+submitter Tony van Eyken
+notes
+03-0600UT Sondrestrom scan, 32m only 
+06-1200UT Low elevation North, two positions (with 32m/42m alternation) 
+

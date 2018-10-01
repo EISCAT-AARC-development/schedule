@@ -1,0 +1,14 @@
+experiment PCArcsFI
+instrument ESR
+start 2013 12 01 0000
+end 2013 12 01 0700
+status R
+description ESR-32m: El.= 45 deg., Az= -68 and -23 (swinging, 2 min at each position)
+contact Alexander Kozlovsky
+phone +358-50-5771753
+email Alexander.Kozlovsky@oulu.fi
+operator Alexander Kozlovsky
+submitter Alexander Kozlovsky
+resources FI(8)
+notes
+Same mode as third part PCArcs on 27-30 Nov 2013

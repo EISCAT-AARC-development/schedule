@@ -1,0 +1,23 @@
+experiment scan_cond
+instrument TRO
+start 2012 03 30 1100
+end 2012 03 30 1900
+status R
+description conductance in the quiet ionosphere by scan mode
+contact Akimasa Ieda
+phone +81-52-747-6336
+email ieda@stelab.nagoya-u.ac.jp
+fax +81-52-747-6334
+operator Shin-ichiro Oyama
+submitter Shin-ichiro Oyama
+resources NI(12)
+notes
+Scientific objective of this experiment is to understand the conductance
+in the quiet polar cap and auroral region. Both ESR and Tromsoe UHF will
+be operated with a scanning mode similar as CP3. The requested
+experiment windows are:
+Mar/29 LYB: 11-19 UT (12-20 LT)
+Mar/29 TRO: 15-19 UT (16-20 LT)
+
+Mar/30 LYB: 11-19 UT (12-20 LT)
+Mar/30 TRO: 11-19 UT (12-20 LT)

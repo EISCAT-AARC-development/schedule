@@ -1,0 +1,21 @@
+experiment METEOR_UHF
+instrument TRO
+start 2016 12 02 1800
+end 2016 12 03 0600
+status R
+description Collaborative study of meteors using EISCAT UHF, MAARSY and optical systems
+contact Johan Kero
+phone +4698079084
+email kero@irf.se
+operator Johan Kero
+submitter Johan Kero
+resources SW(36)
+notes
+runexp /kst/exp/manda/manda 18:00 sw/maarsy SW 100
+enablerec
+
+We will perform a collaborative study of dual-frequency meteor head echoes 
+using UHF, the MAARSY radar, and a set of optical systems temporarily 
+installed at ALOMAR. We prefer good weather conditions at ALOMAR for the 
+simultaneous optical observations and cancellation may occur. UHF will point 
+at elevation 37 and azimuth 257 to a measurement volume 100 km above MAARSY.

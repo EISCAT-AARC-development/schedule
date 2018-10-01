@@ -1,0 +1,37 @@
+experiment LANCS
+instrument TRO
+start 2010 12 02 1000
+end 2010 12 02 1600
+status R
+description Lancaster University heating experiments
+contact Andrew Senior
+phone +44 1524 510410
+email a.senior@lancaster.ac.uk
+fax +44 1524 510493
+operator Andrew Senior / Steve Marple
+submitter Andrew Senior
+resources UK(46)
+notes
+The "LANCS" schedule entry covers three separate experiments from Lancaster 
+University, UK 
+which require similar conditions:
+
+MZE UK(17) Investigation of the magnetic-zenith effect
+PLEE UK(12) Effect of heater-accelerated electrons on the plasma line
+PRAISE UK(17) Artificial aurora
+
+PRAISE will only be carried out from 14-16 UT and requires clear skies for 
+optical support. 
+MZE and PLEE will be carried out between 10 and 14 UT. If PRAISE is to be run 
+then either MZE 
+or PLEE will be run from 12-14 UT in order to satisfy the minimum 4-hour run for 
+the 
+experiment which ends outside normal site working hours. If PRAISE is not run, 
+MZE and/or 
+PLEE will be run sometime during the 10-14 UT interval, i.e. inside normal 
+working hours.
+
+All three experiments require quiet geomagnetic conditions. Cancellation is 
+likely, 
+especially for PRAISE (14-16 UT) due to the need for clear skies.
+

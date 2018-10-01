@@ -1,0 +1,18 @@
+experiment SANDY
+instrument TRO
+start 2016 03 10 1500
+end 2016 03 10 1900
+status R
+description Supra-thermal Anomalous electric field and Neutral DensitY
+contact Mike Kosch
+phone 01524-510404
+email m.kosch@lancaster.ac.uk
+operator Mike Kosch
+submitter Mike Kosch
+resources UK(24)
+notes
+This experiment seeks to determine the thermospheric neutral density, topside 
+anomalous electric field, and pump-induced supra-thermal electron energy by 
+active experiment. The Heater and UHF radar will point field-aligned. Clear 
+skies are needed to support local and remote multi-wavelength optical data. 
+Expect cancellations.

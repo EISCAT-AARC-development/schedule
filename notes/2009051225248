@@ -1,0 +1,15 @@
+experiment CP1
+instrument ESR
+start 2009 05 12 0800
+end 2009 05 14 1400
+status C
+description TID
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(300)
+notes
+runexp /kst/exp/beata/beata fm
+
+See https://e7.eiscat.se/Members/ingemar/skedule/2009WDschedule.htm

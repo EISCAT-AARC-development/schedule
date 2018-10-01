@@ -1,0 +1,18 @@
+experiment KAIRA
+instrument VHF
+start 2016 03 17 1300
+end 2016 03 17 1900
+status R
+description UK EISCAT experiments in support of KAIRA observations
+contact Anna Scaife
+email anna.scaife@manchester.ac.uk
+operator TBC
+submitter Andrew J Kavanagh
+resources Uk(12)
+notes
+This is a request for EISCAT mainland (VHF) time to support observations by the 
+University of Oulu KAIRA facility. The VHF experiment will probably be a
+standard D-region mode with vertical pointing, in order to compare energetic
+particle measurements at Tromso with those inferred from the  riometric
+measurements made by KAIRA.  Two 6 hour runs are being requested, additional
+runs will be cancelled in a timely fashion.

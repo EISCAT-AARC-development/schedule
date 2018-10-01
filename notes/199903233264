@@ -1,0 +1,11 @@
+experiment ESRPlasma0
+instrument ESR
+start 1999 03 23 1300
+end 1999 03 23 1700
+status R
+description Plasma line receiver testing experiment (testing)
+contact Tom Grydeland
+email tom@phys.uit.no 
+operator Tom Grydeland
+resources NO(8)
+submitter Unni Pia Lovhaug

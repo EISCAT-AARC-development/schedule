@@ -1,0 +1,42 @@
+experiment tau1_AA
+instrument VHF
+start 2007 03 15 0600
+end 2007 03 15 1000
+status R
+description VHF experiments in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(4)
+notes
+In March 2007, the orbit plane of Cluster comes close to the Sun-Earth line, 
+making this the optimum interval for studying cusp sector conjunctions. 
+
+We are requesting coverage for four Cluster cusp conjunctions when Cluster is 
+close to magnetic conjugacy with EISCAT/ESR.  These are essentially the best 
+cusp conjunctions of the year, and so ideally need coverage from both the ESR 
+and the mainland.  The times are as follows:
+
+March 3   08-12 UT
+March 10  09-13 UT
+March 15  06-10 UT
+March 22  08-12 UT
+
+In addition we are requesting coverage for three perigee passes (two nightside, 
+one dayside) as follows:
+
+March 7  20-24  UT
+March 19 19-23 UT
+March 29 09-13 UT
+
+The usual configuration of the ESR experiments requires that there is an 
+interleaving (typically 4:1) between low elevation observations on the 32m dish 
+and field-aligned observations on the 42m.  As such, the existing ESR/Cluster 
+experiments should also satisfy the cadence requirement on field-aligned 
+observations for the IPY run at the ESR.
+
+The ESR/Cluster runs should fit well with the ethos of the long IPY experiment, 
+but an essential requirement is the pointing of the 32m dish in LowElNorth mode.

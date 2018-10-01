@@ -1,0 +1,20 @@
+experiment PACT
+instrument HEA
+start 2011 07 07 0900
+end 2011 07 07 1700
+status R
+description HF, MORRO and VHF radar measurements of heater-modulated PMSE
+contact Mike Kosch
+phone +44 1524 510404
+email m.kosch@lancaster.ac.uk
+fax +44 1524 510493
+operator Mike Rietveld
+submitter Andrew Senior
+resources NO(142),UK(18)
+notes
+The Heater will operate in radar and heating mode simultaneously. The heater 
+cycle will probably be 20 s on / 160 s off. The radar mode will be appropriate 
+for sounding the mesosphere.
+
+
+

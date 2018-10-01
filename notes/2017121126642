@@ -1,0 +1,20 @@
+experiment NorSatCali
+instrument ESR
+start 2017 12 11 0700
+end 2017 12 11 0900
+description NorSat-1 plasma density calibration + cusp studies
+contact Lasse Clausen
+email lasse.clausen@fys.uio.no
+operator Lasse Clausen
+submitter Lasse Clausen
+resources NO(2)
+notes
+runexp beata/beata lm fixed42p NO
+
+This campaign is aimed at acquiring EISCAT plasma line data so that the plasma
+density measurements made by NorSat-1 during its conjunction with the ESR radar
+can be compared.
+In order to obtain plasma line data (from the 32m and ideally also 42 m dish)
+the experiment 'beata' must be run.
+During times when NorSat is not conjunct with the ESR cusp dynamics will be studied.
+

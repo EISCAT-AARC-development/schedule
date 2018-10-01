@@ -1,0 +1,31 @@
+experiment steffe_AA
+instrument ESR
+start 2007 02 04 2200
+end 2007 02 05 0200
+status R
+description ESR experiments in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(4)
+notes
+In February 2007, the alignment of the Cluster orbit is returning toward the 
+Sun-Earth line.  Although the orbit configuration is still not optimal for cusp 
+crossings, there are a number of dayside magnetopause crossings close to 
+magnetic conjugacy with EISCAT, and cusp conjunctions could occur given the 
+correct (By) conditions.  We have selected four EISCAT/Cluster conjunctions for 
+coverage, as follows:
+
+February  4th 2200 - February  5th 0200 (perigee pass)
+February  7th 1400 - February  7th 1800
+February 12th 0800 - February 12th 1200
+February 26th 1100 - February 26th 1500
+
+The runs on the 4th and 26th do not clash with any other planned EISCAT 
+operation and have been requested as joint ESR/VHF.  The runs on the 7th and 
+12th clash with a CP2 experiment planned for the ESR, and have hence been 
+requested as VHF only.  In addition, a promising conjunction on the 19th has 
+not been requested since it conflicts with the EISCAT Annual Review Meeting.

@@ -1,0 +1,15 @@
+experiment CLUSTER
+instrument ESR
+start 2000 08 30 1800
+end 2000 08 31 1800
+status C
+description CLUSTER experiment design and testing
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(24)
+submitter Tony van Eyken
+notes
+Preparation of CLUSTER mode operations for the ESR, to include data analysis and evaluation.  

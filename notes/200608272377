@@ -1,0 +1,38 @@
+experiment steffe_AA
+instrument ESR
+start 2006 08 27 2130
+end 2006 08 28 0130
+description ESR experiments in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea & Jackie Davies
+notes
+runexp /kst/exp/hilde/hilde 21:30 vhfcross AA
+runexp /kst/exp/steffe/steffe 21:30 fixed42m AA (+ 'stopdata pla')
+
+August sees the beginning of the tail conjunction season, as the Cluster orbit 
+moves back towards the noon-midnight plane with Cluster apogee on the 
+nightside.  We have selected five events, all in the midnight sector, where 
+Cluster has a magnetic conjunction with EISCAT/ESR close to a tail crossing.
+
+Note that the conjunctions generally occur at latitudes between EISCAT and ESR -
+ hence a desirable option for this period would be to operate the ESR in 
+LowElSouth mode, with the Tromso VHF looking north along boresight as normal.
+
+If the VHF is unavailable due to the planned klystron bakeout, then running 
+tau1 on the UHF (az 359.5, el 30) would be a suitable alternative.  If the ESR 
+32m dish is unavailable because of the requested dish maintenance then 42m-only 
+operations would be better than nothing.
+
+The selected intervals are as follows:
+
+August 1st   2300 - 0300 August 2nd
+August 8th   2300 - 0300 August 9th
+August 15th  2130 - 0130 August 16th
+August 22nd  2200 - 0200 August 23rd
+August 27th  2130 - 0130 August 28th
+
+

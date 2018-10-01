@@ -1,0 +1,44 @@
+experiment PatchTrack
+instrument ESR
+start 2012 01 16 0700
+end 2012 01 16 1200
+status R
+description Partial azimuth scans centered on azimuth of Station Nord (315°), elevation scans along same azimuth from lowest possible elevation (30°) to zenith.
+contact Jøran Moen
+phone +4791556414
+email jmoen@fys.uio.no
+fax +4722855671
+operator Jøran Moen
+submitter Jøran Moen
+resources NO(40)
+notes
+Experiment objectives: Determine the evolution of large-scale plasma structure 
+and irregularity regions in polar cap patches as they convect along a chain of 
+heavily instrumented ground stations across the polar cap.  Ground stations 
+include Resolute Bay, Qaanaaq, Station Nord, and Svalbard.  Radars at 
+Sondrestrom and Resolute Bay will also be operated for these experiments.  The 
+EISCAT Svalbard radar is intended to provide F-region plasma density and line-
+of-sight ion velocities along the Scandinavian end of the chain, coordinating 
+with ground measurements in Svalbard and Station Nord, Greenland, especially 
+to provide horizontal coverage over Station Nord and altitude coverage along 
+the chain between Nord and Svalbard.
+Time window requested:  Jan 15-25, 7-12 UT, 18-24 UT.  Same windows have been 
+requested for the Sondrestrom and Resolute Bay radars.
+Desired geophysical conditions:  Moderate to high geomagnetic activity, with 
+the polar cap boundary equatorward of or overhead Svalbard.  Southward IMF.  
+Clear skies at at least 2 of the 4 stations in the chain.  We do not plan to 
+run the radar if conditions are poor, and will plan to provide go/no-go 
+decisions as far in advance as required by the radar operators.
+Specific scan modes desired:  Azimuth scan at 30° or lower elevation centered 
+on azimuth 315°, sweeping from az 270° to 360°, followed by an elevation scan 
+along az 315° from 30° el (or lowest possible) to 90° el (zenith).  Desired 
+time ~5 min for azimuth scan, ~4 min for elevation scan.  With time for 
+repositioning between scans this should give a cadence of ~10 min.  Desired 
+spatial resolution 50 km or better if densities allow shorter pulses and 
+integration times.  Full azimuth scans at higher rates may be desired during 
+UT morning window if patch formation activity is occurring, to capture the 
+patch formation transient events and plasma source regions.
+Requested dates and times in tabular format:  (note that we do not plan to use 
+all of these windows and do not plan to run during periods with poor 
+conditions for the coordinated ground measurements).
+

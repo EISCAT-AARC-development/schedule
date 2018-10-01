@@ -1,0 +1,19 @@
+experiment ESR PMSE
+instrument ESR
+start 2007 07 03 1000
+end 2007 07 03 1400
+status R
+description PMSE at 500 MHz
+contact Markus Rapp
+phone +493829368126
+email rapp@iap-kborn.de
+fax +49382936850
+operator to be defined
+submitter Markus Rapp
+resources GE(20)
+notes
+We plan to make PMSE observations with the ESR at 500 MHz using a new radar 
+program at an unprecedented altitude resolution of 150 m. This will yield new 
+insight into the real vertical extent of PMSE at such high frequencies. In 
+addition, simultaneous measurements with the SOUSY radar at 53 MHz will be used 
+to study the frequency dependence of PMSE.

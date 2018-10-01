@@ -1,0 +1,44 @@
+experiment CSCS_UK
+instrument ESR
+start 2014 04 04 0830
+end 2014 04 04 1230
+status R
+description CLUSTER conjunctions with EISCAT in the cusp
+contact Rob Fear
+phone 01162523548
+email rcf11@ion.le.ac.uk
+operator tbd
+submitter Ian McCrea
+resources UK(4)
+notes
+VHF: runexp /kst/exp/bella/bella lm lowel SP
+UHF: runexp /kst/exp/bella/bella lm fi/lowelgm SP
+ESR: runexp /kst/exp/folke/folke lm lowelnorth SP
+
+
+This is a a UK experiment to provide EISCAT observations in support of the 
+CLUSTER spacecraft as they traverse the southern hemisphere cusp. Two intervals 
+have been selected for April 2014, (one each accounted to the CCOC and CSCS 
+allocations) each run lasting four hours (the minimum time for a single radar 
+operation).
+
+Although we are requesting 4-hour slots the experiment only really needs about 2
+hours. Thus if any other experimenters request overlapping time we could come to 
+an agreement to reduce the time that may be charged to the UK.
+
+The experiment configuration should be the same as used in the CCOC experiments 
+of April and May 2013: 
+
+The VHF will be operated pointing at low elevation to the north 
+The UHF will be operated at low elevation pointing generally north-west to
+provide wider cusp coverage and 2D velocity estimates in conjunction with the
+VHF 
+The ESR 32m dish will point at low elevation to the north, interleaved with 
+observations on the 42m dish.
+
+This configuration will optimise the chances of observing features in the Cusp
+to provide context and interhemispheric comparison with the CLUSTER satellites.
+
+
+
+

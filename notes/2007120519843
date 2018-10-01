@@ -1,0 +1,16 @@
+experiment BEAT
+instrument HEA
+start 2007 12 05 1500
+end 2007 12 05 1900
+status R
+description 2 frequency heating experiment, aimed at observing effects at a beat frequency of 2.7 MHz
+contact Björn Gustavsson
+phone +47 77645188
+email bjorn.gustavsson@phys.uit.no
+fax +47 77645580
+operator M Rietveld
+submitter Björn Gustavsson
+resources NO(60)
+notes
+Heating is to be operated in CW for typical 50% duty cycles of 2-4 minutes, at
+two frequencies above foF2.

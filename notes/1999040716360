@@ -1,0 +1,13 @@
+experiment HEAT-WIND
+instrument HEA
+start 1999 04 07 0100
+end 1999 04 07 0500
+status R
+description Transmission to WIND satellite
+contact M. Rietveld
+phone 776 92171
+email rietveld@linmpi.mpg.de 
+fax 776 92360
+operator M. Rietveld or EISCAT staff
+resources GE(4)
+submitter M. Rietveld

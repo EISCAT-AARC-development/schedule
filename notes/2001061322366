@@ -1,0 +1,17 @@
+experiment PMSE
+instrument ESR
+start 2001 06 13 0900
+end 2001 06 13 1300
+status R
+description PMSE measurements together with SOUSY Svalbard radar
+contact J. Rottger
+phone +49 5556 979 163
+email roettger@linmpi.mpg.de 
+fax +49 5556 979 240
+operator J. Roettger ?
+resources GE(40)
+submitter M. Rietveld
+notes
+ESR measurements of PMSE, using jurg1 or jurg2 modulation.      
+Coordinated with SOUSY Svalbard radar.       
+Some flexibility in the actual times run is possible and desired.

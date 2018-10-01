@@ -1,0 +1,34 @@
+experiment tau0_AA
+instrument ESR
+start 2004 09 05 0700
+end 2004 09 05 1100
+status R
+description ESR experiments in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT duty staff
+submitter Ian McCrea
+resources AA(4)
+notes
+Stefan Buchert writes:
+
+Cluster sees often  O+ in the tail and the lobes, and it is interesting to find 
+out from where the O+ comes, where and how it is energized etc (auroral outflow 
+vs dayside outflow). I presented some data about the subject at the workshop in 
+April. For this we need also events when ESR (or Sondrestromfjord) is on the 
+dayside for proving that upflow occurs while Cluster is in the tail or northern 
+lobe. In these configurations there is no conjunction between Cluster and the 
+groundbased radar.
+
+Suitable periods are
+
+05/09/04 0700-1100 ESR
+12/09/04 0700-1100 ESR
+
+(TC1 is also at suitable positions in the tail for 05/09 and 12/09, however it 
+cannot distinguish ions.)
+
+I suggest to add these periods, if possible.
+

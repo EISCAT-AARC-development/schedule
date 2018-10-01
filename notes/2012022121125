@@ -1,0 +1,13 @@
+experiment POLA
+instrument ESR
+start 2012 02 21 1900
+end 2012 02 22 0200
+status R
+description Auroral polarization
+contact Jean Lilensten
+email Jean.Lilensten@obs.ujf-grenoble.fr
+operator Jean Lilensten
+submitter F. Pitout
+resources FR(7)
+notes
+ESR support for optical detection of auroral polarization. 

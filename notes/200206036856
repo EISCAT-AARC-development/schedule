@@ -1,0 +1,17 @@
+experiment CUSP-CHAMP
+instrument ESR
+start 2002 06 03 0900
+end 2002 06 03 1400
+status R
+description CHAMP/Oersted/SACC cusp conjunctions
+contact M. Rietveld
+phone +47 77692171
+email rietveld@linmpi.mpg.de 
+fax +47 77692360
+operator Request EISCAT staff
+resources GE(25)
+submitter M. Rietveld
+notes
+ESR1 field-aligned and ESR2 pointing towards magnetic pole. 
+(Similar campaign to that run in February) 
+

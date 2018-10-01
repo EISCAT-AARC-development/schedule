@@ -1,0 +1,18 @@
+experiment ALIS/FAST/EISCAT
+instrument UHF
+start 2000 02 02 1900
+end 2000 02 02 2300
+status R
+description Conjugate ALIS/FAST/EISCAT campaign observation
+contact T. Aso and R. Fujii
+phone +81339624756
+email aso@nipr.ac.jp, rfujii@stelab.nagoya-u.ac.jp 
+fax +8133925701
+operator T. Aso (NIPR/Japan)
+resources NI(4)
+submitter Ryoichi FUJII
+notes
+M. Hedin at Tromsoe site and I. Haeggstroem at Kiruna   
+To study basic auroral/plasma processes and/or airglow excitation  
+by menas of conjunctive optical (ALIS), satellite (FAST) and  
+radar (EISCAT).

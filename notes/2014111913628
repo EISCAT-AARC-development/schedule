@@ -1,0 +1,26 @@
+experiment TROPIONS
+instrument TRO
+start 2014 11 19 0600
+end 2014 11 19 1000
+status R
+description TRaining Of the Participants of ION-2014 School for students and young scientists 
+contact Alexander Koloskov
+phone 47623240
+email koloskov@rian.kharkov.ua
+operator Alexander Koloskov
+submitter Cesar La Hoz, Alexander Koloskov
+resources NO(4)
+notes
+The purpose of the experiments is to train students and young scientists taking 
+part in the School-Conference “Remote Radio Sounding of the Ionosphere” ION-
+2014” which is organized by UiT the Arctic University of Norway. The students of 
+this School will be trained in as many aspects of the EISCAT radar as possible 
+at the Ramfjord site, in understanding the radar experiments and data 
+acquisition, in running experiments and analyzing the recorded data. This 
+experiment will also include coordinated runs of EISCAT heater and IS radar near 
+Kharkiv (Ukraine) for investigating excitation of different types of waves in 
+the ionosphere. The other purpose of the experiment is studying the scattering 
+of signals from the EISCAT heater at ionospheric irregularities produced by the 
+heater radiation itself. To that end we plan to monitor Doppler spectra of the 
+heater signals at several greatly dispersed receiving sites, including 
+observation point at Ukrainian Antarctic Station.

@@ -1,0 +1,13 @@
+experiment CP3
+instrument ESR
+start 2011 12 01 0000
+end 2011 12 01 2300
+status C
+description Synoptic
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)
+notes
+World Day, see http://www.eiscat.se/Members/ingemar/skedule/WD2011.htm

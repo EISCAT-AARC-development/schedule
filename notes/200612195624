@@ -1,0 +1,13 @@
+experiment Dynamics
+instrument UHF
+start 2006 12 19 1800
+end 2006 12 19 2400
+status R
+description Study of the dynamics
+contact jean lilensten
+phone +33 4 76 51 41 49
+email jean.lilensten@obs.ujf-grenoble.fr
+fax +33 4 76 51 41 46
+operator Mathieu Barthélémy
+submitter Francois Forme
+resources FR(6)

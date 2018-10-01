@@ -1,0 +1,19 @@
+experiment STD
+instrument TRO
+start 2015 03 18 1000
+end 2015 03 18 1200
+status R
+description SuperDARN Technique Development
+contact Mike Kosch
+phone 01524-510404
+email m.kosch@lancaster.ac.uk
+operator Mike Kosch
+submitter Mike Kosch
+resources UK(8)
+notes
+This experiment supports development of new SuperDARN radar techniques aimed at 
+measuring plasma and neutral density. EISCAT will provide pump-induced 
+irregularities as a backscatter target for SuperDARN as well as radar 
+verification of the measurements. The UHF radar and Heater will operate field-
+aligned. The heater will pump CW at very low power on a non-gyroharmonic 
+frequency.

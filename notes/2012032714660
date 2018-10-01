@@ -1,0 +1,15 @@
+experiment ActiveULF
+instrument ESR
+start 2012 03 27 0500
+end 2012 03 27 1100
+status R
+description Joint SPEAR-ESR generation and observation of ULF waves
+contact Frederic Pitout
+email frederic.pitout@irap.omp.eu
+operator F. Pitout
+submitter F. Pitout
+resources FR(6)
+notes
+We plan to trigger ULF waves (and hopefully field line resonances) with SPEAR
+and to observe them with the ESR, a few SuperDARN radars, and Cluster.
+

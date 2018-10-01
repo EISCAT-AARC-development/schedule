@@ -1,0 +1,20 @@
+experiment PCF
+instrument ESR
+start 2013 11 08 1800
+end 2013 11 08 2300
+status R
+description Polar Cap Flow and Polar Cap Patches
+contact Kjellmar Oksavik
+phone +47 - 55 58 83 38
+email kjellmar.oksavik@uib.no
+operator EISCAT staff  / Christer Van Der Meeren
+submitter Kjellmar Oksavik
+resources NO(15)
+notes
+This experiment will study polar cap flow and polar cap patches near the 
+nightside auroral oval. Data from both dishes will be used, and the 32m beam 
+will look along the magnetic meridian towards the northern edge of the auroral 
+oval. We will use a combination of azimuth scans and fixed positions, 
+depending on geophysical activity. The experiment will also use data from GNSS 
+scintillation and TEC receivers that have been recently installed at Bjørnøya, 
+Hopen, Ny-Ålesund and Longyearbyen.

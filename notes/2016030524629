@@ -1,0 +1,17 @@
+experiment BARMY
+instrument TRO
+start 2016 03 05 2000
+end 2016 03 05 2400
+status R
+description Black Aurora Radar Measurements of energY
+contact Mike Kosch
+phone 01524-510404
+email m.kosch@lancaster.ac.uk
+operator Mike Kosch
+submitter Mike Kosch
+resources UK(12),NO(12)
+notes
+This experiment seeks to determine the precipitating electron energy spectrum 
+in black auroras, the anti-black (white) aurora, and the diffuse background 
+using both radar and multi-wavelength optical data. Clear skies are needed. 
+Expect cancellations.

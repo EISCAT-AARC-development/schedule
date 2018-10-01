@@ -1,0 +1,25 @@
+experiment EASI
+instrument ESR
+start 2012 01 16 0400
+end 2012 01 16 0900
+status R
+description Hunting for NEIALs using radar interferometry techniques and optics with high temporal resolution
+contact Nicola Schlatter
+phone 0047736785880
+email Nicola.Schlatter@gmx.at
+operator Nicola Schlatter
+submitter Nicola Schlatter
+resources SW(14)
+notes
+The aims of the experiment using the EISCAT Svalbard Radar together with EISCAT
+Aperture Synthesis Imaging (EASI) and the Auroral Structures and Kinetics (ASK)
+instrument are:
+   - to study the occurrence and spatial distribution of NEIALs using radar
+interferometry techniques and optics with high spatial and temporal resolution,
+   - to study the energy distribution within and surrounding narrow auroral 
+forms (especially when associated with NEIALs),
+   - and apply the results to theories of NEIAL occurrence and production, and 
+in general to theories of auroral acceleration processes.
+  The experiment is a collaboration between Sweden (14), Norway (14), and Sweden
+(12). Pulse code
+LT4FL will be run on the Radar.

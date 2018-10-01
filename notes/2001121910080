@@ -1,0 +1,19 @@
+experiment SP-UK-PNWN
+instrument UHF
+start 2001 12 19 1100
+end 2001 12 19 1630
+status R
+description Post-Noon Satellite Tomography Study.
+contact Eleri Pryse
+phone +44 1970 622801
+email sep@aberystwyth.ac.uk 
+fax +44 1970 622826
+operator To Be Decided
+resources UK(21)
+submitter Ken Freeman
+notes
+This experiment will also be run concurrently on Svalbard, and will employ      
+the steerable antenna in a meridian scanning mode. The intervals have been       
+chosen to coincide with satellite overpasses. This booking should at present be   
+regarded as provisional.      
+

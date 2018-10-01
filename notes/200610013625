@@ -1,0 +1,24 @@
+experiment CHAMP_CL
+instrument UHF
+start 2006 10 01 2000
+end 2006 10 01 2400
+description CHAMP-Cluster conjunctions campaign on current wedge thermospheric upwelling
+contact M. Foerster
+phone +49-331-2881776
+email mfo@gfz-potsdam.de
+fax +49-331-2881235
+operator M. Foerster
+submitter Matthias Foerster
+notes
+CHAMP-CL (01-14 Oct 2006)
+The campaign intends to study thermospheric upwelling in the substorm currrent
+wedge zone prior to or around local midnight during conjunctions of the CHAMP
+and (hopefully, but not necessarily, simultaneous) Cluster satellites with the
+radar ionospheric observation volume. Some substorm activity would be desirable
+to observe noticable density changes with CHAMP's accelerometer together with
+electrodynamic parameters.
+The request is preliminary, and subject to more precise orbit predictions of
+both CHAMP and Cluster about one month prior to the campaign. It is overbooked,
+i.e. cancellations will be done, because only nearby (more closer) satellite
+passages will be actually used, which are expected about every second day.
+

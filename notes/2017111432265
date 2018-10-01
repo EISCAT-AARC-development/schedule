@@ -1,0 +1,17 @@
+experiment NWIND
+instrument VHF
+start 2017 11 14 1600
+end 2017 11 14 1800
+status R
+description Joint observation using EISCAT radars and FPI
+contact Lei Cai
+email lei.cai@oulu.fi
+operator Ilkka Virtanen
+submitter Lei Cai
+resources FI(2)
+notes
+The ion-neutral coupling will be studied in the vicinity of auroral structures.
+Substorm events are preferred. Electric field will be estimated using VHF
+3-static + KAIRA. UHF will be run in CP1 mode. Simultaneously, thermospheric
+winds will be measured by the FPI (Nagoya University) at TRO.  No simultaneous
+heating.

@@ -1,0 +1,18 @@
+experiment ALTA
+instrument HEA
+start 2003 03 02 0100
+end 2003 03 02 0500
+status R
+description Artificial Langmuir Turbulence and Aurora Study
+contact Mike Kosch
+phone +44-1524-593016
+email m.kosch@lancaster.ac.uk
+fax +44-1524-592713
+operator Mike Rietveld
+submitter Ian McCrea
+resources UK(40),GE(40),SW(20)
+notes
+This is the heater part of the artificial Langmuir turbulence and aurora experiment, see the notes for the UHF part.
+
+This booking supersedes the Swedish "HFoptical" booking, which should be deleted.
+Note that the Swedish "arcHeating" booking still stands, as this is part of the alternative experiment on natural auroras, which requires more active conditions.

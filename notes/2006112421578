@@ -1,0 +1,13 @@
+experiment Aurora
+instrument UHF
+start 2006 11 24 1830
+end 2006 11 25 0130
+status R
+description Co-ordinated observation of tristatic UHF and optical equiment at various locations in N and FIN
+contact Kari Kaila
+phone +358-8-5531283
+email Kari.Kaila@oulu.fi
+fax +358-8-5531287
+operator Kari Kaila / Thomas Ulich
+submitter Thomas Ulich
+resources FI(7.2)

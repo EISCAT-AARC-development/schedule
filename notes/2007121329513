@@ -1,0 +1,19 @@
+experiment TRICE
+instrument ESR
+start 2007 12 13 0700
+end 2007 12 13 1100
+status R
+description Support for the NASA TRICE twin rocket campaign
+contact Tim Yeoman
+phone +441162523564
+email tim.yeoman@ion.le.ac.uk
+fax +441162523555
+operator R. S. Dhillon
+submitter Tim Yeoman
+resources UK(24)
+notes
+Support for the NASA TRICE twin rocket campaign, 
+launched from Andoya with apogee over Svalbard.  
+ESR operations field parallel (42m dish) and ~45 
+degree elevation northwards (32 m dish)
+

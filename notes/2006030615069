@@ -1,0 +1,13 @@
+experiment CP1
+instrument ESR
+start 2006 03 06 0800
+end 2006 03 31 2400
+description World Month 2006
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+notes
+http://people.ece.cornell.edu/wes/URSI_ISWG/2006WDschedule.htm
+runexp /kst/exp/steffe/steffe fullminute fixed42p
+

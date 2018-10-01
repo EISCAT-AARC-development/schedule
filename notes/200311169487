@@ -1,0 +1,22 @@
+experiment CP_2_tide
+instrument UHF
+start 2003 11 16 1500
+end 2003 11 19 0900
+status R
+description CP-2 TIDE and Planetary wave study
+contact Satonori Nozawa
+phone 81-52-789-4303
+email nozawa@stelab.nagoya-u.ac.jp
+fax 81-52-789-4311
+operator Satonori Nozawa
+submitter Satonori Nozawa
+resources NI(36)
+notes
+This experiment aims at study of tidal and planetary waves in the lower themosphere.
+We like to extend CP-2 run to 8-days window, with which  we can work on
+tidal variability as well as Q2DW.
+So far, scientis from 4 countries are involved.  
+In case some ploblems happen in the beggning of the CP-2 run on November 11, we like 
+to extend our run so that 8 days of data window can be achieved.
+
+NI(36),NO(12),GE(12) ,SW(24)

@@ -1,0 +1,18 @@
+experiment SP-GE-CP1
+instrument UHF
+start 1999 10 08 1700
+end 1999 10 08 2300
+status R
+description Joint UHF radar and Swedish Heater operation for artificial airglow 
+contact M. Rietveld
+phone +47 776 92177
+email rietveld@linmpi.mpg.de 
+fax +47 776 92380
+operator M. Rietveld
+resources <GE>(4.5)
+submitter M. T. Rietveld
+notes
+Joint GE-SW campaign, heater-induced airglow.     
+Hours allocated assuming GE shares half of the charged 9h for HF+UHF 
+If CP7L is to be run, then Heater-only without the SP-GE-CP1 would 
+be acceptable, and heater only if conditions were suitable.

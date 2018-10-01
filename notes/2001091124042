@@ -1,0 +1,15 @@
+experiment CLUSTER
+instrument ESR
+start 2001 09 11 1200
+end 2001 09 11 1600
+status C
+description Experiments co-ordinated with CLUSTER observations
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(4)
+submitter Tony van Eyken
+notes
+Interior cusp over Sondrestromfjord

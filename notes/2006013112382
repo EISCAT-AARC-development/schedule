@@ -1,0 +1,17 @@
+experiment ESR_REIMEI
+instrument ESR
+start 2006 01 31 0800
+end 2006 01 31 1000
+status R
+description ESR/REIMEI coordinated observations
+contact June Lunde
+phone +47 77 64 51 40
+email June.Lunde@phys.uit.no
+fax +47 77 64 55 80
+operator June Lunde
+submitter June Lunde
+resources NO(2)
+notes
+This experiment is aimed to conduct coordinated observations of structured 
+aurora, electron precipitation and ion-outflow by ESR and REIMEI satellite, as 
+well as optical measurements. The time of interest is mainly inside cusp.

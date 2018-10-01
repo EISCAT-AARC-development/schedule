@@ -1,0 +1,27 @@
+experiment ICI_1
+instrument ESR
+start 2003 11 27 0700
+end 2003 11 27 1200
+status R
+description Ground support of the ICI-1 sounding rocket
+contact Kjellmar Oksavik
+phone +47-22855682
+email kjellmar.oksavik@fys.uio.no
+fax +47-22855671
+operator Kjellmar Oksavik
+submitter Kjellmar Oksavik
+resources NO(25),FR(25)
+notes
+Ground support of the ICI-1 sounding rocket: Investigation of Cusp 
+Irregularities will investigate the formation of HF radar backscatter 
+irregularities in the cusp. Detailed diagnostics of launch condition will 
+be provided by the CUTLASS, ESR, and the all-sky imagers located at 
+Ny-Ålesund and Longyearbyen. The ideal conditions will be having the 
+equatorward boundary of the optical cusp and the equatorward edge of radar 
+cusp located near the apogee between Ny-Ålesund and Longyearbyen. We will 
+point the ESR-1 beam towards the apogee position to measure the electron 
+density profile, to ensure that we have a significant cusp ionosphere with 
+electron densities peaking around 250 km. We know that the cusp electron 
+density may sometimes peak at ~350 km, which will be too high for ICI-1. 
+ESR observations of the particle impact ionization is thus of critical 
+importance for determent of the ideal launch conditions.

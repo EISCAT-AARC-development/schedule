@@ -1,0 +1,13 @@
+experiment DICE
+instrument TRO
+start 2013 03 08 1600
+end 2013 03 08 1800
+status R
+description DICE CubeSat: initial ISR conjunction radar operations
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources EI(4)
+notes
+runexp /kst/exp/beata/beata lm

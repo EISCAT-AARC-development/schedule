@@ -1,0 +1,18 @@
+experiment TeSpVHP
+instrument HEA
+start 2011 05 05 1000
+end 2011 05 10 1300
+status R
+description the temporal and spatial variation of electron temperature, electron density and ion line by high power
+contact Wu Jun
+email wujun1969@163.com
+operator Xu Bin
+submitter Wu Jun
+resources CN(30)
+notes
+A heating experiment is designed to detect the temporal and spatial variation 
+of pump-induced electron temperature, electron density and ion line. The UHF 
+radar will work in the scan mode to get the time constant in different 
+directions. VHF radar will be used to measure the outflow at topside of F 
+region and modulation in D region. The UHF and VHF will run a standard code 
+manda.

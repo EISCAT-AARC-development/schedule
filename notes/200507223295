@@ -1,0 +1,23 @@
+experiment tau0
+instrument ESR
+start 2005 07 22 1000
+end 2005 07 23 2200
+description Winds measurements like CP2 program
+contact Wlodek Kofman
+phone 33 476514152
+email wlodek.kofman@obs.ujf-grenoble.fr
+fax 33 476514146
+operator Wlodek Kofman
+submitter forme
+notes
+ 
+the proposed antenna position of the 32-m radar.
+It consists of three antenna positions;
+Az: --- El: 90 (geographic vertical)
+Az: 1 El: 75 (north beam)
+Az: 91 El: 75 (east beam)
+
+
+The integration period is 64 seconds( do you think that 64s is enough for ESR?)at each antenna position. While the 32m antenna moves to the next position ( about 1minute), observatoins with the 42m radar are available to obtain the field-aligned data.
+
+

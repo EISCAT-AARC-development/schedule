@@ -1,0 +1,18 @@
+experiment CHAMP-GPS
+instrument UHF
+start 2002 06 01 2200
+end 2002 06 02 0200
+status R
+description Cco-ordinated measurements with CHAMP-GPS occultations
+contact Claudia Stolle
+email stolle@rz.uni-leipzig.de  
+operator Claudia Stolle
+resources GE(4)
+submitter M. Rietveld
+notes
+Probably a scanning experiment using tau2/tau3 coordinated with GPS to CHAMP     
+occultations. Because of the low orbit of CHAMP predictions are unreliable     
+so that the exact times may change.   
+ 
+       
+

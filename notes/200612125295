@@ -1,0 +1,25 @@
+experiment LPACI_06
+instrument ESR
+start 2006 12 12 0400
+end 2006 12 12 1059
+status R
+description Radar interferometry and optical observation of fine auroral structure
+contact N. Ivchenko
+phone +4687907692
+email nickolay.ivchenko@ee.kth.se
+fax +468245431
+operator J. Sullivan
+submitter N. Ivchenko
+resources UK(12),SW(60)
+notes
+Joint campaign by UiT, University of Southampton, and KTH,
+Stockholm, using coordinated optical and radar observations
+of structured auroral precipitation. Long pulse and/or AC
+experiment will be run in the interferometric mode (receiving
+on 3 antennae). Supporting optical observations include the
+Spectrographic Imaging Facility at the auroral station in
+Adventdalen, and the Odin UiT narrow field camera at the ESR.
+
+(it is preferred to have continuous run for a few complete
+mornings rather than loose hours before and after cusp - hence
+the overbooking).

@@ -1,0 +1,12 @@
+experiment CP1
+instrument UHF
+start 2007 06 14 0700
+end 2007 06 15 1300
+description Synoptic
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+notes
+runexp /kst/exp/tau2pl/tau2pl fm
+

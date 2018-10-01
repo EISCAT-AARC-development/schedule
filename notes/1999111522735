@@ -1,0 +1,16 @@
+experiment GEN-11
+instrument VHF
+start 1999 11 15 0800
+end 1999 11 15 1100
+status R
+description D region Te. http://spaceweb/campaigns/fall99/
+contact Hannu Holma
+phone +358 8 553 1367
+email Hannu.Holma@oulu.fi 
+fax +358 8 553 1287
+operator Thomas Ulich
+resources FI(53.5)
+submitter Hannu Holma
+notes
+Coordinated experiment with VHF.        
+ 

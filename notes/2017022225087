@@ -1,0 +1,19 @@
+experiment L mode
+instrument TRO
+start 2017 02 22 1600
+end 2017 02 22 1900
+status R
+description Investigation of the magnetic zenith effect during HF pumping of the ionosphere, particularly the possible role of L-mode propagation. 
+contact Thomas Leyser
+phone +46-18-471 5941
+email thomas.leyser@irfu.se
+operator Björn Gustavsson
+submitter Thomas Leyser
+resources SW(40)
+notes
+The main purpose is to study the magnetic zenith effect during ordinary mode HF pumping of the quiet 
+ionospheric plasma, especially possible L-mode propagation to bring about the self focusing of the 
+pump wave. The pump frequency needs to be below the ionospheric critical frequency. The experiments 
+are supported by optical measurements of the ALIS system (IRF, Kiruna). In the event of not too intense 
+auroral activity, pump-induced perturbations in the vicinity of auroral arcs will be attempted.
+

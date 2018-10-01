@@ -1,0 +1,21 @@
+experiment TETRA
+instrument UHF
+start 2007 12 11 2200
+end 2007 12 12 0200
+status R
+description Multi-viewpoint imaging of black aurora
+contact Andrew Senior
+phone +44 1524 510410
+email a.senior@lancaster.ac.uk
+fax +44 1524 510493
+operator Andrew Senior
+submitter Andrew Senior
+resources UK(36)
+notes
+The UHF will operate field-aligned, most probably running arc1.
+
+There will be some cancellation due to overscheduling and the requirement for
+clear skies for the optical measurements. The preferred period for these
+experiments is 3-8 December if the UHF maintenance does not take place.
+
+

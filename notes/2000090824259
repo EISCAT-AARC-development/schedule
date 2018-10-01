@@ -1,0 +1,15 @@
+experiment SP-UK-HUMP
+instrument HEA
+start 2000 09 08 1400
+end 2000 09 08 1800
+status R
+description Investigation of High Spectral Width in F-Region Coherent Backscatter
+contact Mark Lester
+phone +44 116 252 3580
+email mle@ion.le.ac.uk 
+fax +44 116 252 3555
+operator Nigel Wade
+resources UK(20)
+submitter Ken Freeman
+notes
+CP-1-K with pulsed Heater cycle, with the Tromso dynasonde being used to select the Heater frequency.

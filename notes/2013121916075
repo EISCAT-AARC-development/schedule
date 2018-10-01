@@ -1,0 +1,19 @@
+experiment EINSTIEN
+instrument ESR
+start 2013 12 19 1930
+end 2013 12 19 2330
+status R
+description Coordinated EISCAT radar and STEIN measurements
+contact D Martini
+email dmartini@khu.ac.kr
+operator PP(24)
+submitter I Häggström
+resources PP(24)
+notes
+The primary aim of the project is to acquire complementary data from bottom
+ionosphere upward by coordinating STEIN and EISCAT measurements, as well as
+comparing high-latitude phenomena vs. ring-current development.
+We would like to book radar hours for our CINEMA project in 17-19 December. For
+all the days we would like to use both ESR radars (42m field aligned and 32m low
+elev. along the north-south meridian; BEATA) in 20.30 - 00.30 Local Time. 
+

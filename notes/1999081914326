@@ -1,0 +1,23 @@
+experiment plasma3
+instrument ESR
+start 1999 08 19 1200
+end 1999 08 20 0800
+status R
+description Another attempt at first plasma line experiment on the ESR
+contact Tom Grydeland
+phone +47 7764 4156
+email Tom.Grydeland@phys.uit.no 
+fax +47 7764 5580
+operator Tom Grydeland
+resources no(20)
+submitter Tom Grydeland
+notes
+I'd like to be scheduled as late as possible without disturbing the planned 
+testing for the mainland radars in week 34 (according to Jussi) 
+Exact day is not critical, but I'd really like time of day preserved more or less. 
+ 
+Plasma3 is preliminary -- exactly what gets run depends on what Jussi and myself 
+can come up with in the meantime. 
+ 
+ 
+If EISCAT would like to contribute some of the hours, feel free :-)

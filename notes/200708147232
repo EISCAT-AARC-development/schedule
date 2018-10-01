@@ -1,0 +1,33 @@
+experiment tau0_AA
+instrument ESR
+start 2007 08 14 2300
+end 2007 08 15 0300
+status R
+description ESR experiments in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(4)
+notes
+In August, the Cluster apogee goes from ~ 04 - 02 MLT (so perigee is ~16- 14). 
+At the beginning of the month there are passes skimming the dawn flank MP while 
+at the end of the month the spacecraft may start encountering the current sheet 
+at apogee and the dayside cusp at perigee.
+
+I have selected four nightside conjunctions for coverage with EISCAT as follows:
+
+August 09-10  23-03 UT
+August 14-15  23-03 UT
+August 21-22  22-02 UT
+August 28-29  22-02 UT
+
+For these nightside passes, the optimum mode is LowElSouth on the ESR, running 
+tau0, and northward-looking tau1 on the VHF using the low elevation boresight 
+beam (assuming that only one klystron is available).
+
+The orbit geometry is such that Sondrestrom can continue to track Cluster after 
+these passes as the footprint moves west across Greenland, so co-ordinated 
+Sondrestrom operations will be requested for some of these passes.

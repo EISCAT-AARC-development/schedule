@@ -1,0 +1,17 @@
+experiment pmse
+instrument ESR
+start 2001 07 23 0900
+end 2001 07 23 1100
+status R
+description ESR data using jurg2 (or other) together with SSR
+contact J. Rottger
+phone +49 5556 979 163
+email roettger@linmpi.mpg.de 
+fax +49 5556 979 240
+operator EISCAT staff
+resources GE(12)
+submitter M. Rietveld
+notes
+About 5 2-hour runs desired any time near noon when there is time             
+available. Preferably there should be some elctron precipitation.             
+Second priority to other experiments.

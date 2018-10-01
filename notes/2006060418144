@@ -1,0 +1,28 @@
+experiment tau1_AA
+instrument VHF
+start 2006 06 04 0400
+end 2006 06 04 0900
+status R
+description VHF experiment in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea and Jackie Davies
+resources AA(5)
+notes
+In June, the Cluster orbit is moving towards orthogonality with the Sun-Earth 
+line.  However, there are still some magnetopause crossings and we have 
+selected two events which are good conjunctions with the ESR shortly before 
+magentopause crossings, namely:
+
+June 05 04-09 UT
+June 17 04-08 UT
+
+In both cases, the modes should be LowElNorth on the ESR 32m dish with some 
+interleaved dumps e.g. 4:1 on the 42m dish, using Steffe.  The VHF should 
+observe at 30 degrees elevation looking north along boresight with the tau1 
+modulation. 
+
+Ian McCrea and Jackie Davies

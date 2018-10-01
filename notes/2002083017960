@@ -1,0 +1,15 @@
+experiment tau0_Cluster_AA@32m
+instrument ESR
+start 2002 08 30 2000
+end 2002 08 30 2400
+description 32m (southward) using tau0
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk 
+fax +44-1235-445848
+operator EISCAT Staff
+submitter Ian McCrea
+notes
+I am entering four Cluster bookings for August 2002.  The runs on the 15th and 22nd are dayside runs with Cluster passing through (or close to) the cusp.  For these runs, the standard Cluster mode (VHF dual-beam tau1, ESR 32m LowElNorth tau0, ESR42m field-aligned tau0)would be best.  The runs on the 25th-26th and 30th are nightside passes with Cluster passing through the tail.  For these runs, the mode might be as above, except for the ESR 32m dish which might best be pointed southward.  A pointing direction of az=161.6, el=31.0 would align the ESR with one of the CUTLASS beams.  
+ 
+Run extended with Sondrestrom (TvE)

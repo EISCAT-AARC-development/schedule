@@ -1,0 +1,16 @@
+experiment CP4
+instrument ESR
+start 2016 01 05 0800
+end 2016 01 12 2300
+status R
+description Day-night connection by localized flow channels
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)
+notes
+runexp /kst/exp/folke/folke 0:0 lowelnorth
+
+Day-night connection by localized flow channels
+Coordination with Heliophysics System Observatory campaign

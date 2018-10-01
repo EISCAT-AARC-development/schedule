@@ -1,0 +1,28 @@
+experiment CLUSTER
+instrument UHF
+start 2001 10 08 1600
+end 2001 10 08 2400
+status C
+description Co-ordinated operations with the CLUSTER satellites
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(6)
+submitter Tony van Eyken
+notes
+Oct 1 17-19 Nsheet KST ESR  2200-2300 STF          
+Oct 3 17-19    "          
+Oct 5 0900 Internal Cusp west of ESR east of STF          
+Oct 8 17-19 Nsheet KST ESR 2200-2300 STF          
+Oct 10  same          
+Oct 13 1600- 1800 KST ESR 2100-2200 STF          
+Oct 15 same          
+Oct 17 0700 Int Cusp over ESR 1700-1800 in lobe over KST          
+Oct 20 same          
+Oct 27 all a bit earlier 15-17 KST ESR, 20 STF          
+Oct 29 same          
+          
+          
+

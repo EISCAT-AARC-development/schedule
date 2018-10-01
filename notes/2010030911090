@@ -1,0 +1,15 @@
+experiment CP1
+instrument VHF
+start 2010 03 09 0800
+end 2010 03 11 2300
+status C
+description TID
+contact I Häggström
+email ingemar.haggstrom@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(750)
+notes
+runexp /kst/exp/beata/beata lm
+see
+http://e7.eiscat.se/Members/ingemar/skedule/2010WD.htm

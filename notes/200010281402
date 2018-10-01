@@ -1,0 +1,18 @@
+experiment pulse/gup3
+instrument UHF/ESR
+start 
+end 
+status R
+description Auroral study. http://spaceweb.oulu.fi/campaigns/Oct2000/
+contact Hannu Holma
+phone +358 8 553 1367
+email Hannu.Holma@oulu.fi 
+fax +358 8 553 1287
+operator Hannu Holma
+resources FI(51)
+submitter Hannu Holma
+notes 
+During the campaign EISCAT measurements are coordinated with ESR, 
+satellites, optical instruments, magnetometers, VLF, Dynasonde.
+GUISDAP real time testing will be done during the campaign.
+More inf on the web: http://spaceweb.oulu.fi/campaigns/Oct2000/

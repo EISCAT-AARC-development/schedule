@@ -1,0 +1,41 @@
+experiment tau1_AA
+instrument VHF
+start 2007 11 13 0500
+end 2007 11 13 2100
+status R
+description Second Rosetta Flyby
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(16)
+notes
+At the moment (June 2007) I am just entering a placeholder request for this 
+period.  The details of what experiments will be run can be decided near the 
+time.
+
+This is the second Earth-flyby of Rosetta, for which it is hoped that a wide-
+scale co-ordinated campaign of ground and space-based instruments can be 
+organised.  See the message from Steve Milan below:
+
+> Rosetta will make its second Earth flyby on 13 November 2007.  The
+> trajectory that the spacecraft will take is very interesting, 
+> approaching the Earth from the nightside, flying up the southern lobe 
+> of the magnetotail for several hundred Earth radii before exiting 
+> near the dayside.  This is an unparalleled opportunity to study the 
+> large scale properties and dynamics of the tail.  Of course, Cluster 
+> and Themis will also be operational at this time, providing a very 
+> comprehensive view of the near-Earth magnetosphere.  I believe that 
+> ground-based observations will also be key to understanding the 
+> dynamics viewed by Rosetta.  This email is to encourage all 
+> ground-based instrumentation to plan for this almost unique 
+> conjunction.  For my part I will liaise with the SuperDARN scheduling 
+> bodies to ensure that the radars operate in a sensible mode for the 
+> duration of the conjunction, that is the 6th to the 13th 
+> November.  Could other people let me know if their instrumentation 
+> can support this exciting campaign?
+> 
+
+

@@ -1,0 +1,21 @@
+experiment Upwelling
+instrument KIR
+start 2015 02 17 1900
+end 2015 02 17 2300
+status R
+description Tristatic VHF experiment to observe upwellin in the auroral thermosphere
+contact Anasuya Aruliah
+email anasuya@star.ucl.ac.uk
+operator TBD
+submitter Andrew Kavanagh
+resources UK(12)
+notes
+This is a UK experiment from UCL to investigate what mechanism(s) cause
+upwelling of the atmosphere in the polar regions and the consequent patches of
+increased density. Radar observations are required to coincide with optical
+measurements so clear, dark skies are needed. Results will be compared with
+polar cap observations and feed into modelling studies.
+8 hours of actual observing time are available , which translates to 2 runs. We
+are over scheduling slightly to account for the need for dark, cloudless skies.
+Experiment to be run in conjunction with KAIRA
+

@@ -1,0 +1,16 @@
+experiment EP316
+instrument ESR
+start 2000 05 05 0600
+end 2000 05 05 1200
+status R
+description Cusp/cleft studies in conjunction with POLAR and CUTLASS.
+contact T.J.Stubbs
+phone +44 20 7594 7759
+email t.j.stubbs@ic.ac.uk 
+fax +44 20 7594 7772
+operator I.W.McCrea
+resources UK(12)
+submitter K.S.C.Freeman
+notes
+This experiment will require both of the Svalbard antennas. It will employ  
+CP-1L on the fixed antenna and CP-4L on the steerable antenna. This observing period has been chosen to coincide with a POLAR overpass.

@@ -1,0 +1,15 @@
+experiment SPEC/ECUS
+instrument ESR
+start 1999 12 13 0500
+end 1999 12 13 1100
+status R
+description Studies of the Cusp Region and of Auroral Structures and Processes
+contact Betty Lanchester
+phone +44 23 80592049
+email bsl@phys.soton.ac.uk 
+fax +44 23 80593910
+operator George Millward
+resources UK(36)
+submitter Ken Freeman
+notes
+Field-aligned observations using the second Svalbard antenna.

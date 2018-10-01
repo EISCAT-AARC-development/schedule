@@ -1,0 +1,16 @@
+experiment arcHeating
+instrument HEA
+start 2003 11 18 1700
+end 2003 11 18 2200
+status R
+description Modification of conductivity near auroral arcs using Heating
+contact Thomas Leyser
+email tbl@irfu.se
+operator Mike Rietveld
+submitter Thomas Leyser
+resources Sw(31)
+notes
+Modification of ionospheric conductivity near quiet auroral arcs. Detection 
+with EISCAT UHF and ALIS (optical emissions). Needs clear skyes. In case of no 
+aurora but ionospheric critical frequency above 4 MHz the backup experiment is
+to study Heating-induced luminescence.

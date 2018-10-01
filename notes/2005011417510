@@ -1,0 +1,13 @@
+experiment sp_fr_05a
+instrument UHF
+start 2005 01 14 0800
+end 2005 01 14 1500
+status R
+description plasmaline and tec experiments
+contact jean Lilensten
+phone 33 4 76 51 41 49
+email jean.lilensten@obs.ujf-grenoble.fr
+fax 33 4 76 51 41 46
+operator Jean Lilensten
+submitter Jean Lilensten
+resources FR(7)

@@ -1,0 +1,17 @@
+experiment ff_aurora
+instrument ESR
+start 2002 11 07 1800
+end 2002 11 08 0300
+status R
+description http://spaceweb.oulu.fi/campaigns/Nov2002/
+contact Jouni Jussila
+phone +358-8-553 1289
+email jouni.jussila@oulu.fi
+fax +358-8-553 1287
+operator Noora Partamies
+submitter Jouni Jussila
+resources FI(84)
+notes
+FI(44)/FR(40) auroral campaign, for more information, see
+
+http://spaceweb.oulu.fi/campaigns/Nov2002/

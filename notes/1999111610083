@@ -1,0 +1,18 @@
+experiment SP-EI-LEON
+instrument UHF
+start 1999 11 16 2200
+end 1999 11 19 0600
+status R
+description Observing the 1999 Leonids meteor shower and its effects on the ionosphere
+contact Gudmund Wannberg
+phone +46 980 79158
+email ugw@eiscathq.irf.se 
+fax +46 980 791 61
+operator Gudmund Wannberg
+resources SW (29), EI (55)
+submitter Gudmund Wannberg
+notes
+3-static UHF + VHF both required (can't get the system to accept multiple radars  
+on the line above ?)  
+  
+

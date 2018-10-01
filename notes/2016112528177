@@ -1,0 +1,20 @@
+experiment SD4SST_04
+instrument SOD
+start 2016 11 25 0800
+end 2016 11 25 1000
+status R
+description Space debris measurements
+contact Henry Pinedo
+email henry.pinedo@uit.no
+operator H. Pinedo & J. Markkannen
+submitter Henry Pinedo
+resources NO(5)
+notes
+In connection to activities driven by project "Space Surveillance and Tracking (SST) with present-day 
+EISCAT" sponsored by European Space Agency (ESA) and performed at University of Tromsø.
+
+- Tracking attempted only for ESA targets: ERS-1 "21574U", ENVISAT "27386U", VEGA AVUM R/B "38086U" 
+(re-entry object).
+- Instruments:
+   08:00-10:00 UT: Tristatic VHF
+   08:00-10:00 UT: UHF

@@ -1,0 +1,22 @@
+experiment SELT
+instrument ESR
+start 2002 10 01 1000
+end 2002 10 29 1600
+status C
+description Incoherent Scatter Co-ordinated Observation Days
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(96)
+submitter Tony van Eyken
+notes
+CO-ORDINATED WORLD DAY           
+COMMON PROGRAMMME           
+SELT: Storm Effects in the Lower Thermosphere   
+Contact: Joe Salah (jsalah@haystack.mit.edu)   
+Floating 4 days within a ten-day alert period in March/April and September/October 2002.   
+The goal of this project is to measure temperature and winds in the lower thermosphere (90-150 km) during intense geomagnetic storms. Data from ISRs and other radar and optical instruments will be collected in response to an alert of a major storm (Kp> 5 or 6). Fine altitude and time resolution (similar to LTCS modes) is desired. A one-month period will be first identified in the ISR calendar, then narrowed to a 10-day stand-by interval 6 weeks before the start of the month. The observations will last 4 full days, and may be extended at the discretion of each radar if a storm is in progress. If a storm does not occur during the alert period, normal LTCS observations will be made as part of climatological studies. It is anticipated that during 2002 the TIMED satellite will be able to gather simultaneous data during the campaigns to allow global studies to be carried out towards the same goals. General circulation and tidal models will be run to compare with the observations and help interpret them. In 2002, we request two months for scheduling: March or April 2002, and September or October 2002.   
+Will co-ordinate with TIMED if possible.    
+

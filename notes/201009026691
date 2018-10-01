@@ -1,0 +1,23 @@
+experiment SCINTI
+instrument ESR
+start 2010 09 02 0600
+end 2010 09 02 1800
+status R
+description Interplanetary scintillation of the solar wind
+contact Richard Fallows
+phone +44 1970 622805
+email raf@aber.ac.uk
+fax +44 1970 622826
+operator Richard Fallows
+submitter Richard Fallows
+resources UK(34)
+notes
+IPS observations of the solar wind.
+
+Kiruna and Sodankyla receivers are required to be at 1.4GHz throughout the 
+campaign.
+
+Priority days are 31st August and 1st September for extended observations 
+involving at least the Tromso and Sodankyla antennas.
+
+Full programme to follow.

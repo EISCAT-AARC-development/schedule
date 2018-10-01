@@ -1,0 +1,19 @@
+experiment AraseVHF
+instrument VHF
+start 2017 09 25 1600
+end 2017 09 25 2000
+status R
+description Response of mass transfer between ionosphere and magnetosphere to solar wind variations
+contact Kanako Seki
+phone +81-3-5841-4577
+email k.seki@eps.s.u-tokyo.ac.jp
+fax +81-3-5841-4577
+operator EISCAT staff
+submitter Y. Ogawa (yogawa@nipr.ac.jp)
+resources NI(4)
+notes
+run /kst/exp/beata/beata fm zenith NI
+enablerec
+
+We conduct coordinated EISCAT-Arase observations of nightside ion up/out flows. 
+We prefer disturbed geomagnetic activity condition.

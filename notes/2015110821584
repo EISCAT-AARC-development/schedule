@@ -1,0 +1,25 @@
+experiment EMEnergy
+instrument VHF
+start 2015 11 08 1800
+end 2015 11 08 2400
+status R
+description The dissipation of the electromagnetic energy input from the magnetosphere
+contact Lei Cai
+phone +358409682510
+email lei.cai@oulu.fi
+operator Lei Cai
+submitter Lei Cai
+resources FI(36)
+notes
+We want to study the dissipation of the electromagnetic energy input from the
+magnetosphere and the effect on the thermospheric dynamics. This experiment is
+collaborated with our Japanese colleagues who will continue to run the
+experiment until 04 UT on 09 Nov 2015 and 06 UT on 12 Nov 2015. The FPI and
+optical instruments will be used to observe the neutral wind and auroral activity.
+
+The UHF will be run in CP2 or field-aligned mode which depends on the actual
+conditions.
+
+The VHF will be run in tristatic mode with the KIR and SOD receivers.
+
+

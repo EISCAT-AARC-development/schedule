@@ -1,0 +1,21 @@
+experiment CLUSTER
+instrument VHF
+start 2001 10 10 1600
+end 2001 10 10 2400
+description Co-ordinated operations with the CLUSTER satellites
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+submitter Tony van Eyken
+notes
+Not on Hermann's list, but again geometrically similar to the above is 
+an interval from 16-20 on the 12th.  The mainland radars are tied up 
+with Special Programmes, but I noted that the ESR wasn't running. The 
+CLUSTER footprint is actually poleward of Svalbard during this interval, 
+so maybe a Northward-looking geometry is best (?) 
+ 
+             
+             
+

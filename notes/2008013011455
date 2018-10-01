@@ -1,0 +1,22 @@
+experiment DMSP_3P
+instrument TRO
+start 2008 01 30 1425
+end 2008 01 30 1455
+status R
+description Calibration of the DMSP-F17 Auroral Imager
+contact Phil Anderson
+phone +19728832875
+email phillip.anderson1@utdallas.edu
+fax +19728832761
+operator tbd
+submitter Ian McCrea
+resources 3P(5)
+notes
+This request covers a series of short (30 minute) observations for calibration 
+and validation of the data from the new auroral imager on the DMSP-F17 
+satellite. The program will be essentially the same as that used earlier for 
+the calibration of the similar imager on DMSP F-16. During the closest approach 
+of the satellite the radar will be fixed field-aligned, though a small scan may 
+be used on either side of the closest approach, depending on ionospheric 
+conditions.
+

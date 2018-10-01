@@ -1,0 +1,20 @@
+experiment THEMIS
+instrument TRO
+start 2012 03 07 1800
+end 2012 03 07 2359
+status R
+description Conjunction with THEMIS - Substorm study
+contact Frederic Pitout
+email frederic.pitout@irap.omp.eu
+operator staff
+submitter F. Pitout
+resources FR(6)
+notes
+runexp /kst/exp/beata/beata fm cp1 FR
+
+We will make the most of ground-satellites conjunctions to study the nightside
+ionospheric dynamics and magnetosphere-ionosphere coupling during substorms. We
+shall be using all transmitting radars to have a full latitudinal coverage of
+the ionospheric dynamics plus two altitude profiles of the ionospheric
+parameters at ESR and UHF latitudes.
+

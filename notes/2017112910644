@@ -1,0 +1,14 @@
+experiment PMTA
+instrument ESR
+start 2017 11 29 0700
+end 2017 11 29 1200
+status R
+description the physical mechanism of the throat aurora
+contact Wu Jun
+email wujun1969@163.com
+operator Xu Tong
+submitter Wu Jun
+resources CN(5)
+notes
+The purpose of the experiment is to investigate the physical mechanism of the
+throat aurora with Svalbard ESR(32m) in azimuthal scan model.

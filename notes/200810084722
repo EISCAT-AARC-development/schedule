@@ -1,0 +1,18 @@
+experiment HEAT
+instrument ESR
+start 2008 10 08 1400
+end 2008 10 08 1600
+status R
+description ESR experiments in conjunction with the UNIS SPEAR campaign
+contact Darren Wright
+phone 0116 2523568
+email dmw7@ion.le.ac.uk
+fax 0116 2523555
+operator Sarah Badman
+submitter Hannah Vickers
+resources UK(50)
+notes
+This is a University of Leicester effort to run ESR during the forthcoming 
+UNIS SPEAR campaign. Primary objectives are to scan across the heated volume, 
+and also utilize ESR in a stationary mode to make measurements when SPEAR is 
+power stepping 

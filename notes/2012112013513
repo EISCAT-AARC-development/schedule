@@ -1,0 +1,16 @@
+experiment TROUP
+instrument TRO
+start 2012 11 20 1200
+end 2012 11 20 1600
+status R
+description Training Of Ukranian Partners to use the  EISCAT Radar 
+contact Hannah Vickers
+phone 77645139
+email hannah.vickers@uit.no
+operator Hannah Vickers
+submitter Hannah Vickers
+resources NO(40)
+notes
+The purpose of the experiments is to train Ukranian scientists in as many aspects of the EISCAT radar as 
+possible at the Ramfjord site - understanding the radar experiments and data acquisition, running 
+experiments and analysing the recorded data.

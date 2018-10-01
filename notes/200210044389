@@ -1,0 +1,16 @@
+experiment cp1l_f_UK@uhf
+instrument VHF
+start 2002 10 04 0600
+end 2002 10 04 1400
+status R
+description Study of Dayside Magnetosphere-Ionospheric Coupling.
+contact Katherine McWilliams
+phone +44 116 252 3564
+email kam14t@ion.le.ac.uk  
+fax +44 116 252 3555
+operator To Be Decided
+resources UK(8)
+submitter Ken Freeman
+notes
+The object of this investigation is to make measurements of the cusp regions of the magnetosphere during favourable conjunctions of satellite and ground-based 
+instruments. It will employ both Svalbard 

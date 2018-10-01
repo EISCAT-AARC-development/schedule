@@ -1,0 +1,22 @@
+experiment KAIRA_UK
+instrument VHF
+start 2013 10 23 2200
+end 2013 10 24 0200
+status R
+description UK EISCAT experiments in support of the Octobr 2013 KAIRA campaign 
+contact Anna Scaife
+phone +442380592083
+email a.scaife@soton.ac.uk
+operator Derek McKay/Poppy Martin
+submitter Ian McCrea
+resources UK(12)
+notes
+This is a request for EISCAT mainland (VHF) time to support observations by the 
+University of Oulu KAIRA facility in October 2013.  The experimenter is Poppy 
+Martin from the University of Southampton, UK - supervisor Anna Scaife.  The 
+main aim of the campaign is to test the potential use of KAIRA as an imaging 
+riometer through the measurement of ionospheric absorption.  The VHF experiment 
+will probably be a standard D-region mode with vertical pointing, in order to 
+compare energetic particle measurements at Tromso with those inferred from the 
+riometric measurements made by KAIRA.  Twelve hours (3x4 hour runs) are being 
+requested, though slots may be moved or cancelled depending on conditions.

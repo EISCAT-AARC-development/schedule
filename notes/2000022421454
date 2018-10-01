@@ -1,0 +1,17 @@
+experiment SuperDARN/EISCAT/Geotail/ground-based
+instrument ESR
+start 2000 02 24 0300
+end 2000 02 24 0700
+status R
+description Study on polar electromagnetic environments using SuperDARN/EISCAT/Geotail/ground-based observations at Svalbard
+contact N. Sato and R. Fujii
+phone +81339625874
+email nsato@nipr.ac.jp, rfujii@stelab.nagoya-u.ac.jp 
+fax +8133925704
+operator N. Sato (NIPR/Japan)
+resources NI(4)
+submitter Ryoichi FUJII
+notes
+By incorporating SuperDARN, EISCAT, Geotail and ground optical observations, 
+auroral conjugacy and conjunctive magnetospheric influence/link will be 
+quantitatively investigated.

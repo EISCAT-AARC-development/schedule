@@ -1,0 +1,16 @@
+experiment BEAT
+instrument VHF
+start 2007 12 06 1500
+end 2007 12 06 1900
+status R
+description 2 frequency heating experiment, aimed at observing effects at a beat frequency of 2.7 MHz
+contact Björn Gustavsson
+phone +47 77645188
+email bjorn.gustavsson@phys.uit.no
+fax +47 77645580
+operator Björn Gustavsson
+submitter Björn Gustavsson
+resources NO(60)
+notes
+VHF observations measurements to determine plasma parameters in the F region
+during HF-heating with beat frequency at 2.7 MHz. VHF pointing in.

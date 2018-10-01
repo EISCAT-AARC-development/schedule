@@ -1,0 +1,14 @@
+experiment ICEE
+instrument HEA
+start 2015 10 24 1000
+end 2015 10 28 1400
+status R
+description Incoherent scatter echo enhancements with wide altitude extent by heating
+contact Wu Jun
+email wujun1969@163.com
+operator Wu Jun
+submitter Wu Jun
+resources CN(40)
+notes
+Apparent large electron density enhancement with wide altitude extents (200 km~600
+km) deduced by ionospheric heating and its aspect sensitivity.

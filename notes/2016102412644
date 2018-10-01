@@ -1,0 +1,16 @@
+experiment SWARMAUR
+instrument UHF
+start 2016 10 24 2200
+end 2016 10 25 0200
+status R
+description Covering SWARM overpasses with UHF, tri-static VHF, ESR and KAIRA
+contact Anita Aikio
+phone +358503500641
+email Anita.Aikio@oulu.fi
+operator Ilkka Virtanen
+submitter Anita Aikio
+resources FI(28)
+notes
+On mainland, the experiment will have UHF field-aligned, VHF tristatic vertical
+for electric field, KAIRA receiving VHF. ESR will point at low-elevation south
+(along SWARM orbit).

@@ -1,0 +1,20 @@
+experiment SSISS
+instrument TRO
+start 2010 03 12 0800
+end 2010 03 12 1200
+status R
+description Study of self-scattering effect and pump-stimulated ion acoustic waves.
+contact Vasyl Balyey
+phone +47 77645136
+email vasyl.belyey@uit.no
+fax +47 77645580
+operator Vasyl Belyey
+submitter Vasyl Belyey
+resources NO(4)
+notes
+The joint Norwegian-Ukrainian SSISS (Self-Scattering and Ion Sound Stimulation)
+experiment is aimed at two principal goals:
+1. Study of self-scattering of powerful HF waves on pump-stimulated plasma
+inhomogeneities;
+2. IS radar study of HF pump-stimulated ion acoustic waves.
+

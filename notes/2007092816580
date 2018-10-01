@@ -1,0 +1,39 @@
+experiment tau0_AA
+instrument ESR
+start 2007 09 28 1930
+end 2007 09 28 2330
+status R
+description ESR experiments in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(4)
+notes
+September is the best month for conjunctions of Cluster with the midnight 
+sector magnetotail, as the orbit is aligned close to the Sun-Earth plane.  
+
+Although there are several good conjunctions during the month, one problem is 
+that the spacecraft will be subjected to several long eclipses during the 
+period from September 12th to 28th and the instruments will be turned off 
+during many of the tail conjunctions in this interval.  The requested 
+experiments therefore concentrate on conjunctions at the beginning and end of 
+the month, which avoid the worst effects of the eclipses on Cluster operations.
+
+Dates and times are as follows:
+
+02/09/2007  2100-0100 (03/09/2007) 
+
+09/09/2007  2030-0030 (10/09/2007) 
+
+14/09/2007  2000-2400 
+
+28/09/2007 1930-2330 
+
+For these experiments, the preferred modes are tau0 LowElSouth on the ESR, with 
+dumps interleaved 4:1 between the 32m and 42m dishes, and northward-looking 
+tau1 on the VHF with boresight pointing and 30 degrees elevation.
+
+

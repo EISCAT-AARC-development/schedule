@@ -1,0 +1,23 @@
+experiment FASM
+instrument ESR
+start 2007 08 15 0600
+end 2007 08 15 1200
+status R
+description Fast azimuth scan mode convection experiment
+contact Jøran Moen
+phone +4791556414
+email jmoen@fys.uio.no
+fax +4722855671
+operator Yvonne Rinne
+submitter Jøran Moen
+resources NO(36)
+notes
+According to current knowledge, under moderate conditions, the dayside boundary 
+layers (LLBL/cusp/mantle) can be observed with the EISCAT Svalbard Radar from 
+06-12 MLT. In earlier winter experiments we have been able to resolve narrow 
+flow channels in the cusp. One category of these, named reversed flow events 
+(RFEs-reversed by means of opposite to the magnetic tension force) may be 
+interpreted as a signature of Birkeland current arcs and low E-region 
+conductivity during winter cusp conditions. However if they are, RFEs should 
+not exist during sunlit conditions.  We would like to test this working 
+hypothesis by one week operation of the Fast Azimuth Scan Mode at daytime.   

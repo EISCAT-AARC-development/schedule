@@ -1,0 +1,13 @@
+experiment Tides
+instrument ESR
+start 1999 03 15 1000
+end 1999 03 16 1000
+status R
+description Tidal study
+contact Takehiko Aso
+phone +81 3 3962 4756
+email aso@nipr.ac.jp 
+fax +81 3 3962 5701
+operator Takehiko Aso
+resources NI(24) NO(24)
+submitter Tony van Eyken

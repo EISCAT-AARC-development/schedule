@@ -1,0 +1,13 @@
+experiment CAPER
+instrument UHF
+start 1999 01 14 0500
+end 1999 01 14 0900
+status R
+description Support for the CAPER rocket, joint Norwegian, Japanese, British campaign
+contact Unni Pia Lovhaug
+phone +47 77 64 62 92
+email Unni.Pia.Lovhaug@phys.uit.no 
+fax +47 77 64 55 80
+operator Tony van Eyken
+resources NO(35)
+submitter Unni Pia Lovhaug

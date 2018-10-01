@@ -1,0 +1,59 @@
+experiment CLUSTER
+instrument ESR
+start 2001 11 13 1000
+end 2001 11 13 1600
+status C
+description Coordinated observations with CLUSTER spacecraft
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(6)
+submitter Tony van Eyken
+notes
+Magnetopause Skimming          
+         
+06/11/2001   12-18 UT         
+11/11/2001   09-15 UT         
+13/11/2001   10-16 UT         
+         
+Magnetopause Crossing         
+         
+20/11/2001   09-15 UT         
+27/11/2001   09-15 UT         
+         
+We also discussed two further intervals earlier in the month, when the         
+Cluster orbit is nominally still well within the magnetopause - but         
+I guess these intervals could contain auroral oval crossings, depending          
+on geomagnetic activity. These were:         
+         
+03/11/2001  14-20 UT         
+05/11/2001  06-12 UT         
+         
+All of the above intervals (except for 27/11) are being covered by         
+SUPERDARN.         
+         
+Since this month isn't one of the highest priority intervals for          
+EISCAT/Cluster operations we thought it very likely that not all of         
+these suggestions would be taken up, so I've made some attempt to         
+prioritise them. My suggested priority order would be:         
+         
+13th,11th,6th,20th,27th,5th and 3rd in that order.         
+         
+In general the Cluster footprint is North of the ESR and since we're         
+now moving away from the midnight sector, my suggestion would be for         
+cp4-type dual-beam (tau1) geometry on the VHF and LowElNorth (tau0) on          
+the ESR with the usual interleaving between the dishes.  I think the real         
+requirement is for ESR and VHF, though it might be good to include the          
+UHF at low elevation if the VHF is phased for boresight.         
+         
+There is some small overlap between these intervals and the UK/German         
+heating campaign, which might easily be resolved by not using the UHF         
+for the Cluster operations. The only other conflict is on the 13/11         
+when CP4 is scheduled on the ESR and VHF, which I guess means that         
+the ESR will be looking southward at this time.  As I said I'd prefer         
+LowElNorth, but I don't really have a strong objection, so I'll         
+leave it for others to comment.         
+         
+

@@ -1,0 +1,16 @@
+experiment Lmode18
+instrument HEA
+start 2018 04 19 1000
+end 2018 04 19 1400
+status R
+description Heating experiment investigating temporal responses of ionospheric modifications
+contact Björn Gusavsson
+phone +4740724899
+email bjorn.gustavsson@uit.no
+operator Björn Gustavsson
+submitter Björn Gustavsson
+resources NO(40),SE(30)
+notes
+Heating experiment requiring stable F-region conditions, preferably with low E
+and D-region densities, the experiment requires simultaneous operations of
+Heating and the UHF radar.

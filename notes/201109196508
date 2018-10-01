@@ -1,0 +1,20 @@
+experiment Scinti
+instrument UHF
+start 2011 09 19 0600
+end 2011 09 30 1800
+status R
+description IPS observations of the solar wind
+contact Richard Fallows
+phone +44 1970 622805
+email raf@aber.ac.uk
+operator Richard Fallows
+submitter Richard Fallows
+resources UK(12)
+notes
+Interplanetary scintillation test observations in conjunction with LOFAR and 
+KAIRA if available, plus other worldwide sites on a few days (TBD).
+
+Do not panic over the block booking; this is only to indicate days on which we 
+may wish to observe.  Exact schedule of observations to be determined.
+
+Kiruna and Sodankyla antennas should be in 1.4GHz mode throughout if possible.

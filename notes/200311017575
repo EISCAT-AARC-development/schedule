@@ -1,0 +1,11 @@
+experiment EPIS
+instrument UHF
+start 2003 11 01 0000
+end 2003 11 02 0900
+status R
+description EPIS ionosonde and GPS comparaison
+contact Chantal.Lathuillere
+email Chantal.Lathuillere@obs.ujf-grenoble.fr
+operator Chantal.Lathuillere
+submitter francois Forme
+resources fr(33)

@@ -1,0 +1,13 @@
+experiment tau0
+instrument ESR
+start 2001 12 08 0400
+end 2001 12 08 0800
+status R
+description high time resolution cusp studies and optical
+contact Anja Str%F8mme
+phone +47 77 64 51 79
+email anja@phys.uit.no 
+fax +47 77 64 55 80
+operator Anja Str%F8mme
+resources NO(16)
+submitter Anja Str%F8mme

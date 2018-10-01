@@ -1,0 +1,16 @@
+experiment FAST-V
+instrument UHF
+start 1999 11 15 0600
+end 1999 11 15 0800
+status R
+description 3beam electric field. http://spaceweb/campaigns/fall99/
+contact Hannu Holma
+phone +358 8 553 1367
+email Hannu.Holma@oulu.fi 
+fax +358 8 553 1287
+operator Tony van Eyken
+resources FI(53.5)
+submitter Hannu Holma
+notes
+Coordinated experiment with VHF and Oersted satellite (0732 UT). 
+ 

@@ -1,0 +1,30 @@
+experiment STEL_FPI
+instrument TRO
+start 2010 11 04 1800
+end 2010 11 04 2400
+status R
+description simultaneous observations with a STEL FPI
+contact Kazuo Shiokawa
+phone +81 52 747 6419
+email shiokawa@stelab.nagoya-u.ac.jp
+fax +81 52 747 6323
+operator Shin-ichiro OYAMA
+submitter Shin-ichiro OYAMA
+resources NI(12)
+notes
+(PI of the SP: Prof. Kazuo Shiokawa)
+
+The scientific objective of this experiment is an improvement 
+in our understanding regarding the thermospheric response during 
+periods of geomagnetic disturbance. A Fabry-Perot interferometer 
+(FPI) placed at the Tromsoe EISCAT radar site by STEL, Nagoya 
+University, and the EISCAT UHF radar will join the experiment to 
+measure both the thermospheric and ionospheric parameters, 
+respectively. The FPI will be operated at two wavelengths, 557.7 nm 
+and 630.0 nm. The UHF radar will be run with the CP-2 mode of the 
+beata pulse code. We hope good weather condition with some 
+activities of aurora.
+
+The experiment periods requested are:
+2010-Nov-04 (Thu) 1800UT - 2010-Nov-04 (Thu) 2400UT (6hours)
+2010-Nov-05 (Fri) 1800UT - 2010-Nov-05 (Fri) 2400UT (6hours)

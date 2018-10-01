@@ -1,0 +1,13 @@
+experiment SubStorms
+instrument ESR
+start 1998 12 17 1800
+end 1998 12 18 0300
+status R
+description also SuperDARN
+contact Francois Forme
+phone +33 139 254 919
+email francois.forme@cetp.ipsl.fr 
+fax +33 139 254 922
+operator Francois Forme
+resources FR(100)
+submitter Francois Forme

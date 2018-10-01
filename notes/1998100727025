@@ -1,0 +1,13 @@
+experiment Auroral Experiment
+instrument UHF
+start 1998 11 16 1800
+end 1998 11 17 0400
+status R
+description Finnish EISCAT/Auroral Experiments 1998
+contact Hannu Holma
+phone +358 8 553 1367
+email Hannu.Holma@oulu.fi 
+fax +358 8 553 1287
+operator Thomas Ulich
+resources FI(100)
+submitter Tuomo Nygren

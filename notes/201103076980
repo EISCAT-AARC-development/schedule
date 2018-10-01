@@ -1,0 +1,12 @@
+experiment EDMIM
+instrument HEA
+start 2011 03 07 1000
+end 2011 03 07 1200
+status R
+description EISCAT differential measurements of ionospheric  mofification
+contact Hasan
+phone 6508594992
+email hasan.bahcivan@sri.com
+operator Ingemar
+submitter Hasan Bahcivan
+resources PP(2)

@@ -1,0 +1,13 @@
+experiment Storms
+instrument VHF
+start 2000 03 17 1600
+end 2000 03 20 1600
+status R
+description Extension to CP
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Tony van Eyken
+resources GE(72)
+submitter Tony van Eyken

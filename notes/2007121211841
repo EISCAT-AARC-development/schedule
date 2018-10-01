@@ -1,0 +1,36 @@
+experiment sp_ni_pmaf
+instrument ESR
+start 2007 12 12 0700
+end 2007 12 12 1100
+status R
+description Simultaneous observations of the two EISCAT radars and REIMEI satellite
+contact Ryoichi Fujii
+phone +81-52-789-4307
+email rfujii@stelab.nagoya-u.ac.jp
+fax +81-52-789-4311
+operator Satonori Nozawa and Yasunobu Ogawa
+submitter Yasunobu Ogawa (yogawa@nipr.ac.jp)
+resources NI(24)
+notes
+We run the VHF radar and ESR with CP4 mode together with optical 
+instruments. The target is to investigate PMAF (Poleward Moving 
+Aurora Form)-like phenomena. Also, we will have conjunction 
+observations with REIMEI satellite during the period. 
+Satonori Nozawa will take care of the VHF radar observations, 
+while Yasunobu Ogawa will take care of ESR observations.
+
+-------------------------------------------------------------------
+EISCAT Tromso VHF radar and ESR observations, NI(12+12):
+-------------------------------------------------------------------
+YYYY-MM-DD HHMM(UT)- HHMM(UT) (total)  Note
+-------------------------------------------------------------------
+2007-12-05 0700 UT - 1100 UT (4hours)
+2007-12-08 0700 UT - 1100 UT (4hours) ***
+2007-12-09 0700 UT - 1100 UT (4hours)
+2007-12-10 0700 UT - 1100 UT (4hours) ***
+2007-12-12 0700 UT - 1100 UT (4hours) lower priority
+2007-12-13 0700 UT - 1100 UT (4hours) lower priority
+2007-12-14 0700 UT - 1100 UT (4hours) lower priority
+2007-12-15 0700 UT - 1100 UT (4hours) ***
+-------------------------------------------------------------------
+

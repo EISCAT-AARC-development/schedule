@@ -1,0 +1,10 @@
+experiment sp-fr-cp1
+instrument UHF
+start 1999 12 08 1800
+end 1999 12 11 1800
+status R
+contact jean lilensten
+email jean.lilensten@obs.uij-grenoble.fr 
+operator lilensten
+resources fr(72)
+submitter f forme

@@ -1,0 +1,18 @@
+experiment E3Dreceive
+instrument VHF
+start 2014 06 09 1100
+end 2014 06 09 1200
+status R
+description E3D receiver testing in Kilpisj‰rvi
+contact Mikko Orisp‰‰
+phone +358404827775
+email mikko.orispaa@oulu.fi
+fax +358 16 610248
+operator Lassi Roininen
+submitter Lassi Roininen
+resources FI(2)
+notes
+The objective is to test new receiver/sampling technologies developed in the E3D preparatory phase 
+project by UO/SGO and some Finnish companies. The receivers will be installed in Kilpisj‰rvi in conjunction 
+with KAIRA facility. In addition, KAIRA will be used as a receiver also. In experiment, we aim to use some 
+long pulses and VHF radar.

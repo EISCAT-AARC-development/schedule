@@ -1,0 +1,13 @@
+experiment CP2
+instrument ESR
+start 2011 08 01 0700
+end 2011 08 11 2200
+status C
+description Planetary Waves
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)
+notes
+World Day, see http://www.eiscat.se/Members/ingemar/skedule/WD2011.htm

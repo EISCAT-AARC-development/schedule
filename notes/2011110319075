@@ -1,0 +1,15 @@
+experiment PCF
+instrument ESR
+start 2011 11 03 1800
+end 2011 11 03 2300
+status R
+description Polar Cap Flow
+contact Kjellmar Oksavik
+email kjellmar.oksavik@uib.no
+operator EISCAT staff  / Christer Van Der Meeren
+submitter Kjellmar Oksavik
+resources NO(15)
+notes
+This experiment will study polar cap flow near the nightside auroral oval. 
+Data from both dishes will be used, and the 32m beam will look along the 
+magnetic meridian towards the northern edge of the auroral oval.

@@ -1,0 +1,19 @@
+experiment TECSCINTIL
+instrument TRO
+start 2003 11 24 1800
+end 2003 11 24 2359
+status R
+description as before
+contact Ulf-Peter Hoppe
+phone +47-63 80 72 87
+email uph@ffi.no
+fax +47-63 80 72 12
+operator Ulf-Peter Hoppe
+submitter Ulf-Peter Hoppe
+resources SW(30)
+notes
+also NO(24), but the form will not let me enter this.
+We have requested 18-00 UT on 24, 25, and 26 November, but we will run only
+two of those. We will agree with UK when to run TECSCINTIL and when to run
+tristatic, depending on whether the sky is clear at the optical sites for
+that programme.

@@ -1,0 +1,19 @@
+experiment IPSS
+instrument UHF
+start 2004 09 01 0000
+end 2004 09 30 2359
+status R
+description Interplanetary Scintillation observations of the solar wind
+contact Dr. A.R.Breen
+phone +44 1970 622814
+email azb@aber.ac.uk
+fax +44 1970 622826
+operator Richard Fallows
+submitter Richard Fallows
+resources uk(27)
+notes
+Timing requirements are as discussed between Richard Fallows, Ian McCrea, and 
+Ingemar Haggstrom.  We will need at least three hours everyday between 27th 
+August and 23rd September.  1400MHz receivers required at the remote sites 25th 
+September to 1st October (changeover will need to be carried out on the morning 
+of 24th September).

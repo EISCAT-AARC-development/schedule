@@ -1,0 +1,37 @@
+experiment LANCS_HEAT
+instrument UHF
+start 2007 09 20 0900
+end 2007 09 20 1300
+status R
+description Artificial ion upwelling, magnetic zenith effect in heating and detection of UH and LH waves
+contact Andrew Senior
+phone +44 1524 510410
+email a.senior@lancaster.ac.uk
+fax +44 1524 510493
+operator Andrew Senior
+submitter Andrew Senior
+resources UK(67),EI(7.5)
+notes
+This is a combination of three UK (Lancaster University) experiments: GIVE, MZE
+and UHLH which have similar requirements regarding ionospheric conditions
+(foF2>4 MHz) and time of day.
+
+GIVE UK(30) EI(7.5): stimulation of ion upwelling by HF heating. UHF will run
+tau2pl or tau1 tristatic, field-aligned. HF will use a variety of long on/off
+periods (~2-8 minutes). 4-hour runs will be performed.
+
+MZE UK(12): comparison of HF heating effects in zenith and magnetic zenith. UHF
+will probably run tau2pl, monostatic, field-aligned and vertical. HF will use
+short pulses (~5-20 s). 3-hour runs will be performed (09-12 or 10-13 UT).
+
+UHLH UK(25): CUTLASS radar observations of upper- and lower-hybrid waves excited
+during HF heating. UHF will probably run tau2pl, monostatic, field aligned. HF
+operations to be confirmed, but may require simultaneous operation on two
+closely-spaced frequencies. 4-hour runs will be performed.
+
+As indicated above, the remotes will not always be required and will be
+cancelled as appropriate. UHLH-mode operations will only be performed when
+CUTLASS support is available. Complete cancellation of runs may occur if
+ionospheric conditions are unsuitable. We will ensure EISCAT staff are informed
+in sufficient time.
+

@@ -1,0 +1,21 @@
+experiment SD4SST_02
+instrument KIR
+start 2016 09 21 0900
+end 2016 09 21 1100
+status R
+description Space debris measurements
+contact Henry Pinedo
+email henry.pinedo@uit.no
+operator H. Pinedo and J. Markkanen
+submitter Henry Pinedo
+resources 3P(5)
+notes
+- As part of project "Space Surveillance and Tracking (SST) with present-day EISCAT" sponsored by 
+European Space Agency (ESA) and performed at University of Tromsø.
+- Tracking attempted only for ESA targets: mainly ENVISAT (27386U).
+- Beam park antenna position Elevation 75 deg, Azimuth 90 deg (UHF) and 0 deg (VHF).
+- Instruments:
+   09:00-11:00 UT: Tristatic VHF
+   09:00-11:00 UT: UHF
+- EISCAT radar hours funded by present project budget.
+- This campaign may be subject to VHF tristatic results of previous campaign SD4SST_01

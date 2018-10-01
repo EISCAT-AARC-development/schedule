@@ -1,0 +1,18 @@
+experiment StratWarm
+instrument TRO
+start 2012 02 01 0000
+end 2012 02 15 2300
+status C
+description Stratospheric warming
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)
+notes
+10 day experiment on late alert, see
+http://www.eiscat.se/Members/ingemar/skedule/WD2012.htm
+
+We will allow higher priority on SPs for shorter times during the 10 day CP, due
+to the late alert. 'Shorter' means ~6 hours/day, and not the same UTs every day.
+

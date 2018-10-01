@@ -1,0 +1,39 @@
+experiment blob_exp
+instrument ESR
+start 2015 12 06 1800
+end 2015 12 06 2300
+status R
+description Formation and evolution of plasma blobs
+contact Yaqi Jin
+phone +47 22855665
+email yaqi.jin@fys.uio.no
+operator Yaqi Jin
+submitter Yaqi Jin
+resources NO(10)
+notes
+The plasma blobs are formed when the polar cap patches enter into the nightside 
+auroral region. The 
+studies of blobs are limited due to the unavailability of monitoring methods. It 
+was recently found that 
+the blobs are associated with strong irregularities (even stronger than the 
+polar cap patches). The 
+blobs are formed in a very dynamic region where the high density F region plasma 
+could interact with the 
+particle precipitation and flow shears around auroral arcs. This is the main 
+motivation of the Norwegian 
+ICI-4 rocket which was launched in February, 2015. 
+
+In this experiment, we will make coordinated measurements by using both UHF and 
+ESR. Both radars will 
+run a fast meridional scan from 30 degrees north to 30 degrees south. The 
+coordinated measurements will 
+make a bigger field-of-view and increase the time resolution in the region 
+between Svalbard and Tromsø. 
+This region is important because it is where patches were frequently observed to 
+enter into the auroral 
+region. The UiO all sky camera measurements from Ny-Ålesund, Longyearbyen, and 
+Ski-botn will also be 
+used to assist this experiment. The requested time is 18:00-23:00 UT. Good 
+weather condition is 
+preferred.
+

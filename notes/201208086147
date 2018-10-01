@@ -1,0 +1,13 @@
+experiment KAIRA
+instrument VHF
+start 2012 08 08 1030
+end 2012 08 08 1230
+status R
+description First KAIRA receiver tests
+contact Juha Vierinen
+email j@sgo.fi
+operator Juha Vierinen
+submitter Juha Vierinen
+resources FI(8)
+notes
+First KAIRA tests using e.g., bella or beata.

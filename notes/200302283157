@@ -1,0 +1,15 @@
+experiment HiTies
+instrument UHF
+start 2003 02 28 1730
+end 2003 02 28 2200
+status R
+description UHF CP-1 experiment for comparison with HiTies data
+contact Unni Pia Loevhaug
+phone 77 64 62 92
+email unni@phys.uit.no
+fax 77 64 55 80
+operator Unni Pia Loevhaug
+submitter Unni Pia Loevhaug
+resources 3P(13.5)
+notes
+Third Party time given to Marina Galand, Boston University

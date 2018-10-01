@@ -1,0 +1,17 @@
+experiment EnergyTran
+instrument ESR
+start 2014 11 20 1000
+end 2014 11 20 1800
+status R
+description Energy transfer rate measurements 
+contact Lei Cai
+phone +358 409682510
+email lei.cai@oulu.fi
+operator Daniel Whiter
+submitter Lei Cai
+resources FI(24)
+notes
+We will run three 8-h CP-2 experiments to estimate the electric field and
+neutral winds in the polar cap region. Then the energy exchange rates as well as
+Joule heating rates will be calculated.
+ 

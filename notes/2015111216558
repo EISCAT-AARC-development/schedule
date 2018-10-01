@@ -1,0 +1,14 @@
+experiment TomoScand
+instrument ESR
+start 2015 11 12 1900
+end 2015 11 12 2200
+status R
+description TomoScand ionospheric tomography validation
+contact Johannes Norberg
+phone +358407431396
+email johannes.norberg@fmi.fi
+operator Heikki Vanhamäki
+submitter Johannes Norberg
+resources FI(3)
+notes
+Low elevation southward measurement to validate TomoScand 4D tomography

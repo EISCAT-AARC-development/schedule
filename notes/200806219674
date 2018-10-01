@@ -1,0 +1,13 @@
+experiment Meteors
+instrument ESR
+start 2008 06 21 0200
+end 2008 06 21 1000
+description seasonal study of the meteor flux at high latitudes
+contact Diego Janches
+phone +1-303-415-9701
+email diego@cora.nwra.com
+fax +1-303-415-9702
+operator EISCAT Personnel
+submitter Diego Janches
+notes
+runexp /kst/exp/uk/ping/ping fm

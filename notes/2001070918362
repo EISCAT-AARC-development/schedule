@@ -1,0 +1,13 @@
+experiment SP-NI-TG2
+instrument ESR
+start 2001 07 09 1000
+end 2001 07 10 1000
+status R
+description To measure the spatial gradient of ion temperature
+contact Satonori Nozawa
+phone +81 52 789 4303
+email nozawa@stelab.nagoya-u.a.jp 
+fax +81 52 789 4311
+operator Y Ogawa
+resources NI(18) NO(6)
+submitter R Fujii

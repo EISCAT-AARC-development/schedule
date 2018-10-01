@@ -1,0 +1,27 @@
+experiment Pulsating
+instrument UHF
+start 2008 10 31 2200
+end 2008 10 31 2400
+status R
+description Simultaneous observations of pulsating aurora with CUTLASS and all-sky TV camera
+contact K. Hosokawa
+phone +81-42-443-5299
+email hosokawa@ice.uec.ac.jp
+fax +81-42-443-5293
+operator Yasunobu Ogawa
+submitter Yasunobu Ogawa (yogawa@nipr.ac.jp)
+resources NI(15)
+notes
+Recent studies using SuperDARN radars have shown intriguing relationships 
+between pulsating aurora and changes in E region auroral backscatter. On 
+the one hand, regular pulsations are associated with periodic changes in 
+echo Doppler shift. On the other, irregular pulsations are associated 
+with a new population of low altitude (D region) backscatter echoes. 
+We aim to investigate these two phenomena by comparing a specially 
+designed radar sounding mode of the CUTLASS radars with simultaneous 
+observations of the aurora by TV cameras and electron density measurement 
+by EISCAT radar in Tromsoe.
+
+Arc1 or beata pulse code and CP-1 mode will be used for the KST UHF radar 
+observations. We prefer good weather condition for the optical observations.
+

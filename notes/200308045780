@@ -1,0 +1,11 @@
+experiment pmse
+instrument TRO
+start 2003 08 04 0800
+end 2003 08 04 1100
+status R
+description confirm theoretical predictions
+contact Ove Havnes
+email Ove.Havnes@phys.uit.no
+operator Ove Havnes
+submitter Cesar La Hoz
+resources NO(15)

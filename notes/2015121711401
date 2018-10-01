@@ -1,0 +1,33 @@
+experiment EASI2015
+instrument ESR
+start 2015 12 17 0300
+end 2015 12 17 0900
+status R
+description EISCAT Aperture Synthesis Imaging experiment
+contact Daniel Whiter
+email d.whiter@soton.ac.uk
+operator Daniel Whiter
+submitter Daniel Whiter
+resources NO(20),SW(20)
+notes
+The aims of the EASI experiment which require the use of the EISCAT Svalbard
+Radar are:
+- to study the occurrence and spatial distribution of NEIALs using
+interferometry techniques
+- to study the energy distribution within and surrounding narrow auroral
+forms (especially when associated with NEIALs),
+- and to apply the results to theories of NEIAL occurrence and production, and
+in general to theories of auroral acceleration processes.
+
+In addition to the ESR, the EASI interferometer arrays and the Auroral Structure
+and Kinetics instrument (ASK) will be operated concurrently. 
+Radar observations should be made in the field aligned direction and raw data
+must be saved. Depending on conditions a standard radar program will run (beata,
+arc1, LT4).
+
+University of Tromso:
+Cesar La Hoz, Bjorn Gustavsson
+KTH, Stockholm:
+Nicola Schlatter, Nickolay Ivchenko
+University of Southampton:
+Betty Lanchester, Daniel Whiter

@@ -1,0 +1,18 @@
+experiment PULSE
+instrument UHF
+start 1999 11 16 1800
+end 1999 11 16 2400
+status R
+description Auroral fine structure. http://spaceweb/campaigns/fall99/
+contact Hannu Holma
+phone +358 8 553 1367
+email Hannu.Holma@oulu.fi 
+fax +358 8 553 1287
+operator Thomas Ulich
+resources FI(53.5)
+submitter Hannu Holma
+notes
+Coordinated experiment with ESR (1800 - 2200 UT), Polar satellite (1912 - 1939 
+UT, ESR), Interball Aurora satellite (1845 UT, Tromso), FAST satellite  
+(1859 UT, Tromso) and Oersted satellite (2012 and 2152 UT, Tromso). 
+ 

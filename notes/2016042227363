@@ -1,0 +1,20 @@
+experiment HEAT2MET
+instrument HEA
+start 2016 04 22 0800
+end 2016 04 22 1000
+status R
+description Search for HF heating effect signatures in meteor observations
+contact Henry Pinedo
+email henry.pinedo@uit.no
+operator Henry Pinedo & Mike Rietveld
+submitter Henry Pinedo
+resources NO(4)
+notes
+Main goal is to identify HF heating effect signatures on the meteor observations when the meteor 
+environment is artificially modified by means of HF heating.
+
+Main instrumentation is HF Heating, EISCAT VHF and TGO meteor radars.
+
+There have been some apparent instrumental issues on the meteor radar measurements during first 
+campaign that are under evaluation, present campaign is subject to the outcomes of such evaluation and 
+may be cancelled and postponed.

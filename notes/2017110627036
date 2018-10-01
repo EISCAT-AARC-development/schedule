@@ -1,0 +1,11 @@
+experiment Moon Unit
+instrument HEA
+start 2017 11 06 2200
+end 2017 11 07 0300
+status R
+description HF radar measurements of the Moon
+contact Alessandra Serrano
+email alessandraxserrano@gmail.com
+operator Juha Vierinen
+submitter Alessandra Serrano
+resources NO(5)

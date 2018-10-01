@@ -1,0 +1,20 @@
+experiment ECLIPSE
+instrument ESR
+start 2015 03 20 0800
+end 2015 03 20 1200
+status R
+description EISCAT special run for the Total Solar eclipse on 20 March 2015
+contact Kjellmar Oksavik
+email kjellmar.oksavik@ift.uib.no
+operator Kjellmar Oksavik
+submitter Kjellmar Oksavik
+resources NO(4)
+notes
+On 20 March 2015 there will be a Total Solar eclipse in Svalbard. For 
+Longyearbyen the totality will last from 10:10:42 - 10:13:09 UT (2min 27s). 
+However, the partial eclipse will begin one hour before, and end one hour 
+later. We therefore propose to run the ESR two hours before and after the 
+eclipse, for a total of 4 hours. More information about the solar eclipse can 
+be found here:
+
+http://kho.unis.no/News/Total_Eclipse.pdf

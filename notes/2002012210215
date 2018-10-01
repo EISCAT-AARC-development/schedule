@@ -1,0 +1,15 @@
+experiment FAST
+instrument ESR
+start 2002 01 22 2000
+end 2002 01 22 2400
+status C
+description Conjuntion with the FAST satellite
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(4)
+submitter Tony van Eyken
+notes
+CP2 mode

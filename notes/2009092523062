@@ -1,0 +1,27 @@
+experiment CLUSTER
+instrument VHF
+start 2009 09 25 2000
+end 2009 09 25 2400
+description Ground-based support for Cluster and THEMIS
+contact Ian McCrea
+phone +441235446513
+email ian.mccrea@stfc.ac.uk
+fax +441235445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+notes
+runexp /kst/exp/tau8/tau8 fm lowel AA
+
+September 2009 corresponds to the 2009 tail campaign of Cluster, with the orbit
+close to the Sun-Earth line and apogee on the nightside.  We have selected four
+tail conjunction intervals where Cluster is close to the EISCAT-ESR meridian
+around magnetic midnight as follows:
+
+September 13 21-01 (14)
+September 18 20-24
+September 20 21-01 (21)
+September 25 20-24
+
+Preferred mode is tau0 boresight mode at 30 degrees elevation on the VHF, with
+LowElSouth on the ESR, interleaving (4:1) between 32m and 42m dishes.
+

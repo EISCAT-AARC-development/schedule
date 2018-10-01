@@ -1,0 +1,13 @@
+experiment PowerBreak
+instrument VHF
+start 2006 06 26 2200
+end 2006 06 27 0400
+status R
+description PowerBreak
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources MA(6)
+notes
+Power break by Troms Kraft at Sandvika trafostation

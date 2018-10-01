@@ -1,0 +1,15 @@
+experiment HEAT
+instrument ESR
+start 2004 04 28 1200
+end 2004 04 28 1400
+status R
+description SPEAR high power experiments in conjunction with the ESR
+contact Tim Yeoman
+phone +44 116 2523564
+email tky@ion.le.ac.uk
+fax +44 116 2523555
+operator V. Howells
+submitter Tim Yeoman
+resources UK(2)
+notes
+Artificial Backscatter experiments in conjunction with SPEAR

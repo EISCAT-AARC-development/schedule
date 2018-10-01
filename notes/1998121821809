@@ -1,0 +1,13 @@
+experiment CSUB
+instrument ESR
+start 1998 12 18 1800
+end 1998 12 19 0600
+status R
+description Combined CUTLAS, ESR and VHF observations of auroral substorms
+contact T Yeoman
+phone +44 116 2523564
+email yxo@ion.le.ac.uk 
+fax +44 116 2523555
+operator Paul Eglitis
+resources uk(14)
+submitter Ian McCrea

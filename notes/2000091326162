@@ -1,0 +1,17 @@
+experiment SP-UK-SHAFT
+instrument UHF
+start 2000 09 13 2200
+end 2000 09 13 2400
+status R
+description Spacecraft Related Measurements of ULF Wave Signatures in Heater Generated Backscatter
+contact Darren Wright
+phone +44 116 252 3568
+email Darren.Wright@ion.le.ac.uk 
+fax +44 116 252 3555
+operator Nigel Wade
+resources UK(20)
+submitter Ken Freeman
+notes
+This experiment will operate in two modes:-     
+   a) CP-1-K with low power continuous wave Heater transmission during conjunctions with POLAR.     
+   b) CP-1-K with full power continuous wave modulated Heater transmission during conjunctions with FAST.

@@ -1,0 +1,31 @@
+experiment ICI4Supp
+instrument ESR
+start 2015 02 14 1700
+end 2015 02 14 2200
+status R
+description Support for ICI-4 rocket
+contact Lasse Clausen
+phone +47 22 85 56 61
+email lasse.clausen@fys.uio.no
+fax +47 22 85 56 61
+operator J. I. Moen
+submitter Lasse Clausen
+resources NO(38),FR(6)
+notes
+The main objective of ICI-4,  to be launched from Andøya Space Centre, is to
+explore F-region plasma instability processes in connection with auroral blobs.
+The phenomenon is created when polar cap patches, islands of high electron
+density plasma, exit the polar cap at night, i.e. when they entering the night
+time auroral oval. The ingredients are high density F-region plasma structures,
+imposed by auroral precipitation, field aligned currents and flow shears. This
+appears to be the most violent situation for GPS scintillations. This region is
+a highly complex region of the auroral ionosphere driven by tail reconnection.
+In order to precisely diagnose the launch conditions we will combine information
+from the ACE satellite, radars and all-sky imagers as well as ground
+magnetometers. The campaign period allows 14 effective days from 9-22 February
+2015. At the day when rocket is launched we will stop the radar operation as
+soon as we have got the large scale context of the detailed in-situ
+measurements. ESR will be operated in an azimuthal scan mode to survey transport
+of polar cap patch material across the rocket trajectory. EISCAT UHF will be
+pointed across the rocket trajectory.
+

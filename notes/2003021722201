@@ -1,0 +1,15 @@
+experiment SyoCutEISC
+instrument ESR
+start 2003 02 17 1300
+end 2003 02 17 1900
+description Joint SuperDARN/GEOTAIL/EISCAT radar & heater observation
+contact N. Sato
+phone 81-33962-4756
+email nsato@nipr.ac.jp
+fax 81-33962-5701
+submitter R. Fujii
+notes
+Joint SuperDARN/GEOTAIL/EISCAT and Heater observations:- Study on the generation and propagation mechanisms of Pc3-5.
+
+We would like to use ESR, UHF, VHF, and Heater. Yoeman will be at Tromsoe. UK will also provide 8 hours for the SP.
+

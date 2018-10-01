@@ -1,0 +1,39 @@
+experiment ARASE
+instrument VHF
+start 2017 04 29 2300
+end 2017 04 30 0100
+status R
+description Coordinated ARASE-EISCAT observations
+contact Yasunobu Ogawa
+phone +81-42-512-0664
+email yogawa@nipr.ac.jp
+fax +81-42-512-0664
+operator TBD
+submitter Y. Ogawa
+resources PP(12),FI(12)
+notes
+PP (PI: Prof. K. Shiokawa, 24-h for March and April obs.)
+and Finnish SP (PI: Dr. A. Kero, FI, 12-h)
+
+
+We conduct coordinated observations of high energy particle precipitations 
+with ERG (Arase), EISCAT radars, and several ground-based instruments.
+
+
+---------------------------------------------
+Coordinated ARASE-EISCAT observations (April)
+---------------------------------------------
+UHF radar
+2017-04-12 2300 UT - 2017-04-13 0300 UT (4-h)
+2017-04-14 2300 UT - 2017-04-15 0400 UT (5-h)
+2017-04-17 0000 UT - 2017-04-17 0400 UT (4-h)
+2017-04-29 2200 UT - 2017-04-30 0200 UT (4-h)
+
+VHF radar
+2017-04-13 0000 UT - 2017-04-13 0200 UT (2-h)
+2017-04-15 0000 UT - 2017-04-15 0200 UT (2-h)
+2017-04-17 0000 UT - 2017-04-17 0200 UT (2-h)
+2017-04-29 2300 UT - 2017-04-30 0100 UT (2-h)
+---------------------------------------------
+
+

@@ -1,0 +1,26 @@
+experiment cond_vi
+instrument UHF
+start 2014 03 08 1300
+end 2014 03 08 1700
+status R
+description Conductance and F region scalar Vi
+contact Shin-ichiro Oyama
+phone +81 52 789 4308
+email soyama@stelab.nagoya-u.ac.jp
+fax +81 52 789 4311
+operator S. Nozawa
+submitter Y. Ogawa
+resources NI(12)
+notes
+PI: Akimasa Ieda
+Scientific objective of this experiment is to understand the conductance
+in the polar cap and auroral region. Conductance and F region line of
+sight velocity will also be measured. ESR, VHF, and UHF will be operated
+with fixed pointing directions including zenith or 30 degree elevation
+angle. In case the UHF is NOT available on March 7, instead we will run
+the VHF towards north. (El=30)
+
+The requested experiment windows are:
+March 7: 03-07 UT (UHF, otherwise VHF), 01-07 UT (ESR)
+March 8: 13-17UT (VHF, UHF, ESR)
+

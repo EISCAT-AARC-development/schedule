@@ -1,0 +1,37 @@
+experiment RIOE2014
+instrument HEA
+start 2014 02 21 1600
+end 2014 02 21 1800
+status R
+description Radio Induced Optical Effects 2013, Heating+UHF campaign for stimulating optical emissions and other HF radio-wave driven phenomena
+contact Tima Sergienko
+phone +4698079071
+email tima@irf.se
+fax +4698079050
+operator Björn Gustavsson
+submitter Urban Brändström
+resources SW(25),NO(25)
+notes
+We request 30-50 hrs of mainland EISCAT time to be scheduled
+preferably around new-moon in February/March 2014 with the following
+scientific objectives:
+
+1, studies of F-region artificial aurora/Radio-Induced Optical
+Emissions. With main focus on how volume emission rate varies in 3-D
+from the different emissions, as a function of frequency and ERP. With
+hopes to see descending HF-enhanced ion-lines as another direct
+measure of ionisation and see how it varies with frequency and ERP.
+
+These observations will be complemented with SEE-measurements to
+determine what exact relation between the pump-wave frequency and the
+ionospheric resonance frequencies the different responses occur.
+
+ 
+2, studies of enhanced ion and plasma-lines in auroral E-layers, with
+the ambition to determine how the aurora is affected by HF-pumping.
+ 
+3, studies of generation of pulsating aurora. For this we should heat
+the E region with working cycle of 10 s ON 20 OFF with amplitude
+modulation at frequency of several kHz (whistler wave resonance
+frequency).
+ 

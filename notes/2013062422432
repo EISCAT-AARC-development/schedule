@@ -1,0 +1,22 @@
+experiment FroscaPMSE
+instrument VHF
+start 2013 06 24 1100
+end 2013 06 28 1500
+status R
+description the front scattering of VHF by PMSE
+contact Wu Jun
+email wujun1969@163.com
+operator Wu Jun
+submitter Wu Jun
+resources CN(40)
+notes
+Using the 224MHz receiver (with us) to observe the front scattering of VHF radar
+(Fresnel scattering) by PMSE and study the aspect sensitivity of PMSE.
+The beam of VHF radar should be tilted to 7.5 degree south(dependency of
+altitude of PMSE), and the 224MHz receiver be installed near Svartnes ( 69¡ã22¡¯N
+,19¡ã15¡¯E, 23km south of EISCAT ). Meanwhile, the beam of Heater will be same
+direction as that of VHF radar and disturb PMSE to confirm that the 224MHz
+receiver does receive the front scattering by PMSE, rather than the diffraction
+or others.
+
+

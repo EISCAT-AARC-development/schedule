@@ -1,0 +1,18 @@
+experiment Heat_LT
+instrument HEA
+start 2003 10 15 1000
+end 2003 10 15 1400
+status R
+description Heating for Langmuir turbulence
+contact M. Rietveld
+phone 0049 5556 979234
+email rietveld@eiscat.uit.no
+fax 0049 5556 979240
+operator M. Rietveld
+submitter M. Rietveld
+resources GE(24)
+notes
+Heating for Langmuir turbulence effects,
+i.e. plasma and ion-line measurements.
+These experiments in October are overbooked. Some will be cancelled
+depending on conditions.

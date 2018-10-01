@@ -1,0 +1,22 @@
+experiment HEAT2MET
+instrument VHF
+start 2016 01 21 0800
+end 2016 01 21 1000
+status R
+description Search for HF heating effect signatures in meteor observations
+contact Henry Pinedo
+email henry.pinedo@uit.no
+operator Henry Pinedo
+submitter Henry Pinedo
+resources NO(8)
+notes
+The first goal of the present project is to identify any HF heating effect signatures on the meteor 
+observations when the meteor environment is artificially modified by means of HF heating.
+
+Main instrumentation is VHF radar (MANDA), HF Heating, and TGO meteor radar.
+
+Expected support measurements by TGO MF wind velocities and Andøya meteor radar.
+
+Two HF heating modes, one hour duration each one.
+
+Alternative day in case of non-running any of the other selected days

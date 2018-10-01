@@ -1,0 +1,18 @@
+experiment POND
+instrument HEA
+start 2013 03 05 1200
+end 2013 03 05 1600
+status R
+description Profiling of Neutral Density
+contact Hannah Vickers
+email hannah.vickers@uit.no
+operator Hannah Vickers
+submitter Mike Kosch
+resources NI(6),NO(7),UK(5)
+notes
+Heater-induced ion outflow experiment. 
+We look to characterise the non-steady state ion acceleration term.
+This requires quiet geomagnetic conditions and over-dense ionosphere with foF2 
+= 4-8 MHz.
+Cancellations will happen for non-ideal conditions.
+

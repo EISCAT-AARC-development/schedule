@@ -1,0 +1,20 @@
+experiment AAEV
+instrument UHF
+start 2004 12 14 1200
+end 2004 12 14 1600
+status R
+description Aspect angle effects in the velocity of E-region coherent echoes 
+contact Roman Makarevitch
+phone 01524 510411
+email r.makarevitch@lancaster.ac.uk
+fax 01524 510493
+operator Andrew Senior
+submitter Roman Makarevitch
+resources UK(20)
+notes
+A multi-instrument campaign involving EISCAT, CUTLASS (special mode), and 
+STARE. The requested time is overscheduled and cancellation will occur 
+depending on geophysical conditions (moderate to disturbed). The AAEV campaign 
+is coordinated with the CRASE experiment so that if one is cancelled then 
+another one will be run or vice versa. Altogether (AAEV+CRASE) 46 hours are 
+requested while only 34 will be used.    

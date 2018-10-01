@@ -1,0 +1,13 @@
+experiment CP1/CLUSTER
+instrument UHF
+start 2001 07 11 1000
+end 2001 07 15 1600
+status C
+description Coordinated world wide IS observations, LTCS 
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(102)
+submitter Tony van Eyken

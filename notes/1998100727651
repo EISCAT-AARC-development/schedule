@@ -1,0 +1,12 @@
+experiment Leonids - ESR
+instrument ESR
+start 1998 11 17 1400
+end 1998 11 17 2000
+status R
+contact Jurgen Rottger
+phone +49 5556 979163
+email roettger@osf1.mpae.gwdg.de 
+fax +49 5556 979240
+operator Jurgen Roettger
+resources GE(100)
+submitter Mike Rietveld

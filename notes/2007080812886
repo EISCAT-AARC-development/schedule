@@ -1,0 +1,25 @@
+experiment ECOMA PMSE
+instrument VHF
+start 2007 08 08 2000
+end 2007 08 09 0300
+status R
+description Two frequency PMSE measurements during the ECOMA rocket campaign
+contact Ulf-Peter Hoppe
+phone +47-63807287
+email Ulf-Peter.Hoppe@ffi.no
+fax +47-63807212
+operator Mr. Li Qiang (IAP)
+submitter Ulf-Peter Hoppe
+resources NO(25)
+notes
+During the period 1-15 Agust 2007 there will be an international sounding 
+rocket campaign at the Andoya Rocket Range, i.e., the ECOMA-summer campaign 
+(ECOMA=Existence and charge state of meteor smoke particles in the middle 
+atmosphere). Within this campaign we will launch three payloads with 
+instrumentation to measure charged aerosol particles, plasma constituents, 
+neutral aerosol particles (photometry and sampling experiments), and 
+turbulence parameters. Local measurements of PMSE with an MST radar and 
+measurements with the EISCAT VHF and UHF radars will be used for defining the 
+launch criteria. Besides their role in the rocket campaign, we intend to study 
+the frequency dependence of PMSE. This is particularly interesting since only 
+very few examples of PMSE observations in the UHF are available so far.

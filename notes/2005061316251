@@ -1,0 +1,13 @@
+experiment CP2
+instrument ESR
+start 2005 06 13 0700
+end 2005 06 17 1400
+status R
+description LTCS-MST
+contact I Häggström
+email ingemar@eiscat.com
+operator I Häggström
+submitter I Häggström
+resources CP(1000)
+notes
+runexp /kst/exp/steffe/steffe 7:0 cp2 

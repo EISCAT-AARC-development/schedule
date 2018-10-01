@@ -1,0 +1,16 @@
+experiment KAIRADIO
+instrument VHF
+start 2013 03 21 0900
+end 2013 03 21 1300
+status R
+description Heating, KAIRA  measurements and VHF
+contact Antti Kero
+email antti.kero@sgo.fi
+operator Antti Kero
+submitter Carl-Fredrik Enell
+resources FI(16)
+notes
+Common volume measurements in the D-region ionosphere with the KAIRA  
+riometer (45 deg. tilted beam) and the EISCAT VHF radar (vertical).
+Ionospheric opacity is altered by active on/off HF heating. We  
+anticipate to see the heating effect within one single experiment.

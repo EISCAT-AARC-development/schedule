@@ -1,0 +1,29 @@
+experiment CP_2_tide
+instrument ESR
+start 2003 11 16 1500
+end 2003 11 19 0900
+status R
+description TIDE and Planetary wave study
+contact Satonori Nozawa
+phone 81-52-789-4303
+email nozawa@stelab.nagoya-u.ac.jp
+fax 81-52-789-4311
+operator TBD
+submitter Satonori Nozawa
+resources NI(18),SW(6),NO(6),GE(36)
+notes
+This experiment aims at study of tidal and planetary waves in the lower themosphere.
+We like to extend CP-2 run to 8-days window, with which  we can work on
+tidal variability as well as Q2DW.
+Scientis from 4 countries are involved.  
+In case some ploblems happen in the beggning of the CP-2 run on November 11, we like 
+to extend our run so that 8 days of data window can be achieved.
+
+This ESR run couples with the KST run.
+Total resources are as follows:
+Ni(36), SW(24), NO(24),GE(12 for KST and 36 for ESR).
+
+Then we divide the resources into two (for KST and ESR) as follows:
+KST: NI(18), SW(18), NO(18), GE(12)
+ESR:NI(18),SW(6),NO(6),GE(36)
+

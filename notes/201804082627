@@ -1,0 +1,23 @@
+experiment PMWE
+instrument VHF
+start 2018 04 08 0530
+end 2018 04 08 0930
+status R
+description Polar Mesosphere Winter Echoes
+contact Boris Strelnikov
+email strelnikov@iap-kborn.de
+operator I Häggström
+submitter I Häggström
+resources PP(30)
+notes
+runexp /kst/exp/manda/manda 5:0 zenith GE
+
+The objective is to support the “PMWE” sounding rocket campaign, which implies
+• First rocket-borne measurements of small-scale structures in neutral gas,
+electrons, ions, and MSPs, as well as absolute electron, ion, and MSP-density
+measurements inside the PMWE.
+• Simultaneous observation of PMWE at 2 different frequencies (53.5 and 224 MHz)
+and rocket-borne measurements.
+• Analysis of EISCAT PMWE-observations to determine charged aerosol and/or
+turbulence parameters aiming at a unique possibility to compare the results with
+other measurement techniques (i.e. in situ and MST-radars).

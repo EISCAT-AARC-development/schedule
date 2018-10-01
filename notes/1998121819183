@@ -1,0 +1,13 @@
+experiment Geotail
+instrument ESR
+start 1998 12 18 0600
+end 1998 12 18 1200
+status R
+description Coordinated observations for prime Geotail transit
+contact Hermann Opgenoorth
+phone +46 18 303661
+email opg@irfu.se 
+fax +46 18 403100
+operator Tony van Eyken
+resources CP(100)
+submitter Tony van Eyken

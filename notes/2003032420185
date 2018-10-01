@@ -1,0 +1,13 @@
+experiment CP2
+instrument ESR
+start 2003 03 24 0900
+end 2003 03 28 1400
+status R
+description Storms/TIMED/LTCS alert interval 
+contact I Häggström
+email ingemar@eiscat.com
+operator I Häggström
+submitter I Häggström
+resources CP(900)
+notes
+tau0_cp2

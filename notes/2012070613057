@@ -1,0 +1,19 @@
+experiment SEEFAIs
+instrument TRO
+start 2012 07 06 0900
+end 2012 07 06 1100
+status R
+description Stimulated Electromagnetic Emission and Field Aligned Irregularities
+contact Haiyang Fu
+email haiyangf@vt.edu
+operator Haiyang Fu
+submitter I Häggström
+resources PP(24)
+notes
+We need to measure the electron temperature, electron density, ion temperature,
+ion drift velocity as well as the time history of these variables. We also need
+to measure the ion- line and plasma-line profiles. We also need to run high
+resolution dynasonde data when the heater is off.  We need to measure various
+irregularities to figure out the absorption so we also need VHF radar running. 
+High resolution of the Field Aligned irregularities will be also measured by the
+CUTLASS radar (SuperDARN) as well as the time histories of FIAs. 

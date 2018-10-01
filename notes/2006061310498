@@ -1,0 +1,13 @@
+experiment ESR_BXR
+instrument ESR
+start 2006 06 13 2000
+end 2006 06 14 0100
+status R
+description Particle Precipitation Measured with ESR and Balloon borne X-ray Detector
+contact June Lunde
+phone +47 77645140
+email june.lunde@phys.uit.no
+fax +47 77645580
+operator June Lunde
+submitter June Lunde
+resources NO(20)

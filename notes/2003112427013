@@ -1,0 +1,16 @@
+experiment HOAX
+instrument HEA
+start 2003 11 24 1400
+end 2003 11 24 1600
+status R
+description Heater O-mode And X-mode
+contact M.J. Kosch
+phone +44-1524-593016
+email m.kosch@lancaster.ac.uk
+fax +44-1524-592713
+operator M.J. Kosch
+submitter M.J. Kosch
+resources UK(32)
+notes
+D-layer X-mode Heating effects on the Sodium emission will be investigated.
+Cloud-free sky in either Ramfjord or Skibotn is required.

@@ -1,0 +1,13 @@
+experiment test
+instrument SOD
+start 1999 08 23 0800
+end 1999 08 27 1600
+status M
+description test of new system components
+contact Markku Postilla
+email Markku.Postilla@eiscat.sgo.fi 
+operator Markku Postilla
+resources maintenance
+submitter MArkku Postilla
+notes
+Test with ESR type A/Ds, VME/DSP interface and CPU50

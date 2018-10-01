@@ -1,0 +1,26 @@
+experiment CLUSTER
+instrument ESR
+start 2000 12 26 0200
+end 2000 12 26 1800
+status R
+description Cluster co-ordinated observations
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(14) Sat-pool
+submitter Tony van Eyken
+notes
+Dec 26th.  This is somewhat similar to the 7th, except that the
+magnetic footprint of CLUSTER is a bit further west.  This means that
+CLUSTER moves northward between ESR and Sondy between 02 and 04 (closest
+approach to ESR about 0340). From 04 until 12, it's probably in the polar
+cap, then moves back over Svalbard (very close about 1240) and then by
+1400 it's over Greenland, where the satellites exit across the
+magnetopause.
+
+For this day, it might well be worth looking towards Sondy both at the
+beginning and end of the interval, (say 02-05 and 12-18) and northward
+at low elevation from 05 to 12, interleaving with field-aligned
+obseravtions once again.

@@ -1,0 +1,13 @@
+experiment TECSCINTIL
+instrument TRO
+start 2003 05 13 1800
+end 2003 05 14 0000
+status R
+description as sent 14 February
+contact Ulf-Peter Hoppe
+email uph@ffi.no
+operator Ulf-Peter Hoppe
+submitter Ulf-Peter Hoppe
+resources NO(24)
+notes
+as sent 14 February

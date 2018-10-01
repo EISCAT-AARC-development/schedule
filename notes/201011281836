@@ -1,0 +1,15 @@
+experiment PCArcs
+instrument ESR
+start 2010 11 28 1800
+end 2010 11 29 0100
+status R
+description Studying the electric field and currents associated with polar cap auroral arcs (including Sun-aligned arcs) with ESR and optical auroral observations.
+contact Alexander Kozlovsky
+phone + 358 40 8223677
+email Alexander.Kozlovsky@oulu.fi
+operator Alexander Kozlovsky
+submitter Antti Kero
+resources FI(35)
+notes
+ESR taro experiment; 32m antenna at at 30-45 deg. elevation, azimuth 290 deg. (magnetic North-West); 
+42m antenna fixed along the magnetic field line. Conditions: clear sky; aurora. 

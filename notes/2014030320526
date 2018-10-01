@@ -1,0 +1,16 @@
+experiment Reimei
+instrument TRO
+start 2014 03 03 2330
+end 2014 03 04 0030
+status R
+description Reimei-EISCAT coordinated observations of ion upflows in the auroral zone
+contact Takeshi Sakanoi
+phone +81-22-795-6609
+email tsakanoi@pparc.gp.tohoku.ac.jp
+fax +81-22-795-6406
+operator Y. Ogawa
+submitter Y. Ogawa
+resources NI(12)
+notes
+This is a comparative study of ion up/outflow using the Reimei satellite and
+Tromso UHF radar. The UHF radar will be pointed to the magnetic field line.

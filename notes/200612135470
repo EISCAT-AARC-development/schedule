@@ -1,0 +1,19 @@
+experiment polarlis
+instrument ESR
+start 2006 12 13 0800
+end 2006 12 22 1200
+status R
+description coordinated experiments with optical observations
+contact Jean Lilensten
+phone +33 4 76 51 41 49
+email Jean.Lilensten@obs.ujf-grenoble.fr
+fax +33 4 76 51 41 46
+operator Jean Lilensten
+submitter Francois Forme
+resources FR(220)
+notes
+This is a special french experiment coordinated with a scanning photometer 
+(UiO, UNIS)
+The two antennas are necessary
+The 32 m antenna motion will be defined latter, along with the photometer 
+scanning mode.

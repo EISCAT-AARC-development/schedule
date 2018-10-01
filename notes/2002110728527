@@ -1,0 +1,13 @@
+experiment AirGlow
+instrument HEA
+start 2002 11 07 1500
+end 2002 11 07 1700
+status R
+description Swedish EISCAT-airglow experiments
+contact Thomas Leyser
+phone +46 18 471 5941
+email tbl@irfu.se 
+fax +46 18 471 5905
+operator Thomas Leyser
+resources SW(14)
+submitter Thomas Leyser

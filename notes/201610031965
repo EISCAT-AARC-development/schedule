@@ -1,0 +1,11 @@
+experiment OSD
+instrument TRO
+start 2016 10 03 1100
+end 2016 10 06 1100
+status R
+description Obsrevation of space debris
+contact Wu Jun
+email wujun1969@163.com
+operator Wu Jun
+submitter Wu Jun
+resources CN(72)

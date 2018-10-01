@@ -1,0 +1,12 @@
+experiment CP6
+instrument UHF
+start 2005 11 17 0800
+end 2005 11 20 1500
+description Meteoric Ionization
+contact I Häggström
+email ingemar@eiscat.com
+operator I Häggström
+submitter I Häggström
+notes
+runexp /kst/exp/manda/manda fm cp1 CP 170 
+http://people.ece.cornell.edu/wes/URSI_ISWG/2005WDschedule.htm 

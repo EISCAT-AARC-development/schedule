@@ -1,0 +1,21 @@
+experiment ERID
+instrument UHF
+start 2004 03 21 1200
+end 2004 03 21 1800
+status R
+description E-region ion drift measurements
+contact Roman Makarevitch
+phone 44 01524 592699
+email r.makarevitch@lancaster.ac.uk
+operator Vikki Howells/Paul Gallop
+submitter Roman Makarevitch
+resources UK(12)
+notes
+This experiment is designed to investigate the role of the ion motions in the 
+phase velocity of E-region irregularities. The EISCAT tristatic UHF radar will 
+be operated in a CP-1-J program performing the ion drift measurements at six E-
+region heights as well as providing the ion drift measurements at a single F-
+region height of 278 km (twice each 10-min scan). The Doppler velocity 
+measurements will be performed at several radar frequencies by the STARE (144 
+MHz) and CUTLASS (8, 10, 12, 14, 16, and 18 MHz) Finland radars, the latter to 
+be run in a "stereo" mode of operation.

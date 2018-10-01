@@ -1,0 +1,23 @@
+experiment SWARMAUR
+instrument VHF
+start 2016 03 02 1900
+end 2016 03 02 2300
+status R
+description http://www.issibern.ch/teams/auroralelectron/
+contact Daniel Whiter
+email d.whiter@soton.ac.uk
+operator Bjorn Gustavsson
+submitter Daniel Whiter
+resources FI(20)
+notes
+We request radar time to support the work of the ISSI team "Multi-Scale
+Variations in Auroral Electron Precipitation"
+(http://www.issibern.ch/teams/auroralelectron/). The requested time coincides
+with SWARM conjunctions over northern Fenno-Scandia, and forms part of a
+campaign which also includes MIRACLE, ALIS, KAIRA, and satellite beacon receivers.
+
+We prefer clear skies with aurora over Kilpisjarvi. Clear skies over Tromso are
+not vital.
+
+We plan to scan the UHF radar either to the north or south while running the
+Beata experiment. The VHF radar will be used to measure D-region parameters.

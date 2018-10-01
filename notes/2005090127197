@@ -1,0 +1,14 @@
+experiment CP3
+instrument UHF
+start 2005 09 01 0700
+end 2005 09 30 1400
+status R
+description C/NOFS
+contact I Häggström
+email ingemar@eiscat.com
+operator I Häggström
+submitter I Häggström
+resources CP(1000)
+notes
+http://people.ece.cornell.edu/wes/URSI_ISWG/2005WDschedule.htm    
+runexp /kst/exp/tau1/tau1 07:00 cp3   

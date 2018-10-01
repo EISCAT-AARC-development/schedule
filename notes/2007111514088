@@ -1,0 +1,24 @@
+experiment UK_SOLD
+instrument VHF
+start 2007 11 15 0200
+end 2007 11 15 1000
+status R
+description UK experiment for coronal hole studies
+contact Martin Birch
+phone +44-1772-893305
+email mjbirch@uclan.ac.uk
+operator Derek McKay
+submitter Ian McCrea
+resources UK(8)
+notes
+This experiment is part of a UK programme to measure the ionospheric effects of 
+fast solar wind streams emanating from coronal holes.  The experiment uses both 
+the UHF and VHF radars, with the UHF running in low elevation mode (30 degrees) 
+along the geographic north meridian (tau1) while the VHF runs a D-layer mode 
+(arc_dlayer) pointing vertically.
+
+The scheduling is based on the prediction of when an active solar wind stream 
+will impact the Earth based on previous solar rotations. An improved prediction 
+will be available after October 18th, after which the run will either be 
+confirmed, cancelled, or moved slightly to match the nominal arrival time of 
+the solar wind stream.

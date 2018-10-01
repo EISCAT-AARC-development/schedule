@@ -1,0 +1,23 @@
+experiment tau0
+instrument ESR
+start 2005 06 28 0500
+end 2005 06 28 1400
+status R
+description ESR dual radar experiment in support of Cluster
+contact Vikki Howells
+phone +44 1235 445044
+email v.howells@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Vikki Howells
+resources AA(9)
+notes
+runexp /kst/exp/tau0/tau0 05:00 lowelnorth1 AA
+
+We are very happy for the two suggested Cluster conjnctions to be scheduled as
+second priority behind the Coronal Holes experiment
+The preferred mode is the standard one for EISCAT/Cluster operations, namely 
+northward-looking VHF, accompanied by dual radar ESR operations, with the 32m 
+dish in LowElNorth mode and the 42m dish field-aligned, with data dumps being 
+alternated (1:1) between the two dishes.
+

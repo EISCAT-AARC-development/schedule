@@ -1,0 +1,19 @@
+experiment sp-no-epla2-16
+instrument TRO
+start 1999 08 17 1200
+end 1999 08 19 0800
+status R
+description Barker-coded alternating codes for E-region plasma line observation
+contact Tom Grydeland
+phone +47 7764 4156
+email Tom.Grydeland@phys.uit.no 
+fax +47 7764 5580
+operator Tom Grydeland
+resources no(20)
+submitter Tom Grydeland
+notes
+Last chance of plasma line experiments on UHF before upgrade? 
+ 
+Can be moved if difficult to accomodate, but two wishes: 
+* not on the 16th of August 
+* I'd appreciate no collisions with the ESR experiment the same week

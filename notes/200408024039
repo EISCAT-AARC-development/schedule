@@ -1,0 +1,19 @@
+experiment UK_HORSE
+instrument ESR
+start 2004 08 02 0300
+end 2004 08 02 0500
+status R
+description Observations of high latitude ion outflows in combination with FAST measurements.
+contact Darren Wright
+phone +44 116 2523568
+email Darren.Wright@ion.le.ac.uk
+fax +44 116 2523555
+operator Tony van Eyken
+submitter Ken Freeman
+resources UK(12)
+notes
+The Svalbard Radar will monitor the ionospheric conditions during conjugate 
+overpassses of the FAST spacecraft. The fixed (42m) antenna will primarily be 
+used, as field-aligned measurements are principally required. It is possible, 
+however, that the steerable (32m) will also be used. The radar will operated 
+using the tau0 pulse code.

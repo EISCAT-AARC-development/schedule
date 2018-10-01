@@ -1,0 +1,11 @@
+experiment maint.
+instrument TRO
+start 1999 02 22 0900
+end 1999 02 26 1700
+status R
+description High power testing of new receiver protectors
+contact Gudmund Wannberg
+email Gudmund.Wannberg@eiscathq.irf.se 
+operator Gudmund Wannberg
+resources maintenance(100)
+submitter Gudmund Wannberg

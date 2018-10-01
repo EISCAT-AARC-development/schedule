@@ -1,0 +1,18 @@
+experiment MARE
+instrument HEA
+start 2010 12 05 1900
+end 2010 12 05 2300
+status R
+description HF "magnetospheric" radar trials
+contact Andrew Senior
+phone +44 1524 510410
+email a.senior@lancaster.ac.uk
+fax +44 1524 510493
+operator Mike Rietveld
+submitter Andrew Senior
+resources UK(16)
+notes
+The HF facility will be used in radar mode to look for possible enhanced ion-
+acoustic wave activity at high altitudes during aurora. Moderate geomagnetic 
+activity is required.
+

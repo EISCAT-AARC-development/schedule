@@ -1,0 +1,13 @@
+experiment GeoTail
+instrument ESR
+start 1999 03 17 1800
+end 1999 03 17 2200
+status R
+description EISCAT-GeoTail-SuperDARN conjunction experiment   Satellite CP allocation
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(24)
+submitter Tont van Eyken

@@ -1,0 +1,15 @@
+experiment CLUSTER
+instrument ESR
+start 2001 04 04 0600
+end 2001 04 04 1400
+status C
+description Co-ordinated observations during CLUSTER conjunctions
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(8)
+submitter Tony van Eyken
+notes
+Times soecified by CLUSTER Ground Based Group

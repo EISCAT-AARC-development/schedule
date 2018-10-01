@@ -1,0 +1,16 @@
+experiment PMSE99
+instrument ESR
+start 1999 07 12 0800
+end 1999 07 12 1600
+status R
+description PMSE search with ESR and SOUSY
+contact J. Roettger
+phone +49 5556 979163
+email roettger@linmpi.mpg.de  
+fax +49 5556 979 240
+operator Michael Bantin
+resources GE(8)
+submitter M. Rietveld
+notes
+Search for PMSE on ESR simultaneous with SOUSY. Modulation=jurg1, ver.2     
+Collaboration with NO (in the ratio NO:GE= 48:8)

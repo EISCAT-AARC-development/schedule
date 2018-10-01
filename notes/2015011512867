@@ -1,0 +1,25 @@
+experiment M2F3D
+instrument VHF
+start 2015 01 15 1200
+end 2015 01 16 1200
+status R
+description Meteor size and density measurements using dual-frequency and tristatic radar
+contact Robert Marshall
+email ram80@stanford.edu
+operator I Häggström
+submitter I Häggström
+resources PP(60)
+notes
+The key science objective of this experiment is to improve estimates of
+meteoroid masses from VHF and UHF radar returns, and in turn, to better estimate
+the meteoroid mass flux entering Earth’s atmosphere on a daily basis. We will do
+this by first analyzing RCS of meteors measured simultaneously in VHF and UHF,
+and using tristatic measurements in UHF. Tristatic UHF will provide the location
+of the meteor within the radar beam, so that the RCS can be accurately
+estimated. By using RCS measurements at two frequencies and three locations, we
+can separately estimate the density and size of meteors. In monostatic and
+single-frequency measurements, density and size cannot be separated, and only a
+total “line density” can be inferred. Estimated meteor size and density will be
+validated against the numerical meteor model of Marshall and Close [2015, in
+preparation] which calculates RCS as a function of meteor size, density, and
+radar frequency.

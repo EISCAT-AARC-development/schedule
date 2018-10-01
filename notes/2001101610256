@@ -1,0 +1,16 @@
+experiment POLITE
+instrument ESR
+start 2001 10 16 1000
+end 2001 10 18 1600
+status C
+description POLITE
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(54)
+submitter Tony van Eyken
+notes
+POLITE aims to advance our understanding of topside light ion morphology and dynamics through a combination of modeling efforts and coordinated observations by the ISR chain and by DMSP satellite overflights. The use of the full latitudinal and longitudinal extent of the ISR chain is critical to the campaign, as one key objective is the study of the latitudinal and longitudinal variations of hydrogen, oxygen, and helium ions. Simultaneous measurements of neutral oxygen, hydrogen, and helium are also important, in order to explore the coupling between ionic and neutral species in the lower topside. The helium ion layer descends in altitude and increases in strength during the wintertime, making observation easier for the ISR chain. Significant asymmetries in field-aligned flows are also at their maximums during summer and winter solstices. IMF support is not very important, but new moon periods are critical since optical support is required for simultaneous neutral species measurements.  
+Contact: Phil Erickson 

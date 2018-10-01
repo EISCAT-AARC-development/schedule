@@ -1,0 +1,20 @@
+experiment HEAT
+instrument ESR
+start 2006 11 14 1500
+end 2006 11 14 1900
+status R
+description the experiment will run the recently developed SLOPES long pulse code
+contact Lisa Baddeley
+phone 00441162231302
+email ljb14@ion.le.ac.uk
+fax 00441162523555
+operator Lisa Baddeley / Ranvir Dhillon
+submitter Lisa Baddeley
+resources UK(60)
+notes
+ESR operations requested in support of SPEAR high power operations.  
+SPEAR will run X mode E-region modulated heating.
+The experiment is timed to conicide with a Cluster conjunction
+Leicester personnel will be available at SPEAR and the ESR
+(Run subject to ionospheric conditions)
+

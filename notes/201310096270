@@ -1,0 +1,51 @@
+experiment JUNO
+instrument TRO
+start 2013 10 09 1600
+end 2013 10 09 2400
+description EISCAT Experiments in Support of the Juno Earth Flyby
+contact Rob Fear
+phone +441162523548
+email rcf11@ion.le.ac.uk
+operator tbd
+submitter Ian McCrea
+resources UK(8)
+notes
+UHF: runexp /kst/exp/manda/manda lm cp1 UK
+ESR: runexp /kst/exp/folke/folke lm lowelnorth UK
+
+
+This is a booking for a joint ESR and UHF experiment to monitor the Juno Earth 
+flyby will be a co-ordinated campaign involving Sondrestron and Millstone Hill 
+as well as EISCAT.  The following is an abstract for the 2013 Fall AGU Meeting, 
+submitted by Rob Fear, summarisng the objectives 
+of the experiment.
+
+"On 9th October 2013, the Juno spacecraft will undergo a gravitational slingshot 
+as it passes Earth en route to Jupiter. In doing so, the trajectory of Juno will 
+take it through the Earth's magnetosphere. The spacecraft will enter the 
+magnetosphere at the post-noon, low-latitude dayside magnetopause, and will make 
+its outbound magnetopause crossing at mid northern latitudes on the dawn flank 
+approximately 15 Earth radii down-tail. Customised operations of a range of 
+ground-based ionospheric instrumentation are planned in support of the in situ 
+observations of the terrestrial magnetosphere that will be made by Juno. Global 
+scale observations will be provided by the SuperDARN network of coherent scatter 
+radars. SuperDARN consists of 21 radars in the northern hemisphere and 11 in the 
+southern hemisphere; the fields of view of the SuperDARN radars cover the polar 
+cap, auroral regions and mid latitudes.
+
+The ionospheric footprint of the Juno spacecraft will be within the SuperDARN 
+field of view for most of the time that the spacecraft is within the 
+magnetosphere. Local observations will be provided by three incoherent scatter 
+radars: Millstone Hill (situated in Massachusetts), Sondrestrom (western 
+Greenland) and the EISCAT Svalbard Radar (situated poleward of mainland Norway 
+on the archipelago of Svalbard). As Juno first crosses the magnetopause and 
+traverses the dayside magnetosphere, its magnetic footprint is expected to map 
+to the region of the ionosphere observed by Millstone Hill and Sondrestrom, 
+whilst the EISCAT Svalbard Radar will provide observations of the region of the 
+ionosphere that maps to the section of the magnetotail to be sampled by Juno 
+shortly before its outward magnetopause crossing. In this talk, we will present 
+an overview of the geometry of the conjunctions between Juno and these 
+ionospheric instruments and preliminary ionospheric observations from this 
+interval."
+
+

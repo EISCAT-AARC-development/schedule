@@ -1,0 +1,19 @@
+experiment Hot
+instrument HEA
+start 2008 10 31 1100
+end 2008 10 31 1500
+status R
+description HF-Heating to determine electron temperature dependency of SEE onset
+contact Björn Gustavsson
+phone +47 77645188
+email bjorn.gustavsson@phys.uit.no
+fax +47 77645580
+operator M Rietveld
+submitter Björn Gustavsson
+resources Sw(40)
+notes
+In this experiment several over and under dence dual frequency transmission
+modes will be used to determine thermal reponse of the ionosphere and the onset
+of different SEE characteristics. This is a collaboration between KTH Stockholm
+(N Ivchenko), IRF Kiruna (T Sergienko), IRF Uppsala (T Leyser) and UIT Tromso (B
+Gustavsson)

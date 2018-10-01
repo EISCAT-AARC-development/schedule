@@ -1,0 +1,35 @@
+experiment PCBDYN
+instrument ESR
+start 2001 01 15 0600
+end 2001 01 15 1100
+status R
+description Polar Cap Boundary Dynamics
+contact Joran Moen
+phone +47 22855666
+email jmoen@fys.uio.no 
+fax +47 22855671
+operator Joran Moen
+resources NO(5)
+submitter Joran Moen
+notes
+We propose a comprehensive campaign to study polar cap and polar cap boundary       
+layer phenonena.  Many properties of Polar Cap Ionospheric Patches are known,       
+but their origin is at best only poorly understood.         
+       
+Several mechanisms have been proposed for the formation of polar cap patches.         
+The critical question is to find out which one(s) dominate(s).  We also aim        
+to study how polar cap sun-aligned arcs rterminate at their dayside extreme.         
+       
+We propose an experiment to for the first time measure and analyse a        
+comprehensive data set the ~50% of sun-aligned arcs that occur when the IMF is        
+northward.  This requires a comprehensive data set of physical parameters        
+to observe the optical, electrodynamic, and thermal/energetic and optical of        
+arcs, taken near/at their interface to the dayside auroral boundary.  The        
+EISCAT Svalbard Radar (ESR) is key.  A chain of ground based ASIPs will be        
+operated at Longyearbyen, NyAlesund, Quaanaaqu, Nord , and at Heis Island.         
+A chain of HF digisondes and satellite radio beacon receivers will coincide        
+with the key ASIP locations.        
+       
+Clear skies above NyAlesund or Longyearbyen will be required for operating        
+the ESR.  The ESR antennas will be operated in a set of different modes        
+appropriate for the actual geophysical activity level.

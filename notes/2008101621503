@@ -1,0 +1,33 @@
+experiment SPYD
+instrument ESR
+start 2008 10 16 1200
+end 2008 10 16 2000
+status R
+description ESR operations in support of the UNIS SPEAR campaign
+contact L. Baddeley
+phone +47-79026485
+email lisa@eiscat.se
+operator L. Baddeley
+submitter Kjellmar Oksavik
+resources NO(60)
+notes
+This experiment is a joint effort of Lisa Baddeley and Kjellmar Oksavik to 
+utilize SPEAR and ESR in conjunction. The time is slightly overbooked, but we 
+plan to cancel if conditions are not suitable. For some runs around 06 - 11 UT 
+we may also decide to switch to different experiment modes, all depending on 
+ionospheric conditions. Primary target of this time interval will switch 
+between these two options:
+
+1) Observations of large and small scale ULF waves in artificial backscatter 
+in the CUTLASS radars induced using O mode heating combined with heating 
+effects observed in the F-region ionosphere.
+Ionosphere requirements:  stable F region with FoF2 peak at SPEAR heater 
+frequency
+Experiment Code: SLOPES / STEFFE
+Radar pointing direction: TBD but most probably F.A.
+
+2) Observations of artificially generated ULF waves induced using X mode 
+modulation of SPEAR beam at Hz or mHz frequencies.
+Ionosphere requirements: stable E region
+Experiment Code: SLOPES / STEFFE
+Radar pointing direction: TBD but most probably F.A.

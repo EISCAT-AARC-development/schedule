@@ -1,0 +1,12 @@
+experiment CP1L
+instrument ESR
+start 1998 10 19 1000
+end 1998 10 21 1600
+status S
+description Co-ordinated IS observation period
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+operator EISCAT Staff
+resources CP1L(100)
+submitter Tony van Eyken

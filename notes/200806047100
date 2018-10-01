@@ -1,0 +1,12 @@
+experiment jurg4
+instrument ESR
+start 2008 06 04 0900 
+end 2008 06 04 1200 
+status R
+description PMSE and D-region observations with the jurg* complementary code program with 90 m range resolution and two antennas for interferometry. 
+contact Dr. Roettger
+phone +49555164675
+email roettger@mps.mpg.de
+operator Dr. Roettger und Markus Rapp
+submitter Renate Scherer
+resources GE(90)

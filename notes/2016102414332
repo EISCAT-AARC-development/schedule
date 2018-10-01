@@ -1,0 +1,14 @@
+experiment NWIND
+instrument TRO
+start 2016 10 24 1700
+end 2016 10 24 2200
+status R
+description UHF CP2 scan for EF and neutral wind
+contact Lei Cai
+phone +358409682510
+email lei.cai@oulu.fi
+operator Ilkka Virtanen
+submitter Ilkka Virtanen
+resources FI(10)
+notes
+UHF CP2 to study neutral wind acceleration during auroral activity.

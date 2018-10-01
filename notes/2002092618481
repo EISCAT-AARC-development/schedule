@@ -1,0 +1,18 @@
+experiment tau3_limb
+instrument TRO
+start 2002 09 26 2200
+end 2002 09 26 2400
+status R
+description Scanning Experiment for Verification of CHAMP Limb-sounding and TEC.
+contact Cathryn Mitchell
+phone +44 1225 826610
+email C.N.Mitchell@bath.ac.uk
+fax +44 1225 826305
+operator Bob Meggs
+submitter Ken Freeman
+resources UK(9)
+notes
+Meridian scanning experiment going from 74.8 down to 66.6 degrees north, as used in January 2002. The elan file is on puny, and can be found in
+/opt/kst/exp/uk/tau3t_limb_UK. These bookings replace the ones made for experiment "tau3_UK" to run during the same month (September 2002). Our apologies for the late notification of this change, but the current low orbit of CHAMP has meant that it has not been possible to obtain an accurate prediction of overpasses before now.
+
+

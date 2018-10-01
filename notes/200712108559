@@ -1,0 +1,15 @@
+experiment CP2
+instrument TRO
+start 2007 12 10 0800
+end 2007 12 20 1400
+description Dynamics
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+notes
+runexp /kst/exp/beata/beata 8 ip2
+
+World Day
+http://people.ece.cornell.edu/wes/URSI_ISWG/2007WDschedule.htm
+

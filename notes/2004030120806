@@ -1,0 +1,33 @@
+experiment steffe_AA
+instrument ESR
+start 2004 03 01 0700
+end 2004 03 01 1300
+status R
+description ESR experiments in support of Cluster and Double Star
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(6)
+notes
+March 2004 contains the best of the dayside passes for this year.  I am 
+requesting five intervals of EISCAT operation as follows:
+
+March 01   07-13 UT
+March 06   05-11 UT
+March 13   07-13 UT
+March 25   05-11 UT
+March 29   17-23 UT
+
+The first four of which are outbound magnetopause crossings in the vicinity of 
+EISCAT/ESR, with possible cusp crossings and the fifth is an auroral perigee 
+pass.  The runs on the 1st and 25th will be combined operations with 
+Sondrestrom, which will be running from 12-16UT on the 1st, and from 00-05 UT 
+on the 25th.
+
+The optimum mode on all days would be LowElNorth on the ESR 32m dish, 
+interleaved (1:1)with field-aligned observations on the 42m dish.  The mainland 
+should use the VHF in low-elevation northward looking mode (tau8) or the UHF in 
+tau1u dual-klystron mode if the VHF is not available.

@@ -1,0 +1,13 @@
+experiment SP-GE-CP1
+instrument UHF
+start 1998 11 06 1800
+end 1998 11 06 2300
+status R
+description Joint observations with FPI at Skibotn
+contact Mike Kosch
+phone +49 5556 979 409
+email kosch@linax1.dnet.gwdg.de 
+fax +49 5556 979 240
+operator Mike Rietveld
+resources GE(100)
+submitter Mike Reitveld

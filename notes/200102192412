@@ -1,0 +1,17 @@
+experiment SP-UK-HAIR
+instrument UHF
+start 2001 02 19 1600
+end 2001 02 19 2000
+status R
+description Heating Experiment to stimulate Artificial Airglow and Enhanced Temperatures.
+contact Farideh Honary
+phone +44 1524 593055
+email F.Honary@lancaster.ac.uk 
+fax +44 1524 592713
+operator Andy Kavanagh
+resources UK(33)
+submitter Ken Freeman
+notes
+This experiment is a collaboration between the UK and Germany. It will require the UHF Radar and the Heater, and will be carried out in collaboration with       
+optical measurements. The experiment will employ the CP1 pulse code for the UHF Radar, but with the antennas for part of the time stationary and for the       
+remainding time in a scanning mode.

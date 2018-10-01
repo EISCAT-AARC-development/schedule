@@ -1,0 +1,13 @@
+experiment testreq
+instrument TRO
+start 2016 03 11 090
+end 2016 03 11 1230
+status R
+description testrequesting for IH et al. - not the . after et al!
+contact Bjorn Gustavsson
+email bjjorn.gustavsson@uit.no
+operator Bjorn Gustavsson
+submitter Bjorn Gustavsson
+resources NO(24)
+notes
+Test of the requesting interface as per request of IH

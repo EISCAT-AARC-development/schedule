@@ -1,0 +1,13 @@
+experiment ION2014
+instrument VHF
+start 2014 11 13 1200
+end 2014 11 13 1400
+status R
+description Demonstration/educational experiment under the ION-2014 Norwegian-Ukrainian School/Conference
+contact La Hoz
+phone 99774769
+email cl146@cornell.edu
+fax 99774769
+operator Koloskov/Rietveld
+submitter La Hoz
+resources NO(2)

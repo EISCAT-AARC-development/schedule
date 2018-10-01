@@ -1,0 +1,17 @@
+experiment SP-UK-ECUS
+instrument ESR
+start 2000 12 05 1100
+end 2000 12 05 1400
+status R
+description Auroral and Cusp Studies in Coordination with Optical Measurements.
+contact Ian McCrea
+phone +44 1235 446513
+email ian@eiscatm.stp.rl.ac.uk 
+fax +44 1235 445848
+operator Alan Aylward
+resources UK(31)
+submitter Ken Freeman
+notes
+There will also be concurrent Mainland observations. The radar modes have yet      
+to be decided. It is intended that these bookings complement those made by the      
+Japanese and the Norwegians.

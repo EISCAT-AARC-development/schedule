@@ -1,0 +1,15 @@
+experiment Maintenance
+instrument VHF
+start 2001 04 02 0800
+end 2001 04 21 1600
+status R
+description Continued upgrade work
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources Maint(0)
+submitter Tony van Eyken
+notes
+Reqested by UGW

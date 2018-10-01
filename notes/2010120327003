@@ -1,0 +1,24 @@
+experiment GEISHA
+instrument HEA
+start 2010 12 03 1100
+end 2010 12 03 1300
+status R
+description GNSS-EISCAT Heating Activity (GEISHA) experiment
+contact Michael Danielides
+phone +49 3981 480 204
+email michael.danielides@dlr.de
+fax +49 3981 480 123
+operator Mike Rietveld
+submitter Norbert Engler
+resources GE(20)
+notes
+The aim of our "GNSS-EISCAT Heating Activity (GEISHA) experiment is to study
+variations in total electron content obtained from transionospheric GNSS signals
+for times, when the signal beam is disturbed by artificial ionospheric heating
+(EISCAT). We plan to set up two GPS receiver stations - one at the EISCAT site
+and the other TGO. It is planed to heat during geomagnetic quiet times and best
+at local dawn or during afternoon daylight conditions and dusk.
+
+The experiment is scheduled for certain days using the EISCAT Heating facility
+and the TRO UHF radar. From Dec. 1st - 3rd the requested time is in arrangement
+with UK if their conditions are not fulfilled.

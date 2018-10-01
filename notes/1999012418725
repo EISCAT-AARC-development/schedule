@@ -1,0 +1,13 @@
+experiment NOON
+instrument ESR
+start 1999 01 24 0830
+end 1999 01 24 1130
+status R
+description Ionospheric tomography coordination
+contact Eleri Pryse
+phone +44 1970 622801
+email sep@aber.ac.uk 
+fax +44 1970 6228260
+operator Francis Sedgemore-Schulthness
+resources UK(100)
+submitter Ian McCrea

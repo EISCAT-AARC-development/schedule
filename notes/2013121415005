@@ -1,0 +1,22 @@
+experiment LIDAR
+instrument VHF
+start 2013 12 14 1800
+end 2013 12 14 2400
+status R
+description EISCAT-LIDAR simultaneous observations
+contact Satonori Nozawa
+phone +81-527894303
+email nozawa@stelab.nagoya-u.ac.jp
+fax +81-527894311
+operator Y. Ogawa and S. Nozawa
+submitter Yasunobu Ogawa
+resources NI(28),NO(24)
+notes
+PIs: Satonor Nozawa and Takuo T. Tsuda
+
+This experiment aims at examining variations of the temperature between 80 and
+110 km due to aurora effect (from above) and atmospheric wave effect (from
+below). Clear sky and aurora activity are desired. UHF mode will be  CP-2
+mode-like, but scan pattern will be different from standard ones. VHF mode will
+be vertical mode (CP6-like). Collaborations of Japan and Norway.
+

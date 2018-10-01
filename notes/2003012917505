@@ -1,0 +1,16 @@
+experiment tau0_opti 
+instrument ESR
+start 2003 01 29 1600
+end 2003 01 29 2000
+status R
+description Auroral Studies in Conjunction with Optical Measurements.
+contact Betty Lanchester
+phone +44 23 80 592049
+email bsl@phys.soton.ac.uk
+fax +44 23 80 593910
+operator To be Decided
+submitter Vikki Howells
+resources UK(22)
+notes
+This experiment is an investigation into the role of particle precipitation and the auroral emissions produced, a particular goal being the identification of the role of proton precipitation. The proposed experimental mode is tau0 modulation on (probably) the Svalbard Fixed Antenna. Observations are to be made in conjunction with the UK spectrometer located in Adventdalen. 
+

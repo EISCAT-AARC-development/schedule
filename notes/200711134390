@@ -1,0 +1,16 @@
+experiment ANTII
+instrument HEA
+start 2007 11 13 0930
+end 2007 11 13 1200
+status R
+description D-region heating experiment in conjunction with VHF run for NEMI
+contact Thomas Ulich
+phone +35816619842
+email thu@sgo.fi
+fax +35816619875
+operator Thomas Ulich
+submitter Thomas Ulich
+resources FI(30)
+notes
+Heating of the D region and probing with VHF radar. We will simultaneously heat with SPEAR and probe 
+with ESR. See separate reservation.

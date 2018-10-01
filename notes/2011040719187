@@ -1,0 +1,20 @@
+experiment HMZ_RU
+instrument ESR
+start 2011 04 07 1000
+end 2011 04 07 1400
+status R
+description HF heater-induced phenomena in the over- and uderdense ionosphere F region
+contact Lisa Baddeley
+phone 0047 79023362
+email lisab@unis.no
+fax 0047 79023301
+operator Lisa Baddeley / EISCAT staff
+submitter Lisa Baddeley
+resources RU(12)
+notes
+We plan to continue studies of contrasting O/X-mode heating effects in the over-
+and underdense ionosphere F region using the SPEAR heating facility,
+specifically the behavior of artificial small-scale field-aligned
+irregularities.  The obsverations will form part of a larger campaign which
+involves the EISCAT heater and UHF mainland radar. 
+

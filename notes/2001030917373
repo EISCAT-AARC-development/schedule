@@ -1,0 +1,12 @@
+experiment VHF CP4
+instrument VHF
+start 2001 03 09 1800
+end 2001 03 10 1200
+status R
+contact F. Forme
+phone 33 1 39 25 49 19
+email forme@cetp.ipsl.fr 
+fax 33 1 39 25 49 22
+operator J. Lilensten
+resources fr(18)
+submitter F. Forme

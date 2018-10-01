@@ -1,0 +1,13 @@
+experiment Mesospheric test
+instrument ESR
+start 1998 10 06 1000
+end 1998 10 07 1600
+status S
+description Test of gup3 code at low elevation (az 270 el 30)
+contact Chris Hall
+phone +47 776 45676
+email chris.hall@phys.uit.no 
+fax +47 776 45222
+operator Tony van Eyken
+resources NO(80) NI(20)
+submitter Tony van Eyken

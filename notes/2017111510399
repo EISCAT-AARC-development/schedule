@@ -1,0 +1,28 @@
+experiment TOMO_4D
+instrument ESR
+start 2017 11 15 0800
+end 2017 11 15 1200
+status R
+description Ionospheric tomography validation 
+contact Johannes Norberg
+phone +358407431396
+email johannes.norberg@fmi.fi
+operator EISCAT staff
+submitter Ilkka Virtanen
+resources FI(4)
+notes
+EISCAT ISR validation for tomographic ionospheric electron density
+reconstructions made with 2 minute time resolution for a full day. 
+
+UHF bella radar pointed to South-East with a low elevation angle (~35°)
+VHF beata radar pointed to zenith
+ESR tau7 radar pointed to South-East with a low elevation angle (~35°)
+
+UHF (& ESR) 
+00:00-03:00 (continues SWARM + ePOP measurement ending 00:00)
+08:00-12:00
+19:00-23:00
+
+VHF
+19:00-23:00
+

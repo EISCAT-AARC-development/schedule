@@ -1,0 +1,18 @@
+experiment SWARMePOP
+instrument ESR
+start 2017 11 13 1800
+end 2017 11 13 2400
+status R
+description Auroral electrodynamics with EISCAT, SWARM and ePOP
+contact Anita Aikio
+phone +358 50 3500641
+email anita.aikio@oulu.fi
+operator EISCAT staff
+submitter Ilkka Virtanen
+resources FI(6)
+notes
+Two satellites, Swarm-B and ePOP fly over TRO and ESR as follows: 12 Nov: Only
+Swarm-B: 20:35 UT; 13 Nov Swarm-B: 20:16 UT, ePOP: 20:19 UT; 14 Nov Swarm-B:
+19:57 UT, ePOP: 19:55 UT. We want to study auroral electrodynamics by
+simultaneous mainland and ESR measurements by using vertical tri-static VHF for
+EF, F-A UHF, and ESR (fixed direction 32 m + 42 m). No simultaneous heating.

@@ -1,0 +1,18 @@
+experiment NURA
+instrument ESR
+start 2013 11 18 1000
+end 2013 11 18 1400
+status R
+description Joint heating experiments Norway-Ukraine-Russia-USA
+contact Cesar La Hoz
+phone +4799774769
+email cesar.la.hoz@uit.no
+fax +4777645580
+operator Vasyl Belyey
+submitter Vasyl Belyey
+resources NO(44)
+notes
+Multiple heating modulation schemes are to be used to study different processes in the ionosphere, 
+including electron acceleration, artificial aurora, SEE, ELF (Schumann and Alfven band) wave excitation.
+ESR observations will be complemented by other instruments such as optical instruments, ePOP satellite, a 
+network of HF receivers, and ELF band magnetometer.

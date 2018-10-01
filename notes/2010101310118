@@ -1,0 +1,43 @@
+experiment Pulsating
+instrument VHF
+start 2010 10 13 2200
+end 2010 10 14 0200
+status R
+description Simultaneous observations of pulsating aurora with all-sky TV and reimei camera
+contact K. Hosokawa
+phone +81-42-443-5299
+email hosokawa@ice.uec.ac.jp
+fax +81-42-443-5293
+operator Y. Ogawa
+submitter Y. Ogawa (yogawa at nipr.ac.jp)
+resources NI(12)
+notes
+(PIs of the SP: K. Hosokawa and S. C. Buchert)
+
+Recent studies using SuperDARN radars have shown intriguing 
+relationships between pulsating aurora and changes in E region 
+auroral backscatter. On the one hand, regular pulsations are 
+associated with periodic changes in echo Doppler shift. 
+On the other, irregular pulsations are associated with a new 
+population of low altitude (D-region) backscatter echoes. 
+We aim to investigate these two phenomena with simultaneous 
+observations of the aurora by TV cameras and Reimei satellite, 
+and electron density measurement by EISCAT radar in Tromsoe.
+
+Manda or arc_d pulse code will be used for the Tromso VHF 
+radar observation. We prefer good weather condition for the 
+optical observations.
+
+----------------------------------------------------------------
+2010-10-09 (Sat) 2200 UT - 2010-10-10 0200 UT (4 hours) 
+ : Reimei overpass at 00:27 UT
+2010-10-10 (Sun) 2200 UT - 2010-10-11 0200 UT (4 hours) 
+ : Reimei overpass at 00:45 UT
+2010-10-13 (Wed) 2200 UT - 2010-10-14 0200 UT (4 hours) 
+2010-10-14 (Thu) 2200 UT - 2010-10-15 0200 UT (4 hours) 
+2010-10-15 (Fri) 2200 UT - 2010-10-16 0200 UT (4 hours) 
+ : Reimei overpass at 00:39 UT
+2010-10-16 (Sat) 2200 UT - 2010-10-17 0200 UT (4 hours) 
+ : Reimei overpass at 00:57 UT
+----------------------------------------------------------------
+

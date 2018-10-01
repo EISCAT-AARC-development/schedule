@@ -1,0 +1,19 @@
+experiment arc_opti
+instrument ESR
+start 2004 01 23 2000
+end 2004 01 24 0400
+status R
+description combined uk/no optical campaign using both high resolution arc experiment and interferometry
+contact Betty Lanchester
+phone 44 238059 2049
+email bsl@soton.ac.uk
+fax 44 238059 2048
+operator Vikki Howells
+submitter Betty Lanchester
+resources NO(36)
+notes
+The UK and Norway are collaborating in a joint optical campaign in conjunction
+with the SERSIO rocket campaign. The hours requested will be shared between the
+two countries. The UK will run the experiment 'arc' using only the 42 m dish.
+Norway will run their interferometry experiment using both dishes. Until the
+hours are known for certain we will not decide which experiment runs at which time.

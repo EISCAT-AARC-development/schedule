@@ -1,0 +1,13 @@
+experiment None
+instrument TRO
+start 2004 06 07 2200
+end 2004 06 08 0400
+status R
+description Power break
+contact I Häggström
+email ingemar@eiscat.com
+operator I Häggström
+submitter I Häggström
+resources MA(6)
+notes
+Power break 8 June 0-6 LT at Tromso site 

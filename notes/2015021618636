@@ -1,0 +1,23 @@
+experiment cond_vi
+instrument ESR
+start 2015 02 16 1830
+end 2015 02 17 0430
+status R
+description Conductance and F region scalar Vi
+contact Akimasa Ieda
+phone +81 52 747 6336
+email ieda@stelab.nagoya-u.ac.jp
+operator Shin-ichiro Oyama
+submitter Shin-ichiro Oyama
+resources NI(20)
+notes
+Scientific objective of this experiment is to understand the conductance in the
+polar cap and auroral region. Conductance and F region line of sight velocity
+will also be measured. ESR and VHF will be operated with fixed pointing
+directions at 30 degree elevation angle.
+
+The requested experiment windows are:
+Feb 16: 1830-2300 (VHF), 1830-2400 (ESR)
+Feb 17: 0000-0430 (ESR)
+Feb 18: 1830-2300 (VHF), 1830-2400 (ESR)
+Feb 19: 0000-0430 (ESR)

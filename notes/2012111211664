@@ -1,0 +1,21 @@
+experiment HeatingI
+instrument ESR
+start 2012 11 12 0900
+end 2012 11 12 1300
+status R
+description O/X mode SPEAR-induced phenomena in the polar ionosphere
+contact Nataly Blagoveshchenskaya
+phone +7-812-337-3191
+email nataly@aari.nw.ru
+fax +7-812-352-2688
+operator Tatiana Borisova
+submitter Nataly Blagoveshchenskaya
+resources NO(12)
+notes
+We plan to continue studies of contrasting O/X-mode heating phenomena in the F-
+region of the polar ionosphere induced by SPEAR heating facility in the frame 
+of UNIS-AARI SPEAR project.  Experiments will be carried out from 12 November 
+to 22 November from 09 to 13 UT except for 
+17 and 18 November (Saturday and Friday) with using the SPEAR heating facility  
+and Svalbard radar (ESR). The experiments to be cancelled due to unsuitable 
+ionospheric conditions.

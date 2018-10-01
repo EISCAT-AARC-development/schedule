@@ -1,0 +1,21 @@
+experiment steffe_AA
+instrument ESR
+start 2008 08 01 0600
+end 2008 08 01 1400
+description Observations during total solar eclipse
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+notes
+runexp /kst/exp/ei/folke/folke 8 eclipse AA
+
+Placeholder request for observations during the total solar eclipse of August 1 
+2008.  I assume this will be replaced by a request for an agreed Common 
+Programme.  Details can be decided nearer the time, but one idea is to combine 
+field-aligned (42m) observations with off-axis (32m) measurements of the E-
+region within the path of totality.  Such a mode has been requested by Chris 
+Davis (UK).
+

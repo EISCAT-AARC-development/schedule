@@ -1,0 +1,20 @@
+experiment Scan_cond
+instrument TRO
+start 2013 03 14 1500
+end 2013 03 15 0100
+status R
+description Conductance in the quiet ionosphere by scan mode
+contact Satonori NOZAWA
+phone +81527894303
+email nozawa@stelab.nagoya-u.ac.jp
+fax +81527894311
+operator Satonori NOZAWA
+submitter Satonori NOZAWA
+resources NI(10)
+notes
+Scientific objective of this experiment is to understand the conductance
+in the quiet polar cap and auroral region. Both ESR and Tromsoe UHF will
+be operated with a scanning mode similar as CP3. The requested
+experiment windows are:
+March 14, 15-25 UT TRO/ESR
+March 15, 15-21 UT ESR

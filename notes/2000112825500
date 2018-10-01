@@ -1,0 +1,17 @@
+experiment SP-UK-OPTI
+instrument ESR
+start 2000 11 28 0400
+end 2000 11 28 0500
+status R
+description Auroral and Cusp Studies in Coordination with Optical Measurements.
+contact Betty Lanchester
+phone +44 23 80 592049
+email bsl@phys.soton.ac.uk 
+fax +44 23 80 593910
+operator Alan Aylward
+resources UK(18)
+submitter Ken Freeman
+notes
+There will also be concurrent Mainland observations. The radar modes have yet     
+to be decided. It is intended that these bookings complement those made by the      
+Japanese and the Norwegians.

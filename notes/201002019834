@@ -1,0 +1,19 @@
+experiment SPEAR
+instrument ESR
+start 2010 02 01 1200
+end 2010 02 01 1500
+status R
+description EISCAT measurements as a part of a SPEAR heating campaign
+contact Nataly Blagoveshchenskaya
+phone +7-812-352-2997
+email nataly@aari.ru
+fax +7-812-352-2688
+operator Lisa Baddeley
+submitter Nataly Blagoveshchenskaya
+resources EI(12)
+notes
+ESR measurements in conjunction with a SPEAR heating experiments. ESR runs are 
+planned to be carried out from 1 to 4 February from 12 to 15 UT. ESR will run 
+in the magnetic field-aligned direction in a beata code. Measurements can be 
+cancelled due to unsuitable ionospheric conditions (critical frequencies in 
+the F2 layer drop below 3.2 MHz.

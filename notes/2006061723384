@@ -1,0 +1,22 @@
+experiment ESR SSR
+instrument ESR
+start 2006 06 17 1100
+end 2006 06 17 1500
+description Common volume study of PMSE with the ESR and SOUSY Svalbard Radar (SSR)
+contact Dr. Markus Rapp
+phone +49 38293 68126
+email rapp@iap-kborn.de
+fax +49 38293 6850
+operator Markus Rapp/ Jürgen Röttger
+submitter Markus Rapp
+notes
+We intend to perform simultaneous and common volume measurements with the EISCAT 
+Svalbard Radar (ESR) and the SOUSY Svalbard Radar (SSR) in order to study the 
+frequency (length scale) dependence of PMSE, and the dependence of PMSE on the 
+background ionization.
+
+For doing that with ESR, we want to use a code developed earlier by Jürgen Röttger. The first two days of this campaign will be dedicated to testing this radar code (two hours each days). Afterwards, we want to measure four hours each day around midday for a total number of twenty days (80 hours). In the not too probable case of a solar flare, we would like to adjust our schedule and measure during such disturbed conditions for as long a period as possible.
+
+More details can be obtained from:
+Markus Rapp (rapp@iap-kborn.de) and
+Jürgen Röttger (roettger@linmpi.mpg.de)

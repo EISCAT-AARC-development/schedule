@@ -1,0 +1,16 @@
+experiment LT4DL
+instrument ESR
+start 2006 01 23 0500
+end 2006 01 23 1000
+status R
+description iASK interferometric Auroral Structure and Kinetics
+contact Tom Grydeland
+phone +47 4522 1330
+email Tom.Grydeland@phys.uit.no
+fax +47 7902 3301
+operator Tom Grydeland
+submitter Tom Grydeland
+resources SE(60),NO(20),UK(20)
+notes
+A few more hours to compensate for the previously requested but not granted runs
+in the December 2005 and early January 2006 campaigns

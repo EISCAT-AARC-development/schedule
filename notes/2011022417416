@@ -1,0 +1,17 @@
+experiment EFOLD2
+instrument ESR
+start 2011 02 24 1600
+end 2011 02 25 0500
+status R
+description Electrodynamics of E- and F-region ion-neutral coupling in the vicinity of auroral arcs
+contact Mike Kosch
+email m.kosch@lancaster.ac.uk
+operator Satonori Nozawa
+submitter Mike Kosch
+resources UK(24),JP(12),NO(12)
+notes
+SCANDI & FPI & camera optical observations needed, i.e. clear sky
+SPEAR will operate 16-18 UT
+ESR 32m will scan continuously 360-degrees azimuth for 2 different elevations
+ESR 32m/42m will be used simultaneously 25/75% duty cycle
+Quiet auroral arcs overhead preferred

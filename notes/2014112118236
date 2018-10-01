@@ -1,0 +1,32 @@
+experiment EASI2014
+instrument ESR
+start 2014 11 21 0300
+end 2014 11 21 1000
+status R
+description ESR aperture synthesis imaging
+contact N. M. Schlatter
+email nmsc@kth.se
+operator N. M. Schlatter
+submitter N. M. Schlatter
+resources SW(35)
+notes
+The aims of the EASI experiment which require the use of the EISCAT Svalbard
+Radar are:
+- to study the occurrence and spatial distribution of NEIALs using
+interferometry techniques
+- to study the energy distribution within and surrounding narrow auroral
+forms (especially when associated with NEIALs),
+- and apply the results to theories of NEIAL occurrence and production, and
+in general to theories of auroral acceleration processes.
+
+In addition to the ESR, the EASI interferometer arrays and the Auroral Structure
+and Kinetics instrument (ASK) will be operated concurrently. 
+Radar observations should be made in the field aligned direction and raw data
+must be saved. Depending on conditions a standard radar program will run (beata,
+arc1, LT4).
+
+Due to the high number of requests during this campaign period we request more
+hours than allocated.
+
+
+

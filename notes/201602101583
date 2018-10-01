@@ -1,0 +1,16 @@
+experiment TideQ2DW
+instrument ESR
+start 2016 02 10 2300
+end 2016 02 12 2000
+status R
+description Special campaign for Tide and Q2DW by Japan, Norway, and Sweden
+contact Satonori NOZAWA
+phone +81-527894303
+email nozawa@stelab.nagoya-u.ac.jp
+operator Site staff
+submitter Satonori NOZAWA
+resources NI(10),NO(14),SW(21)
+notes
+We run CP2 for 45 hours (as a SP) after the 135 hrs CP2 run, so that make long run data of 180 hrs (7.5 
+days) appropriate for tide and Q2DW study in the lower thermosphere in winter time. Sodium LIDAR, MR, 
+and MF radar will be operated as well at Tromso.  Collaborations between Japan, Norway, and Sweden.

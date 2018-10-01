@@ -1,0 +1,15 @@
+experiment SP_MANDA
+instrument TRO
+start 2014 12 15 1700
+end 2014 12 15 2300
+status R
+description Multi-purpose observations of the D/E/F region ionosphere
+contact S. Nozawa
+phone +81-527894303
+email nozawa@stelab.nagoya-u.ac.jp
+fax +81-52-7894303
+operator Y. Ogawa
+submitter Y. Ogawa
+resources NI(6)
+notes
+We use the Tromso UHF radar with scanning antenna mode and manda pulse code.

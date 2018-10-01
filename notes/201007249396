@@ -1,0 +1,13 @@
+experiment test
+instrument TRO
+start 2010 07 24 1208
+end 2010 07 24 2208
+status R
+description test
+contact ingemar
+email ingemar@eiscat.se
+operator ingemar
+submitter ingemar
+resources TE(22)
+notes
+none

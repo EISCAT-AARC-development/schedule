@@ -1,0 +1,17 @@
+experiment CP6
+instrument VHF
+start 2001 06 20 1000
+end 2001 06 22 1600
+status C
+description First long run with new D-region code
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Assar Westmann
+resources CP(54)
+submitter Tony van Eyken
+notes
+Extended operation, should fall as early as possible, but after the SP 
+campaign.  Must run before the bolt tightening team starts work on the UHF 
+antenna.

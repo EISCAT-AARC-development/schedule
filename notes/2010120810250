@@ -1,0 +1,14 @@
+experiment Aurora
+instrument UHF
+start 2010 12 08 1800
+end 2010 12 09 0200
+status R
+description UHF field-aligned, tri-static
+contact Kari Kaila
+email Kari.Kaila@oulu.fi
+fax  
+operator Kari Kaila
+submitter Antti Kero
+resources FI(48)
+notes
+Aurora, any type. Optical emissions measured with radar. Testing emission models.

@@ -1,0 +1,11 @@
+experiment Maintenanc
+instrument TRO
+start 2003 01 15 0700
+end 2003 01 16 2359
+status R
+description Recalibration of Tromso UHF noise injection, preamp tests
+contact Gudmund Wannberg
+email ugw@eiscat.com
+operator Gudmund Wannberg
+submitter Gudmund Wannberg
+resources EI(41)

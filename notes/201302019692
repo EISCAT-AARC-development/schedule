@@ -1,0 +1,16 @@
+experiment StratWarm
+instrument TRO
+start 2013 02 01 0000
+end 2013 02 15 2200
+status C
+description Stratospheric Warming
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(500)
+notes
+10 day campaign 14Jan-15Feb, on alert 5 days in advance.
+Maximum 6h interruptions will be allowed, provided the StratWarm covers all UT,
+in rolling 48h periods.
+runexp /kst/exp/beata/beata lm ip2

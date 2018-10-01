@@ -1,0 +1,11 @@
+experiment jurg4 ESR
+instrument ESR
+start 2009 06 17 0900
+end 2009 06 17 1200
+description These experiments are for studies of the spatial wavelength dependence and spatial coherence of Polar Mesosphere Summer Echoes.
+contact J. Roettger
+email Roettger.JR@T-Online.de
+operator M. Rapp, J. Roettger
+submitter R. Scherer
+notes
+runexp /kst/exp/ge/jurg3/jurg3 fm jurg

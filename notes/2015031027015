@@ -1,0 +1,30 @@
+experiment RONE
+instrument VHF
+start 2015 03 10 2100
+end 2015 03 10 2330
+status R
+description Radar, radio, and optical observations of natural and HF enhancements
+contact Brett Isham
+phone +17876855223
+email brettisham@gmail.com
+operator tbd
+submitter Brett Isham
+resources SE(24),NO(24)
+notes
+Radar, radio, and optical observations of natural and HF enhancements (ion-acoustic, Langmuir, 
+gyro line, radio, and optical) preferably conducted during satellite passes. ISR data will be 
+recorded using VHF vertical and UHF vertical or field-aligned mostly simultaneously, using both IL 
+and PL channels on both antennas.  Radio emission data will be recorded using a wide-band (0-10 
+MHz) receiver provided by Interamerican University and Dartmouth College operating at the 
+Auroral Observatory.  Optical data will be recorded by collaborating instruments.  HF radar data 
+will be provided by SuperDARN. 
+
+Cassiope/ePOP passes will occur during the middle of the 2100-2330 UT requested observation 
+periods as follows: 
+10-Mar-2015 224908 UT (best)
+11-Mar-2015 223823 UT (best)
+12-Mar-2015 222735 UT
+
+For completeness note there is a similar Cassiope/ePOP pass on 9 March:
+09-Mar-2015 225949 UT
+

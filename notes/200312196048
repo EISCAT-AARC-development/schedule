@@ -1,0 +1,18 @@
+experiment MultiOpt
+instrument ESR
+start 2003 12 19 0200
+end 2003 12 19 1400
+status R
+description Multi-User (UK) optics experiment 
+contact Vikki Howells
+phone 44  1235 445044
+email V.Howells@rl.ac.uk
+fax 44  1235 445848
+operator Vikki Howells
+submitter Vikki Howells
+resources UK(48)
+notes
+The proposed experimental mode is tau0 modulation on (probably) the Svalbard
+Fixed Antenna. Observations are to be made in conjunction with the UK
+spectrometer and FPI located in Adventdalen. 
+

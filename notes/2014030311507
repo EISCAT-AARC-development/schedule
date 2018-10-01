@@ -1,0 +1,21 @@
+experiment SPIDER14
+instrument TRO
+start 2014 03 03 1900
+end 2014 03 03 2400
+status R
+description Farley-Buneman turbulence and anomalous heating in E region, study over Esrange
+contact N. Ivchenko
+email nickolay@kth.se
+operator N. Schlatter
+submitter N. Schlatter
+resources SW(30)
+notes
+Farley-Buneman turbulence and anomalous heating in the E region will be studied
+in this epxeriment. An elevation scan pattern will be run on the UHF radar to
+probe the E region above Esrange rocket range. ALIS camera network will have
+common volume configured in the same locus to monitor the aurora. Special
+programme operation on SuperDARN Finland radar is requested with higher range
+and time resolution in the common volume.
+
+The experiment is run in preparation for the SPIDER rocket launched from Esrange
+in 2015.

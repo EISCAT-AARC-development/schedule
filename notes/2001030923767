@@ -1,0 +1,17 @@
+experiment SP-UK-SHAFT
+instrument HEA
+start 2001 03 09 2115
+end 2001 03 09 2245
+status R
+description Heater Operation during CLUSTER Overpass.
+contact Tim Yeoman
+phone +44 116 2523564
+email yxo@ion.le.ac.uk 
+fax +44 116 2523555
+operator Mike Rietveld
+resources UK(2)
+submitter Ken Freeman
+notes
+It will be observed that this booking is embedded in a CLUSTER Common Programme run. The CLUSTER Science Working Team has, however, agreed that the Heater  
+will be operated during this overpass. The Heater component of the time can be  
+charged to the UK.

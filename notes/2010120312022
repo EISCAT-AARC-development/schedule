@@ -1,0 +1,14 @@
+experiment ESA track
+instrument TRO
+start 2010 12 03 0200
+end 2010 12 03 1000
+status R
+description CO-VI tracking
+contact J Markkanen
+email jussi.markkanen@sgo.fi
+operator J Markkanen
+submitter I Häggström
+resources EA(8)
+notes
+ESA tracking campaign of space objects
+The objects of are : CRYOSAT ENVISAT GRACE JASON METOP PROBA

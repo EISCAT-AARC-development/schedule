@@ -1,0 +1,27 @@
+experiment RONE
+instrument ESR
+start 2014 11 13 2000
+end 2014 11 13 2400
+status R
+description Radar, radio, and optical observations of naturally-enhanced emissions
+contact Brett Isham
+phone +17878781289
+email brettisham@gmail.com
+fax +17872792205
+operator Paul Gallop
+submitter Brett Isham
+resources UK(20),SW(20),NO(20)
+notes
+Radar, radio, and optical observations of naturally-enhanced emissions (ion-acoustic, Langmuir, radio, and 
+optical waves) conducted near local midnight and/or during satellite passes.  ISR data will be recording 
+using 32-m vertical and 42-m field-aligned simultaneously, using both IL and PL channels on both 
+antennas.  A new control program will be used for this purpose.  Radio emission data will be recorded 
+using a wide-band (0-10 MHz) receiver provided by Dartmouth College operating at the KHO. Optical data 
+will be recorded by collaborating instruments on Svalbard.
+
+In this case Cassiope/ePOP is expected to pass at or near field-aligned at 22:28:52 UT on 20141109, at 
+22:22:51 UT on 20141110, at 22:16:46 UT on 20141111, at 22:10:39 UT on 20141112, and at 22:10:31 
+UT on 20141113.  However it is a low orbit (340 km) and in three or four weeks from the date of this 
+request (20141010) the time or even the date of the passes might shift, so if permitted an adjustment of 
+operating times might be helpful perhaps a week before the passes.
+

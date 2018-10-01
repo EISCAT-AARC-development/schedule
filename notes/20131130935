@@ -1,0 +1,27 @@
+experiment PCArcs
+instrument ESR
+start 2013 11 30 0100
+end 2013 11 30 0700
+status R
+description Polar Cap Arcs
+contact Alexander Kozlovsky
+phone +358-50-5771753
+email Alexander.Kozlovsky@oulu.fi
+operator Alexander Kozlovsky
+submitter Alexander Kozlovsky
+resources 3P(24)
+notes
+For understanding the generation mechanism(s) of the polar cap arcs we suggest combined ground-
+based auroral observations and IS radar measurements for the following objectives: 
+1. Comparison the drift motion of PC arcs with the ionospheric plasma drift velocity in F-region; 
+2. Inferring the electric field and field-aligned currents associated with the arcs. 
+The experiment was initiated at the “Polar Cap Arcs” research team meeting in the International Space 
+Science Institute (ISSI), in 2013.
+In the case if favorable conditions (Northward IMF) will not occur in the course of the experiment, the 
+collected data may be well utilized for studying the polar cap patches (which typically occurs during 
+Southward IMF).
+
+ESR-32m: El.= 45 deg., Az= -68 and -23 (swinging, 2 min at each position); 
+ESR-42m: Field-aligned; 
+Possible radar operation mode is “taro”. 
+

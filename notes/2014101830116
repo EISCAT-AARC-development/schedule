@@ -1,0 +1,45 @@
+experiment ICI4
+instrument UHF
+start 2014 10 18 1800
+end 2014 10 18 1900
+status R
+description F-region auroral blob investigation around magnetic midnight
+contact Jøran Moen
+phone +4791556414
+email jmoen@fys.uio.no
+fax +4722855671
+operator Yasanobu Ogawa
+submitter Jøran Moen
+resources NI(14)
+notes
+The main objective of ICI-4,  to be launched from Andøya Space Centre, is to 
+
+explore F-region plasma instability processes in connection with auroral blobs. 
+
+The phenomenon is created when polar cap patches, islands of high electron 
+
+density plasma, exit the polar cap at night, i.e. when they entering the night 
+
+time auroral oval. The ingredients are high density F-region plasma structures, 
+
+imposed by auroral precipitation, field aligned currents and flow shears. This 
+
+appears to be the most violent situation for GPS scintillations. This region is 
+
+a highly complex region of the auroral ionosphere driven by tail reconnection. 
+
+In order to precisely diagnose the launch conditions we will combine 
+
+information from the ACE satellite, radars and all-sky imagers as well as 
+
+ground magnetometers. The campaign period allows 14 effective days from 16-30. 
+
+October. At the day when rocket is launched we will stop the radar operation as 
+
+soon as we have got the large scale context of the detailed in-situ 
+
+measurements. ESR will be operated in an azimuthal scan mode to survey 
+
+transport of polar cap patch material across the rocket trajectory. EISCAT UHF 
+
+will be pointed across the rocket trajectory.

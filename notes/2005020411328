@@ -1,0 +1,24 @@
+experiment tau2pl
+instrument TRO
+start 2005 02 04 1800
+end 2005 02 04 2400
+status R
+description Observations of naturally enhanced ion-acoustic and  plasma lines and aurora
+contact Mårten Blixt
+phone +1 617 353 7348
+email Marten.Blixt@phys.uit.no
+fax -
+operator Mårten Blixt
+submitter Mårten Blixt
+resources NO(24)
+notes
+Recent years of observations of naturally enhanced ion-acoustic lines at ESR have
+shown a clear relationship between these and dynamic rayed aurora. 
+As both the source mechanism behind these enhanced spectra and rayed aurora
+to a large extent remains unknown, we are eager to look for the same phenomena 
+on the mainland.
+By combining the tau2pl experiment with the University of Tromsø  
+high-resolution auroral imager at times when the probability of observing
+both enhanced echoes and small scale dynamic aurora is at its maximum, we 
+hope for success. 
+

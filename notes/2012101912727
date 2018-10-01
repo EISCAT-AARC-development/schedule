@@ -1,0 +1,17 @@
+experiment POND
+instrument HEA
+start 2012 10 19 1300
+end 2012 10 19 1700
+status R
+description Profiling of neutral density
+contact Yasunobu Ogawa
+email yogawa@nipr.ac.jp
+operator Hannah Vickers
+submitter Mike Kosch
+resources JP(14),NO(16),UK(12)
+notes
+Heater-induced ion outflow experiment. 
+We look to characterise the non-steady state ion acceleration term.
+This requires quiet geomagnetic conditions and over-dense ionosphere with foF2 
+= 4-8 MHz.
+Cancellations will happen for non-ideal conditions.

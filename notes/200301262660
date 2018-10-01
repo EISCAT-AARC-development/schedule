@@ -1,0 +1,12 @@
+experiment MaCWAVE
+instrument VHF
+start 2003 01 26 0900
+end 2003 01 26 1700
+status R
+contact Evgenia Belova
+email belova@irf.se
+operator Belova
+submitter Evgenia Belova
+resources SW(30)
+notes
+see notes for January 20

@@ -1,0 +1,16 @@
+experiment SDARN_Cal
+instrument TRO
+start 2017 02 27 1330
+end 2017 02 27 1429
+status R
+description Cutlass interferometer phase calibration
+contact Angeline Burrell
+phone +44-116-252-2718
+email ab763@le.ac.uk
+operator TBD
+submitter Angeline Burrell
+resources UK(1)
+notes
+The experiment will be used to calibrate the CUTLASS interferometer arrays. 
+We’ll want to run tau2pl, measuring the electron density and temperature as a
+function of altitude to determine the altitude of the heater-induced FAI.

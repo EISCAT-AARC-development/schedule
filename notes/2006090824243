@@ -1,0 +1,11 @@
+experiment dum
+instrument VHF
+start 2006 09 08 1130
+end 2006 09 09 1130
+status R
+description jjjjj
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources NO(23),CN(22)

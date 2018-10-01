@@ -1,0 +1,20 @@
+experiment Tomography
+instrument TRO
+start 2014 02 26 0100
+end 2014 02 26 0300
+status R
+description Generalized auroral tomography
+contact Yoshimasa Tanaka
+phone +81-42-512-076
+email ytanaka@nipr.ac.jp
+fax +81-42-528-3499
+operator Y. Ogawa
+submitter Y. Ogawa
+resources NI(12),FI(10),SE(12),NO(12)
+notes
+This SP is for ALIS and EISCAT coordinated observations.
+Beata pulse code and meridian scanning radar mode will 
+be used for the Tromso UHF radar observation. 
+We will set the reconstruction region to around the center 
+between Tromso and Kiruna. We prefer good weather condition 
+for the optical observations.

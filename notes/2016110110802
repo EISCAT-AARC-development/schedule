@@ -1,0 +1,20 @@
+experiment VANTAA
+instrument ESR
+start 2016 11 01 0300
+end 2016 11 01 0600
+status R
+description Variability of neutral temperature in the auroral ionosphere
+contact Dan Whiter
+phone +44 23 8059 2095
+email d.whiter@soton.ac.uk
+operator Joshua Chadney
+submitter Andrew J. Kavanagh
+resources SW(6)
+notes
+Scientific objectives are to investigate the response of neutral temperature in
+the thermosphere and mesopause to different auroral energy inputs and processes
+and to validate a new technique for inferring F-region neutral temperature from
+spectrographic measurements of O+ aurora. Field-aligned only – no scanning.
+Arc-slice is the preferred experiment to use. This a collaboration between
+Sweden and the UK with the latter contributing 14 hours and former 6:
+UK(14) SW(6)

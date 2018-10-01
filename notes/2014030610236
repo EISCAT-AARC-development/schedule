@@ -1,0 +1,18 @@
+experiment HIOS
+instrument TRO
+start 2014 03 06 1200
+end 2014 03 06 1400
+status R
+description Heating-induced Irregularities Observations using Scintillation technique
+contact Cesar La Hoz
+phone +47 99774769
+email cesar.la.hoz@uit.no
+fax +4777645580
+operator to be decided
+submitter Olesia Charkina
+resources NO(2)
+notes
+We plan to observe the scintillation effect for the radiation from discrete 
+cosmic source (DCS) Cassiopeia A in the polar ionosphere modified by powerful 
+EISCAT heater. As a recording system we are going to use KAIRA facility. For 
+monitoring the ionospheric conditions we will use EISCAT UHF radar.

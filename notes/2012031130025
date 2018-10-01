@@ -1,0 +1,20 @@
+experiment SPNILIDAR2
+instrument VHF
+start 2012 03 11 1900
+end 2012 03 11 2300
+status R
+description EISCAT-LIDAR simultaneous observations
+contact Satonori Nozawa
+phone +81527894303
+email nozawa@stelab.nagoya-u.ac.jp
+fax +81527894311
+operator Satonori Nozawa
+submitter Satonori Nozawa
+resources NI(12),NO(12)
+notes
+This experiment aims at examining variations of the temperature between 80
+and 110 km due to aurora effect (from above) and atmospheric wave effect (from
+below). Clear sky and aurora activity are desired.
+UHF mode will be  CP-2 mode-like, but scan pattern will be different from
+standard ones. VHF mode will be vertical mode (CP6-like).
+Collaborations of Japan and Norway. We might cancel at least one night because of short of resources.

@@ -1,0 +1,24 @@
+experiment RONE
+instrument TRO
+start 2014 12 12 2100
+end 2014 12 13 0100
+status R
+description Radar, radio, and optical observations of naturally-enhanced emissions
+contact Brett Isham
+phone +17878781289
+email brettisham@gmail.com
+fax +17872792205
+operator Brett Isham
+submitter Brett Isham
+resources UK(12),SW(20),NO(28)
+notes
+Radar, radio, and optical observations of naturally-enhanced emissions (ion-acoustic, Langmuir, radio, and 
+optical waves) conducted near local midnight and/or during satellite passes.  ISR data will be recorded 
+using VHF vertical and UHF vertical or field-aligned simultaneously, using both IL and PL channels on both 
+antennas.  A new control program will be used for this purpose.  Radio emission data will be recorded 
+using a wide-band (0-10 MHz) receiver provided by Interamerican University and Dartmouth College 
+operating at the Auroral Observatory.  Optical data will be recorded by collaborating instruments.  HF radar 
+data will be provided by SuperDARN.  We are somewhat over-subscribed, certain runs will be cancelled in 
+advance, based on predicted conditions. 
+
+

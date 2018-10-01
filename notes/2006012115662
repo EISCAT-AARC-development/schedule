@@ -1,0 +1,19 @@
+experiment Recon
+instrument VHF
+start 2006 01 21 0600
+end 2006 01 21 1059
+status R
+description Study of dayside and nightside reconnection rates
+contact Jøran Moen
+phone +4722855666
+email jmoen@fys.uio.no
+fax +4722855671
+operator Jøran Moen
+submitter Jøran Moen
+resources NO(60)
+notes
+Re-connection rate campaign: We are going to take advantage of having the beams 
+of VHF, UHF and ESR-32 m pointing across cusp and night-time auroral 
+boundaries, to investigate temporal and spatial variability in the reconnection 
+rate. We will use the combination of optics and CUTLASS as larger-scale 
+monitoring of the open-closed boundary location and orientation.

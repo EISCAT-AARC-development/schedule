@@ -1,0 +1,13 @@
+experiment SIDE
+instrument VHF
+start 1999 02 12 1700
+end 1999 02 12 2400
+status R
+description Absorption at various phases of substorms (with optics); electrodynamics of arcs
+contact Dr F Honary
+phone +44 1524 593055
+email f.honary@lancaster.ac.uk 
+fax +44 1524 594207
+operator Dr C F Del Pozo
+resources UK(42), GE(21)
+submitter Ian McCrea

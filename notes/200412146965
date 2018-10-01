@@ -1,0 +1,20 @@
+experiment CRASE
+instrument HEA
+start 2004 12 14 1000
+end 2004 12 14 1600
+description Coherent Radar measurements of Artificial Striation Elongation
+contact Andrew Senior
+phone +44 1524 510410
+email a.senior@lancaster.ac.uk
+fax +44 1524 510489
+operator Mike Rietveld
+submitter Andrew Senior
+notes
+The CUTLASS Hankasalmi radar will be used in a frequency-sweeping mode to measure the  
+elongation of F-region striations generated using the Heater. The UHF radar will perform a scan  
+along the Hankasalmi-Tromso path to measure the electron density to enable raytracing  
+analysis of the HF radar propagation path. The requested time is over-scheduled and  
+cancellation will occur depending on geophysical conditions and resources consumed. Quiet  
+conditions are preferred. Typically only 4 hours out of each 6 hour block will be run, probably  
+either 10-14 UT or 12-16 UT. The AAEV experiment could be run if CRASE is cancelled, or  
+vice-versa.  

@@ -1,0 +1,45 @@
+experiment PHOCUS
+instrument VHF
+start 2011 07 28 1100
+end 2011 07 28 1500
+status R
+description Support of the PHOCUS rocket from Esrange
+contact Jonas Hedin
+phone +46-8-164232
+email jonash@misu.su.se
+fax +46-8-157185
+operator Jonas Hedin
+submitter Stephan Buchert
+resources SW(93),GE(31)
+notes
+PHOCUS (Particles, Hydrogen and Oxygen Chemistry in the Upper
+mesopshere in Summer) addresses basic questions of the polar summer
+mesosphere. Major science objectives concern the interaction of
+mesospheric particles (ice and meteoric smoke) with their neutral and charged 
+environment. A major rocket payload will be launched carrying 17 scientific 
+instruments from seven research groups: Stockholm University and Chalmers 
+Technical University (Sweden), Leibniz-Institute for Atmospheric Physics
+(Germany), University of Tromsø and Norwegian Defense Research
+Establishment (Norway), Technical University Graz (Austria), and
+University of Colorado (USA). The launch is planned for daytime
+conditions, i.e. with the Sun well above the horison. The rocket will
+be complemented by ground-based measurements, in particular local
+measurements of noctilucent clouds (NLC) by the Esrange lidar and of
+polar mesosphere summer echoes (PMSE) by the ESRAD radar.
+
+There are two major interests in using EISCAT data:
+
+- The presence and characteristics of polar mesosphere summer echoes.
+> PMSE will be monitored with ESRAD at 52 MHz.
+EISCAT can provide complementary measurements at 224 and 930 MHz. This
+allows a study of the frequency dependence of PMSE, which has been
+shown to provide important information of the properties of the
+mesospheric ice particle population.
+
+- Characterisation of the background state of the ionosphere. A better
+understanding of the interactions of ice and smoke particles with the
+electrons and ions of the ionospheric D-region is a major objective of
+PHOCUS. EISCAT can provide us with ionisation conditions and electron
+densities as well as their temporal development. This will be
+co-analysed with in-situ measurements of the charge state of
+mesospheric particles.

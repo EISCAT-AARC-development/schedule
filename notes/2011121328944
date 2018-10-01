@@ -1,0 +1,19 @@
+experiment ANIS
+instrument HEA
+start 2011 12 13 0900
+end 2011 12 13 1300
+status R
+description Active Negative Ion Survey
+contact Antti Kero
+phone +358442894669
+email antti.kero@sgo.fi
+operator Antti Kero
+submitter Antti Kero
+resources FI(30)
+notes
+Exploiting the capability of the newly upgraded EISCAT Heating facility, we'll design and use a new set of 
+heating experiments dedicated to produce Artificial Periodic Irregularities (API) in the negative ion 
+dominated D-region ionosphere. The traditional API method is improved by sophisticated radar 
+techniques, such as measuring the Faraday rotation. The VHF radar is necessary for monitoring the 
+ionospheric conditions. These measurements are carried out in collaboration with simultaneous ECOMA 
+experiments.

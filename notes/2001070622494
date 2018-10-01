@@ -1,0 +1,27 @@
+experiment ION2
+instrument ESR
+start 2001 07 06 0700
+end 2001 07 06 1100
+status R
+description Common volume observations with ESR and VHF
+contact Satonori Nozawa
+phone +81 52 789 4303
+email nozawa@stelab.nagoya-u.ac.jp 
+fax +81 52 789 4311
+operator Y Ogawa
+resources NI(4)
+submitter Tony van Eyken
+notes
+Concerning the VHF radar operation which we plan to run on July 6 and 7  
+(together with ESR 42 m), we have the following two requests  in order to   
+observe the "SAME" common volume with the ESR 42 m  at two altitudes of   
+665 and 800 km. This is a kind of extension of our previous SP (see Ogawa   
+et al.,  GRL, 27, 81-84, 2000).  
+  
+First, we like to steer the VHF radar beam about 4.7 degrees to the west of   
+north. Second, we like to operate two panels with an elevation angle of 30.0  
+degrees to the north and the rest of panels with an elevation angle of 37.9   
+degrees to the north.   
+  
+It is very  essential to observe the SAME common volume with ESR and VHF radars.  
+

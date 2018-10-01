@@ -1,0 +1,13 @@
+experiment PMSE
+instrument HEA
+start 2008 06 18 0800
+end 2008 06 18 1200
+status R
+description Polar mesospheric summer echoes campaign
+contact Cesar La Hoz
+phone 47-77645161
+email cesar.la.hoz@phys.uit.no
+fax 47-77645580
+operator Cesar La Hoz
+submitter Cesar La Hoz
+resources NO(50)

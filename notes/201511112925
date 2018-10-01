@@ -1,0 +1,26 @@
+experiment SP_PATCH
+instrument ESR
+start 2015 11 11 2000
+end 2015 11 11 2400
+status R
+description Observations of vertical motion of polar cap patches
+contact Jun Sakai
+phone +81-42-443-5299
+email sakai@ssre.uec.ac.jp
+fax +81-42-443-5293
+operator ESR staff
+submitter Y. Ogawa
+resources NI(12)
+notes
+We plan to observe vertical motion of polar cap patches with ESR.
+We prefer good weather conditions during nights for possible 
+comparison with the simultaneously operating optical instruments 
+at KHO.
+
+EROS commands:
+
+pointdir 90 75
+run /kst/exp/beata/beata fm patch NI
+enablerec all
+
+

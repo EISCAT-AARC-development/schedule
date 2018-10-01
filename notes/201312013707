@@ -1,0 +1,19 @@
+experiment PCF
+instrument ESR
+start 2013 12 01 0800
+end 2013 12 01 1100
+status R
+description Polar Cap Flow and Polar Cap Patches
+contact Kjellmar Oksavik
+phone +47 - 55 58 83 38
+email kjellmar.oksavik@uib.no
+operator Kjellmar Oksavik
+submitter Kjellmar Oksavik
+resources NO(15)
+notes
+This experiment will study polar cap flow and polar cap patches along the 
+dayside auroral oval. The 32m beam will be pointed in various directions 
+depending on activity, using a combination of azimuth scans and fixed 
+positions. The experiment will also use data from GNSS scintillation and TEC 
+receivers that have been recently installed at Bjørnøya, Hopen, Ny-Ålesund and 
+Longyearbyen.

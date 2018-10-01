@@ -1,0 +1,18 @@
+experiment SP-GE-CP1
+instrument UHF
+start 2000 11 02 1500
+end 2000 11 02 2000
+status R
+description Heating exp for artificial airglow and enhanced temperatures
+contact M. Kosch
+phone +49 5556 979 409
+email kosch@linmpi.mpg.de 
+fax +49 5556 979 240
+operator M. Rietveld
+resources GE(30)
+submitter M. T. Rietveld
+notes
+Combined GE and UK campaign to measure HF-excited airglow and electron                
+temperatures, with possible participation by other associates. UHF radar                
+and HF facility required. If no UHF available, then VHF may be considered.            
+

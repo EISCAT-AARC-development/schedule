@@ -1,0 +1,20 @@
+experiment FR wind
+instrument TRO
+start 2007 08 15 0000
+end 2007 08 17 0800
+status R
+description Using CP2 like program the observations are planned to study neutral wind
+contact wlodek kofman
+phone +33674447449
+email wlodek.kofman@obs.ujf-grenoble.fr
+fax +33476514146
+operator wlodek kofman
+submitter wlodek Kofman
+resources FR(24)
+notes
+We ask 3 times 8 hours starting time at 0000UT and finishing at 0800UT. 
+Preferentially on 14/08, 16 and 17. The idea is to rur our observation when 
+common program runs in ESR.
+
+Eiscat will have to send invoice. It will be good to have this invoice before 
+the end of this year.Wlodek Kofman will be alone and will need some help.

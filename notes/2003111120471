@@ -1,0 +1,15 @@
+experiment CP2
+instrument UHF
+start 2003 11 11 0900
+end 2003 11 16 1500
+description LTCS
+contact I Häggström
+email ingemar@eiscat.com
+operator I Häggström
+submitter I Häggström
+notes
+cd /kst/exp/tau2pl
+runexp tau2pl 08:00 cp2
+kir runexp tau2pl 08:00 cp2
+sod runexp tau2pl 08:00 cp2
+

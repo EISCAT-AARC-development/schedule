@@ -1,0 +1,13 @@
+experiment IPS
+instrument UHF
+start 2000 05 10 0800
+end 2000 05 28 1000
+status R
+description UK IPS operations in conunction with the Merlin interferometer
+contact Andy Breen
+phone +44 1970 622814
+email azb@aber.ac.uk 
+fax +44 1970 622826
+operator Philip Moran
+resources UK(100)
+submitter Philip Moran

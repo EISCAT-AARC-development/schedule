@@ -1,0 +1,14 @@
+experiment Stud2017
+instrument HEA
+start 2017 03 03 0900
+end 2017 03 03 1100
+status R
+description Student experiments aimed at introducing masters students to ionospheric physics and IS-radar research
+contact Björn Gusavsson
+phone +4777645668
+email bgu001@uit.no
+operator Björn Gustavsson
+submitter Björn Gustavsson
+resources NO(20)
+notes
+Some cancelation is expected to account for schedules and physical conditions

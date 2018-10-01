@@ -1,0 +1,45 @@
+experiment ePOP
+instrument ESR
+start 2014 09 01 0730
+end 2014 09 01 1000
+status R
+description ePOP satellite - EISCAT coordinated observations of atmospheric outflow phenomena
+contact Hajime HAYAKAWA
+phone +81-050-336- 2627
+email hayakawa@isas.jaxa.jp
+fax +81-050-336- 26279
+operator ESR site staff
+submitter Y. Ogawa (yogawa@nipr.ac.jp)
+resources NI(25)
+notes
+We conduct ePOP-ESR coordinated observations 
+to investigate upflowing/outflowing ion and 
+neutral particles in the cusp region.
+
+
+EROS commands for this SP are:
+
+run /kst/exp/beata/beata lm fixed42p NI
+enablerec all
+
+
+ESR  2014-09-01 07:30 - 10:00 UT (2.5 hours)
+ePOP 2014-09-01 07:47:47
+ePOP 2014-09-01 09:31:18
+
+ESR  2014-09-02 07:20 - 09:50 UT (2.5 hours)
+ePOP 2014-09-02 07:43:40
+ePOP 2014-09-02 09:27:10
+
+ESR  2014-09-02 07:10 - 09:40 UT (2.5 hours)
+ePOP 2014-09-03 07:39:33
+ePOP 2014-09-03 09:23:01
+
+ESR  2014-09-02 07:00 - 09:30 UT (2.5 hours)
+ePOP 2014-09-04 07:35:25
+ePOP 2014-09-04 09:18:52
+
+ESR  2014-09-02 07:00 - 09:30 UT (2.5 hours)
+ePOP 2014-09-05 07:31:17
+ePOP 2014-09-05 09:14:42
+

@@ -1,0 +1,19 @@
+experiment PsA_C
+instrument TRO
+start 2018 02 14 2300
+end 2018 02 15 0400
+status R
+description Observation of ionospheric current during pulsating aurora
+contact Keisuke HOSOKAWA
+phone  +81-42-443-5299
+email keisuke.hosokawa@uec.ac.jp
+fax +81-42-443-5293
+operator Yasunobu OGAWA
+submitter Satonori NOZAWA
+resources NI(13)
+notes
+PIs of the SP: Keisuke Hosokawa (UEC)
+We will conduct radar observations of conduntance during pulsating aurora
+using the EISCAT UHF system to investigate ionospheric current associated
+with pulsating aurora. We prefer good weather condition for simultaneous
+optical observations.

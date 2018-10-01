@@ -1,0 +1,15 @@
+experiment CUSP
+instrument ESR
+start 1999 12 04 0500
+end 1999 12 04 1100
+status R
+description Studies of the Cusp Region in association with CUTLASS and other instruments
+contact Mark Lester
+phone +44 116 2523580
+email mle@ion.le.ac.uk 
+fax +44 116 2523555
+operator George Millward
+resources UK(11)
+submitter Ken Freeman
+notes
+Field-aligned GUP3 observations using the second Svalbard antenna.

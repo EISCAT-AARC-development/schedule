@@ -1,0 +1,17 @@
+experiment AAE
+instrument HEA
+start 2013 10 25 1600
+end 2013 10 25 1830
+status R
+description Aspect angle effect
+contact Roman Yurik
+email Roman.Yurik@pgi.ru
+operator Roman Yurik
+submitter I Häggström
+resources PP(12)
+notes
+Sounding of the high-latitude ionosphere by signals of the global navigation
+satellite system GLONASS for research of the aspect angle effect at the region
+of heating by powerful HF radio wave injection of the EISCAT's ionospheric
+Heating facility.
+

@@ -1,0 +1,15 @@
+experiment MIDAS-PMSE
+instrument VHF
+start 2001 06 12 2000
+end 2001 06 26 0200
+status R
+description study PMSE in conjunction with rocket launches and lidar measurements from And%F8ya
+contact Ulf-P Hoppe
+phone 63 80 72 87
+email uph@ffi.no 
+fax 63 80 72 12
+operator G.O.L. Jones
+resources NO(20)
+submitter Ulf-P Hoppe
+notes
+Existing programme by BAS, G.O.L. Jones. We wish to add 20 hours of Norwegian SP time to this programme, for the VHF radar to be on the air (if possible) every night from 20 to 02 UT, starting on 12. June. -  I am very sorry that I did not file this request earlier!

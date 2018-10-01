@@ -1,0 +1,28 @@
+experiment THEMIS
+instrument ESR
+start 2010 09 18 1900
+end 2010 09 18 2300
+status R
+description EISCAT experiments in support of THEMIS, ARTEMIS and Cluster
+contact Robert Fear
+phone +441162523548
+email rcf11@ion.le.ac.uk
+fax +441162523555
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(4)
+notes
+Rob suggests covering two satellite passes in September.  The first is a THEMIS 
+magnetopause crossing around 09:30 on September 22nd, with footprint close to 
+the ESR.  He also suggests covering one of the four ARTEMIS tail passes which 
+are September 16th (16-20 UT), 18th (19-23 UT), 21st (17-21 UT) and 23rd (21-01 
+UT).
+
+I have requested the pass on the 18th, since the MLT is such that EISCAT will be 
+nicely in the midnight sector, and hence best positioned for the study of tail 
+processes.
+
+Radar modes should be the same as normal for AA experiments, with VHF on 
+boresight at 30 degrees elevation and the ESR 32m in LowElNorth mode with 4:1 
+interleaving or similar between the two dishes (32m:42m).
+

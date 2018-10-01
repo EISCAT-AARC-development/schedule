@@ -1,0 +1,15 @@
+experiment TomoScand
+instrument ESR
+start 2013 11 28 1100
+end 2013 11 28 1400
+status R
+description Verification of TomoScand ionospheric tomography 
+contact Lassi Roininen
+phone +358404827773
+email lassi.roininen@me.com
+operator Alexander Kozlovsky
+submitter Lassi Roininen
+resources FI(3)
+notes
+Verification of TomoScand ionospheric tomography reconstructions against EISCAT VHF and UHF + KAIRA
+

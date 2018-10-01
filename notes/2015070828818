@@ -1,0 +1,13 @@
+experiment PMSE2015
+instrument KIR
+start 2015 07 08 1200
+end 2015 07 08 1600
+status R
+description PMSE VHF tristatic + heating + UHF
+contact Cesar La Hoz
+phone 99774769
+email cl146@cornell.edu
+fax 99999999
+operator LA HOZ
+submitter LA HOZ
+resources NO(96)

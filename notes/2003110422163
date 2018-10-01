@@ -1,0 +1,19 @@
+experiment Heat_LT
+instrument VHF
+start 2003 11 04 0800
+end 2003 11 04 1400
+status R
+description Heating for Langmuir turbulence
+contact M. Rietveld
+phone 0049 5556 979234
+email rietveld@linmpi.mpg.de
+fax 0049 5556 979240
+operator B. Isham
+submitter M. T. Rietveld
+resources GE(30)
+notes
+Heating for Langmuir turbulence effects,
+i.e. plasma and ion-line measurements.
+
+The two hours from 06-08 are likely to be arc_dlayerv to make up the 6-hour minimum.
+The EISCAT special time (30 hours total) is from B. Isham.

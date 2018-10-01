@@ -1,0 +1,21 @@
+experiment E_STRUCT
+instrument VHF
+start 2009 06 16 1700
+end 2009 06 16 2200
+status R
+description Study of electron density irregularity structures responsible for radio waves scintillation
+contact BIAGIO FORTE
+phone +386 5 3315 215
+email biagio.forte@p-ng.si
+fax + 386 5 3315 240
+operator Ingemar Häggström
+submitter Lisa Baddeley
+resources TNA(24)
+notes
+The experiment will run the UHF tri-static in combination with the VHF.  The
+experiment will observe small scale plasma density irregularities in the
+ionoshere which cause transionospheric radio waves to experience random
+fluctuations in amplitude and phase.
+The experiment will combine data from EISCAT with VHF/UHF beacon signals from
+polar orbiting satellites, L band signals from GPS satellites, and the SuperDARN
+radars.

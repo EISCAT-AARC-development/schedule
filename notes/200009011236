@@ -1,0 +1,17 @@
+experiment IPS
+instrument UHF
+start 2000 09 01 1100
+end 2000 09 01 1200
+status R
+description IPS
+contact M. Rietveld
+phone +49 5556 979 234
+email rietveld@linmpi.mpg.de 
+fax +49 5556 979 240
+operator UK person (R. Fallows ?)
+resources GE(10)
+submitter M. Rietveld
+notes
+German time for IPS measurements.  
+The time given above is just a place-holder: they will be scheduled by the UK group.  
+

@@ -1,0 +1,15 @@
+experiment ArcHeating
+instrument HEA
+start 2002 11 02 1900
+end 2002 11 02 2100
+status R
+description Heating induced perturbations of the ionospheric conductivity near an auroral arc
+contact Thomas Leyser
+phone +46-18-471 5941
+email thomas.leyser@irfu.se
+fax +46-18-471 5905
+operator Mike Rietveld
+submitter Thomas Leyser
+resources SW(10)
+notes
+Required conditions: Darkness, clear skies, ionospheric critical frequency larger than 4 MHz

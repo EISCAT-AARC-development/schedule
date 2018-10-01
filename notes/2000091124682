@@ -1,0 +1,15 @@
+experiment SP-UK-HEAT
+instrument UHF
+start 2000 09 11 1900
+end 2000 09 11 2200
+status R
+description Measurement of Spectral Widths of CUTLASS Backscatter from Heater Generated Irregularities
+contact Terry Robinson
+phone +44 116 252 3562
+email txr@ion.le.ac.uk 
+fax +44 116 252 3555
+operator Nigel Wade
+resources UK(20)
+submitter Ken Freeman
+notes
+CP-1-K with pulsed Heater cycle.

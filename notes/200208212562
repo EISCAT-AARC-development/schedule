@@ -1,0 +1,22 @@
+experiment BISTATIC
+instrument ESR
+start 2002 08 21 0700
+end 2002 08 21 1100
+status R
+description Experiment for ion upflow study using ESR and KST VHF
+contact Ryoichi Fujii
+phone +81-52-789-4309
+email rfujii@stelab.nagoya-u.ac.jp
+fax +81-2-789-4311
+operator Y. Ogawa & H. Iwahashi
+submitter Ryoichi Fujii
+resources NI(24)
+notes
+The SP intervals and radars to be used are:
+Aug. 21 (Wed) 07-11 UT (ESR, VHF radar)
+Aug. 23 (Fri) 07-11 UT (ESR, VHF radar)
+Aug. 26 (Mon) 07-11 UT (ESR, VHF radar)
+Aug. 27 (Tue) 07-11 UT (ESR, VHF radar)
+Aug. 28 (Wed) 07-11 UT (ESR, VHF radar)
+Aug. 29 (Thu) 07-11 UT (ESR, VHF radar)
+We will share the SP times with Sweden (half from Japan and the other half from Sweden.

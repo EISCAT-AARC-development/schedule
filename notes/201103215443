@@ -1,0 +1,13 @@
+experiment CP6
+instrument VHF
+start 2011 03 21 0800
+end 2011 03 23 2300
+status C
+description Meteors
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)
+notes
+World Day, see http://www.eiscat.se/Members/ingemar/skedule/WD2011.htm

@@ -1,0 +1,18 @@
+experiment L mode
+instrument TRO
+start 2015 11 02 1445
+end 2015 11 02 1515
+status R
+description Investigation of the magnetic zenith effect during HF pumping of the ionosphere, particularly the possible role of L-mode propagation. 
+contact Thomas Leyser
+phone +46-18-471 5941
+email thomas.leyser@irfu.se
+fax +46-18-471 5905
+operator Björn Gustavsson
+submitter Thomas Leyser
+resources SW(30),NO(15)
+notes
+This experiment is a conjunction of the Cassiope satellite with the direction of the Heating beam at 14:58 
+UT. The main purpose is to study the magnetic zenith effect during ordinary mode HF pumping of the 
+quiet ionospheric plasma, especially possible L-mode propagation to bring about the self focusing of the 
+pump wave. The pump frequency needs to be below the ionospheric critical frequency.

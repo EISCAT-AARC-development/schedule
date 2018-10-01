@@ -1,0 +1,15 @@
+experiment FAST
+instrument ESR
+start 2002 03 08 1030
+end 2002 03 08 1430
+status R
+description FAST Conjunction
+contact Anja Stromme
+phone +1 650 859 2298
+email anja@phys.uit.no 
+fax +1 650 322 2318
+operator Anja Stromme
+resources NO(4)
+submitter Anja Stromme
+notes
+Common Program 2

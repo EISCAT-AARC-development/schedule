@@ -1,0 +1,13 @@
+experiment Meteors
+instrument VHF
+start 2009 01 01 0200
+end 2009 01 01 1000
+status R
+description Seasonal study of the meteor flux at high latitude
+contact Diego Janches
+phone 303-415-9701
+email diego@cora.nwra.com
+fax 303-415-9702
+operator Lisa Badelley
+submitter Diego Janches
+resources 3P(36)

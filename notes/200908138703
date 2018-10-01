@@ -1,0 +1,19 @@
+experiment sp_ni_wind
+instrument ESR
+start 2009 08 13 0700
+end 2009 08 13 1200
+status R
+description Study on the neutral wind dynamics with the ESR CP2 experiment 
+contact Takuo Tsuda
+phone +81-52-789-4307
+email ttsuda@stelab.nagoya-u.ac.jp
+fax +81-52-789-4311
+operator T. Tsuda and Y. Ogawa
+submitter Y. Ogawa (yogawa at nipr.ac.jp)
+resources NI(21)
+notes
+This experiment aims to investigate acceleration mechanism of the lower 
+thermospheric neutral wind by magnetospheric energy input (i.e. Joule heating 
+and ion drag effects). CP2 mode will be used for the ESR observation to obtain 
+data of the neutral wind velocity vector in the lower thermosphere. We prefer 
+geomagnetic disturbed conditions.

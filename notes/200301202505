@@ -1,0 +1,18 @@
+experiment MaCWAVE
+instrument VHF
+start 2003 01 20 0900
+end 2003 01 20 1700
+status R
+description A support for the NASA rocket campaign to be held at Esrange
+contact Evgenia Belova
+phone +46 980 79112
+email belova@irf.se
+fax +46 980 79050
+operator Evgenia Belova/Brett Isham(to be confirmed)
+submitter Evgenia Belova
+resources SW(30)
+notes
+ There will be 2 rocket sequences (2 days), each of 12 hourly rockets. Americans got a launch window from January 20th for 2-3 weeks. 
+They will launch rockets at midday when it will be good weather conditions for 
+lidar observations. Thus, I can't plan in advance at what day and time the EISCAT experiment will start. Therefore I ask to give this experiment a first priority and reserve for it 8 hours (09-17) every day for interval Jan.20-Feb.9.
+In fact it will be 2 days for 8-14 hours = 16-28 hours.

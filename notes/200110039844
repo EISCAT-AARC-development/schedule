@@ -1,0 +1,13 @@
+experiment MAINTENANCE
+instrument SOD
+start 2001 10 03 1200
+end 2001 10 06 2359
+status R
+description Installation of new front end filters at Sodankyl%E4 UHF 
+contact Gudmund Wannberg
+phone +46-980-78707
+email ugw@eiscathq.eiscat.com 
+fax +46-980-78709
+operator Gudmund Wannberg
+resources Sodankyla UHF
+submitter Gudmund Wannberg

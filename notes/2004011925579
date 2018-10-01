@@ -1,0 +1,18 @@
+experiment day_arcs
+instrument ESR
+start 2004 01 19 0900
+end 2004 01 19 1200
+status R
+description Studies of dayside aurora together with all-sky and TV camera
+contact Hans Nilsson
+phone +4698079127
+email hans.nilsson@irf.se
+fax +4698079050
+operator Hans Nilsson
+submitter Hans Nilsson
+resources SW(20),FI(7)
+notes
+Must be run in conjunction with the EISCAT VHF radar 
+Steerable antenna pointed west 
+Fixed antenna will also be used 
+Conjugate with Barentsburg TV camera and FMI all-sky camera 

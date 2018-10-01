@@ -1,0 +1,15 @@
+experiment GPS-TIDS
+instrument VHF
+start 2001 04 26 0900
+end 2001 04 27 0900
+status R
+description TID measurements and GPS TEC measurements
+contact K. Schlegel
+phone +49 5556 979 469
+email schlegel@linmpi.mpg.de 
+fax +49 5556 979 240
+operator M. Rietveld
+resources GE(12)
+submitter M. Rietveld
+notes
+Additional cp7hv for GPS/TID campaign

@@ -1,0 +1,16 @@
+experiment Fin-aurora
+instrument UHF
+start 2001 02 15 1800
+end 2001 02 16 0003
+status R
+description http://spaceweb.oulu.fi/campaigns/Feb2001/
+contact Hannu Holma
+phone +358-8-5531367
+email Hannu.Holma@oulu.fi 
+fax +358-8-5531287
+operator Thomas Ulich
+resources FI(65)
+submitter Hannu Holma
+notes
+The campaign is planned to be straightly after the Cluster-pool experiment.   
+50 Experiments hours have been transferred from the previous year.

@@ -1,0 +1,23 @@
+experiment CHAMP_cusp
+instrument ESR
+start 2006 10 05 0700
+end 2006 10 05 1100
+description CHAMP cusp conjunctions campaign on thermospheric upwelling
+contact Stefanie Rentz, M. Foerster
+phone +49-331-2881882
+email stefanie@gfz-potsdam.de
+fax +49-331-2881235
+operator S.Rentz
+submitter Matthias Foerster
+notes
+CHAMP-cusp (01-14 Oct 2006)
+The campaign intends to perform more systematic studies on thermospheric
+upwelling within the cusp region during conjunctions of the CHAMP satellite with
+the radar ionospheric observation volume. First of all ESR radar will be used,
+if available together with VHF looking into about the same volume.
+The request is preliminary, and subject to more precise orbit predictions of the
+CHAMP satellite about one month prior to the campaign. It is overbooked, i.e.
+cancellations will be done, because only nearby (more closer) satellite passages
+will be actually used, which are expected about every second day.
+
+

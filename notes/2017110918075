@@ -1,0 +1,22 @@
+experiment ARASE_UHF
+instrument TRO
+start 2017 11 09 1200
+end 2017 11 09 1600
+status R
+description Coordinated observations of ERG (Arase) and EISCAT
+contact Yoshizumi Miyoshi
+phone 052-747-6340
+email miyoshi@isee.nagoya-u.ac.jp
+fax 052-747-6340
+operator Antti Kero
+submitter Y. Ogawa
+resources NI(4)
+notes
+We conduct coordinated observations of ERG (Arase) and EISCAT under a
+geomagnetic storm.
+
+EROS commands:
+run /kst/exp/beata/beata fm ei/sweep_aa NI
+enablerec
+
+

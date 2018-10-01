@@ -1,0 +1,14 @@
+experiment OSD
+instrument TRO
+start 2015 10 22 1100
+end 2015 10 22 2200
+status R
+description Obsrevation of space debris
+contact Wu Jun
+email wujun1969@163.com
+operator Wu Jun
+submitter Wu Jun
+resources CN(11)
+notes
+To conduct the obsrevation of space debris synchronously using ESR and TRO. 
+Azimuth：90Deg；Elevation：75Deg

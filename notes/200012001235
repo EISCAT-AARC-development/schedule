@@ -1,0 +1,20 @@
+experiment CP1L + CLUSTER
+instrument ESR
+start 2000 10 13 1500
+end 2000 10 014 1500
+status C
+description CLUSTER co-ordination
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com
+fax +47 790 21751
+operator Tony van Eyken
+resources CP(24)
+submitter Tony van Eyken
+notes   
+Combined experiment for high altitude, CLUSTER and cusp passage            
+1500-1700 CP1L (42m)
+1700-2400 CP1L (42m) plus Sondrestromfjord scan on 32m for CLUSTER
+2400-0400 CP1L (42m)
+0400-1200 CP1L (42m) plus low evevation North on 32m
+1200-1500 CP1L (42m)

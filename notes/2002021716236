@@ -1,0 +1,13 @@
+experiment Airglow
+instrument HEA
+start 2002 02 17 1600
+end 2002 02 17 1900
+description HF pump-enhanced airglow in the ionosphere
+contact Thomas Leyser
+phone +46 18 471 5941
+email tbl@irfu.se 
+fax +46 18 471 5905
+operator Mike Rietveld
+submitter Thomas Leyser
+notes
+Needs darkness, clear skies, critical frequencies greater than 4MHz

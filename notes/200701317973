@@ -1,0 +1,28 @@
+experiment steffe_AA
+instrument ESR
+start 2007 01 31 1000
+end 2007 01 31 1400
+status R
+description ESR experiment in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(4)
+notes
+In January 2007 the orbit plane of Cluster is at roughly 45 degrees to the Sun-
+Earth line, and conjunctions with EISCAT typically occur in the time sector 11-
+13 UT (post-noon sector).  The three requested periods correspond to times of 
+possible magnetopause crossings with magnetic conjugacy close to EISCAT.
+They are January 5th 09-13 UT, January 12th 10-14 UT and January 31st 10-14 UT.
+On the 12th, the ESR is already requested for an auroral/optical expriment, so 
+we are just requesting VHF coverage to supplement the ESR data from the SP 
+which will use (at least) the field-aligned beam from the 42m dish.
+
+It should be noted that Cluster is undergoing a succession of orbit manoeuvres 
+at the beginning of 2007 and so some checking will need to be done once the 
+planning of these manoeuvres is clear, to make sure that there are no conflicts 
+between these selected intervals and possible interruptions to Cluster data-
+taking associated with the manoeuvres.

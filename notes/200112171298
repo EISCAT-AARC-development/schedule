@@ -1,0 +1,15 @@
+experiment SP-PCIP-NO
+instrument TRO
+start 2001 12 17 0600
+end 2001 12 17 1100
+status R
+description Study of Polar Cap Ionospheric Patches
+contact Joran Moen
+phone +4722855666
+email jmoen@fys.uio.no 
+fax +4722855671
+operator Joran Moen
+resources NO(35)
+submitter Joran Moen
+notes
+We have already requested ESR-1 and VHF-split beam. We would like to optimize our polar cap patch formation studies by also operating the UHF antenna, either in a fixed beam adding a third leg to the VHF convection experiment over Svalbard, or operate it in a windshield wiper mode.   

@@ -1,0 +1,15 @@
+experiment MORROCAL
+instrument VHF
+start 2012 08 20 0800
+end 2012 08 20 1300
+status R
+description MORRO Calibration
+contact Henry Pinedo
+phone 77645153
+email henry.pinedo@uit.no
+operator Cesar La Hoz
+submitter Henry Pinedo
+resources NO(5)
+notes
+Calibration and maintenance of MORRO radar (56MHz)
+For details please contact Cesar La Hoz (cesar.la.hoz@uit.no) or Henry Pinedo (henry.pinedo@uit.no)

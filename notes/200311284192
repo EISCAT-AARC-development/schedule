@@ -1,0 +1,19 @@
+experiment tristatic
+instrument UHF
+start 2003 11 28 1630
+end 2003 11 29 0430
+description Co-located tristatic FPIs and EISCAT radar observation of ion-neutral coupling
+contact Anasuya Aruliah
+phone +44 20 7679 9023
+email a.aruliah@ucl.ac.uk
+fax +44 20 7679 9024
+operator Vikki Howells
+submitter Anasuya Aruliah
+notes
+This is the second experiment investigating ion-neutral coupling at an 
+altitude in the region 250-300km using three FPIs and the three EISCAT radars 
+to view the same volume. The dynamics of ion drag on the neutrals and energy 
+dissipation will be studied using this unique geometric configuration which 
+gives independent tristatic measurements of the ionosphere and thermosphere. Cloud-free and moonless skies are required.
+
+

@@ -1,0 +1,15 @@
+experiment CP6
+instrument VHF
+start 1999 06 22 0800
+end 1999 06 23 1400
+status C
+description Common programme (non-co-ordinated)
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(30)
+submitter Tony van Eyken
+notes
+requires un-phased antenna, both klystrons, parallelled cap bank.

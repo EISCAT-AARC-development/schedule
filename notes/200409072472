@@ -1,0 +1,18 @@
+experiment IOFH
+instrument UHF
+start 2004 09 07 0800
+end 2004 09 07 1200
+status R
+description Study of ion upflow using heating facility
+contact Yasunobu Ogawa
+phone +81-52-789-4308
+email yogawa@stelab.nagoya-u.ac.jp
+fax +81-52-789-4311
+operator Yasunobu Ogawa
+submitter Yasunobu Ogawa
+resources NI(6)
+notes
+In order to estimate force balance associated with ion upflow quantitatively, we
+will conduct EISCAT SP by using EISCAT UHF radars and ionospheric heating
+facility. The heater will be switched on/off at intervals of 10 minutes. CUTLASS
+HF radars will also run with a special mode. 

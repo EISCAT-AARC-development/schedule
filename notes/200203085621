@@ -1,0 +1,21 @@
+experiment tau0_pbie_UK@42m
+instrument ESR
+start 2002 03 08 2200
+end 2002 03 09 0200
+status R
+description Poleward Boundary Intensification Study.
+contact Ian Mann
+phone +44 1904 432240
+email ian@aurora.york.ac.uk 
+fax +44 1904 432214
+operator Paul Gallop
+resources UK(24)
+submitter Ken Freeman
+notes
+This experiment is an investigation into the role of Alfven waves in the        
+coupling between the auroral zone and the magnetotail. EISCAT observations will     
+be made in conjunction with optical and satellite measurements. It will employ    
+the UHF and VHF Radars on the Mainland and both Svalbard antennas. The VHF    
+Radar may be operated in single beam mode on 08/09 March, but for the remaining intervals (15/16, 17/18, and 27/28 March) operation in dual beam mode is     
+considered essential. The pulse codes are tau0 on the ESR, tau1 on the VHF     
+Radar and tau2 on the UHF Radar.

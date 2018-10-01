@@ -1,0 +1,15 @@
+experiment tau3_dmsp_3p@uhf
+instrument TRO
+start 2002 04 01 2100
+end 2002 04 02 0100
+status R
+description Scanning experiment for DMSP imager calibration
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk 
+fax +44-1235-445848
+operator Steve Crothers (tbc)
+resources 3P(36)
+submitter Ian McCrea
+notes
+3rd party experiment for calibration/validation of DMSP-F16 SSUSI imager performance.  Since DMSP-F16 has not yet been launched, this experiment will use the GUVI imager on TIMED, which is identical to SSUSI

@@ -1,0 +1,25 @@
+experiment CAPERRENU
+instrument ESR
+start 2015 11 27 0630
+end 2015 11 27 1100
+status R
+description ESR Support for the CAPER and RENU2 rocket campaigns
+contact Kjellmar Oksavik
+phone +47-92086971
+email kjellmar.oksavik@uib.no
+operator Kjellmar Oksavik
+submitter Kjellmar Oksavik
+resources 3P(30),NO(48),UK(12)
+notes
+This request is part of the international support for two NASA sounding 
+rockets: CAPER and RENU2. Both rockets will be launched from Andoya and over 
+the ESR, most likely on different days. Decisions about observation modes will 
+be made on the day of launch, according to weather conditions, launch 
+priorities at Andoya, etc. However, we expect to use 42m data in combination 
+with 32m data along the rocket track. 
+
+Observation time for this campaign is provided as follows:
+- Jim LaBelle’s third party allocation for CAPER
+- Marc Lessard’s third party allocation for RENU2
+- Tim Yeoman UK allocation
+- Kjellmar Oksavik/Lasse Clausen NO allocation

@@ -1,0 +1,18 @@
+experiment SPIDER
+instrument TRO
+start 2016 02 13 1800
+end 2016 02 14 0100
+status R
+description SPIDER sounding rocket
+contact Nickolay Ivchenko
+phone +46704970230
+email nickolay@kth.se
+operator N. Schlatter
+submitter N. Ivchenko
+resources SW(60)
+notes
+This is radar support of SPIDER sounding rocket experiment 
+with multipoint measurements of electric field and plasma
+parameters in the auroral electroject. We intend to run a 
+scanning mode on the UHF radar with a pattern covering the
+E region around the rocket apogee.

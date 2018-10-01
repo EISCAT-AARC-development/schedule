@@ -1,0 +1,19 @@
+experiment PTRANS_B
+instrument VHF
+start 2016 12 03 2300
+end 2016 12 05 1600
+status R
+description studying polar cap patches as they transit across the polar cap.
+contact Andrew Kavanagh / Ian McCrea
+phone 01223221314
+email andkav@bas.ac.uk
+operator TBC
+submitter Andrew J. Kavanagh
+resources UK(42)
+notes
+This experiment is intended to extend the world day run to increase chances of
+capturing polar cap patches transiting the cap. It is based on the PTRANS
+experiment of Alan Wood.
+
+It is expected that we would continue using the same experiment as the world day:
+runexp /kst/exp/bella/bella 0:0 lowel

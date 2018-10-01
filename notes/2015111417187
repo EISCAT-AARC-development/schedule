@@ -1,0 +1,17 @@
+experiment JH_hotspot
+instrument ESR
+start 2015 11 14 0900
+end 2015 11 14 1500
+status R
+description Joule heating hot spot in the afternoon sector
+contact Lei Cai
+phone +358409682510
+email lei.cai@oulu.fi
+operator Johannes Norberg and Heikki Vanhamäki
+submitter Lei Cai
+resources FI(18)
+notes
+The ESR radar will be run in CP2 mode, so that the electric field can be
+estimated. We want to calculate the Joule heating rate to study the local
+enhancement in the afternoon sector, so called the Joule heating hot spot.
+

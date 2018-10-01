@@ -1,0 +1,19 @@
+experiment KAIRA_UK
+instrument TRO
+start 2015 03 05 2300
+end 2015 03 06 0500
+status R
+description Riometry and polarimetry studies with EISCAT and KAIRA
+contact Anna Scaife
+phone +441612754519
+email a.scaife@soton.ac.uk
+operator tbd
+submitter Ian McCrea
+resources UK(6)
+notes
+This is a request for joint UHF/VHF experiments in connection with 
+observations of radio absorption and polarimetry rotation at KAIRA in 
+Kilpisjarvi.  The request is essentially a repeat of observations made in 
+2013, using a modified pointing geometry.  The experiment needs active 
+conditions.  Hence three intervals are being requested, but probably only one 
+of these will actually be run.

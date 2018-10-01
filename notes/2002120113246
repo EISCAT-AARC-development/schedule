@@ -1,0 +1,16 @@
+experiment CROCK
+instrument ESR
+start 2002 12 01 0600
+end 2002 12 01 1000
+status R
+description SP-NO-CROCK
+contact Jøran Moen
+phone 22855666
+email jmoen@fys.uio.no
+fax 22855671
+operator Jøran Moen
+submitter Joran Moen
+resources NO(16)
+notes
+This is joint experiment between UK, France, Germany, Sweden and Norway, co-ordinated by Tim Yeoman.
+ 

@@ -1,0 +1,28 @@
+experiment MIT_Aurora
+instrument VHF
+start 2015 02 17 2300
+end 2015 02 18 1000
+status R
+description MIT-coupled system in active aurora
+contact Shin-ichiro Oyama
+phone +81 52 747 4308
+email soyama@stelab.nagoya-u.ac.jp
+operator Shin-ichiro Oyama
+submitter Shin-ichiro Oyama
+resources NI(31),FI(10)
+notes
+PIs: Kazuo Shiokawa, Yoshizumi Miyoshi, Shin-ichiro Oyama (STEL), Esa Turunen (SGO)
+
+This experiment focuses on causality to produce hard-particle precipitation and
+its effects on the ionosphere, thermosphere, and atmosphere from midnight after
+substorm onset to the late morning. VHF (looking at north) and UHF (up B)
+collaborate with optical instruments at the site. Auroral activity in the clear
+sky is desirable. Two of the three UHF requests will be cancelled, dependent on
+the condition.
+
+
+The requested experiment windows are:
+Feb 16: 2300-2400 (VHF), 2300-2400 (UHF)
+Feb 17: 0000-1100, 2300-2400 (VHF), 0000-0500, 2300-2400 (UHF)
+Feb 18: 0000-1000, 2300-2400 (VHF), 0000-0500, 2300-2400 (UHF)
+Feb 19: 0000-1100 (VHF), 0000-0500 (UHF)

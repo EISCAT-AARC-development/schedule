@@ -1,0 +1,13 @@
+experiment Interball
+instrument HEA
+start 1998 11 13 1000
+end 1998 11 13 1200
+status R
+description Interball 2 pass
+contact Mike Rietveld
+phone +47 776 92171
+email mike@eiscat.uit.no 
+fax +47 776 92360
+operator Mike Rietveld
+resources GE(100)
+submitter Mike Reitveld

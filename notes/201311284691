@@ -1,0 +1,14 @@
+experiment TomoScand
+instrument VHF
+start 2013 11 28 1101
+end 2013 11 28 1400
+status R
+description Verification of TomoScand ionospheric tomography
+contact Lassi Roininen
+phone +358404827773
+email lassi.roininen@me.com
+operator Lassi Roininen
+submitter Lassi Roininen
+resources FI(12)
+notes
+Verification of TomoScand ionospheric tomography reconstructions against EISCAT VHF and UHF + KAIRA

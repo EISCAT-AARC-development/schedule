@@ -1,0 +1,16 @@
+experiment CLUSTER
+instrument ESR
+start 2001 12 11 0900
+end 2001 12 11 1400
+status C
+description Co-ordinated operations with CLUSTER
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(5)
+submitter Tony van Eyken
+notes
+Low elevation North + field aligned at ESR     
+Low elevation, single beam on the VHF

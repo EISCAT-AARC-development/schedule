@@ -1,0 +1,12 @@
+experiment POLA
+instrument ESR
+start 2013 02 04 2000
+end 2013 02 05 0400
+status R
+contact Jean Lilensten
+email jean.lilensten@obs.ujf-grenoble.fr
+operator Jean Lilensten
+submitter Frederic Pitout
+resources FR(72)
+notes
+Radar experiments in support of spectropolarimeter mesurements

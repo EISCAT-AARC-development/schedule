@@ -1,0 +1,25 @@
+experiment SCRAP14
+instrument TRO
+start 2014 03 22 1000
+end 2014 03 22 1600
+status R
+description Campaign in preparation of the REXUS launch 2015 from ESRANGE carrying the SCRAP experiment
+contact N. Schlatter
+email nmsc@kth.se
+operator N. Schlatter
+submitter N. Schlatter
+resources SW(12)
+notes
+REXUS is a rocket program for university students sponsored by SNSB and DLR. In
+2015 the so called SCRAP experiment will be flown within this program. SCRAP
+stands for 'scattering of radar waves on aerosols in plasma' and is built by
+students at KTH. The objective of the experiment is to test theories on dusty
+plasmas by measuring the UHF radar backscatter on a controlled cloud of aerosol
+particles.
+The campaign in March 2014 will be held in preparation for the REXUS launch
+campaing in spring 2015. We aim at measuring typical electron densities near the
+expected rocket apogee, approximately 80-85 km above ESRANGE, and to test
+suitable radar programs. Results will be used for modelling of the aerosol
+charging time and specific design requirements for the SCRAP experiment.
+
+Manda vs. 4 will be used.

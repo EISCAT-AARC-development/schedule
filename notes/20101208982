@@ -1,0 +1,17 @@
+experiment ape
+instrument VHF
+start 2010 12 08 1200
+end 2010 12 08 1400
+status R
+description Test runs of multi-purpose modulations
+contact Ilkka Virtanen
+phone +358 40 8247168
+email ilkka.i.virtanen@oulu.fi
+operator Ilkka Virtanen
+submitter Antti Kero
+resources FI(4)
+notes
+Test runs of multi-purpose modulations based on aperiodic transmission coding and raw data sampling.
+
+
+

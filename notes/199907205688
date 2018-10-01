@@ -1,0 +1,15 @@
+experiment outflows
+instrument VHF
+start 1999 07 20 1100
+end 1999 07 20 2300
+status R
+description CP7 run to repeat H+ outflow measurements
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Tony van Eyken
+resources NO(6), EI(6)
+submitter Tony van Eyken
+notes
+2 klystrons, parallelled cap-bank, antenna phased to one direction

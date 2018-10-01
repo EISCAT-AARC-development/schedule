@@ -1,0 +1,21 @@
+experiment Reimei_VHF
+instrument VHF
+start 2010 11 01 2200
+end 2010 11 02 0200
+status R
+description Reimei and EISCAT VHF coordinated observations
+contact M. Hirahara
+phone +81-3-5841-4582
+email hirahara@eps.s.u-tokyo.ac.jp
+fax +81-3-5841-8321
+operator S. Oyama
+submitter Y. Ogawa (yogawa at nipr.ac.jp)
+resources NI(4)
+notes
+We conduct coordinated EISCAT-Reimei observations of 
+nightside auroral phenomena. We will also run several 
+optical instruments (e.g., All sky and wide view TV 
+imagers) in the EISCAT Tromsoe site.
+CP-7 mode (with beata code) will be used for the VHF 
+radar.
+

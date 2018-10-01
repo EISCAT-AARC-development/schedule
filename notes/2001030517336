@@ -1,0 +1,12 @@
+experiment UHF beam swing
+instrument TRO
+start 2001 03 05 0600
+end 2001 03 06 1300
+status R
+contact F. Forme
+phone 33 1 39 25 49 19
+email forme@cetp.ipsl.fr 
+fax 33 1 39 25 49 22
+operator J. Lilensten
+resources fr(31)
+submitter F. Forme

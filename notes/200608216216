@@ -1,0 +1,13 @@
+experiment Panel
+instrument ESR
+start 2006 08 21 0700
+end 2006 08 31 2400
+description Repairing of the bad 32m panels
+contact I Haggstrom
+email ingemar@eiscat.se
+operator I Haggstrom
+submitter I Haggstrom
+notes
+Repair is weather dependent so not all three will be used.
+Probably the 42m antenna can be used, at hours not activily repairing.
+

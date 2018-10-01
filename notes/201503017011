@@ -1,0 +1,15 @@
+experiment SOLD
+instrument ESR
+start 2015 03 01 1700
+end 2015 03 01 2300
+status R
+description Studies of F-region irregularities  with simultaneous D-region measurements
+contact Martin Birch
+email mjbirch@uclan.ac.uk
+operator TBD
+submitter Andrew Kavanagh
+resources UK(24)
+notes
+Experiment during active conditions examining F-region topside irregularities
+(300-700 km) together with D-region observations. Coordinated with observations
+from the Lonyearbyen imaging riometer. 

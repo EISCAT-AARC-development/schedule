@@ -1,0 +1,12 @@
+experiment TEST 2
+radarprogramme no preference
+instrument VHF
+start 2002 10 09 1511
+end 2002 10 19 1511
+status R
+description this is another test
+contact Brett Isham
+email isham@eiscat.uit.no 
+operator nobody
+resources EI(0)
+submitter Brett

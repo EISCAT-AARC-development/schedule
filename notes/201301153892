@@ -1,0 +1,21 @@
+experiment UEC_Reimei
+instrument ESR
+start 2013 01 15 0700
+end 2013 01 15 1100
+status R
+description Reimei-ESR coordinated observations of ion upflows/Observation of rippled boundary in the cusp
+contact Takeshi Sakanoi
+phone +81-22-795-6609
+email tsakanoi@pparc.gp.tohoku.ac.jp
+fax +81-22-795-6406
+operator ESR staff and Y. Ogawa (at Tromso site)
+submitter Y. Ogawa (yogawa at nipr.ac.jp)
+resources NI(25)
+notes
+PI: S. Taguchi and T. Sakanoi
+
+We conduct ESR observations with elevation sweep modes to identify the
+spatio-temporal evolution of the rippled boundary in the cusp/polar cap electron
+density. This is also a comparative study of ion up/outflow using the Reimei
+satellite and ESR. 
+

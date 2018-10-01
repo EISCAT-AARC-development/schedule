@@ -1,0 +1,19 @@
+experiment airgl_GEUK
+instrument HEA
+start 2001 11 15 1600
+end 2001 11 15 2000
+status R
+description HF-induced airglow and Te enhancement etc.
+contact M. Kosch or M. Rietveld
+phone +49 5556 979 234
+email rietveld@linmpi.mpg.de  
+fax +49 5556 979 240
+operator A. Kavanagh
+resources GE(24)
+submitter M. T. Rietveld
+notes
+Combined GE/UK campaign for HF-enhanced airglow and Te.             
+cp1m or cp1l. Some experiments are likely to be cancelled,  
+or at least the HF part.  
+If not GE will increase its contribution of hours.  
+

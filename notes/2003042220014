@@ -1,0 +1,20 @@
+experiment TECSCINTIL
+instrument TRO
+start 2003 04 22 1800
+end 2003 04 23 0000
+status R
+description TEC and scintillations between ground & GPS satellites
+contact Gunnar Elgered
+phone +46 31 772 5565
+email kge@oso.chalmers.se
+fax +46 31 772 5590
+operator Ulf-Peter Hoppe
+submitter Gunnar Elgered
+resources SW(30)
+notes
+Modification of CP-3, with antenna to "track" selected GPS satellites. Will
+analyze data for TEC and Ne-gradients and compare with TEC and scintillations
+observed by GPS receivers. We apply for 30 Norwegian and 30 Swedish SP-hours.
+We plan eight more runs of six hours each in the time period May-June. 
+We ask for assistance to programme antenna movements. Similar application from Norway.
+

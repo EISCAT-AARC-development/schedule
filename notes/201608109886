@@ -1,0 +1,16 @@
+experiment BARREL16
+instrument VHF
+start 2016 08 10 1900
+end 2016 08 11 0100
+status R
+description Ground based support for the Balloon Array for Radiation Belt Relativistic Electron Losses (BARREL)
+contact Antti Kero
+phone +358442894669
+email antti.kero@sgo.fi
+operator Antti Kero
+submitter Antti Kero
+resources PP(32)
+notes
+Ground based support for the Balloon Array for Radiation Belt Relativistic
+Electron Losses (BARREL) campaign. We use vertically pointing VHF and the manda
+experiment (raw data sampling required).

@@ -1,0 +1,23 @@
+experiment SWARM_EFI
+instrument ESR
+start 2014 05 07 0930
+end 2014 05 07 1130
+status R
+description Support for validation/calibration of the Swarm Electric Field Instruments
+contact Stephan Buchert
+phone +46708566324
+email scb@irfu.se
+operator Stephan Buchert
+submitter Stephan Buchert
+resources SW(4)
+notes
+Three Swarm satellites were launched on November 22, 2013, into polar
+orbits. They carry Langmuir probes designed and built by IRF Uppsala and
+a new type of thermal ion imagers (TII) by the University of Calgary, PI
+David Knudsen. Together the LPs and TIIs form the electric field
+instruments (EFIs). From the EFI data electron density and temperature,
+ion drift vector and temperature and the electric field are derived,
+essentially the same parameters as EISCAT measures (but with very
+different spatial coverage and temporal resolutions).
+
+The experiment aims primarily at calibrating/validating the EFI data.

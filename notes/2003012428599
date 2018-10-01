@@ -1,0 +1,11 @@
+experiment TESTS
+instrument ESR
+start 2003 01 24 0700
+end 2003 01 24 1500
+status R
+description Testing of new softwares
+contact I Häggström
+email ingemar@eiscat.com
+operator A Westman
+submitter I Häggström
+resources MA(40)

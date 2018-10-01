@@ -1,0 +1,21 @@
+experiment Heat_LT
+instrument UHF
+start 2003 11 19 1500
+end 2003 11 19 1700
+status R
+description Heating for Langmuir turbulence
+contact M. Rietveld
+phone 0049 5556 979234
+email rietveld@linmpi.mpg.de
+fax 0049 5556 979240
+operator B. Isham/V. Belyey
+submitter M. T. Rietveld
+resources GE(30)
+notes
+Heating for Langmuir turbulence effects, i.e. plasma and ion-line measurements,
+together with Swedish/Japanese HF-optical emission campaign.
+The actual program is not yet decided (lt or tau2_pl) so whether
+remote sites are used is uncertain.
+
+These experiments should be joint GE:EI with the following hours: 30:30
+The EISCAT special time (30 hours total) is from B. Isham.

@@ -1,0 +1,12 @@
+experiment gyro
+instrument HEA
+start 2015 03 04 0900
+end 2015 03 04 1300
+status R
+description Measure the gyro line
+contact Cesar La Hoz
+phone +47-99774769
+email cl146@cornell.edu
+operator La Hoz
+submitter Cesar La Hoz
+resources NO(12)

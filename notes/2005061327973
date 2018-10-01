@@ -1,0 +1,16 @@
+experiment ANTII
+instrument VHF
+start 2005 06 13 0830
+end 2005 06 13 1230
+status R
+description Combined heating and arc-d for D-region heating effect studies
+contact Thomas Ulich
+phone 358-16-619842
+email thu@sgo.fi
+fax 358-16-619875
+operator Mike Rietveld
+submitter Thomas Ulich
+resources FI(4)
+notes
+At radar: Thomas Ulich; at Heating: Antti Kero. For details of the experiment, contact Antti Kero at 
+Sodankylä Geophysical Observatory, phone +358-16-619827, antti.kero@sgo.fi.

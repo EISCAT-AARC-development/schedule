@@ -1,0 +1,22 @@
+experiment EASI
+instrument ESR
+start 2010 05 06 0800
+end 2010 05 06 1200
+status R
+description Use of Radar Interferometry to Obtain High Resolution Svalbard Measurements.
+contact Nickolay Ivchenko
+phone +46 8 790 7692
+email nickolay@kth.se
+operator Vasyl Belyey
+submitter Hanna Dahlgren
+resources SW(4)
+notes
+The principal purpose of this experiment is to use radar interferometry to 
+obtain the highest spatial and temporal resolution possible from ESR 
+measurements. A complimentary objective is the study of naturally enhanced ion 
+acoustic lines (NEIALS).
+The experiment will employ both of the Svalbard antennas, together with 
+three recently installed panel arrays. It is the intention to use the LT4 
+pulse code.
+  This investigation is a collaboration with UK and with Norway, who will be 
+contributing 12 hours to the campaign.

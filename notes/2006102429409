@@ -1,0 +1,18 @@
+experiment ASK
+instrument UHF
+start 2006 10 24 1600
+end 2006 10 24 2400
+status R
+description EISCAT Joint Optical/Radar Winter Campaign
+contact Vikki Howells
+phone +44 1235 445044
+email V.S.C.Howells@rl.ac.uk
+fax +44 1235 445848
+operator Vikki Howells
+submitter Vikki Howells
+resources UK(36),SW(20)
+notes
+Optical campaign with the ASK (auroral structure and kinetics) instrument
+deployed at Tromso.
+Experiments to be used are arc, tau2pl and a new experiment to be developed
+Hours are from UK(36) SW(20) NO(?)

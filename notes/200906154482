@@ -1,0 +1,11 @@
+experiment arcDlayer
+instrument VHF
+start 2009 06 15 0900
+end 2009 06 15 1200
+status R
+description These experiments are for studies of the spatial wavelength dependence and spatial coherence of Polar Mesosphere Summer Echoes.
+contact M. Rapp
+email rapp@iap-kborn.de
+operator M. Rapp
+submitter R. Scherer
+resources GE(30)

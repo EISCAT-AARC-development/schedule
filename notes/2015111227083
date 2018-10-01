@@ -1,0 +1,18 @@
+experiment EMEnergyJ
+instrument SOD
+start 2015 11 12 0000
+end 2015 11 12 0400
+status R
+description The dissipation of the electromagnetic energy input from the magnetosphere
+contact Shin-ichiro Oyama
+phone +81 52 789 4308
+email soyama@stelab.nagoya-u.ac.jp
+fax +81 52 747 6323
+operator Lei Cai
+submitter Shin-ichiro Oyama
+resources NI(26)
+notes
+This is a collaborative study with the Finland group to study the dissipation of
+the electromagnetic energy input from the magnetosphere and the effect on the
+thermospheric dynamics. The two experiments (code name: EMEnergy and EMEnergyJ)
+are conducted continuously with the same observation mode.

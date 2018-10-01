@@ -1,0 +1,17 @@
+experiment RAGL
+instrument HEA
+start 2016 03 03 1100
+end 2016 03 03 1400
+status R
+description Radar And GNSS satellite L-band probing of high latitude plasma Irregularities
+contact Hiroatsu Sato
+phone +493981480190 
+email hiroatsu.sato@dlr.de
+operator tbd
+submitter I Häggström
+resources PP(10)
+notes
+This experiment is a coordinated campaign of EISCAT radar and L-band signal
+measurements of global navigation satellite system and synthetic aperture radar
+land observation satellites to study plasma irregularity effects on
+transionospheric satellite signals.

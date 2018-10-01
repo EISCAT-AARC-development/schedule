@@ -1,0 +1,26 @@
+experiment AARI_MZX
+instrument HEA
+start 2013 11 03 1200
+end 2013 11 03 1800
+status R
+description Phenomena in the ionosphere F-region induced by X-mode HF heater waves
+contact Nataly Blagoveshchenskaya
+phone +7-812-337-3191
+email nataly@aari.nw.ru
+fax +7-812-352-2688
+operator Nataly Blagoveshchenskaya
+submitter Nataly Blagoveshchenskaya
+resources RU(60)
+notes
+We will continue studies of phenomena in the F-region of the ionosphere (plasma 
+parameters, artificial field-aligned irregularities, HF-induced optical 
+emissions) induced by powerful HF radio waves with X-mode polarization when the 
+heater frequency is equal or above the critical frequency of the F2 layer. The 
+main attention will be paid to the comparison between the phased array 1 and 3. 
+We also plan to study the gyro harmonic effects under the X-mode heating.  
+Experiments will be carried out from 18 October to 3 November 2013 every day 
+from 12 to 18 UT under quite magnetic conditions by using the HF heating 
+facility (HEA) and Tromso UHF radar (TRO). It is expected that the observations 
+at Tromso will be supported by the CUTLASS (Leicester University, UK) and by 
+optical observations (IRF, Kiruna, Sweden and the Tromso University, Norway). 
+The experiments to be cancelled due to unsuitable ionospheric conditions.

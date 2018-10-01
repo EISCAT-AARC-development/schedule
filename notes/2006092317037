@@ -1,0 +1,31 @@
+experiment HF SEE
+instrument VHF
+start 2006 09 23 0900
+end 2006 09 23 1500
+status R
+description HF-induced plasma turbulence effects
+contact M. Rietveld
+phone 77600572
+email mike@eiscat.uit.no
+fax 77600571
+operator B. Isham, V. Belyey, M. Rietveld
+submitter Michael Rietveld
+resources GE(90),EI(20)
+notes
+HF-SEE
+A campaign to investigate mainly HF-pumped but also natural (auroral) Langmuir
+and upper-hybrid turbulence, by using HF interferometry of Stimulated
+Electromagnetic Emissions (SEE) by the PGI (Russian) group, HF Doppler
+measurements (AARI, Russia, CUTLASS), ASK optical measurements, ALIS, and
+probably other diagnostics.
+Investigators include PGI group (Tereshchenko, Khudukon, Yurik et al.)
+B. Isham, V. Belyey, C. La Hoz, A. Brekke, T. Hagfors, B. Gustavsson, 
+N. Balgoveshchenskaya, M. Rietveld. 
+Suggested hours are from: GE(90), NO(??), FR(??), EI(20?) others ?
+
+This request is preliminary, and subject to confirmation from collaborators,
+agreement on national time allocations, changes/negotiations
+in case of conflicts. It is also overbooked so that cancellations are
+inevitable. All three systems are booked but may not run simultaneously 
+all the time. The times are chosen to have a stable quiet daytime
+ionosphere, but also some dark nightime ionosphere.

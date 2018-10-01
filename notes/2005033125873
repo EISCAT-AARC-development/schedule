@@ -1,0 +1,14 @@
+experiment CP1
+instrument UHF
+start 2005 03 31 0630
+end 2005 03 31 1300
+status R
+description M-I Coupling
+contact I Häggström
+email ingemar@eiscat.com
+operator I Häggström
+submitter I Häggström
+resources CP(1000)
+notes
+runexp tau2pl fm cp1 CP   
+http://people.ece.cornell.edu/wes/URSI_ISWG/2005WDschedule.htm   

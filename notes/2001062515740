@@ -1,0 +1,24 @@
+experiment CLUSTER
+instrument ESR
+start 2001 06 25 1200
+end 2001 06 30 2400
+description Long run to match CLUSTER footprint in the Polar Cap for extended period
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(132)
+submitter Tony van Eyken
+notes
+Experiment mode is likely to be similar to the February long run but with the   
+addition of scans towards Sondrestromfjord when the cusp is between the two   
+radars.   
+Approximately:   
+Noon      Low elevation North   
+Afternoon Sondrestromfjord scan   
+Evening   CP2   
+Midnight  CP4 (south)   
+Morning   CP2   
+With interleaved field every other 'minute', tau0 at 6.4s   
+

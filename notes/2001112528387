@@ -1,0 +1,17 @@
+experiment cp2_champ
+instrument UHF
+start 2001 11 25 0200
+end 2001 11 25 0600
+status R
+description cp2 measurements together with CHAMP satellite
+contact K. Schlegel
+phone +49 5556 979 468
+email schlegel@linmpi.mpg.de 
+fax +49 5556 979 240
+operator Person from Germany + T. Ullich
+resources GE(47)
+submitter M. T. Rietveld
+notes
+CP-2 (or cp1) measurements coordinated with the German CHAMP satellite overpasses. The exact times may change depending on orbit changes. Part of German-Finnish campaign. Scanning is desired for a) measuring gravity waves and b) increasing     
+chances of being conjugate to the CHAMP path.     
+

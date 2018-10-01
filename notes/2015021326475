@@ -1,0 +1,19 @@
+experiment JouleHeat
+instrument TRO
+start 2015 02 13 1800
+end 2015 02 13 2400
+status R
+description Joule heating in the F region
+contact Lei Cai
+phone +358409682510
+email lei.cai@oulu.fi
+operator Shin-ichiro Oyama
+submitter Lei Cai and Anita Aikio
+resources FI(12)
+notes
+Our purpose is to calculate the Joule heating rates in the F region and to study
+the thermospheric response, e.g., neutral wind and neutral temperature.
+
+The UHF CP2 experiment will be run to calculate the Joule heating rates.
+Simultaneously, the FPI will keep measuring the 630.0 nm emission line to
+estimate the neutral wind and the neutral temperature in the F region.

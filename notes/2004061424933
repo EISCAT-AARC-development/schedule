@@ -1,0 +1,14 @@
+experiment CP2
+instrument UHF
+start 2004 06 14 0000
+end 2004 06 18 2400
+status R
+description LTCS - MST
+contact I Häggström
+email ingemar@eiscat.com
+operator I Häggström
+submitter I Häggström
+resources CP(1000)
+notes
+http://people.ece.cornell.edu/wes/URSI_ISWG/2004WDschedule.htm          
+tau2_pl cp2     

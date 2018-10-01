@@ -1,0 +1,13 @@
+experiment CP1L
+instrument ESR
+start 1999 09 07 1000
+end 1999 09 09 1600
+status C
+description LTCS
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(78)
+submitter Tony van Eyken

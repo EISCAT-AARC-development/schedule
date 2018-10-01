@@ -1,0 +1,13 @@
+experiment Tau0
+instrument ESR
+start 2003 05 20 1400
+end 2003 05 22 1400
+status R
+description experiment in conjunction with SOHO
+contact Chantal Lathuillere
+phone 04 76514148 
+email Chantal.Lathuillere@obs.ujf-grenoble.fr
+fax 04 76514146
+operator Denis Alcayde
+submitter F. Forme
+resources FR(48)

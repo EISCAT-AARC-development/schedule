@@ -1,0 +1,17 @@
+experiment TIMED
+instrument ESR
+start 2002 01 31 1500
+end 2002 01 31 2000
+description Coordinated TIMED observations 
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+submitter Tony van Eyken
+notes
+ESR:          tau0, 42m antenna only    
+Mainland CP1: Field aligned operation, Kiruna and Sodankyla intersection        
+              height in the E region.  
+ 
+http://umbra.nascom.nasa.gov/solar_connections/TIMED.html

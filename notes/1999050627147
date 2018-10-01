@@ -1,0 +1,13 @@
+experiment UNIS3-03
+instrument ESR
+start 1999 05 06 1200
+end 1999 05 06 1500
+status R
+description Data collection experiment for UNIS GUISDAP course
+contact Ian McCrea
+phone +44 1235 446513             
+email ian@mail.eiscat.rl.ac.uk 
+fax +44 1235 445848             
+operator Ian McCrea
+resources NO(3)
+submitter Ian McCrea

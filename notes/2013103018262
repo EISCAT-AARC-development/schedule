@@ -1,0 +1,23 @@
+experiment TROUP
+instrument HEA
+start 2013 10 30 1800
+end 2013 10 30 2200
+status R
+description Training Of Ukranian Partners in use of EISCAT radars
+contact Cesar La Hoz
+phone +47 99774769
+email cesar.la.hoz@uit.no
+operator Olesia Charkina
+submitter Olesia Charkina
+resources NO(4)
+notes
+The purpose of the experiments is to train Ukrainian scientists in as many 
+aspects of the EISCAT radar as possible at the Ramfjord site - understanding the 
+radar experiments and data acquisition, running experiments and analyzing the 
+recorded data. This experiment will also include coordinated heater experiments 
+for  investigating ionospheric irregularities though observations of discrete 
+cosmic source scintillations using KAIRA facility. Another purpose of the 
+experiment is studying the scattering of signals from the EISCAT heater at 
+ionospheric irregularities produced by the heater radiation itself. To that end 
+we plan to monitor Doppler spectra of the heater signals at several greatly 
+dispersed receiving sites.

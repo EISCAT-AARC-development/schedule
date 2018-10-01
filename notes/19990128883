@@ -1,0 +1,12 @@
+experiment maintenance
+instrument ESR
+start 1999 01 28 0800
+end 1999 01 29 0800
+status R
+description  Testing the request.  I reserve the antenna due to low temperature. No operating permitted.
+contact ingemar
+phone +46 980 79141
+email ingemar.wolf@eiscat.irf.se 
+operator ingemar
+resources none
+submitter ingemar

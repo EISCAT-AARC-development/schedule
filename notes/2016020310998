@@ -1,0 +1,20 @@
+experiment ICSOM
+instrument TRO
+start 2016 02 03 1000
+end 2016 02 03 1200
+status R
+description Interhemispheric Coupling Study by Observations and Modelling
+contact Kaoru Sato
+phone +81-3-5841-4668
+email kaoru@eps.s.u-tokyo.ac.jp
+fax +81-3-5841-4668
+operator EISCAT staff
+submitter Y. Ogawa (yogawa@nipr.ac.jp)
+resources PP(24)
+notes
+A network observation using MST/IS radars, complementary observations,
+and high-resolution model simulations are conducted during the ICSOM
+observation window: 15-31 January, 2016. We will utilize a combined CP-1
+and CP-2 scan mode for the EISCAT observation.
+We shifted the EISCAT observational window (20-22 and 25-29 January, and
+01-04 February 2016) based on predictions of Stratospheric Sudden Warming. 

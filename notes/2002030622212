@@ -1,0 +1,21 @@
+experiment HF-ALIS
+instrument HEA
+start 2002 03 06 1700
+end 2002 03 06 2200
+status R
+description HF pump-enhanced airglow in the ionosphere and detection with ALIS
+contact Thomas Leyser
+phone +46-18-471 5941
+email thomas.leyser@irfu.se 
+fax +46-18-471 5905
+operator Michael Rietveld
+resources SW(20)
+submitter Thomas Leyser
+notes
+This is an expriment to measure electron gyro harmonic effects in HF-enhanced airglow to be  
+measured with ALIS.   
+  
+It is a joint experiment with UK, GE, FI, and NI using Heating, UHF, and VHF scheduled 4 March to 10 March  
+at 1700-2200 UT.  
+  
+The Swedish input to these experiments is 20 hours.

@@ -1,0 +1,20 @@
+experiment PMWE_SWE
+instrument VHF
+start 2017 03 06 0800
+end 2017 03 06 1400
+status R
+description Polar mesosphere winter echoes
+contact Evgenia Belova
+phone +46 98079112
+email belova@irf.se
+operator Evgenia Belova
+submitter Evgenia Belova
+resources SW(24)
+notes
+This is the unusual experiment. It WILL BE ONLY RUN if conditions are suitable 
+for PMWE during high-speed solar wind streams and when PMWE has 
+been observed by nearby MST radars  Esrad and Maarsy. 
+The VHF radar will run tri-static manda experiment  where Tromso VHF radar is pointed vertically, and K 
+and S receivers is pointed to the PMWE height above Tromso.
+
+

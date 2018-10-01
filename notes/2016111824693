@@ -1,0 +1,17 @@
+experiment Nansen
+instrument ESR
+start 2016 11 18 1800
+end 2016 11 18 2200
+status R
+description Ion outflow - exobase  and F-layer long term variability
+contact Stein Haaland / Lisa Baddeley
+phone +41313052316
+email Stein.Haaland@issi.unibe.ch
+fax +41313052318
+operator Stein Haaland
+submitter Stein Haaland
+resources NO(20)
+notes
+Nansen-III: ESR studies of ion outflow from the polar cap. 
+17-18 Nov in combination with field work AGF345 / auroral studies.
+23-24 Nov cusp studies.

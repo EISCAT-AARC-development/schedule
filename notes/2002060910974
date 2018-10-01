@@ -1,0 +1,15 @@
+experiment HighAlt
+instrument ESR
+start 2002 06 09 0400
+end 2002 06 09 1200
+status R
+description Extended high altitude coverage experiment
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+resources EI(24)
+submitter Tony van Eyken
+notes
+Extended range coverage to high altitides

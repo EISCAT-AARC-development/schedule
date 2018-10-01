@@ -1,0 +1,16 @@
+experiment PAAWS
+instrument VHF
+start 2007 12 06 0200
+end 2007 12 06 0600
+status R
+description Pulsating Aurora and Azimuthal Wave Structures
+contact Andrew J. Kavanagh
+phone +441524510411
+email a.j.kavanagh@lancs.ac.uk
+fax +44152451049
+operator Andrew J. Kavanagh
+submitter Andrew J. Kavanagh
+resources UK(40)
+notes
+Vertical VHF to measure D-layer (arc-dlayer_ht) at high time resolution during
+pulsating aurora, to determine precipitation spectrum.

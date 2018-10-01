@@ -1,0 +1,17 @@
+experiment PULSACE
+instrument VHF
+start 2015 11 10 2200
+end 2015 11 11 0400
+status R
+description Pulsating aurora and atmospheric chemical effects
+contact Esa Turunen
+phone +358505663264
+email esa.turunen@sgo.fi
+fax +35816610248
+operator Ilkka Virtanen
+submitter Esa Turunen
+resources FI(6)
+notes
+Vertical VHF experiment (manda) in Tromso is used to track the spectrum of high-energy electron 
+precipitation at mesospheric-to-lower thermospheric altitudes, with simultaneous high time-resolution 
+riometer observations by the KAIRA facility at Kilpisjärvi using fast sampling in KUW mode.

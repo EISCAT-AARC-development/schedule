@@ -1,0 +1,18 @@
+experiment NEMIANTII
+instrument VHF
+start 2007 10 17 0930
+end 2007 10 18 1200
+status R
+description Support for Hotpay 2 rocket and/or ANTII Heating experiment if scheduled
+contact Thomas Ulich
+phone +358405408942
+email thu@sgo.fi
+fax +35816619875
+operator Thomas Ulich
+submitter Thomas Ulich
+resources FI(30)
+notes
+Some of these runs might/will be cancelled. Within the Finnish campaign, first priority is for support of the 
+Finnish/Swedish NEMI instrument aboard Hotpay 2, second priority is for heating experiments ANTII. The 
+setup is the same for both targets: we need the VHF pointing vertical and will run arc-dlayer. If running for 
+ANTII, we might also run Markku Lehtinen's special experiments. PI: Esa Turunen, Antti Kero.

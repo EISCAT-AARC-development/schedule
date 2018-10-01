@@ -1,0 +1,13 @@
+experiment spfr_TEC
+instrument ESR
+start 2003 01 11 0900
+end 2003 01 13 0900
+status R
+description a TEC experiment with the 2 ESR antennas  and UHF TKS
+contact Jean.Lilensten
+phone 04 76 51 41 49
+email Jean.Lilensten@obs.ujf-grenoble.fr
+fax 04 76 51 41 46
+operator Jean.Lilensten
+submitter francois.forme@cetp.ipsl.fr
+resources fr(48)

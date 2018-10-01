@@ -1,0 +1,18 @@
+experiment EDEWA
+instrument HEA
+start 2014 10 16 1030
+end 2014 10 23 1430
+status R
+description Tthe further campaign of the apparent large electron density enhancements with wide altitude extents
+contact Wu Jun
+email wujun1969@163.com
+operator Wu Jun
+submitter Wu Jun
+resources CN(32)
+notes
+Using EISCAT UHF radar and heating facility, the further campaign of the
+apparent large electron density enhancements with wide altitude extents deduced
+by ionospheric heating, will be carried out. The heater will be operated at
+frequency sweeping near 3, 4, 5 and 6 times gyro with O mode, and pointed at
+field-aligned and spitze angle respectively. UHF radar should operate at Beata
+mode and point as heating beam.

@@ -1,0 +1,12 @@
+experiment tau0
+instrument ESR
+start 2001 03 11 0800
+end 2001 03 11 1400
+status R
+contact J .lilensten
+phone 04 76 51 41 49
+email Jean.Lilensten@planeto.obs.ujf-grenoble.fr 
+fax 04 76 51 41 46
+operator J. lilensten
+resources FR(6)
+submitter F. Forme

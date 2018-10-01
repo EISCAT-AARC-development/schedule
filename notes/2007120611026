@@ -1,0 +1,43 @@
+experiment OptReimei
+instrument UHF
+start 2007 12 06 2200
+end 2007 12 07 0200
+status R
+description Coordinated EISCAT-Reimei-Optical observations
+contact Takehiko Aso
+phone +81-3-3962-4756
+email t-aso@nipr.ac.jp
+fax +81-3-3962-4914
+operator Satonori Nozawa (nozawa@stelab.nagoya-u.ac.jp)
+submitter Yasunobu Ogawa (yogawa@nipr.ac.jp)
+resources SW(20),NI(30)
+notes
+Note:
+We conduct coordinated EISCAT-Reimei-Optical observations
+of nightside auroral phenomena. We run ALIS and several
+optical instruments (e.g. All sky and wide view TV imagers,
+Proton aurora camera) in Tromsoe.
+
+PIs: Ingrid Sandahl (IRF)
+     Takehiko Aso (NIPR)
+     Satonori Nozawa (STEL)
+     Takeshi Sakanoi (Tohoku Univ.)
+
+-----------------------------------------------------------------
+YYYY-MM-DD HHMM(UT)-YYYY-MM-DD HHMM(UT) (total)  Note
+-----------------------------------------------------------------
+2007-12-05 2200 UT -2007-12-06 0200 UT (4hours) with VHF
+2007-12-06 2200 UT -2007-12-07 0200 UT (4hours) lower priority
+2007-12-07 2200 UT -2007-12-08 0200 UT (4hours) lower priority
+2007-12-08 2200 UT -2007-12-09 0200 UT (4hours) lower priority
+2007-12-09 2200 UT -2007-12-10 0200 UT (4hours) with VHF
+2007-12-10 2200 UT -2007-12-11 0200 UT (4hours) with VHF
+2007-12-11 2200 UT -2007-12-12 0200 UT (4hours) lower priority
+2007-12-12 2200 UT -2007-12-13 0200 UT (No SP. Run CP2 observation)
+2007-12-13 2200 UT -2007-12-14 0200 UT (No SP. Run CP2 observation)
+2007-12-14 2300 UT -2007-12-15 0200 UT (3hours) with VHF (after CP2)
+2007-12-15 2200 UT -2007-12-16 0200 UT (4hours) with VHF
+2007-12-19 2200 UT -2007-12-20 0200 UT (4hours)
+2007-12-20 2200 UT -2007-12-21 0200 UT (4hours)
+-----------------------------------------------------------------
+

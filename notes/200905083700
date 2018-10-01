@@ -1,0 +1,26 @@
+experiment KOscanAZne
+instrument ESR
+start 2009 05 08 0900
+end 2009 05 08 1200
+status R
+description Windscreen wiper scan to the magnetic northwest
+contact Kjellmar Oksavik
+phone +47-79023387
+email kjellmar.oksavik@unis.no
+operator EISCAT staff
+submitter Kjellmar Oksavik
+resources NO(3)
+notes
+The purpose of this experiment is to look for mesoscale flow channels to the 
+magnetic northwest. The experiment is a 192 second windscreen wiper scan at 30 
+deg elevation with the 32m antenna. Azimuth varies between -150 to -30, and 
+data is taken with the 32m antenna only. Start the experiment in the following 
+way:
+
+poweron
+cd /external/kst/tau0/510
+runexperiment tau0.elan fullminute KOscanAZnw NO 3.2
+
+PLEASE NOTE: This particular experiment shall ONLY be run from 09:00–12:00 UT. 
+There is a slightly different experiment for 06:00-09:00 UT (see schedule, the 
+scan pattern differs).

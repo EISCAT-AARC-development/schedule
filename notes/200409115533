@@ -1,0 +1,13 @@
+experiment HORSE
+instrument ESR
+start 2004 09 11 1400
+end 2004 09 11 1600
+status R
+description Studies of ion outflows using FAST-ESR conjunctions
+contact Darren Wright
+phone +441162523568
+email dmw7@ion.le.ac.uk
+fax +441162523555
+operator Tony van Eyken
+submitter Darren Wright
+resources UK(12)

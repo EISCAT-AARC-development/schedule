@@ -1,0 +1,12 @@
+experiment CP1
+instrument VHF
+start 2001 03 06 0800
+end 2001 03 08 0800
+status R
+contact J. Lilensten
+phone 04 76 51 41 49
+email Jean.Lilensten@planeto.obs.ujf-grenoble.fr 
+fax 04 76 51 41 46
+operator J. Lilensten
+resources FR(48)
+submitter F. Forme

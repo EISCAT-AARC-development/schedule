@@ -1,0 +1,25 @@
+experiment PARADE
+instrument HEA
+start 2009 07 22 0800
+end 2009 07 22 1200
+status R
+description Partial-reflection measurements of the D-region using the HF facility
+contact Andrew Senior
+phone +44 1524 510410
+email a.senior@lancaster.ac.uk
+fax +44 1524 510493
+operator Mike Rietveld / Andrew Senior
+submitter Andrew Senior
+resources UK(12)
+notes
+The HF facility will be used in radar mode (possibly in conjunction with the
+Dynasonde) to make partial-reflection measurements of the D-region. The facility
+will be operated on 5.4 MHz with the receiving array phased for zenithal pointing.
+
+It is hoped that this experiment may be run simultaneously with the PMSE
+experiment, sharing the HF facility.
+
+Cancellation is likely due to over-scheduling, but the experiment is within
+working hours and it is envisaged that the PMSE experiment will run during the
+times that this experiment is not.
+

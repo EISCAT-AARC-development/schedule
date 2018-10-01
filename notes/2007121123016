@@ -1,0 +1,16 @@
+experiment Polarlis
+instrument ESR
+start 2007 12 11 1900
+end 2007 12 12 0700
+status R
+description polarlis
+contact Jean Lilensten
+phone +33 4 76 51 41 49
+email jean.lilensten@obs.ujf-grenoble.fr
+fax +33 4 76 51 41 46
+operator Jean Lilensten
+submitter Jean Lilensten
+resources FR(12)
+notes
+Coordinated measurement with optical experiment on the polarization of the
+oxygen red line (polarlis)

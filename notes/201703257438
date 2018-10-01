@@ -1,0 +1,25 @@
+experiment AURORA
+instrument TRO
+start 2017 03 25 2000
+end 2017 03 25 2400
+status R
+description Coordinated observations of various auroras with ERG (Arase), optical imagers, and EISCAT
+contact Yasunobu Ogawa
+phone +81-42-512-0664
+email yogawa@nipr.ac.jp
+fax +81-42-512-0664
+operator Y. Ogawa
+submitter Y. Ogawa
+resources NI(30)
+notes
+PIs of the SP: 
+20-24 UT UHF (arc1(v2), cp1): T. Sakanoi and Y. Tanaka (March 24-30)
+00-04 UT UHF (arc1(v2), cp1): Y. Ogawa (March 10 and 12)
+00-04 UT UHF (arc1(v2), cp1): Y. Miyoshi and Y. Ogawa (March 24-31)
+22-04 UT VHF (manda, zenith): Y. Miyoshi and K. Shiokawa (PP: COBEE)
+
+We conduct coordinated observations of various auroras with ERG (Arase),
+ground-based optical imagers, and EISCAT, to investigate small-scale aurora and
+relativistic electron precipitations associated with pulsating aurora. 
+
+

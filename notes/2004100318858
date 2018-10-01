@@ -1,0 +1,20 @@
+experiment tau1_AA
+instrument VHF
+start 2004 10 03 1700
+end 2004 10 03 2300
+status R
+description VHF experiments in support of Cluster and Double Star
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT duty staff
+submitter Ian McCrea
+resources AA(6)
+notes
+October marks the end of the current series of Cluster tail conjunctions.  I 
+have suggested four intervals, all co-inciding with Cluster nightside passes 
+through the neutral sheet in a region close to magnetic conjugacy with EISCAT.  
+The preferred ESR mode would be LowElNorth on the 32m dish interleaved 
+(consecutive dumps)with field-aligned observations on the 42m dish, with 
+supporting mainland VHF measurements in low-elevation boresight mode.

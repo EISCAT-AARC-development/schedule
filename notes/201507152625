@@ -1,0 +1,12 @@
+experiment CP6
+instrument KIR
+start 2015 07 15 0800
+end 2015 07 17 2300
+description Synoptic
+contact Ingemar Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(99)
+notes
+runexp /kst/exp/manda/manda 0:0 zenith CP 92

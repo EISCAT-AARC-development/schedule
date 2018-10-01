@@ -1,0 +1,15 @@
+experiment HASK
+instrument HEA
+start 2006 12 09 2000
+end 2006 12 10 0100
+status R
+description Heating and ASK
+contact N. Ivchenko
+email nickolay.ivchenko@ee.kth.se
+operator M. Rietveld
+submitter Bjorn Gustavsson <bjorn@irf.se>
+resources SW(30)
+notes
+Optical and heating campaign, focusing on 
+E-region heating and its optical effect
+

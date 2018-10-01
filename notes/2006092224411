@@ -1,0 +1,33 @@
+experiment steffe_AA
+instrument ESR
+start 2006 09 22 2000
+end 2006 09 22 2400
+status R
+description ESR experiments in support of Cluster
+contact Ian McCrea/Jackie Davies
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(4)
+notes
+September is the best month for Cluster tail conjunctions, and we have selected 
+four good conjunctions for storm/substorm studies when Cluster is close to 
+magnetic conjugacy with EISCAT and in the tail - the aim is to be within a few 
+hours of a neutral sheet crossing.  In addition we have also requested a cusp 
+sector perigee pass on the 22nd.
+
+The conjunctions generally occur south of ESR but north of the mainland sites, 
+so an optimum orientation for all except the perigee pass would be to use 
+LowElSouth at the ESR with northward looking VHF boresight tau1 at Tromso.  A 
+northward-looking beam on the UHF would be an acceptable replacement if the VHF 
+was unavailable (e.g. for klystron bake-out).  For the perigee pass on the 
+22nd, LowElNorth would be more suitable on the ESR, with boresight beam on the 
+mainland VHF.
+
+The conjunctions on the 3rd, 10th and 15th fall within the ESR dish maintenance 
+period.  If the ESR 32m dish is unavailable, data from the 42m dish would still 
+be useful.  The conjunctions on the 22nd fall within the period requested for a 
+CP (CP3).   If this period is not available because of the CP, an acceptable 
+alternative would be 20-24 UT on September 8th.

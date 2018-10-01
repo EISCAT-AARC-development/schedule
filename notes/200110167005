@@ -1,0 +1,15 @@
+experiment PIA
+instrument TRO
+start 2001 10 16 1600
+end 2001 10 16 2000
+status R
+description Plasma line measurement to support ELIN
+contact Mikael Hedin
+phone +46 980 79000
+email mikael.hedin@irf.se 
+fax +46 980 79050
+operator Mikael Hedin
+resources SW(20)
+submitter Mikaen Hedin
+notes
+New moon and clear skies prefered. Some run will be cancelled according to forcast.

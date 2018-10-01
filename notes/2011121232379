@@ -1,0 +1,17 @@
+experiment BBF
+instrument VHF
+start 2011 12 12 1800
+end 2011 12 12 2400
+status R
+description Multiradar measurements of dynamical ionospheric features related to bursty bulk flows
+contact Timo Pitkänen
+phone +358-50-5378036
+email timo.pitkanen@oulu.fi
+operator Timo Pitkänen
+submitter Antti Kero
+resources FI(54)
+notes
+The aim is to study dynamical ionospheric features related to bursty bulk flows. The experiment utilizes 
+both the VHF (tau8) and UHF (tau1) radars, which are pointed at 30 deg elevation north (VHF and UHF to 
+geographic and geomagnetic north, respectively). In addition, simultaneous ESR 32m (30 deg elevation to 
+geomagnetic south) and 42m antenna measurements (taro) are used. 

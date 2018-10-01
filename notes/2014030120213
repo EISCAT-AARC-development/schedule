@@ -1,0 +1,13 @@
+experiment RONE
+instrument VHF
+start 2014 03 01 2100
+end 2014 03 02 0100
+status R
+description  Radar, radio, and optical observations of naturally-enhanced emissions
+contact Brett Isham
+phone +17878781289
+email brettisham@gmail.com
+fax +17872792205
+operator Brett Isham
+submitter Brett Isham
+resources NO(24),SE(20),EI(16)

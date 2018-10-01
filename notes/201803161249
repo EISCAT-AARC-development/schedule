@@ -1,0 +1,16 @@
+experiment NI_sodium
+instrument VHF
+start 2018 03 16 2200
+end 2018 03 17 0400
+status R
+description The VHF radar (vertical) with the sodium lidar
+contact Toru Takahashi
+email takahashi.toru@nipr.ac.jp
+operator Toru Takahashi  
+submitter Satonori NOZAWA
+resources NI(14)
+notes
+We conduct the electron density observation in the vertical direction by EISCAT VHF radar (manda) with the 
+high speed observation of the sodium lidar to observe the sodium density depletion harmonized with the 
+electron density enhancement due to the pulsating aurora. We will run the SP only when it is clear sky and 
+geomagnetic condition is active.

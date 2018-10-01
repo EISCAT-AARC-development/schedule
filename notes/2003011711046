@@ -1,0 +1,19 @@
+experiment tau0_AA
+instrument ESR
+start 2003 01 17 1000
+end 2003 01 17 1400
+status R
+description ESR Dual-Beam Experiments in Support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(4)
+notes
+I am requesting four intervals of ESR observation for January 2003, all of which have also been identified as priority intervals by the SUPERDARN group.  The mode should be low elevation northward (az 336 el 30) on the steerable dish, with field-aligned data on the fixed dish, preferably with 1:1 interleaving. The intervals, which have been chosen not to conflict with any other planned campaigns, are:
+Jan 05 09-14 UT (ESR+UHF)
+Jan 17 08-12 UT (ESR+UHF)
+Jan 24 10-14 UT (ESR)
+Jan 31 10-14 UT (ESR)

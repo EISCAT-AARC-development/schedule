@@ -1,0 +1,13 @@
+experiment tau0_NO@42m
+instrument ESR
+start 2002 03 12 1100
+end 2002 03 12 1500
+status R
+description Testing technical problems for radar/optical coordinated observations 
+contact Marten Blixt
+phone +47 77 64 51 59
+email Marten.Blixt@phys.uit.no 
+fax +47 77 64 55 80
+operator Marten Blixt
+resources NO(4)
+submitter Marten Blixt

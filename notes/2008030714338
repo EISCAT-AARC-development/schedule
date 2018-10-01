@@ -1,0 +1,17 @@
+experiment ALIS
+instrument UHF
+start 2008 03 07 1800
+end 2008 03 07 2300
+status R
+description Modeling Discrete auroral arc formation with conjugate EISCAT / ALIS observations
+contact Dr. Herve Lamy
+phone +32 2 3730418
+email herve.lamy@oma.be
+fax +32 2 3748423
+operator Lisa Baddeley
+submitter Lisa Baddeley
+resources TNA(24)
+notes
+This is a TNA experiment to be co-ordinated with the ALIS (Auroral Large Imaging
+System) experiment, located in Kiruna, Sweden.
+The system should run a high resolution code such as arc1.

@@ -1,0 +1,17 @@
+experiment ePOP
+instrument HEA
+start 2018 04 13 1430
+end 2018 04 13 1530
+status R
+description ePOP satellite conjunction
+contact Mike Kosch
+phone +44-1524-510404
+email m.kosch@lancaster.ac.uk
+fax +44-1524-510404
+operator Mike Rietveld
+submitter Mike Kosch
+resources UK(24)
+notes
+To study Heater-induced ion upwelling physics in the topside ionosphere by 
+radar and in-situ satellite observations.
+ePOP satellite conjunction is expected at 15:08 UT.

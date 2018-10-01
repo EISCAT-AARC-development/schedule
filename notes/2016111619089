@@ -1,0 +1,21 @@
+experiment HOTTIE
+instrument SOD
+start 2016 11 16 1000
+end 2016 11 16 1400
+status R
+description Experiment for estimating thermospheric neutral densities
+contact Björn Gusavsson
+phone +4777645668
+email bgu001@uit.no
+operator Will Stocke
+submitter Björn Gustavsson
+resources NO(12)
+notes
+The objective with the HOTTIE (High-altitude O+ Temperature to
+Thermosphe-Ionosphe-density Experiment) is to use electron-density and ion and
+electron temperature measurements with the VHF and UHF radars combined with
+altitude-profiles of ion-velocities with tristatic VHF system to estimate the
+neutral densities in the upper thermoshpere. A secondary objective is to use the
+VHF and UHF ion-line spectra at E-region altitudes to get estimates of the
+collision frequencies. The experiment requires quiet geomagnetic conditions and
+will be cancelled if there is a geomagnetically active day

@@ -1,0 +1,49 @@
+experiment FLOWDYN
+instrument ESR
+start 2013 12 03 0700
+end 2013 12 03 1159
+status R
+description Windshield wiper over the azimuth range from 180° to 300° at the lowest possible elevation of 30°
+contact Joeran Moen
+phone +4722855661
+email jmoen@fys.uio.no
+operator Lasse Clausen
+submitter Lasse Clausen
+resources NO(5)
+notes
+The Special Norwegian Fast Azimuth Scan Mode (SP-NO-FASM) on the EISCAT Svalbard
+Radar (ESR), originally designed by Carlson et al. [GRL,2002], is a powerful
+tool to map mesoscale flow structures in the cusp ionosphere. The emphasis on
+this winter campaign is to further study the Reversed Flow Events (RFEs) first
+discovered by Oksavik et al. [GRL 2004] and Rinne et al. [JGR 2007]. Reversed
+Flow Events (RFEs), are ~100-200 km wide east-west elongated channels, in which
+ion flow opposes the background convection. The RFE phenomenon appears to be
+connected to Birkeland current arcs, and is likely a magnetosphere-ionosphere
+coupling phenomenon [Moen et al. JGR 2008]. This winter we have the ICI-4
+sounding rocket of which aim is to intersect an RFE flow channel. RFEs that have
+an average life time of ~18 minutes, i.e. quasi-static flow structures. The
+ICI-3 payload is instrumented with E-field, B-field and electron spectrometer to
+test the hypothesis whether the RFE phenomenon is as a possible inverted V
+footprint in a low conductance ionosphere [Moen et al. JGR 2008]. The RFE
+phenomenon may be a very important facilitator of HF backscatter irregularities
+in the cusp ionosphere. Carlson et al. [JGR 2007] documented a rapid development
+of plasma irregularities observed by scintillation (~10s km to 100s m) in
+connection with patch formation above Svalbard. These irregularities had too
+rapid onset to be explained by any mechanism other than the Kelvin-Helmholtz
+instability (KHI). They suggested that once the KHI builds up large amplitude
+irregularities, these large seed irregularities allow other instabilities such
+as the GDI to feed off them. I.e. a two step process. The complementary
+information by the rocket, will enable us to obtain a physical description of
+instabilities and wave phenomena driven by the RFEs in the winter cusp
+ionosphere; of particular relevance to satellite communication and navigation
+systems and space weather models.  In-situ measurements by sounding rockets will
+be needed to parameterize the boundary conditions for realistic modelling of the
+different modes. We emphasize that we really need to improve our data base of
+concurrent ESR and auroral observations of the RFE phenomenon; as we currently
+have only 2 days of this unique combination! The ESR observations will be
+critical to diagnose that launch criterions are met for ICI-4, as well as giving
+the geophysical context of the detailed rocket data.  Reversed Flow Events
+(RFEs), reversed by means of flow opposing the background convection. RFEs are
+~100-200 km wide east-west elongated channels that have an average life time of
+~18 minutes, i.e., quasi-static flow structures (statistics based on 10 days of
+ESR data from 2001 and 2002).

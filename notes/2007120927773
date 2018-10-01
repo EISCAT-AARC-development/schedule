@@ -1,0 +1,24 @@
+experiment UK_TOI
+instrument ESR
+start 2007 12 09 1800
+end 2007 12 09 2400
+status R
+description High-latitude density measurements in conjunction with tomography
+contact Alan Wood
+phone +44-1970-622821
+email aow@aber.ac.uk
+operator Andrew Senior
+submitter Ian McCrea
+resources UK(6)
+notes
+This request covers two different experiments (BLOB and TOI) both of which are 
+elevation scans in support of tomographic measurements by the Aberystwyth 
+network of beacon satellite receivers.  These experiments should run at least 
+twice during the campaign for six hours (18-24).  The TOI experiment uses both 
+mainland and ESR, BLOB uses mainland only.
+
+For scheduling purposes, I am requesting six possible slots - however, this 
+experiment should be second priority on each day behind the optical experiments 
+(POLARLIS and TETRA) at ESR and Tromso.  The tomographic measurements do not 
+need clear skies, so this gives the campaign teams a useful backup to run if 
+the skies are not clear.

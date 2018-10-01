@@ -1,0 +1,24 @@
+experiment KOSCAN
+instrument ESR
+start 2007 12 07 1200
+end 2007 12 07 1900
+status R
+description Coordinated ESR-KHO-SuperDARN observations
+contact Kjellmar Oksavik
+phone +47-79023387
+email kjellmar.oksavik@unis.no
+fax +47-79023301
+operator Kjellmar Oksavik
+submitter Kjellmar Oksavik
+resources NO(7)
+notes
+The purpose of this experiment is to study flow transients, electron density 
+structures, and mechanisms producing HF radar irregularities in the F-region. 
+If the sky is clear, we will do coordinated ESR observations with the new 
+optical station KHO. If it is cloudy, we will do coordinated ESR and SuperDARN 
+measurements. The ESR modes we use will depend on geophysical conditions at 
+the time of the observations. If the F-region density and the signal to noise 
+ratio allows, we will do fast scans in elevation and azimuth with the 32m 
+dish. If the F-region density is low, we will stay fixed with 32m dish at low 
+elevation. At a minimum, we will collect at least 10-15 minutes of data from 
+the 42m dish every hour (to be compliant with the IPY run).

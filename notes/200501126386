@@ -1,0 +1,19 @@
+experiment SIFC
+instrument ESR
+start 2005 01 12 0300
+end 2005 01 12 1000
+description EISCAT Svalbard Observations in Conjunction with SIF (Spectrographic Imaging Facility).
+contact Anastasia 'Molly' Stockton-Chalk
+phone +44 23 8059 2048
+email asc@phys.soton.ac.uk
+fax +44 23 8059 3910
+operator Anastasia 'Molly' Stockton-Chalk
+submitter Anastasia 'Molly' Stockton-Chalk
+notes
+The purpose of this campaign is to study particle precipitation by means of 
+high resolution radar measurements made in collaboration with various high 
+resolution optical observations, using the SIF, located at the Auroral Station 
+in Adventdalen. The experiment will employ the 42m antenna using the "arc" 
+pulse code. It is essential that we run during the "no-moon" period for our optical instruments. The experiment will require clear skies and disturbed conditions.
+
+

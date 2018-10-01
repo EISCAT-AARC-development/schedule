@@ -1,0 +1,28 @@
+experiment Reimei
+instrument ESR
+start 2007 11 25 0830
+end 2007 11 25 0900
+status R
+description Reimei-ESR coordinated observations
+contact Masafumi Hirahara
+phone +81-3-3-5841-4582
+email hirahara@eps.s.u-tokyo.ac.jp
+fax +81-3-5841-8321
+operator Yasunobu Ogawa
+submitter Yasunobu Ogawa (yogawa@nipr.ac.jp)
+resources NI(1.5)
+notes
+This is a comparative study of velocity distributions 
+of precipitating electrons and outflowing ions with 
+the ionospheric ion upflows/polar wind using the Reimei 
+satellite and ESR. We run the following ESR observations 
+in November: 
+-------------------------------------------------
+YYYY-MM-DD Start-End time Conjunction with Reimei
+-------------------------------------------------
+2007-11-25 08:30-09:00 UT (08:41 UT)
+2007-11-26 08:45-09:15 UT (09:00 UT)
+2007-11-27 09:00-09:30 UT (09:18 UT)
+-------------------------------------------------
+
+

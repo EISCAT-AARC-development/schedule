@@ -1,0 +1,13 @@
+experiment PMSE
+instrument VHF
+start 2007 06 28 0700
+end 2007 06 28 1300
+status R
+description Study PMSE and overshoot effect
+contact Cesar La Hoz
+phone 47-99774769
+email cesar@phys.uit.no
+fax 77645580
+operator Ove Havnes
+submitter Cesar La Hoz
+resources NO(10)

@@ -1,0 +1,16 @@
+experiment cp4_mice_UK@vhf
+instrument VHF
+start 2002 10 04 0600
+end 2002 10 04 1400
+status R
+description Study of Dayside Magnetosphere-Ionospheric Coupling.
+contact Katherine McWilliams
+phone +44 116 252 3565
+email kam14t@ion.le.ac.uk  
+fax +44 116 252 3555
+operator To Be Decided
+resources UK(8)
+submitter Ken Freeman
+notes
+The object of this investigation is to make measurements of the cusp regions of the magnetosphere during favourable conjunctions of satellite and ground-based  
+instruments. It is intended to employ both Svalbard Antennas and the VHF Mainland Radar, as well as the CUTLASS radar and instruments on the IMAGE, Cluster, and Geotail satellites. (There will also be a short period of Mainland Heater operation for another experiment.) The VHF Radar will be operated in a mode similar to CP-4, while the Svalbard Steerable Antenna is expected to be kept in a constant northerly direction. The pulse codes have yet to be decided.

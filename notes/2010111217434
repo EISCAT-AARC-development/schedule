@@ -1,0 +1,56 @@
+experiment Reimei_ESR
+instrument ESR
+start 2010 11 12 0815
+end 2010 11 12 1045
+status R
+description Reimei-ESR coordinated observations of ion upflows/polar wind
+contact M. Hirahara
+phone +81-3-5841-4582
+email hirahara@eps.s.u-tokyo.ac.jp
+fax +81-3-5841-8321
+operator ESR site staff
+submitter Y. Ogawa (yogawa at nipr.ac.jp)
+resources NI(2.5)
+notes
+(PIs of the SP: M. Hirahara, T. Sakanoi, and Y. Ogawa)
+
+This is a comparative study of velocity distributions 
+of precipitating electrons and outflowing ions with 
+the ionospheric ion upflows/polar wind using the Reimei 
+satellite and ESR. 
+
+-----------------------------------------------------
+ESR observations:
+-----------------------------------------------------
+2010-11-04 07:30 UT - 2010-11-04 10:00 UT (2.5 hours)
+2010-11-05 07:45 UT - 2010-11-05 10:15 UT (2.5 hours)
+2010-11-08 07:00 UT - 2010-11-08 09:30 UT (2.5 hours)
+2010-11-09 07:30 UT - 2010-11-09 10:00 UT (2.5 hours)
+2010-11-10 07:45 UT - 2010-11-10 10:15 UT (2.5 hours)
+2010-11-11 08:00 UT - 2010-11-11 10:30 UT (2.5 hours)
+2010-11-12 08:15 UT - 2010-11-12 10:45 UT (2.5 hours)
+-----------------------------------------------------
+
+
+-----------------------------------------------------
+Satellite conjunctions:
+-----------------------------------------------------
+Time                Satellite              Azm  Elv
+-----------------------------------------------------
+2010-11-04 07:56:42 INDEX(20101003pm)     34.3 64.4
+2010-11-04 09:32:56 INDEX(20101003pm)    237.3 75.2
+2010-11-05 08:14:42 INDEX(20101003pm)     38.7 70.1
+2010-11-05 09:51:01 INDEX(20101003pm)    242.2 66.5
+2010-11-08 07:32:38 INDEX(20101003pm)     28.4 58.0
+2010-11-08 09:08:46 INDEX(20101003pm)    227.5 87.0
+2010-11-09 07:50:37 INDEX(20101003pm)     32.5 62.4
+2010-11-09 09:26:49 INDEX(20101003pm)    234.8 78.1
+2010-11-10 08:08:36 INDEX(20101003pm)     37.4 67.9
+2010-11-10 09:44:53 INDEX(20101003pm)    239.8 69.2
+2010-11-11 08:26:36 INDEX(20101003pm)     42.0 74.3
+2010-11-11 10:02:58 INDEX(20101003pm)    244.4 60.8
+2010-11-12 08:44:37 INDEX(20101003pm)     45.5 81.7
+2010-11-12 10:21:04 INDEX(20101003pm)    248.9 53.2
+-----------------------------------------------------
+
+

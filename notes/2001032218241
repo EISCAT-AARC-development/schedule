@@ -1,0 +1,12 @@
+experiment ELINE
+instrument VHF
+start 2001 03 22 1700
+end 2001 03 22 2000
+status R
+description Electron line
+contact B Gustavsson
+phone +4698079113
+email bjorn@irf.se 
+operator M Hedin
+resources SW(30)
+submitter B Gustavsson

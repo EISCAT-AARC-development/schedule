@@ -1,0 +1,24 @@
+experiment AARI_HFOX
+instrument HEA
+start 2014 10 26 1400
+end 2014 10 26 1800
+status R
+description HF-induced phenomena under O/X-mode heating 
+contact Nataly Blagoveshchenskaya
+phone +7 812 337 3191
+email nataly@aari.nw.ru
+fax +7 812 352 2688
+operator Nataly Blagoveshchenskaya
+submitter Nataly Blagoveshchenskaya
+resources RU(24)
+notes
+The main attention will be paid to the comparison between threshold effective 
+radiated powers to produce HF-induced phenomena under O- and X-mode heating. 
+Experiments will be carried out between 14 and 26 October 2014 from 14 to 18 UT 
+under quite magnetic conditions by using the HF heating facility (HEA) and 
+Tromso UHF radar (TRO). It is expected that the observations at Tromso will be 
+supported by the CUTLASS (Leicester University, UK) and by the ALIS optical 
+observations (IRF, Kiruna). Some X-mode experiments are planned for the SWARM 
+passes above Tromso. Experiments for ELF/VLF emissions can be carried out 
+during disturbed magnetic conditions. The experiments to be cancelled due to 
+unsuitable ionospheric conditions.

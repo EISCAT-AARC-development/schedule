@@ -1,0 +1,34 @@
+experiment tau1_AA
+instrument VHF
+start 2008 05 21 0400
+end 2008 05 21 1000
+description VHF experiments in support of Cluster and THEMIS
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+notes
+runexp /kst/exp/tau8/tau8 4 lowel AA
+
+During May, the apogee of the Cluster orbit continues to evolve toward the dawn 
+sector.  Some cusp conjunctions might still be possible at the beginning of the 
+month, though by the end of the month the orbit plane will be more or less 
+orthogonal to the Sun-Earth line.  The THEMIS orbit plane is also close to 
+orthogonal to the Sun-Earth line, with THEMIS apogee in the dusk sector. This 
+month I have chosen only two conjunctions, the first of which may be one of the 
+last cusp conjunctions of the 2008 season, while the second on the 21st is the 
+first of the potential flank crossings in the Svalbard sector.  The two 
+conjunctions are:
+
+May 2nd 0500-1000
+
+May 21st 0400-1000
+
+As usual the best modes are tau1 with boresight pointing on the VHF, and 
+LowElNorth (tau0) on the ESR with 4:1 interleaving between the 32m and 42m 
+dishes.
+
+
+

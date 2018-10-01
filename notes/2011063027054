@@ -1,0 +1,16 @@
+experiment APES
+instrument ESR
+start 2011 06 30 1000
+end 2011 06 30 1300
+status R
+description Active PMSE Experiment on Svalbard
+contact Mike Kosch
+email m.kosch@lancaster.ac.uk
+operator Lisa Baddeley
+submitter Mike Kosch
+resources UK(18)
+notes
+PMSE modulation experiment in collaboration with the SPEAR heater and Sousy 
+Svalbard Radar (SSR). Experiments will only proceed it the SSR detects PMSE. 
+Cancellations are probable. The ESR 32m dish will point vertically and run a D-
+region radar code, e.g. manda or similar.

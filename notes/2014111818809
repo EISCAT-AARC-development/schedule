@@ -1,0 +1,15 @@
+experiment SpaceCamp
+instrument TRO
+start 2014 11 18 1400
+end 2014 11 18 1600
+status R
+description High school space camp experiment
+contact Noora Partamies
+email noora.partamies@fmi.fi
+operator Antti Kero
+submitter Noora Partamies
+resources FI(2)
+notes
+Finnish high school space camp in Arecibo will run an experiment at Tromsø UHF radar. Basic field-aligned 
+profiles from the high latitudes will be compared to the equatorial ionospheric conditions to demonstrate 
+the power of the global ISR network.

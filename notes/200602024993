@@ -1,0 +1,23 @@
+experiment UNIS
+instrument ESR
+start 2006 02 02 1700
+end 2006 02 02 2300
+status R
+description EISCAT data for the course AGF-304 at UNIS
+contact Tom Grydeland
+phone +47 7902 3336
+email Tom.Grydeland@unis.no
+fax +47 7902 3301
+operator Tom Grydeland
+submitter Tom Grydeland
+resources AA(18)
+notes
+The students of AGF-304 (radar diagnostics of space plasmas) will require some
+data to analyse and interpret as part of the course.  Several of these students
+are also going to take the course AGF-301 (physics of the upper polar
+atmosphere) which has field work at the auroral station this week.  Having radar
+data from a period where the students already know the geophysical background
+would be great advantage, pedagogically.  I am quite willing to collaborate with
+others who are interested in the same hours, but I would prefer to run
+relatively simple experiments, so that the students can understand the
+modulations and the analysis.

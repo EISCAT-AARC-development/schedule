@@ -1,0 +1,17 @@
+experiment tau2t_DMSP
+instrument TRO
+start 2002 11 09 0300
+end 2002 11 09 0500
+status R
+description Scanning Experiment for DMSP Imager Calibration.
+contact Vikki Howells
+phone +44-1235-445044
+email v.s.c.howells@rl.ac.uk
+fax +44-1235-445848
+operator Paul Gallop
+submitter Ken Freeman
+resources 3P(11)
+notes
+Third party experiment for calibration/validation of DMSP-F16 SSUSI imager performance. Since DMSP-F16 has not yet been launched, this experiment will use the GUVI imager on TIMED, which is identical to SSUSI. The experiment will employ the UHF Radar at Tromso only. As the name of the experiment implies, it is hoped to use the tau2 pulse code. The tau3 pulse code may, however, be used also. The radar will be scanned in elevation from vertical to 30 degrees. 
+
+

@@ -1,0 +1,17 @@
+experiment DSPEC
+instrument TRO
+start 2005 01 14 1200
+end 2005 01 14 1400
+status R
+description Measurement of ISR spectra (UHF) in the upper D-region
+contact Markus Rapp
+phone +493829368126
+email rapp@iap-kborn.de
+fax +49382936850
+operator NN
+submitter Markus Rapp
+resources GE(20)
+notes
+We intend to measure ISR spectra with the UHF radar in the upper D-region/lower 
+E-region to investigate the potential influence of charged meteoric dust 
+particles on the spectral shape. 

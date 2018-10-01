@@ -1,0 +1,12 @@
+experiment ASK
+instrument ESR
+start 2007 12 08 0600
+end 2007 12 08 1100
+status R
+description High time resolution experiment (arc) 42 m field-aligned
+contact N. Ivchenko
+phone +4687907692
+email nickolay.ivchenko@ee.kth.se
+operator Mina Ashrafi
+submitter Nickolay Ivchenko
+resources SW(20)

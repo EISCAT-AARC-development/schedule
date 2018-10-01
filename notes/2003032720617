@@ -1,0 +1,29 @@
+experiment tau0_AA
+instrument ESR
+start 2003 03 27 0500
+end 2003 03 27 1100
+status R
+description ESR Dual-Radar Observations in support of Cluster
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(6)
+notes
+For March 2003, I am requesting five Cluster intervals. Four of these are possible cusp conjunctions, the fifth is an auroral perigee pass. As in previous years, March is the month containing the best Cluster cusp encounters for EISCAT/ESR, making this one of the most imprtant months for good coverage.
+
+The five intervals are:     March  3rd  8-12 UT  (ESR only)
+                            March  8th  6-12 UT  (ESR+VHF)
+                            March 15th  6-12 UT  (ESR+VHF)
+                            March 27th  5-11 UT  (ESR+VHF)
+                            March 31st 18-24 UT  (ESR+VHF)
+
+
+
+
+
+For the 5th and 12th, the experiment should be the "classic" Cluster orientation, namely fixed Low Elevation North on the ESR, interleaved (1:1) with field-aligned observations and tau1avsingle on the mainland VHF.
+On the 24th only the VHF is available, the ESR having been requested for a tomography experiment, so I am only requesting tau1avsingle on that day.
+Comments and queries welcome !

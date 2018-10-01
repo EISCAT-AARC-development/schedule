@@ -1,0 +1,16 @@
+experiment CLUSTER
+instrument ESR
+start 2001 09 04 0700
+end 2001 09 04 1200
+description Experiments co-ordinated with CLUSTER observations
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+submitter Tony van Eyken
+notes
+On September 4th, CLUSTER will be taking data from 04 to 15 UT and   
+SUPERDARN will probably be running in CLUSTER mode.    
+Interior cusp at ESR and VHF 
+

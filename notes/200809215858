@@ -1,0 +1,13 @@
+experiment Meteors
+instrument ESR
+start 2008 09 21 0200
+end 2008 09 21 1000
+status R
+description Measurement of the seasonal variability of the meteoric flux at high latitudes
+contact Diego Janches
+phone 303-415-9701
+email diego@cora.nwra.com
+fax 303-415-9702
+operator Lisa Baddaley
+submitter Diego Janches
+resources 3P(24)

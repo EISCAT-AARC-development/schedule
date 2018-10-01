@@ -1,0 +1,43 @@
+experiment UKOPTICS
+instrument ESR
+start 2013 01 07 0300
+end 2013 01 07 1200
+status R
+description Auroral and Airglow Experiments for Southampton, UCL and collaborators
+contact Betty Lanchester
+phone +442380592049
+email b.s.lanchester@southampton.ac.uk
+operator Anasuya Aruliah
+submitter Ian McCrea
+resources UK(44)
+notes
+This is a block booking, to covering a number of possible experiments, for an 
+international campaign of radar and optical measurements to be held at the time 
+of the January new moon.  The precise modes to be run will depend on activity 
+and sky conditions, and may include:
+
+- Field-aligned observations in conjunction with the EASI interferometer and the 
+ASK imagers, to study small scale auroral structure.  These measurements will 
+include the recording of raw sample-level data.  (Main participants: University 
+of Southampton, University of Tromso, KTH Stockholm and SWRI)
+
+- A small scan on the 32m dish (at low speed because of the broken gearbox) 
+interleaved with 42m field-aligned observations, to study the response of the 
+thermosphere to magnetospheric forcing, including the possibility of 
+thermospheric pre-conditioning.  (Main participants: UCL, University of Bergen)
+
+- An experiment in conjunction with GNSS beacon satellites, which can be run if 
+conditions are not suitable for optical measurements. (Main participant: 
+University of Bergen).
+
+We are requesting the interval from 03-12UT on every day from January 7th to 
+14th inclusive.  Earlier or later dates are not useful, due to moonlight.  In 
+total this is 8x9 hours = 72 hours, which will be funded by a combination of UK, 
+Norwegian and Swedish hours, plus an allocation of peer reviewed time belonging 
+to Robert Mitchell (SWRI, United States).
+
+The precise distribution of time among participating countries will be confirmed 
+nearer to the time of the campaign, but might be something like UK(44), NO(44), 
+PP(24), SW(8).
+
+- Ex

@@ -1,0 +1,23 @@
+experiment PMSEOVER
+instrument TRO
+start 2013 06 20 0900
+end 2013 06 20 1300
+status R
+description Multi-radar (wavelength) PMSE studies including overshoot effect
+contact Henry Pinedo
+phone +4747645189
+email henry.pinedo@uit.no
+operator Cesar La Hoz
+submitter Henry Pinedo
+resources NO(144),UK(24)
+notes
+Using MANDA pulse configuration (MORRO radar-compatible experiment) and running simultaneously:
+1. HF heating/radar (HEA)
+2. VHF Tromsø (VHF)
+3. UHF Tromsø (TRO)
+4. Kiruna VHF receiver (KIR)
+5. Sodankylä VHF receiver (SOD)
+
+Dates:
+1. June 17-24th, 09-13UT
+2. July 24-27th, and 29-30th, 09-13UT

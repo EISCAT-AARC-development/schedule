@@ -1,0 +1,13 @@
+experiment CP3L
+instrument ESR
+start 1999 04 20 1000
+end 1999 04 22 1600
+status R
+description WLS/UARC/TERRIERS
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(100)
+submitter Tony van Eyken

@@ -1,0 +1,17 @@
+experiment SP-UK-MFPS
+instrument VHF
+start 2001 06 13 2000
+end 2001 06 14 0200
+status R
+description PMSE Measurments in Conjunction with the MIDAS Rocket Campaign.
+contact Owen Jones
+phone +44 1223 221546
+email o.jones@bas.ac.uk 
+fax +44 1223 221226
+operator Owen Jones
+resources UK(36)
+submitter Ken Freeman
+notes
+The observation intervals have been chosen to coincide with the possible rocket 
+launch times for the MIDAS campaign at Andoya. It is unlikely that all of them  
+will be used. The experiment will also require the Tromso dynasonde.

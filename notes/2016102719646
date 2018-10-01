@@ -1,0 +1,15 @@
+experiment Swarm
+instrument SOD
+start 2016 10 27 2200
+end 2016 10 28 0200
+status R
+description Coordinated measurements during Swarm satellite overflight
+contact Heikki Vanhamäki and Stephan Buchert
+phone +358-50-5314127
+email heikki.vanhamaki@oulu.fi
+operator EISCAT staff
+submitter Ilkka Virtanen
+resources AA(100)
+notes
+This experiment covers a SWARM pass over ESR and TRO. We request a tri-static
+VHF (vertical) to complement the CP run at the same time.  

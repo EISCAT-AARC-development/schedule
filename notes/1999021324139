@@ -1,0 +1,11 @@
+experiment ALIS&FAST
+instrument TRO
+start 1999 02 13 1900
+end 1999 02 13 2300
+status R
+description Auroral tomography with EISCAT chasing the aurora, requires active beam steering
+contact Takehiko Aso
+email aso@nipr.ac.jp 
+operator Takehiko Aso
+resources NI(100)
+submitter Ryochi Fujii

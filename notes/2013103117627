@@ -1,0 +1,31 @@
+experiment trough
+instrument TRO
+start 2013 10 31 1400
+end 2013 10 31 1800
+status R
+description High temporal variation of the ionospheric trough
+contact Tetsuro Ishida
+phone +81-42-512-0664
+email ishida.tetsuro@nipr.ac.jp
+fax +81-42-528-3499
+operator EISCAT staff
+submitter Yasunobu Ogawa
+resources PP(18)
+notes
+(The HTVIT PP runs are additionaly requested because 
+of quiet ionosphere between 17 and 25 October.)
+
+EROS commands:
+run /kst/exp/ni/beata/beata fm sweep8032s
+enablerec
+
+
+In order to investigate rapid variations of plasma 
+parameters inside/outside ionospheric trough during 
+storm/substorm, we conduct the EISCAT special 
+observations with high speed meridional scan which 
+takes only 60 seconds from 32 to 80 degrees. 
+It is preferable to run the observations under 
+disturbed geomagnetic condition.
+
+

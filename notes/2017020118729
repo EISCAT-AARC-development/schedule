@@ -1,0 +1,17 @@
+experiment SP_LIDAR
+instrument VHF
+start 2017 02 01 1800
+end 2017 02 01 2300
+status R
+description Simultaneous observations of EISCAT, LIDAR, and photometer
+contact Satonori NOZAWA
+phone 81527894393
+email nozawa@nagoya-u.jp
+operator Satonori NOZAWA
+submitter Satonori NOZAWA
+resources NI(15),NO(12)
+notes
+We wil run the EISCAT UHF radar and tristatic VHF radar with the sodium LIDAR and a new 5-wavelength 
+photometer. Clear sky is desired. Based on the simultaneous data, evaluation of Joule heating and derivation 
+of ion-neutral collision frequency are targets. We book three nights, but if it would goes very well for the first 
+two nights,  we will cancel the last night.

@@ -1,0 +1,19 @@
+experiment TID_WIND
+instrument ESR
+start 2012 12 10 0800
+end 2012 12 10 1400
+status R
+description Travelling Ionospheric Disturbances and their connection with neutral wind
+contact Kirsti Kauristie
+email kirsti.Kauristie@fmi.fi
+operator Liisa Juusola
+submitter Antti Kero
+resources FI(24)
+notes
+Study of Travelling Ionospheric Disturbances and their connection with neutral wind variations. The aim 
+is to try to catch a similar event as observed on Jan 20 2010, and analyse it similarly for TIDs from the 
+EISCAT results directly, and for neutral winds using the technique from Oulu University. The results can 
+be compared with TEC estimates from the GeoTrim GPS network. In the January 2010 event, TRO UHF 
+recorded TID signatures, and TEC estimates also showed some wave fronts. In TEC data however, 
+several wave front directions were superposed, which makes the analysis somewhat challenging. With 
+the new campaign we hope to catch (a) clearer event(s).

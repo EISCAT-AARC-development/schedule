@@ -1,0 +1,15 @@
+experiment SP-UK-HEMP
+instrument UHF
+start 2000 09 08 1800
+end 2000 09 08 2000
+status R
+description Modulation of E-Region Conductivity and Artificial Excitation of Resonant ULF Pulsations
+contact Ian Mann
+phone +44 1904 432240
+email ian@aurora.york.ac.uk 
+fax +44 1904 432214
+operator Nigel Wade
+resources UK(24)
+submitter Ken Freeman
+notes
+CP-1-K with pulsed Heater cycle, with the Tromso dynasonde being used to select the Heater frequency.

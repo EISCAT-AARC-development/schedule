@@ -1,0 +1,28 @@
+experiment SP_DUA_PA
+instrument VHF
+start 2012 11 19 2000
+end 2012 11 20 0300
+status R
+description Study on dynamics of upper atmosphere and pulsating aurora
+contact Y. Ogawa
+phone +81-42-512-0664
+email yogawa@nipr.ac.jp
+fax +81-42-528-3499
+operator Y. Ogawa & S. Oyama
+submitter Y. Ogawa
+resources NI(44),SW(40)
+notes
+PIs: K. Shiokawa (STEL, Nagoya Univ.) Y. Miyoshi (STEL, Nagoya Univ.),
+     T. T. Tsuda (NIPR), and S. C. Buchert (IRF Uppsala)
+
+We perform simultaneous observations of EISCAT and several optical
+instruments (sodium lidar, FPI, high speed cameras, etc) for investigations on
+(1) dynamical and chemical coupling of the polar mesosphere and D-region,
+(2) effects of the geomagnetic activity on the thermospheric wind dynamics, and
+(3) electron density variations of the ionosphere associated with
+pulsating aurora.
+CP-1 (CP-6) mode will be used for the UHF (VHF) radar.
+We prefer good weather condition and some auroral activities for this
+campaign.
+
+

@@ -1,0 +1,13 @@
+experiment PMSE
+instrument HEA
+start 2002 07 22 2100
+end 2002 07 23 0100
+status R
+description PMSE Experiments
+contact Evgenia Belova
+phone +46 890 79112
+email belova@irf.se 
+fax +46 980 79091
+operator Phil Chilson
+resources SW(46.5)
+submitter Evgenia Belova

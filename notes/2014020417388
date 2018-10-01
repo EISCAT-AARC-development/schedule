@@ -1,0 +1,21 @@
+experiment PMWE_Heat
+instrument VHF
+start 2014 02 04 1000
+end 2014 02 05 1400
+status R
+description Affecting PMWE by heating
+contact Evgenia Belova
+phone 098079112
+email belova@irf.se
+operator Ingemar Häggström
+submitter Evgenia Belova
+resources SE(12)
+notes
+When PMWE are relatively strong run manda exp with 3.6 s dump.
+1) PMWE and heating: heating modulation as e.g. 18 s on/ 18 s off; 18 s on/72 s off.  – 1 day : 4 hours 
+VHF radar + 4 h Heating
+2) EISCAT VHF radar and NO heating during PMWE event: changing Tx : pointing vertically and tilted   – 1 
+day: 4 hours of the EISCAT VHF 
+
+3) We intend also to check an accuracy of the EISCAT measurements of electron density at 60-80 km 
+during energetic particle precipitation conditions which are favorable for PMWE detection. 

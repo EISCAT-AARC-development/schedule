@@ -1,0 +1,14 @@
+experiment emission
+instrument TRO
+start 2012 12 10 1600
+end 2012 12 11 0300
+status R
+description auroral emission simulations
+contact Kari Kaila
+email kari.kaila@oulu.fi
+operator Carl-Fredrik Enell
+submitter Antti Kero
+resources FI(11)
+notes
+VHF vertical not simultaneously!! Disturbing optical measurements. VHF towards lower north is okay.
+

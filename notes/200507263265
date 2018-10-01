@@ -1,0 +1,76 @@
+experiment cp2
+instrument UHF
+start 2005 07 26 1000
+end 2005 07 27 2200
+description Vertical Wind measurement ( like CP1 however if the remotes can not operate we will run CP2)
+contact Wlodek Kofman
+phone 33 476514152
+email wlodek.kofman@obs.ujf-grenoble.fr
+fax 33 476514146
+operator Wlodek Kofman
+submitter forme
+notes
+Eros command:
+runexp /kst/exp/tau2pl/tau2pl 10:00 fr/oldcp1 FR
+
+Analysis:
+Log on to 'tana'
+Start analysis 'guisdap -a'
+Press 'Reset' button
+Press 'GO'
+If problems, check http://www.eiscat.se/GUISDAP/doc/howto.html
+
+/Ingemar
+
+
+The Tromso UHF radar is fixed to look geographically vertical to estimate the vertical ion velocity directly.
+
+Altitudes for the tristatic measurement and the sequence are:
+  106.58 km -->  110.11 km --> 282.97 km -->
+  114.67 km -->  120.04 km --> 282.97 km -->
+  106.58 km ...
+
+Detail information about the antenna position is below.
+The integration time period at each antenna position is 60 sec(do you think that it is enough).
+==========
+106.58 km
+==========
+Lat = 69.586      Lon = 19.227  Hgt = 106.580
+azT = 0.000       elT = 90.000   rT = 106.494
+azK = 346.301   elK = 27.035   rK = 226.662
+azS = 312.685   elS = 13.338    rS = 408.442
+
+==========
+110.11 km
+==========
+Lat = 69.586 Lon = 19.227 Hgt = 110.110
+azT = 0.000      elT = 90.000  rT = 110.024
+azK = 346.301 elK = 27.811 rK = 228.385
+azS = 312.685  elS = 13.810  rS = 409.479
+
+==========
+282.97 km
+==========
+Lat = 69.586 Lon = 19.227 Hgt = 282.970
+azT = 0.000      elT = 90.000  rT = 282.884
+azK = 346.301  elK = 53.410 rK = 347.893
+azS = 312.685   elS = 33.509 rS = 489.579
+
+==========
+114.67 km
+==========
+Lat = 69.586 Lon = 19.227 Hgt = 114.670
+azT = 0.000      elT = 90.000   rT = 114.584
+azK = 346.301 elK = 28.796   rK = 230.671
+azS = 312.685  elS = 14.417    rS = 410.859
+
+==========
+120.04 km
+==========
+Lat = 69.586 Lon = 19.227 Hgt = 120.040
+azT = 0.000      elT = 90.000 rT = 119.954
+azK = 346.301 elK = 29.930 rK = 233.448
+azS = 312.685  elS = 15.127  rS = 412.543
+
+
+

@@ -1,0 +1,25 @@
+experiment IPSS_UK
+instrument UHF
+start 2004 04 29 0400
+end 2004 04 29 1600
+status R
+description Interplanetary scintillation studies at 930 and 1400 MHz
+contact Richard Fallows
+phone +44-1970-621902
+email raf@aber.ac.uk
+fax +44-1970-622826
+operator Richard Fallows
+submitter Ian McCrea
+resources UK(24)
+notes
+The first UK interplanetary scintillation campaign of 2004 will use the three 
+mainland sites, with the remote sites using a mixture of 930 MHz and 1.4 GHz 
+observations.  The ESR will also be used for the first time to carry out 
+scintillation measurements at 500 MHz during the second part of the campaign 
+(starting May 7th).  Many of the EISCAT observations are simultaneous with 
+measurements on the UK's MERLIN network. The time allocation for this campaign 
+is 24 hours mainland + 6 hours Svalbard, so some of the mainland observations 
+will have to be trimmed.  The detailed schedule can be found at
+
+www.eiscat.rl.ac.uk/~ian/campaigns/UK_ipss2004.htm
+

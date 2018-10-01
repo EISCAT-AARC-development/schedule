@@ -1,0 +1,27 @@
+experiment ASK EASI
+instrument ESR
+start 2012 12 17 0300
+end 2012 12 17 1100
+status R
+description Study of NEIALs using combined optical and interferometric IS observations.
+contact Betty Lanchester
+phone +44 23 8059 2049
+email bsl@soton.ac.uk
+fax +44 23 8059 3910
+operator Vasyl Belyey?
+submitter Betty Lanchester
+resources UK(20)
+notes
+The aims of this experiment which require the use of the EISCAT Svalbard Radar 
+are:-
+   - to study the occurrence and spatial distribution of NEIALs using 
+interferometry techniques
+   - to study the energy distribution within and surrounding narrow auroral 
+forms (especially when associated with NEIALs),
+   - and apply the results to theories of NEIAL occurrence and production, and 
+in general to theories of auroral acceleration processes.
+  The experiment is a collaboration between UK, 20 hours, Norway, 20 hours, and
+Sweden, 8 hours, for a total of 48 hours.
+  Pulse code LT4FL or beata will be run on the Radar. The experiment will also
+employ EASI and ASK.
+

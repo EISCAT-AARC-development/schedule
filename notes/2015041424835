@@ -1,0 +1,16 @@
+experiment ISPE
+instrument TRO
+start 2015 04 14 1100
+end 2015 04 28 1400
+status R
+description  Incoherent scatter power enhancements deduced by ionospheric heating
+contact Wu.Jun
+email wujun1969@163.com
+operator Wu.Jun
+submitter Wu.Jun
+resources CN(18)
+notes
+we first propose to conduct systematic experiments to further characterize
+behaviors of the incoherent scatter power enhancement dedueced by ionospheric
+heating by simultaneously utilizing EISCAT incoherent scatter radar, SEE
+receiver and other available instruments.

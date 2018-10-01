@@ -1,0 +1,11 @@
+experiment sp-fr-gup3
+instrument ESR
+start 1999 12 10 0500
+end 1999 12 12 0500
+status R
+description gup3
+contact jean lilensten
+email jean.lilensten@obs.uij-grenoble.fr 
+operator lilensten
+resources fr(48)
+submitter f forme

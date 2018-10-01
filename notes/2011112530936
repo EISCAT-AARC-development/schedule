@@ -1,0 +1,16 @@
+experiment EARTH
+instrument VHF
+start 2011 11 25 1000
+end 2011 11 25 1600
+status R
+description Joint entry for EARTH of UK 
+contact Wu.Jun
+email wujun1969@163.com
+operator Wu Jun   Xu Bin
+submitter Wu Jun
+resources CN(12.5)
+notes
+This is a joint entry for the  UK experiment EARTH.
+China will contribute the working time of VHF and 10.5 working hours of UHF 
+and HEATER in cooperation with UK EARTH. 
+

@@ -1,0 +1,35 @@
+experiment SWARM
+instrument VHF
+start 2015 11 03 2030
+end 2015 11 04 0030
+status R
+description Measurements coordinated with Swarm satellite passes
+contact Stephan Buchert
+phone +46708566324
+email scb@irfu.se
+fax +46184715905
+operator Stephan Buchert
+submitter Stephan Buchert
+resources AA(100)
+notes
+This EISCAT experiment covers Swarm A and C (values for C in brackets) passing 
+over TRO at 22:16:57(22:17:13) UT, h=462.7(9) km, r=482.2(470.1) km, 
+Az=279.8(278.4) deg, El=73.0(79.5) deg.
+
+Because of expected low density the VHF is requested which hopefully can get 
+good data at Swarm altitude, but at some distance from the closest approach of 
+the satellites.
+
+---------------------------------------------------------------------------
+
+Three Swarm satellites, A, B, and C, perform high precision magnetic field
+measurements using both vector and scalar magnetometers. The
+instrumentation includes a thermal ion imager (TII) and Langmuir probe
+(LP). Together the LP and TII form the electric field instruments
+(EFIs). The PI is David Knudsen <knudsen@ucalgary.ca> from the University of 
+Calgary. For LP contact Stephan Buchert <scb@irfu.se>. Using EFI data electron 
+density and temperature, ion drift vector and temperature and the perpendicular 
+electric field can be derived. In addition accelerometer instruments, onboard 
+GPS receivers and ground-based laser ranging of Swarm support a very precise 
+orbit determination.
+

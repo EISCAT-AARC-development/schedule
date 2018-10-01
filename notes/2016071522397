@@ -1,0 +1,24 @@
+experiment PMSEOVER
+instrument VHF
+start 2016 07 15 0800
+end 2016 07 15 1200
+status R
+description Multi-wavelength and Tristatic PMSE measurements including overshoot effect
+contact Henry Pinedo
+email henry.pinedo@uit.no
+operator C. La Hoz & M. Rietveld
+submitter Henry Pinedo
+resources NO(80)
+notes
+Using MANDA program, raw data recording, UHF & VHF TX vertical, and running simultaneously:
+
+1. HF heating (HEA)
+2. VHF Tromsø (VHF)
+3. UHF Tromsø (TRO)
+4. Kiruna VHF receiver (KIR)
+5. Sodankylä VHF receiver (SOD)
+
+Dates: 2016, July 12-15th & July 18th  (DoY 194-197, 200)
+
+PMSE occurrence is mainly required, therefore there may be some cancellations, stand-by, and time-shifts 
+(inside working hours and, of course, only if there are no other experiments scheduled to be executed).

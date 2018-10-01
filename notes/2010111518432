@@ -1,0 +1,19 @@
+experiment spni_LIDAR
+instrument TRO
+start 2010 11 15 1700
+end 2010 11 15 2300
+status R
+description Simultaneous observation with the sodium LIDAR
+contact Satonori Nozawa
+phone 81527894303
+email nozawa@stelab.nagoya-u.ac.jp
+fax 81527894311
+operator Satonori Nozawa
+submitter Satonori Nozawa
+resources NI(12)
+notes
+We just started neutral temperature  observations between 80-110 km with a Sodium LIDAR installed at 
+Ramjordmoen. This experiment aims at examining variations of the temperature between 80 and 110 km 
+due to aurora effect (from above) and atmospheric wave effect (from below). 
+
+

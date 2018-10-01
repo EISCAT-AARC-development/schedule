@@ -1,0 +1,24 @@
+experiment CLUSTER
+instrument ESR
+start 2001 10 01 1800
+end 2001 10 01 2400
+description Co-ordinated operations with the CLUSTER satellites
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+submitter Tony van Eyken
+notes
+Oct 1 17-19 Nsheet KST ESR  2200-2300 STF   
+Cluster will be taking data until 2340.  The footprint passes between 
+ESR and KST, moving out westward over Greenland after 20 UT.  In fact 
+this geometry is similar to a number of the cases in the following days. 
+As pointed out by Hermann, this seems like a good candidate for a  
+combined EISCAT/Sondy experiment.  I wonder whether there might be 
+some merit in scanning towards Sondy after 20 UT as has been tried 
+before?  Also we should consider the position 
+of the ESR steerable beam before 20 UT.  Is Northward or Southward 
+the best direction ? 
+   
+

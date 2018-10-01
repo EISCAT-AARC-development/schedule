@@ -1,0 +1,15 @@
+experiment GLowF
+instrument VHF
+start 2017 11 17 1400
+end 2017 11 17 1800
+status R
+description the generation of ELF/VLF waves using HF heating
+contact Wu Jun
+email wujun1969@163.com
+operator Xu Tong
+submitter Wu Jun
+resources CN(4)
+notes
+The purpose of the experiment is to investigate the generation of ELF/VLF waves
+using HF heating of the ionosphere with amplitude modulation and Beat-wave
+modulation. 

@@ -1,0 +1,21 @@
+experiment DROP_HOAX
+instrument HEA
+start 2006 11 19 1700
+end 2006 11 19 1900
+status R
+description Modulation of D-region optical emissions by RF heating
+contact Andrew Senior
+phone +44 1524 510410
+email a.senior@lancaster.ac.uk
+fax +44 1524 510493
+operator Mike Rietveld
+submitter Andrew Senior
+resources UK(6)
+notes
+HEA: most likely 10 Hz square-wave, X-mode, vertical.
+
+This is a combination of the UK DROP and HOAX experiments. It is heavily
+over-booked and dependent on clear skies for optical support. Cancellation will
+occur.
+
+

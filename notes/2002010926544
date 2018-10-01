@@ -1,0 +1,15 @@
+experiment cuspscan
+instrument ESR
+start 2002 01 09 0600
+end 2002 01 09 1200
+status R
+description scanning the cusp ionosphere
+contact Frederic Pitout
+phone +46 471 72 69
+email fp@irfu.se 
+fax +46 471 59 05
+operator La Hoz &Co
+resources FR/NI/SW (72)
+submitter F. Pitout
+notes
+Observation of the cusp ionosphere with both ESR (one scanning, one field-aligned) and VHF.

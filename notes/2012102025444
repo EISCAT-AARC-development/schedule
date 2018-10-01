@@ -1,0 +1,17 @@
+experiment SPIDER12
+instrument TRO
+start 2012 10 20 1900
+end 2012 10 20 2400
+status R
+description Farley-Buneman turbulence and anomalous heating in E region, study over Esrange coordinated with ALIS; pre-study for a sounding rocket.
+contact N. Ivchenko
+email nickolay@kth.se
+operator T. Sergienko
+submitter N. Ivchenko
+resources SW(55)
+notes
+A scan pattern will be specified later, with several look directions cutting at
+a slant angle across the E region in a potential sounding rocket measurement
+volume over Esrange. ALIS will have common volume configured in the same locus
+to monitor the aurora. Special programme operation on SuperDARN Finland radar is
+reqested with higher range and time resolution the common volume.

@@ -1,0 +1,27 @@
+experiment SERSIO
+instrument ESR
+start 2004 01 26 0400
+end 2004 01 26 0900
+status R
+description Ground support of the SERSIO sounding rocket
+contact Kjellmar Oksavik
+phone +47-22855682
+email kjellmar.oksavik@fys.uio.no
+fax +47-22855671
+operator Kjellmar Oksavik
+submitter Kjellmar Oksavik
+resources NO(20),NI(20),SW(20),UK(20)
+notes
+Ground support of the SERSIO sounding rocket: Svalbard EISCAT-Rocket Study of 
+Ion Outflows (PI: Paul Kintner) will investigate ion outflows between 600 and 
+800 km altitude in the polar cusp/cleft region. SERSIO will be launched from Ny-
+Aalesund to measure ion drifts, electron drifts, electron and ion 
+precipitation, convection electric fields and plasma waves. The objectives of 
+the experiment are to determine the physical mechanism responsible for the 
+ionospheric outflow, the source of free energy for the outflows, and to 
+investigate the relationship of the ion outflows to previous satellite 
+measurements of vertical ion drifts and sounding rocket measurements of 
+transverse ion acceleration at higher altitudes in the polar cusp/cleft. The 
+ESR, UHF and VHF radars will be used to monitor ion outflow at the nominal 
+rocket apogee to determine the launch conditions and for comparison with the 
+rocket data. 

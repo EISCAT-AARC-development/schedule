@@ -1,0 +1,21 @@
+experiment NEIPL
+instrument VHF
+start 2005 03 14 2000
+end 2005 03 19 0200
+status R
+description Radar and optical observations of naturally enhanced ion and plasma lines.
+contact Vasyl Belyey
+phone +47 77645136
+email vasyl@phys.uit.no
+fax +47 77645580
+operator Vasyl Belyey
+submitter Vasyl Belyey
+resources NO(50)
+notes
+Radar observations of naturally enhanced ion and plasma lines conducted near 
+local midnight. Both VHF (20:00-02:00 UT) and UHF (21:00-01:00 UT) Tromsø 
+radars will be used to monitor lower ionosphere (90-400 km). VHF radar will be 
+operated (6 hours per night) in an interferometric mode recording data from 
+two halves of the antenna directed to zenith. UHF radar will provide (4 hours 
+per night) field-aligned observations. Optical data from field-aligned 
+direction will be simultaneously recorded by Odin auroral imager.

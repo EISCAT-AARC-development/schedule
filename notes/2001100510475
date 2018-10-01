@@ -1,0 +1,21 @@
+experiment CLUSTER
+instrument ESR
+start 2001 10 05 0600
+end 2001 10 05 1200
+description Co-ordinated operations with the CLUSTER satellites
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@eiscat.com 
+fax +47 790 21977
+operator Tony van Eyken
+submitter Tony van Eyken
+notes
+Oct 5 0900 Internal Cusp west of ESR east of STF         
+This is a  
+perigee pass, so I guess the cusp geometry referred to above might 
+be the best one.  One suggestion I might make would be to move the 
+VHF operations scheduled for the 3rd to this interval instead. 
+This again is flagged by Hermann as a candidate for Sondy. 
+ 
+         
+

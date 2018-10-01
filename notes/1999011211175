@@ -1,0 +1,12 @@
+experiment CP4
+instrument VHF
+start 1999 01 12 1000
+end 1999 01 13 1600
+status C
+contact Tony van Eyken
+phone +47 790 21008
+email Tony.van.Eyken@esr.eiscat.no 
+fax +47 790 21977
+operator Tony van Eyken
+resources CP(100)
+submitter Tony van Eyken

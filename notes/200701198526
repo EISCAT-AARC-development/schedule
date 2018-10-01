@@ -1,0 +1,18 @@
+experiment LPACI_07
+instrument UHF
+start 2007 01 19 1800
+end 2007 01 19 2400
+status R
+description combined optics and NEILS experiment
+contact Betty Lanchester
+phone +44 2380592049
+email bsl@phys.soton.ac.uk
+fax +44 2380592048
+operator Dan Whiter
+submitter Vikki Howells
+resources UK(20),SW(10)
+notes
+Optical campaign with the ASK (auroral structure and kinetics) instrument
+deployed at Tromso.
+Experiments to be used are arc, tau2pl and a new experiment to be developed
+

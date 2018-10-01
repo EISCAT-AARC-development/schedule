@@ -1,0 +1,14 @@
+experiment TS
+instrument ESR
+start 2017 03 23 1000
+end 2017 03 24 1000
+status R
+description Top-side experiment
+contact J. Vierinen
+email juha-pekka.vierinen@uit.no
+operator J. Vierinen
+submitter J. Vierinen
+resources NO(24)
+notes
+Uncoded long pulse, 1 ms pulse length 15 ms IPP, raw voltage recording of 
+transmit pulse and full 10 ms IPP requested. 

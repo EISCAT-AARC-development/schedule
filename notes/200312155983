@@ -1,0 +1,16 @@
+experiment MultiScan
+instrument ESR
+start 2003 12 15 0600
+end 2003 12 15 1200
+status R
+description Multi-User (UK) 20-minute scan
+contact Vikki Howells
+phone 44  1235 445044
+email V.Howells@rl.ac.uk
+fax 44  1235 445848
+operator Vikki Howells
+submitter Vikki Howells
+resources UK(26)
+notes
+This experiment will employ the steerable antenna in a meridian scanning mode.
+The intervals have been chosen to coincide with satellite overpasses. 

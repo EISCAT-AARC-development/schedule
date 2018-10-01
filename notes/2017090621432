@@ -1,0 +1,14 @@
+experiment CP4
+instrument VHF
+start 2017 09 06 0700
+end 2017 09 10 1700
+status R
+description Meridian circle
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+resources CP(999)
+notes
+VHF: rem ksv runexp /kst/exp/bella/bella 0:0 lowel
+UHF: runexp /kst/exp/bella/bella 0:0 cp4

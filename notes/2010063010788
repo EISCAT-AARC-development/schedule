@@ -1,0 +1,22 @@
+experiment SPEAR_DMSP
+instrument ESR
+start 2010 06 30 0630
+end 2010 06 30 0730
+status R
+description SPEAR DMSP
+contact Lisa 
+phone 0047 79023362
+email lisa.baddeley@unis.no
+fax 0047 79 02 33 01
+operator Lisa Baddeley
+submitter Lisa Baddeley
+resources NO(30)
+notes
+SPEAR will be running in O mode at a frequency close to the foF2 peak as part of
+a joint UNIS and NWRA heating campaign.
+
+The experiment is timed to co-incide with a DMSP satellite conjunction and
+special time has been requested on the CUTLASS SuperDARN radars
+
+The experiment requires geomagnetically quiet conditions both during and before
+the experiments.

@@ -1,0 +1,22 @@
+experiment CESMIC
+instrument ESR
+start 2008 01 30 0600
+end 2008 01 30 1100
+status R
+description Co-ordinated EISCAT, SuperDARN, MIRACLE, ITACA, and Cluster observations of cusp related processes
+contact Igino Coco
+email igino.coco@ifsi-roma.inaf.it
+operator Lisa Baddeley
+submitter Lisa Baddeley
+resources TNA(24)
+notes
+This is the remaining 10 hours of CESMIC time that was unable to be run at the
+end of December due to problems with the power station.
+run command is:
+runexp /kst/exp/taro/taro fm LBsweepEL256 IT
+
+The 32m dish will perform an elevation scan from 30 to 150 degrees elevation in
+256 seconds.  The 32m dish should be moved to a start position of:
+pointdir -18.4 30
+
+

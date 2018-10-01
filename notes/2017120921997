@@ -1,0 +1,19 @@
+experiment SROANPI
+instrument ESR
+start 2017 12 09 1800
+end 2017 12 09 2200
+status R
+description Satellite radio observation of plasma irregularities
+contact Hiroatsu Sato
+phone +493981480190
+email hiroatsu.sato@dlr.de
+fax +493981480142
+operator EISCAT staff
+submitter Hiroatsu Sato
+resources PP(20)
+notes
+runexp taro/taro lm any GE
+pointdir 253 50
+
+EISCAT and GNSS+SAR coordinated observation of plasma irregularities. 
+

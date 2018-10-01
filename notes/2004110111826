@@ -1,0 +1,23 @@
+experiment SMOKE04
+instrument KIR
+start 2004 11 01 0000
+end 2004 11 01 0300
+status R
+description Electron density and ISR spectra of meteoric smoke particles
+contact Ulf-Peter Hoppe
+phone +47-63 80 72 87
+email uph@ffi.no
+fax +47-63 80 72 12
+operator Norbert Engler, IAP Kuehlungsborn
+submitter Ulf-Peter Hoppe
+resources NO(10)
+notes
+measurements of electron density and ISR spectra 75 km - 120 km, UHF, using
+Kiruna to receive from 86 km. (I don't know how to input into the form that we
+wish to use Kiruna as well.) Beginning 28 October, measurements 11-12 UT and
+19 - 03 UT. A rocket will be launched from ESRANGE with Faraday rotation for
+N_e profiles and a special instrument to measure Hunten's smoke particles. In
+addition, the Saura MF radar will measure N_e continuously.The launch window
+opens on 28 October for 5 days, 19-03 UT each night. We have 25 hours total (15
+GE and 10 NO), so we must cancel on some days, when there will be no countdown,
+and/or after the launch.

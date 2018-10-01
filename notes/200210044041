@@ -1,0 +1,19 @@
+experiment cp1l_shaf_UK@uhf
+instrument HEA
+start 2002 10 04 0730
+end 2002 10 04 0830
+status R
+description Spacecraft Related Measurements of ULF Wave Signatures in Heater Generated Backscatter.
+contact Darren Wright
+phone +44 116 252 3568
+email darren.wright@ion.le.ac.uk  
+fax +44 116 252 3555
+operator To Be Decided
+resources UK(30)
+submitter Ken Freeman
+notes
+The purpose of this investigation is to use the Heater to stimulate ULF waves,   
+which will travel along a flux tube and be detected by instruments on satellites 
+such as FAST and Cluster. The intervals booked are therefore dictated by the     
+times of satellite overpasses. (This particular interval has been timed to      
+co-incide with an overpass of Cluster.) The Heater will be operated at full power with a dual frequency modulation. Neither radar will be employed specifically for this experiment on this occasion, although it is expected that simulteous VHF Radar measurements will be made for another experiment. There may also be CUTLASS Radar and the Leicester Doppler sounder measurements.

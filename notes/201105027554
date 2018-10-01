@@ -1,0 +1,16 @@
+experiment Scinti
+instrument SOD
+start 2011 05 02 0900
+end 2011 05 21 1800
+status R
+description Interplanetary scintillation studies of the solar wind
+contact Richard Fallows
+phone +44 1970 622805
+email raf@aber.ac.uk
+operator Richard Fallows
+submitter Richard Fallows
+resources UK(30)
+notes
+We require the 1.4GHz feeds at Kiruna and Sodankyla and the total-power 
+receivers.  A full schedule of observations for each antenna will be distributed 
+to site managers.

@@ -1,0 +1,13 @@
+experiment POLA
+instrument ESR
+start 2011 02 01 1900
+end 2011 02 02 0500
+status R
+description Detection of polarization
+contact Mathieu Barthelemy
+email Mathieu.Barthelemy@obs.ujf-grenoble.fr
+operator M. Barthelemy
+submitter F. Pitout
+resources FR(10)
+notes
+Coordinated measurements with Polarlis installed in Hornsund.

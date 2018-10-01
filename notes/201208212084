@@ -1,0 +1,13 @@
+experiment juha
+instrument VHF
+start 2012 08 21 0800
+end 2012 08 21 1300
+status R
+description KAIRA
+contact Juha Vierinen
+email jvierine@gmail.com
+operator Juha Vierinen
+submitter Juha Vierinen
+resources FI(5)
+notes
+Testing with KAIRA. 

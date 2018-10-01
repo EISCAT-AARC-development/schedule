@@ -1,0 +1,24 @@
+experiment REIMEI
+instrument TRO
+start 2008 07 05 0940
+end 2008 07 05 1010
+status R
+description Detection of electron acceleration in HF heating
+contact Mike Kosch
+phone +44 1524 510410
+email m.kosch@lancaster.ac.uk
+operator UK campaign team
+submitter Andrew Senior
+resources NI(2)
+notes
+This experiment aims to detect low-energy accelerated electrons created during
+HF heating by means of the particle detector on the Reimei satellite.
+
+Four overpasses occur during the campaign period. The UHF and heating operations
+for this experiment should be allowed to interrupt the UK XMOD and MZE
+experiments and the UK-NO-CN TRAP experiment. The heater operations for REIMEI
+are scheduled under the 'LANCS_HEAT' joint entry with XMOD and MZE.
+
+The UHF is only required for 30 minutes for each run. The run on 10 July will of
+course only take place if an interruption of the CP run is allowed.
+

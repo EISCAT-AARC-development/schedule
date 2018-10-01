@@ -1,0 +1,19 @@
+experiment CHAMP
+instrument HEA
+start 2003 02 07 0000
+end 2003 02 07 0100
+status R
+description Heater-CHAMP satellite
+contact M. Rietveld
+phone +49 5556 979234
+email rietveld@linmpi.mpg.de
+fax +49 5556 979240
+operator M. Rietveld
+submitter M. Rietveld
+resources GE(0.8)
+notes
+Heating for CHAMP Satellite.
+Either ca. 3 Hz modulation of ionospheric currents for magnetometer
+or CW electron heating for Langmuir probe, depending on conditions.
+
+Exact time may change since orbit not very predictable at low altitudes.

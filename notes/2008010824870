@@ -1,0 +1,29 @@
+experiment UK_SCANDI
+instrument ESR
+start 2008 01 08 0500
+end 2008 01 08 1100
+status R
+description ESR observations in conjunction with SCANDI
+contact Anasuya Aruliah
+phone +44207692538
+email anasuya@apl.ucl.ac.uk
+fax +442076797153
+operator Anasuya Aruliah
+submitter Ian McCrea
+resources UK(18)
+notes
+This is a request for ESR operations in support of the UCL Scanning Doppler 
+Imager, which is currently operational in the new Kjell Henriksson 
+observatory.  The aim is to run the experiment three times, for six hours each 
+time, during the interval from January 4th to 13th.  Two of these runs should 
+take place during the cusp interval (05-11 UT) and the third in the midnight 
+sector (19-01 UT).
+
+The experiment is over-booked because it requires cloud-free conditions.  
+Eoghan Griffin and Anasuya Aruliah will be on Svalbard from January 4th to 13th 
+and can advise on whether conditions are suitable if there is any doubt.
+
+The default experiment is a small scan with three positions, one of which is 
+field-aligned with the other two having elevations of 63.5 degrees north and 
+south.  More complex scans may be used if justified by the conditions, but this 
+would require good SNR at the ESR.

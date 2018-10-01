@@ -1,0 +1,15 @@
+experiment Optical-IS
+instrument UHF
+start 2001 10 17 1600
+end 2001 10 18 0300
+status R
+description Optical-IS simultaneous observation
+contact R. Fujii
+phone +81-52-789-4309
+email rfujii@stelab.nagoya-u.ac.jp 
+fax +81-52-789-4311
+operator S. Nozawa
+resources JP(11)
+submitter Ryoichi Fujii
+notes
+This SP will be for a simultaneous observation with a multi-wavelengths fixed angle photometer that will be installed at Ramfjord in early October.

@@ -1,0 +1,18 @@
+experiment IPSS
+instrument ESR
+start 2012 09 17 0000
+end 2012 09 30 2359
+status R
+description EISCAT observations of IPS and comparisons with LOFAR, KAIRA, and EMBRACE where possible for solar-wind investigations.
+contact Dr. Mario M. Bisi
+email Mario.Bisi@aber.ac.uk
+operator Dr. Richard A. Fallows
+submitter Dr. Mario M. Bisi
+resources UK(17.5)
+notes
+A full IPS observational programme will be specified nearer the time.  ESR, if
+repaired, will be essential to the observing plan.  In addition, maximum
+available badwidth at all sites is needed, and 1420MHz (with full wide-band
+receivers in both cases) at the remote sites if VHF is not in place by then -
+VHF would be preferable over 1420MHx for more-direct comparisons with KAIRA and
+LOFAR and also with the ESR.

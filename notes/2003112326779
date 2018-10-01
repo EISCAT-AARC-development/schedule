@@ -1,0 +1,11 @@
+experiment Eclipse
+instrument ESR
+start 2003 11 23 2100
+end 2003 11 24 0100
+description The solar eclipse on conjugate points over Antarctica
+contact I Häggström
+email ingemar@eiscat.com
+operator I Häggström
+submitter I Häggström
+notes
+/kst/exp/arc_slice/arc_slice fixed 

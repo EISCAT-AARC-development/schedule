@@ -1,0 +1,25 @@
+experiment EDMIM
+instrument VHF
+start 2011 03 07 1000
+end 2011 03 07 1200
+status R
+description EISCAT differential measurements of ionospheric  mofification
+contact Hasan
+phone 6508594992
+email hasan.bahcivan@sri.com
+operator Ingemar
+submitter Hasan Bahcivan
+resources PP(2)
+notes
+MFICOL
+VHF runexp /kst/exp/ei/beata 07:0 ei/el45 US
+UHF runexp /kst/exp/ei/beata 07:0 ei/el45 US
+KIR runexp /kst/exp/beata 07:0 ei/el45 US 100
+SOD runexp /kst/exp/beata 07:0 ei/el45 US 95
+
+EDMIN
+VHF runexp /kst/exp/ei/edmin 11:0
+UHF runexp /kst/exp/ei/edmin 11:0
+
+
+

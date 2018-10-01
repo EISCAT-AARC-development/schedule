@@ -1,0 +1,15 @@
+experiment PMSE/Heating
+instrument HEA
+start 2001 06 08 0900
+end 2001 06 08 1300
+status R
+description Joint PMSE/Heating experiment with Ne diagnistics. Task is to detect modifications of PMSE using VHF and UHF radars caused by ionospheric heating.  
+contact Evgenia Belova
+phone +46 980 79112
+email belova@irf.se 
+fax +46 980 79050
+operator Ingemar Haggstrom
+resources SW(2)
+submitter E.Belova
+notes
+part 2

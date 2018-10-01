@@ -1,0 +1,22 @@
+experiment CP1
+instrument UHF
+start 2004 03 29 0800
+end 2004 03 31 2400
+description M-I Coupling
+contact I Häggström
+email ingemar@eiscat.com
+operator I Häggström
+submitter I Häggström
+notes
+http://people.ece.cornell.edu/wes/URSI_ISWG/2004WDschedule.htm 
+tau2_pl cp1 
+
+pointing should be
+  ESR> steffe fullminute vhfcross
+    (az_32m = 168.1, el_32m =  32.8)
+  VHF> boresight, 30-degree elevation
+
+which will produce crossed beams at
+  Lat  =   74.085   Lon    =  19.070   Hgt  =  325.000
+  rangeVHF   =  608.434
+  rangeESR   =  567.780

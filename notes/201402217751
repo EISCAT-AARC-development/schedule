@@ -1,0 +1,17 @@
+experiment TomoExp
+instrument VHF
+start 2014 02 21 0719
+end 2014 02 28 0719
+status R
+description Coordinated optical and VHF run for a Japanese campaign
+contact Noora Partamies
+email noora.partamies@fmi.fi
+operator Yoshimasa Tanaka
+submitter Noora Partamies
+resources FI(10)
+notes
+We aim at optical and radar tomography experiments together with a Japanese
+group. VHF will be run vertically unless UHF will be available. Radar runs will
+be supported by optical measurements with MIRACLE, ALIS and NIPR cameras.
+Finland contributes to this campaign by 10 hours of radar time during the time
+period of 21-28 Feb, 2014

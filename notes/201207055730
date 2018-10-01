@@ -1,0 +1,18 @@
+experiment SEEIT
+instrument TRO
+start 2012 07 05 1100
+end 2012 07 05 1400
+status R
+description SEEIT experiment
+contact Paul Bernhardt
+email bern@ppd.nrl.navy.mil
+operator Paul Bernhardt
+submitter I Häggström
+resources PP(18)
+notes
+We will be operating the EISCAT HEATING 
+facility and the UHF Radar at Tromso.  We will be setting up our SEE 
+receivers at three sites.  This is for the SEEIT experiment.
+We need to make Ne, Te, Ti mesurements in the heated volume.  We are 
+interested in ion-line and plasma-line profiles, as well as time histories 
+of the plasma and ion line spectra.  

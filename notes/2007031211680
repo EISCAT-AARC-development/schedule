@@ -1,0 +1,33 @@
+experiment POUCH
+instrument ESR
+start 2007 03 12 0700
+end 2007 03 12 1100
+status R
+description Joint Heating experiment using the Tromso heater, UHF, SPEAR and the ESR in conjunction with a Polar satellite pass mapping through both heated patches
+contact Lisa Baddeley
+phone 00441162231302
+email ljb14@ion.le.ac.uk
+fax 00441162523555
+operator Ranvir Dhillon
+submitter Lisa Baddeley
+resources UK(8)
+notes
+The ESR will run the long pulse slopes experiment on the 32m dish.
+
+This experiment is run in conjunction with the OUCH and HEAT experiments at Tromso.
+
+THE RUN IS SUBJECT TO CANCELLATION IF WE DO NOT GET THE REQUIRED TIME ON OUR
+HEAT ACCOUNT TO RUN THE TRO UHF WHICH WE BID FOR IN THE LAST ROUND.
+
+The purpose of the experiment is to use both heaters in O mode polarisation to
+generate F-region artificial density irregularities which will act as targets
+for the CUTLASS radars.  The Heaters will be on continuously and it is hoped we
+will observe naturally occurring small scale ULF waves in the backscatter.  The
+two heated patches will hopefully be either side of the OCFLB.
+The UHF and ESR will provide data as to the plasma environment in the
+ionospheric interaction region.
+The footprint of the Polar spacecraft will pass through both heater patches
+allowing simulatanous measurements of the magnetospheric particle populations
+thought to be providing energy to the ULF waves.
+
+

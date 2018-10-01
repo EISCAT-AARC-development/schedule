@@ -1,0 +1,17 @@
+experiment 4PhaseCode
+instrument TRO
+start 2014 05 08 0900
+end 2014 05 08 1059
+status R
+description Quadriphase-coded incoherent scatter experiment with EISCAT UHF
+contact Lassi Roininen
+phone +358404827773
+email lassi.roininen@sgo.fi
+fax +35816610248
+operator Lassi Roininen
+submitter Lassi Roininen
+resources FI(5)
+notes
+We request a test setup for the first quadriphase-coded incoherent scatter experiment with EISCAT UHF. A 
+new experiment with quadriphase coding and EISCAT raw data sampling will be designed in co-operation 
+with J. Markkanen. Voltage level USRP sampling will be used in parallel with the EISCAT recording.

@@ -1,0 +1,13 @@
+experiment PCB
+instrument ESR
+start 2011 12 16 1800
+end 2011 12 16 2300
+status R
+description Polar cap boundary measurements.
+contact Noora Partamies
+email noora.partamies@fmi.fi
+operator Liisa Juusola
+submitter Antti Kero
+resources FI(15)
+notes
+Evolution of the polar cap boundary, preferentially during substorms. Low elevation south.

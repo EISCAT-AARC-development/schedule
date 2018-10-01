@@ -1,0 +1,13 @@
+experiment Nikita
+instrument ESR
+start 2004 01 22 0700
+end 2004 01 22 1100
+status R
+description Interferometric studies of fine structures in collaboration with optical narrow fov cameras
+contact Cesar la Hoz
+phone +47 77 64 51 50
+email Cesar.La.Hoz@phys.uit.no
+fax +47 77 64 55 80
+operator Cesar la Hoz
+submitter Anja Strømme (anja@phys.uit.no)
+resources NO(66)

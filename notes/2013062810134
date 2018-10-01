@@ -1,0 +1,23 @@
+experiment Dusty_PMSE
+instrument SOD
+start 2013 06 28 0700
+end 2013 06 28 1300
+status R
+description observe pmse
+contact Ingrid Mann
+phone +46 980 79158 
+email ingrid.mann@eiscat.se
+operator Ingemar H.
+submitter Ingrid Mann
+resources SW(36)
+notes
+runexp /kst/exp/manda/manda 7:0 zenith SW
+
+Aim: observe PMSE at two frequencies and from different aspect angles
+to use this
+as a basis to study plasma turbulence and dusty plasma phenomena in
+the atmosphere.
+
+Requested Observation time:
+3 x 6 hours and UHF and VHF (Tromso, Kiruna, Sodankylä) (total 36 hrs)
+preferably during last week of June.

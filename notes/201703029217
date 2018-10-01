@@ -1,0 +1,17 @@
+experiment STD
+instrument HEA
+start 2017 03 02 1430
+end 2017 03 02 1830
+status R
+description SuperDARN technique development
+contact Mike Kosch
+phone +44-1524-510404
+email m.kosch@lancaster.ac.uk
+operator Mike Kosch
+submitter Mike Kosch
+resources NI(24),UK(12)
+notes
+The experiment is for SuperDARN technique development of the thermospheric 
+neutral density measurement by the CUTLASS radar. In parallel, optical 
+observations will occur during the second half of each experiment. Heater 
+operations will stop when the ionosphere goes under-dense.

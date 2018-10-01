@@ -1,0 +1,15 @@
+experiment CP3
+instrument TRO
+start 2007 03 01 0800
+end 2007 03 06 1400
+description TEC
+contact I Häggström
+email ingemar@eiscat.se
+operator I Häggström
+submitter I Häggström
+notes
+runexp /kst/exp/tau1/tau1 8 cp3
+
+World Day
+http://people.ece.cornell.edu/wes/URSI_ISWG/2007WDschedule.htm
+

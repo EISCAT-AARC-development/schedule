@@ -1,0 +1,13 @@
+experiment Tropo
+instrument VHF
+start 2013 06 03 1000
+end 2013 06 03 1300
+status R
+description Tropspheric scatter
+contact S Kirkwood
+email sheila@irf.se
+operator S Kirkwood
+submitter I Häggström
+resources SW(20)
+notes
+VHF in a simple mode  (single short pulse , single frequency)

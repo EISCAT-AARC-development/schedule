@@ -1,0 +1,18 @@
+experiment tau1_AA
+instrument VHF
+start 2002 09 13 2000
+end 2002 09 13 2400
+status R
+description VHF dual-beam tau1 experiment for Cluster co-ordination
+contact Ian McCrea
+phone +44-1235-446513
+email i.w.mccrea@rl.ac.uk
+fax +44-1235-445848
+operator EISCAT Duty Staff
+submitter Ian McCrea
+resources AA(4)
+notes
+The September requests for Cluster coverage are mostly connected with Cluster orbits with apogee in the tail, and are therefore best suited to the study of substorm processes etc.  On the nights of the 1st, 6th, 13th, 18th, 20th and 25th, the Cluster footprint generally passses between Tromso and the ESR.  Hence the best observing geometry would probably be a northward-looking mode on the Tromso VHF, together with a southward-looking mode from the ESR 32m dish.
+A pointing of az 161.6 deg, el 31 deg on the ESR 32m dish has been used for substorm studies in the past, and aligns the ESR beam with one of the CUTLASS beams.
+
+The only exception from this pattern is the run on the morning of September 3rd, which is a perigee pass through the interior cusp and therefore is probably better suited to the use of LowElNorth on the 32m dish.

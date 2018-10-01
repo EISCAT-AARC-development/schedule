@@ -1,0 +1,18 @@
+experiment Maintenance
+instrument UHF
+start 2001 06 11 0600
+end 2001 06 30 2359
+description Bolt tightening, UHF antennas
+contact Gudmund Wannberg
+email ugw@eiscathq.eiscat.com 
+operator Gudmund Wannberg
+submitter Gudmund Wannberg
+notes
+This is tentatively put in for all three sites, as I don't know yet in which    
+order the company would like to do the job. They are most likely to start with   
+Sodankyl%E4, as they are located in southern Finland and will have to travel north   
+in any case.    
+   
+As soon as I get an agreement with them we can block out the time per antenna   
+instead.  
+
