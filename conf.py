@@ -16,7 +16,7 @@ NotesDir = "./notes/"
 commentViewer = "comment.cgi"
 tapeArchive = "tape2.cgi"
 # tape_db directory
-tape_db_dir="/home/eiscat/tape_db"
+tape_db_dir="/var/www/html/tape_db"
 
 # madrigal root, None if unavailable
 madroot = "/opt/madrigal"
