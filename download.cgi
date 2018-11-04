@@ -18,6 +18,10 @@ sys.path.append(tape_db_dir)
 import tapelib
 from serve_files import permitted, portno
 
+if portno==37009:
+    import ssl
+
+
 print "Content-type: text/html\n"
 print "<HTML>"
 print_copyright()
@@ -98,23 +102,34 @@ if submit!='Quota':
 		print "Checking "+machine+" availability..."
 		sys.stdout.flush()
 		import socket
-		s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-		s.settimeout(5)
+                if (portno==37009):
+                    rawsocket=socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+                    rawsocket.settimeout(5)
+                    s=ssl.wrap_socket(rawsocket)
+                else:   
+        	    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+	    	    s.settimeout(5)
 		try:
-			if machine=='data1': s.connect(('aarc',portno))
-			else: s.connect((machine,portno))
-			s.send("PING / HTTP/1.0\n\n")
-			if s.recv(4) != "PONG": raise IOError
+		    if machine=='data1':
+                        s.connect(('localhost',portno))
+                    else: 
+                        s.connect((machine,portno))
+		    s.send("PING / HTTP/1.0\n\n")
+		    if s.recv(4) != "PONG": raise IOError
 		except (socket.error, IOError):
-			print "down<br>"
-			del locs[machine]
+		    print "down<br>"
+		    del locs[machine]
 		else:
-			print "up<br>"
+		    print "up<br>"
 		try:
-			s.close()
+		    s.close()
 		except:
-			pass
-	big_tars=0
+		    pass
+                try:
+                    rawsocket.close()
+                except:
+                    pass
+	        big_tars=0
 
 if 0:
 	print 'Archive down for maintanance.'
@@ -135,13 +150,16 @@ for i, (machine, (resids, total_bytes, paths)) in enumerate(locs.items()):
 	if machine == 'deposit.eiscat.se': machine = 'dd1.eiscat.se'
 	if machine == 'data1.eiscat.se': machine = 'dd1.eiscat.se'
 	if machine == 'data1': machine = 'dd1.eiscat.se'
-	if machine == 'dd1.eiscat.se': machine = 'aarc.eiscat.se'
+	if machine == 'dd1.eiscat.se': machine = 'portal'
 	#machine = socket.gethostbyname(machine)
 	fname = filename
 	if len(locs) > 1: fname += ".part%d"%(i+1)
 	fname += '.'+format
-	url = "http://"+machine+':%d/'%portno+';'.join([ str(x) for x in resids ])+'/'+fname
-	if submit=='Download':
+        if portno==37009:
+	    url = "https://"+machine+':%d/'%portno+';'.join([ str(x) for x in resids ])+'/'+fname
+        else:
+            url = "http://"+machine+':%d/'%portno+';'.join([ str(x) for x in resids ])+'/'+fname
+        if submit=='Download':
 		if total_bytes >= (1L<<maxtar):
 			big_tars=1
 		if total_bytes+1 == (1L<<32):

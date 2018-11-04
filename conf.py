@@ -19,7 +19,7 @@ tapeArchive = "tape2.cgi"
 tape_db_dir="/var/www/html/tape_db"
 
 # madrigal root, None if unavailable
-madroot = "/opt/madrigal"
+madroot = None 
 madViewer = "/madrigal/cgi-bin/madExperiment.cgi"
 
 def raddr():
@@ -131,4 +131,4 @@ def advert_new_submits(mailit_to, late_submission, choice):
 		mailit_to('mike@eiscat.uit.no')
 
 # check password for monthly editing of Schedule Database (edit.cgi).
-import sys; sys.path.append('/home/eiscat'); from auth import authorize
+import sys; sys.path.append('/var/www/auth'); from auth import authorize
