@@ -22,7 +22,8 @@ if portno == 37009:
     import ssl
 
 
-print "Content-type: text/html\n"
+print "Content-type: text/html"
+print ""
 print "<HTML>"
 print_copyright()
 
@@ -104,7 +105,7 @@ def clever_split(locs, ids, maxtar):
 if submit != 'Quota':
 #       ping machines
     for machine in locs.keys():
-        print "Checking "+machine+" availability..."
+        print "Checking " + machine + " availability..."
         sys.stdout.flush()
         import socket
         if portno == 37009:
