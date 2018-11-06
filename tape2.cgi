@@ -395,6 +395,17 @@ def showSummaries():
 	t.bytes /= 2**30
 	print t.time,"days and",t.bytes,"Gigabytes"
 
+def show_headers():
+  d = os.environ
+  k = d.keys()
+  k.sort()
+
+  print "Env Variables"
+  print "<hr><b>Environment Variables</b><ul>"
+  for item in k:
+    print "<li><B>%s</B>: %s </li>" % (item, d[item])
+  print "</ul><hr>"
+
 if siteCode:
 	if siteFound:
 		showSummaries()
@@ -416,5 +427,6 @@ print "</pre><hr>"
 print "<p align=center>Prepared at",time.strftime("%H:%M UT %a %b %d, %Y"),"</p>"
 disconnect_db(sql.cur)
 
+show_headers()
 print "</BODY>"
 print "</HTML>" 
