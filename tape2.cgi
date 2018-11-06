@@ -17,6 +17,8 @@ import os, sys, re, cgi, time
 sys.path.append(tape_db_dir)
 import tapelib
 
+attr_list = ["cn", "displayName", "givenName", "mail", "sn", "uid", "unscoped_affiliation"]
+
 print "Content-type: text/HTML\n"
 print "<HTML>"
 print_copyright()
@@ -395,16 +397,16 @@ def showSummaries():
 	t.bytes /= 2**30
 	print t.time,"days and",t.bytes,"Gigabytes"
 
-def show_headers():
+def show_attributes(attr_filter):
   d = os.environ
   k = d.keys()
   k.sort()
 
-  print "Env Variables"
-  print "<hr><b>Environment Variables</b><ul>"
+  print "<hr><b>Attributes provided</b>"
   for item in k:
-    print "<li><B>%s</B>: %s </li>" % (item, d[item])
-  print "</ul><hr>"
+    if (attr_filter.count(item) > 0):
+      print "<p><B>%s</B>: %s </p>" % (item, d[item])    
+  print "<hr>"
 
 if siteCode:
 	if siteFound:
@@ -427,6 +429,6 @@ print "</pre><hr>"
 print "<p align=center>Prepared at",time.strftime("%H:%M UT %a %b %d, %Y"),"</p>"
 disconnect_db(sql.cur)
 
-show_headers()
+show_attributes(attr_list)
 print "</BODY>"
 print "</HTML>" 
