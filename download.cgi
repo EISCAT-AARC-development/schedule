@@ -22,8 +22,7 @@ if portno == 37009:
     import ssl
 
 
-print "Content-type: text/html"
-print ""
+print "Content-type: text/html\n"
 print "<HTML>"
 print_copyright()
 
