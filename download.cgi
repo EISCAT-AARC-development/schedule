@@ -40,6 +40,11 @@ elif maxtar == 4: maxtar = 32
 else: maxtar = 63
 
 value = params.getvalue("r")
+
+print value
+exit()
+
+
 if not value:
     print "No data sets were chosen."
     sys.exit()

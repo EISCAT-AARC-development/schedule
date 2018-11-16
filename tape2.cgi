@@ -17,7 +17,7 @@ import os, sys, re, cgi, time
 sys.path.append(tape_db_dir)
 import tapelib
 
-attr_list = ["cn", "displayName", "givenName", "mail", "sn", "uid", "unscoped_affiliation"]
+attr_list = ["cn", "displayName", "givenName", "mail", "sn", "uid", "unscoped_affiliation","eppn"]
 
 print "Content-type: text/HTML\n"
 print "<HTML>"
@@ -127,6 +127,40 @@ print "<pre><hr>"
 
 sql = tapelib.opendefault()
 #sql = tapelib.openzfs()
+
+######################################
+#
+# Authentication related functions
+#
+######################################
+def show_attributes(attr_filter):
+  d = os.environ
+  k = d.keys()
+  k.sort()
+
+  print "<hr><b>Attributes provided</b>"
+  for item in k:
+    if (attr_filter.count(item) > 0):
+      print "<p><B>%s</B>: %s </p>" % (item, d[item])
+  print "<hr>"
+
+def isAuthenticated():
+  d = os.environ
+  k = d.keys()
+
+  if 'Shib_Session_ID' in k:
+    return True
+  else:
+    return False
+
+######################################
+#
+# END Authentication related functions
+#
+######################################
+
+
+
 
 def tape_comment(tape):
 	return sql.get_tape_comment(tape)
@@ -268,11 +302,16 @@ document.write("<input TYPE=BUTTON VALUE='Invert selection' ONCLICK='invert();'>
 		print "<input type=hidden name=format value=tar>"
 		#print "<input type=submit value='Download checked'>",
 		print "<input type=hidden name=maxtar value=2>"
-		print "<input type=submit name=submit value='Download'>",
+		if isAuthenticated():
+ 			print "<input type=submit name=submit value='Download'>",
+	                print "<input type=submit name=submit value='Analyse'>",
+	                print "<input type=submit name=submit value='Plot'>",
+		else:
+                        print "<input type=submit name=submit value='Login & Download'>",
+                        print "<input type=submit name=submit value='Login &  Analyse'>",
+                        print "<input type=submit name=submit value='Login & Plot'>",
 		print "<input type=hidden name=filename value="+experiment+date[0:8]+date[9:11]+">",
 		#print "<input type=submit name=submit value='Analyse' disabled>",
-		print "<input type=submit name=submit value='Analyse'>",
-		print "<input type=submit name=submit value='Plot'>",
 		if myhost:
 			print "<input type=submit name=submit value='Quota'>",
 		print "</FORM>"
@@ -397,17 +436,6 @@ def showSummaries():
 	t.bytes /= 2**30
 	print t.time,"days and",t.bytes,"Gigabytes"
 
-def show_attributes(attr_filter):
-  d = os.environ
-  k = d.keys()
-  k.sort()
-
-  print "<hr><b>Attributes provided</b>"
-  for item in k:
-    if (attr_filter.count(item) > 0):
-      print "<p><B>%s</B>: %s </p>" % (item, d[item])    
-  print "<hr>"
-
 if siteCode:
 	if siteFound:
 		showSummaries()
@@ -430,5 +458,7 @@ print "<p align=center>Prepared at",time.strftime("%H:%M UT %a %b %d, %Y"),"</p>
 disconnect_db(sql.cur)
 
 show_attributes(attr_list)
+print "Authenticated?"
+print isAuthenticated() 
 print "</BODY>"
 print "</HTML>" 
