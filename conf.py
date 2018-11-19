@@ -17,6 +17,8 @@ commentViewer = "comment.cgi"
 tapeArchive = "tape2.cgi"
 # tape_db directory
 tape_db_dir="/var/www/html/tape_db"
+#Port nr for the tabe_db application
+portno = 37009
 
 # madrigal root, None if unavailable
 madroot = None 
