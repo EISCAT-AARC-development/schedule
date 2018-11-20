@@ -1,16 +1,20 @@
 #!/usr/bin/env python
-from common import *
-import cgi,os
+import cgi
+import os
+
+from eiscat_auth import is_admin, current_user
+
 print "Content-type: text/html\n"
 params=cgi.FieldStorage()
 gfd='dirs ndumps maxfsize resultpath rtgdef selfig selsub'
 gfl='selfun'
 QUERY=''
 special='\"\\\"!{&()\'; '
-nl=chr(10)+chr(13)
+nl="\n\r"
 htref=os.environ['HTTP_REFERER']
 method=os.environ['REQUEST_METHOD']
-if method=='POST' and htref.count('//www.eiscat.se/schedule/download.cgi'):
+
+if method=='POST' and '//www.eiscat.se/schedule/download.cgi' in htref:
 	for par in gfd.split():
 		try:
 			val=params.getvalue(par)
@@ -22,19 +26,23 @@ if method=='POST' and htref.count('//www.eiscat.se/schedule/download.cgi'):
 			QUERY=QUERY+par+'='+val+' '
 		except:
 			QUERY=QUERY+par+'= '
+
 	for par in gfl.split():
 		val=params.getvalue(par)
-		if len(val):
+		if val:
 			import base64	
 			valc=base64.b64encode(val)
 			valn=params[par].filename
 			QUERY=QUERY+par+'='+valc+' '+par+'n='+valn+' '
-	QUERY=QUERY+'REMOTE_ADDR='+raddr()
-	if su(raddr()):
+
+	QUERY=QUERY+'REMOTE_USER='+current_user()
+
+	if is_admin(current_user()):
 		print QUERY+'<br>'
+
 	req=open('rtgreg.txt','a')
 	req.write('%s\n'%QUERY)
-	req.close
+	req.close()
 	print "Your request have been noted.<br>"
 	print "The result will be sent to the mail address you provided."
 else:

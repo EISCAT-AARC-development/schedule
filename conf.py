@@ -3,10 +3,6 @@
 
 # name of this system
 site = "HQ"
-# Trusted single ip
-#myip='192.168.10.0/24'
-myip='10.0.8.0/24'
-#myip='145.102.134.249'
 # path to Schedule database (a text file)
 ScheduleDB = "ScheduleDataBase"
 # where to put the information about individial entries
@@ -21,27 +17,6 @@ tape_db_dir="/var/www/html/tape_db"
 # madrigal root, None if unavailable
 madroot = None 
 madViewer = "/madrigal/cgi-bin/madExperiment.cgi"
-
-def raddr():
-	import os
-	raddr=os.environ['REMOTE_ADDR']
-	if raddr=='192.168.11.5':
-		try:
-			r=os.environ['HTTP_X_FORWARDED_FOR'].split(',')
-			return r[0]
-		except: return raddr
-	return raddr
-
-def su(ip):
-	import os
-	raddr=os.environ['REMOTE_ADDR']
-	ip32=0
-	for ippart in ip.split('.'): ip32=ip32*256+int(ippart)
-	net,mask=myip.split('/')
-	net32=0
-	for ippart in net.split('.'): net32=net32*256+int(ippart)
-	if (ip32-net32)>>(32-int(mask)) == 0: return True
-	return False
 
 # database settings - for tape archive
 def connect_db():

@@ -13,9 +13,11 @@
 # Written 27 June 2001
 # converted to python 12 June 2002
 
-from common import *
+import cgi
+import subprocess
 
-import os, sys, re, cgi, time, subprocess
+from common import *
+from eiscat_auth import is_admin, current_user
 
 versionNumber = "$Revision: 1.9 $".split()[1]
 
@@ -168,7 +170,7 @@ print "<center><TEXTAREA NAME=notes ROWS=12 COLS=80 WRAP=VIRTUAL>"+cgi.escape(no
 # TODO: Print links in notes
 
 print 'Submitted by: <input name=submitter size=30 value="'+cgi.escape(submitter, 1)+'">'
-if su(raddr()):
+if is_admin(current_user()):
 	print "<input type=checkbox name=sure value=y>Change"
 print "<input type=submit value=Refresh><br>"
 

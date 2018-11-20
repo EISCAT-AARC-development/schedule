@@ -13,10 +13,12 @@
 from common import *
 
 import sys, cgi
+from eiscat_auth import portal_authz, is_admin, current_user
+from serve_files import portno
 
 sys.path.append(tape_db_dir)
 import tapelib
-from serve_files import permitted, portno
+
 
 if portno == 37009:
     import ssl
@@ -58,10 +60,10 @@ sql = tapelib.opendefault()
 
 def not_permitted():
     print """According to our <a href="../disclaimer.html#rules">rules</a> you are not permitted to download some of the marked sets.<br>"""
-    print '(the decision is based on your ip number, '+raddr()+' and your hostname)'
+    print '(the decision is based on your ip number, '+current_user()+' and your hostname)'
     sys.exit()
 
-if submit == 'Quota' and not su(raddr()):
+if submit == 'Quota' and not is_admin(current_user()):
     not_permitted()
 
 locs = {}
@@ -70,7 +72,7 @@ for id in ids:
     ls = sql.select_experiment_storage("resource.resource_id = %s AND location LIKE %s", (id, url), what="account, country, location, UNIX_TIMESTAMP(start) AS date, bytes, type")
     if len(ls):
         l = ls[0]
-        if (submit != ' Analyse' or submit != 'Plot') and not su(raddr()) and not permitted(raddr(), (l.account or l.country), l.date, l.type):
+        if (submit != ' Analyse' or submit != 'Plot') and not is_admin(current_user()) and not portal_authz((l.account or l.country), l.date, l.type):
             not_permitted()
         for l in ls:
             machine, path = tapelib.parse_raidurl(l.location)[:2]
@@ -438,7 +440,7 @@ elif submit == 'Plot':
     else:
         print '</tr><tr><td>Optional:</td>'
     print '</tr><td>Definition file <input type="file" name="rtgdef" accept=".m"></td>'
-    if su(raddr()):
+    if is_admin(current_user()):
         print '</tr><tr><td>Special analysis:'
         print 'Plot window:<input type=text name=selfig pattern="[0-9]{1,2}" size=2>'
         print 'Subplot number <input type=text name=selsub pattern="[0-9]" size=1>'

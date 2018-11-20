@@ -10,19 +10,21 @@
 #     and copyright notice appear in all copies.
 #--------------------------------------------------------------------------
 
-from common import *
+import cgi
 
-import os, sys, re, cgi, time
+from common import *
 
 sys.path.append(tape_db_dir)
 import tapelib
+from eiscat_auth import is_admin, is_authenticated, current_user
+
 
 attr_list = ["cn", "displayName", "givenName", "mail", "sn", "uid", "unscoped_affiliation","eppn"]
 
 print "Content-type: text/HTML\n"
 print "<HTML>"
 print_copyright()
-myhost=su(raddr())
+myhost=is_admin(current_user())
 
 params = cgi.FieldStorage()
 
@@ -134,24 +136,14 @@ sql = tapelib.opendefault()
 #
 ######################################
 def show_attributes(attr_filter):
-  d = os.environ
-  k = d.keys()
+  k = os.environ.keys()
   k.sort()
 
   print "<hr><b>Attributes provided</b>"
   for item in k:
     if (attr_filter.count(item) > 0):
-      print "<p><B>%s</B>: %s </p>" % (item, d[item])
+      print "<p><B>%s</B>: %s </p>" % (item, os.environ[item])
   print "<hr>"
-
-def isAuthenticated():
-  d = os.environ
-  k = d.keys()
-
-  if 'Shib_Session_ID' in k:
-    return True
-  else:
-    return False
 
 ######################################
 #
@@ -159,15 +151,11 @@ def isAuthenticated():
 #
 ######################################
 
-
-
-
-def tape_comment(tape):
-	return sql.get_tape_comment(tape)
+# Function synonym
+tape_comment = sql.get_tape_comment
 
 def search_by_tape():
 	# search by tape number
-	org_tape = tapeNumber
 	url = tapelib.create_tapeurl(tapeNumber, '%')
 	lines = sql.select_experiment_storage_union("location LIKE %s", (url,), what="*, UNIX_TIMESTAMP(end) AS unix_end")
 
@@ -302,7 +290,7 @@ document.write("<input TYPE=BUTTON VALUE='Invert selection' ONCLICK='invert();'>
 		print "<input type=hidden name=format value=tar>"
 		#print "<input type=submit value='Download checked'>",
 		print "<input type=hidden name=maxtar value=2>"
-		if isAuthenticated():
+		if is_authenticated():
  			print "<input type=submit name=submit value='Download'>",
 	                print "<input type=submit name=submit value='Analyse'>",
 	                print "<input type=submit name=submit value='Plot'>",
@@ -458,7 +446,6 @@ print "<p align=center>Prepared at",time.strftime("%H:%M UT %a %b %d, %Y"),"</p>
 disconnect_db(sql.cur)
 
 show_attributes(attr_list)
-print "Authenticated?"
-print isAuthenticated() 
+print "Authenticated?", is_authenticated()
 print "</BODY>"
 print "</HTML>" 

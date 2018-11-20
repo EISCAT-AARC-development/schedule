@@ -10,17 +10,18 @@
 #     and copyright notice appear in all copies.
 #--------------------------------------------------------------------------
 
-from common import *
+import cgi
 
-import os, sys, cgi
+from common import *
 
 sys.path.append(tape_db_dir)
 import tapelib
+from eiscat_auth import is_admin, current_user
 
 print "Content-type: text/html\n"
 print "<HTML>"
 print_copyright()
-if not su(raddr()): sys_exit()
+if not is_admin(current_user()): sys.exit()
 
 params = cgi.FieldStorage()
 #QUERY_STRING=r=48842858+48842367&CP=0&AA=100&UK=0&GE=0&NI=0&NO=0&SW=0&FR=0&FI=0&CN=0&TP=0&EI=0
