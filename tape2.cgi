@@ -14,13 +14,54 @@ from common import *
 
 import os, sys, re, cgi, time
 
+print "Content-type: text/HTML\n"
+print "<HTML>"
+
 sys.path.append(tape_db_dir)
 import tapelib
 
-attr_list = ["cn", "displayName", "givenName", "mail", "sn", "uid", "unscoped_affiliation","eppn"]
+######################################
+#
+# Authentication related functions
+#
+######################################
+#attr_list = ["cn", "displayName", "givenName", "mail", "sn", "uid", "unscoped_affiliation","eppn"]
 
-print "Content-type: text/HTML\n"
-print "<HTML>"
+def get_attributes(attr_list):
+  d = os.environ
+  k = d.keys()
+  k.sort()
+
+  attributes = {}
+
+  for item in k:
+    if (attr_list.count(item) > 0):
+      attributes[item] = d.get(item)
+     
+  return attributes
+
+def show_attributes(attr_list):
+  attrs = get_attributes(attr_list)
+
+  print "<hr><b>Attributes provided</b>"
+  for attr in attrs:
+    print "<p><B>%s</B>: %s </p>" % (attr, attrs.get(attr))
+  print "<hr>"
+
+def isAuthenticated():
+  attrs = get_attributes("Shib_Session_ID")
+
+  if 'Shib_Session_ID' in attrs:
+    return True
+  else:
+    return False
+
+######################################
+#
+# END Authentication related functions
+#
+######################################
+
 print_copyright()
 myhost=su(raddr())
 
@@ -127,40 +168,6 @@ print "<pre><hr>"
 
 sql = tapelib.opendefault()
 #sql = tapelib.openzfs()
-
-######################################
-#
-# Authentication related functions
-#
-######################################
-def show_attributes(attr_filter):
-  d = os.environ
-  k = d.keys()
-  k.sort()
-
-  print "<hr><b>Attributes provided</b>"
-  for item in k:
-    if (attr_filter.count(item) > 0):
-      print "<p><B>%s</B>: %s </p>" % (item, d[item])
-  print "<hr>"
-
-def isAuthenticated():
-  d = os.environ
-  k = d.keys()
-
-  if 'Shib_Session_ID' in k:
-    return True
-  else:
-    return False
-
-######################################
-#
-# END Authentication related functions
-#
-######################################
-
-
-
 
 def tape_comment(tape):
 	return sql.get_tape_comment(tape)
@@ -279,8 +286,7 @@ def search_by_date():
 		return
 
 	if do_download:
-		#print '<FORM ACTION=download.cgi NAME=kalven>',
-		print '<FORM method=POST ACTION=download.cgi NAME=kalven>',
+		print '<FORM method=POST NAME=kalven ONSUBMIT="addFormFieldstoURL(this)">',
 	print "The Data Archive has the following entries for data at",date+":"
 	dump_lines(all_sources, lines)
 
@@ -290,27 +296,60 @@ def search_by_date():
 		print "Select the data sets that you want to download.",
 		print """<script><!--"
 function invert() {
-e=document.kalven.elements;
-for(i=1;i<e.length;i++) e[i].checked^=1; }
+	e=document.kalven.elements;
+	for(i=1;i<e.length;i++) e[i].checked^=1; }
+
 document.write("<input TYPE=BUTTON VALUE='Invert selection' ONCLICK='invert();'>")
+--></script>"""
+		print """<script><!--"
+		
+function getselectboxvalues() {
+    var boxvalues = [];
+    
+    var cboxes = document.kalven.elements;
+    var len = cboxes.length;
+    for (var i=0; i<len; i++) {
+		if (cboxes[i].checked) {
+			boxvalues.push(cboxes[i].value);
+		}
+    }
+    return boxvalues;
+}			
+		
+function addFormFieldstoURL(myform){	
+	var action_src = "download.cgi?format=" + myform.format.value + "&maxtar=" + myform.maxtar.value + "&filename=" + myform.filename.value;
+	
+	var cboxes = document.kalven.elements;
+    var len = cboxes.length;
+    for (var i=0; i<len; i++) {
+		if (cboxes[i].checked) {
+			action_src = action_src + "&r=" + cboxes[i].value;
+		}
+    }
+	
+	alert(action_src);
+
+	myform.action = action_src;
+	myform.submit();
+}
 --></script>"""
 		print "MATLAB files are individually compressed with bzip2."
 		#print "Please Select format:",
 		#print "<input type=radio name=format value=tar checked>tar",
 		#print "<input type=radio name=format value=tgz>tgz",
 		#print "<input type=radio name=format value=zip disabled>zip"
-		print "<input type=hidden name=format value=tar>"
-		#print "<input type=submit value='Download checked'>",
-		print "<input type=hidden name=maxtar value=2>"
+		print "<input type=hidden name=format value=tar>",
+		#print "<input type=submit value='Download checked'>"
+		print "<input type=hidden name=maxtar value=2>",
 		if isAuthenticated():
  			print "<input type=submit name=submit value='Download'>",
-	                print "<input type=submit name=submit value='Analyse'>",
-	                print "<input type=submit name=submit value='Plot'>",
+			print "<input type=submit name=submit value='Analyse'>",
+			print "<input type=submit name=submit value='Plot'>",
 		else:
-                        print "<input type=submit name=submit value='Login & Download'>",
-                        print "<input type=submit name=submit value='Login &  Analyse'>",
-                        print "<input type=submit name=submit value='Login & Plot'>",
-		print "<input type=hidden name=filename value="+experiment+date[0:8]+date[9:11]+">",
+			print "<input type=submit name=submit value='Login & Download'>",
+			print "<input type=submit name=submit value='Login & Analyse'>",
+			print "<input type=submit name=submit value='Login & Plot'>",
+		print "<input type=hidden name=filename value="+experiment+date[0:8]+date[9:11]+">"
 		#print "<input type=submit name=submit value='Analyse' disabled>",
 		if myhost:
 			print "<input type=submit name=submit value='Quota'>",
@@ -457,8 +496,9 @@ print "</pre><hr>"
 print "<p align=center>Prepared at",time.strftime("%H:%M UT %a %b %d, %Y"),"</p>"
 disconnect_db(sql.cur)
 
-show_attributes(attr_list)
 print "Authenticated?"
 print isAuthenticated() 
+show_attributes(attr_list)
+
 print "</BODY>"
 print "</HTML>" 

@@ -19,6 +19,18 @@ tapeArchive = "tape2.cgi"
 tape_db_dir="/var/www/html/tape_db"
 #Port nr for the tabe_db application
 portno = 37009
+# Set to false to disable checking of machines
+check_machines = False
+
+# List of attributes supported by schedule app
+# The attribute short names must match what is configured in shibboleth attribute_map.xml
+attr_list = ["cn", "displayName", "givenName", "mail", "sn", "uid", "unscoped_affiliation","eppn"]
+
+#private_key = open('keys/private_key.pem','r').read()
+#public_key = open('keys/public_key.pem','r').read()
+
+#exp_seconds = 60
+#download_times = 1
 
 # madrigal root, None if unavailable
 madroot = None 
@@ -131,6 +143,3 @@ def advert_new_submits(mailit_to, late_submission, choice):
 		mailit_to('ingemar@eiscat.se')
 	if choice=='HEA':
 		mailit_to('mike@eiscat.uit.no')
-
-# check password for monthly editing of Schedule Database (edit.cgi).
-import sys; sys.path.append('/var/www/auth'); from auth import authorize

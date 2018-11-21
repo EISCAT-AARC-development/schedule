@@ -12,28 +12,44 @@
 
 from common import *
 
-import sys, cgi
-
-sys.path.append(tape_db_dir)
-import tapelib
-from serve_files import permitted, portno
-
-if portno == 37009:
-    import ssl
-
-
 print "Content-type: text/html"
 print ""
 print "<HTML>"
+
+import sys, cgi
+
+import 
+
+sys.path.append(tape_db_dir)
+import tapelib
+
+#portno = 37009
+#from serve_files import permitted #, portno
+
+if portno == 37009:
+    import ssl
+    
+big_tars = 0
+
+def permitted (user_id,user_epsa,dataset,d):
+	return True
+
 print_copyright()
 
 params = cgi.FieldStorage()
 
-submit = params.getvalue('submit')
-format = params.getvalue('format')
+print "<hr>"
+print params
+print "<hr>"
+
+# This little trick was thought up by Jouke, so I am not to blame!
+# TODO remove this.
+submit = params.getfirst('submit').replace("Login & ", "")
+
+format = params.getfirst('format')
 assert format in ('tar', 'tgz', 'zip')
 
-maxtar = int(params.getvalue('maxtar'))
+maxtar = int(params.getfirst('maxtar'))
 if submit == 'Analyse' or submit == 'Plot': maxtar = 63
 if maxtar == 2: maxtar = 31
 elif maxtar == 4: maxtar = 32
@@ -41,17 +57,15 @@ else: maxtar = 63
 
 value = params.getvalue("r")
 
-print value
-exit()
-
-
 if not value:
     print "No data sets were chosen."
     sys.exit()
 
+print(value)
+
 if not isinstance(value, list): value = [value]
 ids = map(int, value)
-filename = params.getvalue('filename', 'data')
+filename = params.getfirst('filename', 'data')
 
 sql = tapelib.opendefault()
 #sql = tapelib.openzfs()
@@ -75,6 +89,7 @@ for id in ids:
         for l in ls:
             machine, path = tapelib.parse_raidurl(l.location)[:2]
             locs.setdefault(machine, []).append((id, path, l.bytes))
+            #print locs
 
 if len(locs) == 0:
     print "Could not find the data in the data base"
@@ -107,7 +122,7 @@ def clever_split(locs, ids, maxtar):
         print "Warning: some data sets was dropped.<br>"
     return res
 
-if submit != 'Quota':
+if submit != 'Quota' and check_machines:
 #       ping machines
     for machine in locs.keys():
         print "Checking " + machine + " availability..."
@@ -129,7 +144,8 @@ if submit != 'Quota':
             if s.recv(4) != "PONG": raise IOError
         except (socket.error, IOError):
             print "down<br>"
-            del locs[machine]
+            # Ignore testing of machine availablility for now
+            #del locs[machine]
         else:
             print "up<br>"
         try:
@@ -141,13 +157,18 @@ if submit != 'Quota':
         except:
             pass
         
-    big_tars = 0
+
 
 if 0:
     print 'Archive down for maintanance.'
     locs = {}
 
 locs = clever_split(locs, ids, maxtar)
+print "Dataset locations: ",
+print locs
+
+
+
 if submit == 'Download':
     if len(locs) > 9:
         print 'Note: Max 9 parallel downloads.'
@@ -163,15 +184,18 @@ for i, (machine, (resids, total_bytes, paths)) in enumerate(locs.items()):
     if machine == 'deposit.eiscat.se': machine = 'dd1.eiscat.se'
     if machine == 'data1.eiscat.se': machine = 'dd1.eiscat.se'
     if machine == 'data1': machine = 'dd1.eiscat.se'
-    if machine == 'dd1.eiscat.se': machine = 'portal'
+    # Replaced "portal" with portal.eiscat-aarc.local below.
+    if machine == 'dd1.eiscat.se': machine = 'portal.eiscat-aarc.local'
     #machine = socket.gethostbyname(machine)
     fname = filename
     if len(locs) > 1: fname += ".part%d"%(i+1)
     fname += '.'+format
+
     if portno == 37009:
         url = "https://"+machine+':%d/'%portno+';'.join([str(x) for x in resids])+'/'+fname
     else:
         url = "http://"+machine+':%d/'%portno+';'.join([str(x) for x in resids])+'/'+fname
+    
     if submit == 'Download':
         if total_bytes >= (1L<<maxtar):
             big_tars = 1
