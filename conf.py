@@ -5,7 +5,7 @@
 site = "HQ"
 # Trusted single ip
 #myip='192.168.10.0/24'
-myip='10.0.8.0/24'
+myip='10.0.0.0/24'
 #myip='145.102.134.249'
 # path to Schedule database (a text file)
 ScheduleDB = "ScheduleDataBase"
@@ -26,11 +26,14 @@ check_machines = False
 # The attribute short names must match what is configured in shibboleth attribute_map.xml
 attr_list = ["cn", "displayName", "givenName", "mail", "sn", "uid", "unscoped_affiliation","eppn"]
 
-#private_key = open('keys/private_key.pem','r').read()
-#public_key = open('keys/public_key.pem','r').read()
+private_key = open('/var/www/auth/private_key.pem','r').read()
+public_key = open('/var/www/auth/public_key.pem','r').read()
 
-#exp_seconds = 60
-#download_times = 1
+exp_seconds = 60
+download_times = 1
+
+#SHould debug information be shown?
+show_debug = True
 
 # madrigal root, None if unavailable
 madroot = None 
@@ -72,12 +75,15 @@ def connect_db():
 	return database.cursor()
 	
 def disconnect_db(cur):
+	# displaying MySQL version is a security leak.
+	# also: this functionis called disconnect, buit that is actually not what it is doing?
+
 	cur.execute("SELECT VERSION()")
 	ver = cur.fetchone()
-	if ver:
-		print "<p align=right><i>Powered by MySQL version "+ver[0]+"</i></p>"
-	else:
-		print "<p align=right><i>Powered by MySQL</i></p>"
+	#if ver:
+	#	print "<p align=right><i>Powered by MySQL version "+ver[0]+"</i></p>"
+	#else:
+	#	print "<p align=right><i>Powered by MySQL</i></p>"
 
 # The sites available together with a 3-letter code
 eiscat_sites = (	# used on EISCAT
@@ -143,3 +149,6 @@ def advert_new_submits(mailit_to, late_submission, choice):
 		mailit_to('ingemar@eiscat.se')
 	if choice=='HEA':
 		mailit_to('mike@eiscat.uit.no')
+
+# check password for monthly editing of Schedule Database (edit.cgi).
+import sys; sys.path.append('/var/www/auth'); from token_url_utility import *; from eiscat_auth import *

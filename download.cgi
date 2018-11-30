@@ -18,34 +18,87 @@ print "<HTML>"
 
 import sys, cgi
 
-import 
-
 sys.path.append(tape_db_dir)
 import tapelib
 
-#portno = 37009
-#from serve_files import permitted #, portno
+######################################
+#
+# Authentication related functions
+#
+######################################
+#attr_list = ["cn", "displayName", "givenName", "mail", "sn", "uid", "unscoped_affiliation","eppn"]
+
+def get_attribute(attr):
+  attrs = get_attributes(attr)
+
+  return attrs.get(attr)
+
+def get_attributes(attr_list):
+  d = os.environ
+  k = d.keys()
+  k.sort()
+
+  attributes = {}
+
+  for item in k:
+    if (attr_list.count(item) > 0):
+      attributes[item] = d.get(item)
+     
+  return attributes
+
+def show_attributes(attr_list):
+  attrs = get_attributes(attr_list)
+
+  print "<hr><b>Attributes provided</b>"
+  for attr in attrs:
+    print "<p><B>%s</B>: %s </p>" % (attr, attrs.get(attr))
+  print "<hr>"
+
+def isAuthenticated():
+  attrs = get_attributes("Shib_Session_ID")
+
+  if 'Shib_Session_ID' in attrs:
+    return True
+  else:
+    return False
+   
+def showloginName():
+	attrs = get_attributes(attr_list)
+
+	print "<b>",
+	if isAuthenticated():
+		print "Authenticated as: ",
+		if 'displayName' in attrs:
+			print attrs.get('displayName')
+		elif 'displayName' in attrs:
+			print attrs.get('cn')
+		elif 'sn' in attrs and 'givenName' in attrs:
+			print attrs.get('givenName') 
+			print " "
+			print attrs.get('sn') 
+	else:
+		print "You are not authenticated",
+	print "</b>"
+
+def permitted (user_id,user_epsa,dataset,d):
+	return True
+
+######################################
+#
+# END Authentication related functions
+#
+######################################
 
 if portno == 37009:
     import ssl
     
 big_tars = 0
 
-def permitted (user_id,user_epsa,dataset,d):
-	return True
-
 print_copyright()
 
 params = cgi.FieldStorage()
 
-print "<hr>"
-print params
-print "<hr>"
-
-# This little trick was thought up by Jouke, so I am not to blame!
-# TODO remove this.
-submit = params.getfirst('submit').replace("Login & ", "")
-
+submit = params.getfirst('submit')
 format = params.getfirst('format')
 assert format in ('tar', 'tgz', 'zip')
 
@@ -61,14 +114,11 @@ if not value:
     print "No data sets were chosen."
     sys.exit()
 
-print(value)
-
 if not isinstance(value, list): value = [value]
 ids = map(int, value)
 filename = params.getfirst('filename', 'data')
 
 sql = tapelib.opendefault()
-#sql = tapelib.openzfs()
 
 def not_permitted():
     print """According to our <a href="../disclaimer.html#rules">rules</a> you are not permitted to download some of the marked sets.<br>"""
@@ -89,7 +139,6 @@ for id in ids:
         for l in ls:
             machine, path = tapelib.parse_raidurl(l.location)[:2]
             locs.setdefault(machine, []).append((id, path, l.bytes))
-            #print locs
 
 if len(locs) == 0:
     print "Could not find the data in the data base"
@@ -99,8 +148,6 @@ def clever_split(locs, ids, maxtar):
     # determine which ids should be downloaded from which host.
     # if possible, download everything from one host.
     # otherwise, split as even as possible
-#       import sets
-#       ids = sets.Set(ids)
     ids = set(ids)
     locs = locs.items()
     locs.sort(lambda y, x: cmp(len(x[1]), len(y[1])))
@@ -122,8 +169,8 @@ def clever_split(locs, ids, maxtar):
         print "Warning: some data sets was dropped.<br>"
     return res
 
-if submit != 'Quota' and check_machines:
-#       ping machines
+if submit != 'Quota':
+	# ping machines
     for machine in locs.keys():
         print "Checking " + machine + " availability..."
         sys.stdout.flush()
@@ -144,8 +191,9 @@ if submit != 'Quota' and check_machines:
             if s.recv(4) != "PONG": raise IOError
         except (socket.error, IOError):
             print "down<br>"
-            # Ignore testing of machine availablility for now
-            #del locs[machine]
+            # Allow ignore testing of machine availablility
+            if check_machines:
+				del locs[machine]
         else:
             print "up<br>"
         try:
@@ -164,10 +212,6 @@ if 0:
     locs = {}
 
 locs = clever_split(locs, ids, maxtar)
-print "Dataset locations: ",
-print locs
-
-
 
 if submit == 'Download':
     if len(locs) > 9:
@@ -215,7 +259,17 @@ for i, (machine, (resids, total_bytes, paths)) in enumerate(locs.items()):
                 total_bytes = '%.0f'%total_bytes
             else:
                 total_bytes = '%.1f'%(total_bytes+.05)
-        print '<li><a href="'+url+'">' + fname + '</a> (%s %s %s)' % (sizrel, total_bytes, unit)
+            
+            if isAuthenticated():
+                userid = get_attribute('mail') #TODO: better to use eppn!
+                #eppn = 'niels@surfnet.nl'
+            else:
+                userid = "unauthenticated"
+
+            extended_url = ExtendedUrl(url)
+            extended_url.inject_token(userid,exp_seconds,download_times,private_key)
+            
+        print '<li><a href="'+extended_url.url+'">' + fname + '</a> (%s %s %s)' % (sizrel, total_bytes, unit)
     elif submit == 'Analyse' or submit == 'Plot':
         if len(allurls) == 0:
             allurls = url
@@ -489,7 +543,23 @@ elif submit == 'Quota':
     print '<tr><td><INPUT TYPE=submit VALUE="OK"></td></tr></FORM>'
     print '</tbody></table>'
 print '<hr>'
+# Footer
+print "<p align=left>",
+showloginName(),
+print "</p>",
+
+print "<p align=center>This page prepared at",time.strftime("%H:%M UT %a %b %d, %Y"),"</p>"
 disconnect_db(sql.cur)
+if show_debug:
+	print "Authenticated?"
+	print isAuthenticated() 
+	show_attributes(attr_list)
+	print "<hr>"
+	print "Incoming params: "
+	print params
+	print "<hr>"
+	print "Dataset locations: ",
+	print locs
 
 print "</BODY>"
 print "</HTML>"
