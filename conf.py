@@ -29,7 +29,7 @@ attr_list = ["cn", "displayName", "givenName", "mail", "sn", "uid", "unscoped_af
 private_key = open('/var/www/auth/private_key.pem','r').read()
 public_key = open('/var/www/auth/public_key.pem','r').read()
 
-exp_seconds = 60
+exp_seconds = 3600
 download_times = 1
 
 #SHould debug information be shown?
