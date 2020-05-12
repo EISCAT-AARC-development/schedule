@@ -2,11 +2,11 @@
 ######## site configuration options #############
 
 # name of this system
-site = "HQ"
+site = "data.eiscat.se"
 # Trusted single ip
 #myip='192.168.10.0/24'
-myip='10.0.0.0/24'
-#myip='145.102.134.249'
+#myip='10.0.0.0/24'
+myip='192.168.11.102/23'
 # path to Schedule database (a text file)
 ScheduleDB = "ScheduleDataBase"
 # where to put the information about individial entries
@@ -16,7 +16,7 @@ NotesDir = "./notes/"
 commentViewer = "comment.cgi"
 tapeArchive = "tape2.cgi"
 # tape_db directory
-tape_db_dir="/var/www/html/tape_db"
+tape_db_dir="/home/archive/tape_db"
 #Port nr for the tabe_db application
 portno = 37009
 # Set to false to disable checking of machines
@@ -30,14 +30,16 @@ private_key = open('/var/www/auth/private_key.pem','r').read()
 public_key = open('/var/www/auth/public_key.pem','r').read()
 
 exp_seconds = 3600
-download_times = 1
+download_times = 4
 
 #SHould debug information be shown?
 show_debug = True
 
 # madrigal root, None if unavailable
-madroot = None 
+# madroot = None 
+madroot = "https://portal.eiscat.se/madrigal/"
 madViewer = "/madrigal/cgi-bin/madExperiment.cgi"
+madListDir = "/var/www/mad_lists"
 
 def raddr():
 	import os
@@ -118,7 +120,7 @@ scheduled_urls = [ ( leicester_url, ["SPE"] ) ]
 #allsites = sites
 
 # the valid year range
-firstYear = 1981; lastYear = 2018
+firstYear = 1981; lastYear = 2020
 
 sched_legend = """<hr><p align=center><b>KEY</b></p>
 <pre>
@@ -151,4 +153,8 @@ def advert_new_submits(mailit_to, late_submission, choice):
 		mailit_to('mike@eiscat.uit.no')
 
 # check password for monthly editing of Schedule Database (edit.cgi).
-import sys; sys.path.append('/var/www/auth'); from token_url_utility import *; from eiscat_auth import *
+import sys
+sys.path.append('/var/www/auth')
+sys.path.append('/home/archive/shared-auth')
+from token_url_utility import *
+from eiscat_auth import *

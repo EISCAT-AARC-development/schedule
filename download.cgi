@@ -138,6 +138,9 @@ for id in ids:
             not_permitted()
         for l in ls:
             machine, path = tapelib.parse_raidurl(l.location)[:2]
+            # Change to use local NFS mount
+            if machine.startswith('data1'):
+                machine = 'data.eiscat.se'
             locs.setdefault(machine, []).append((id, path, l.bytes))
 
 if len(locs) == 0:
@@ -183,7 +186,7 @@ if submit != 'Quota':
             s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
             s.settimeout(5)
         try:
-            if machine == 'data1':
+            if machine == 'data':
                 s.connect(('localhost', portno))
             else:
                 s.connect((machine, portno))
@@ -225,12 +228,12 @@ elif submit == 'Analyse' or submit == 'Plot':
 for i, (machine, (resids, total_bytes, paths)) in enumerate(locs.items()):
     machine = machine.rstrip()
     machine = socket.getfqdn(machine)
-    if machine == 'deposit.eiscat.se': machine = 'dd1.eiscat.se'
-    if machine == 'data1.eiscat.se': machine = 'dd1.eiscat.se'
-    if machine == 'data1': machine = 'dd1.eiscat.se'
+    # if machine == 'deposit.eiscat.se': machine = 'dd1.eiscat.se'
+    # if machine == 'data1.eiscat.se': machine = 'dd1.eiscat.se'
+    # if machine == 'data1': machine = 'dd1.eiscat.se'
     # Replaced "portal" with portal.eiscat-aarc.local below.
-    if machine == 'dd1.eiscat.se': machine = 'portal.eiscat-aarc.local'
-    #machine = socket.gethostbyname(machine)
+    # if machine == 'dd1.eiscat.se': machine = 'portal.eiscat-aarc.local'
+    # machine = socket.gethostbyname(machine)
     fname = filename
     if len(locs) > 1: fname += ".part%d"%(i+1)
     fname += '.'+format

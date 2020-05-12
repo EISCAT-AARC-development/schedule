@@ -22,6 +22,8 @@ from common import *
 versionNumber = "$Revision: 1.25 $".split()[1]
 
 import os, sys, re, cgi, urllib, time, calendar
+import pickle
+from madrigalWeb.madrigalWeb import MadrigalData
 
 selections = (
 	("S", "Scheduled"),
@@ -30,23 +32,72 @@ selections = (
 	#("R", "Requested<br>(Archived data -- database down)"),
 )
 
+if madroot:
+        madData = MadrigalData(madroot)
+else:
+        madData =[]
+
+# Global variables
+madList = {} # Hold monthly Madrigal experiment lists
+madMonth = ''
+
+
 #months = lambda i: time.strftime("%B",(i,)*9)
 months = lambda i: calendar.month_name[i]
 #days = lambda i: time.strftime("%a",(i,)*9)
 days = lambda i: calendar.day_abbr[i]
 
+# def madrigal(year, month, day, site):
+# 	"check if there exist analysed data"
+# 	if not madroot:
+# 		return
+# 	# do some translations. ugly.
+# 	site = { '32m': 'lyr', '42m': 'lyr', 'esr': 'lyr' , 'vhf': 'eis' , 'uhf': 'tro' , 'kir': 'kir' , 'sod': 'sod' }.get(site,site)
+# 	month = months(month)[:3].lower()
+# 	analysisDir = "%s/%s/%02d%s%s"%(year, site, day, month, str(year)[2:])
+# 	# check if it exists
+# 	if os.access(madroot+"/experiments/"+analysisDir, os.R_OK):
+# 		# Use this version for new holdings free MADRIGAL 12nov01
+# 		return madViewer+"?exp="+analysisDir+"&displayLevel=0"
+#
+
 def madrigal(year, month, day, site):
-	"check if there exist analysed data"
-	if not madroot:
-		return
-	# do some translations. ugly.
-	site = { '32m': 'lyr', '42m': 'lyr', 'esr': 'lyr' , 'vhf': 'eis' , 'uhf': 'tro' , 'kir': 'kir' , 'sod': 'sod' }.get(site,site)
-	month = months(month)[:3].lower()
-	analysisDir = "%s/%s/%02d%s%s"%(year, site, day, month, str(year)[2:])
-	# check if it exists
-	if os.access(madroot+"/experiments/"+analysisDir, os.R_OK):
-		# Use this version for new holdings free MADRIGAL 12nov01
-		return madViewer+"?exp="+analysisDir+"&displayLevel=0"
+    """check for analysed data in Madrigal"""
+    if not madData:
+        # Do not check
+        return
+    # do some translations. ugly.
+    site = {'32m': 'lyr', '42m': 'lyr', 'esr': 'lyr', 'vhf': 'eis',
+            'uhf': 'tro', 'kir': 'kir', 'sod': 'sod'}.get(site, site)
+   
+    monthStr = months(month)[:3].lower()
+    analysisDir = "%s/%s/%02d%s%s" % (year, site, day, monthStr, str(year)[2:])
+
+    # Check if experiment exists in Madrigal.
+    global madList # Speedup: cache the experiment list between calls for same month
+    global madMonth
+    thisMadMonth = "mad-%s-%s" % (year, month)  #also used for filename
+    if madMonth != thisMadMonth or not madList:
+        #Check if we already have cached a list of this month's experiments in a file
+        madMonth = thisMadMonth
+        madListFile = os.path.join(madListDir, madMonth)
+        try:
+            with open(madListFile, 'rb') as f:
+                madList = pickle.load(f)
+        except:
+            # File does not exist, search Madrigal for all local experiments for this month.
+            lastDay = calendar.monthrange(year, month)[1]
+            madList = madData.getExperiments(0, year, month, 1, 0, 0, 0, year, month, lastDay, 23, 59, 59, 1)
+            try:
+                # Save the list to a file if possible
+                with open(madListFile, 'wb') as f:
+                    pickle.dump(madList,f)
+            except:
+                pass
+    for expr in madList:
+        if expr.url.endswith(analysisDir):
+            return expr.realUrl # This is the Madrigal URL to analysisDir
+
 
 def workingMonth_archived(year, month):
 	"Collect all entries for the present month within the given class"
