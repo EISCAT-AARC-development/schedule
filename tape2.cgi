@@ -499,7 +499,6 @@ print "</center></form>"
 # login button functionality: make sure we return to the path we are currently at
 print """<script><!--"
 function loginUrl() {
-	
 	var loginPath = window.location.protocol + "//" + window.location.hostname + "/Shibboleth.sso/Login?target=" + encodeURIComponent(window.location.href);
 	window.location.href = loginPath;
 	}
