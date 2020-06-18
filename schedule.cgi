@@ -16,6 +16,8 @@
 # Minor modifications 9 October 2001 v1.41 bi
 # Converted from expect to python 11 June 2002 ch
 # Using SQL database instead of textfiles 23 April 2003 ch
+#
+# Last modified Carl-Fredrik Enell  2020: Remote madrigal interface w cached lists of experiments
 
 from common import *
 

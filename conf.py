@@ -4,8 +4,6 @@
 # name of this system
 site = "data.eiscat.se"
 # Trusted single ip
-#myip='192.168.10.0/24'
-#myip='10.0.0.0/24'
 myip='192.168.11.102/23'
 # path to Schedule database (a text file)
 ScheduleDB = "ScheduleDataBase"
@@ -35,8 +33,7 @@ download_times = 4
 #SHould debug information be shown?
 show_debug = True
 
-# madrigal root, None if unavailable
-# madroot = None 
+# Remote Madrigal options, addition by CFE 2020
 madroot = "https://portal.eiscat.se/madrigal/"
 madViewer = "/madrigal/cgi-bin/madExperiment.cgi"
 madListDir = "/var/www/mad_lists"
@@ -105,7 +102,7 @@ sites = eiscat_sites
 
 ### NEW since march 2004 -- importing schedule from remote sites ###
 # some urls...
-eiscat_url = "http://www.eiscat.se/raw/schedule/"
+eiscat_url = "http://portal.eiscat.se/raw/schedule/"
 leicester_url = "http://143.210.44.98/cgi-bin/scheduler/"
 scheduled_urls = [
 	# (url, list of sites which)
@@ -124,7 +121,7 @@ firstYear = 1981; lastYear = 2020
 
 sched_legend = """<hr><p align=center><b>KEY</b></p>
 <pre>
-       C = <a href="http://www.eiscat.se/iswg">Common Programme</a>  1..9 = Special Programme    H = Heating
+       C = <a href="http://portal.eiscat.se/iswg">Common Programme</a>  1..9 = Special Programme    H = Heating
                                     (number=priority)
        P = Passive              R = Requested            M = Maintenance
      ESR = Svalbard IS radar  VHF = VHF IS radar       UHF = Tristatic UHF IS radar
