@@ -33,25 +33,20 @@ sql = tapelib.opendefault()
 
 def get_attribute(attr):
   attrs = get_attributes(attr)
-
   return attrs.get(attr)
 
 def get_attributes(attr_list):
   d = os.environ
   k = d.keys()
   k.sort()
-
   attributes = {}
-
   for item in k:
     if (attr_list.count(item) > 0):
       attributes[item] = d.get(item)
-     
   return attributes
 
 def show_attributes(attr_list):
   attrs = get_attributes(attr_list)
-
   print "<hr><b>Attributes provided</b>"
   for attr in attrs:
     print "<p><B>%s</B>: %s </p>" % (attr, attrs.get(attr))
