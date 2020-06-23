@@ -22,7 +22,8 @@ check_machines = False
 
 # List of attributes supported by schedule app
 # The attribute short names must match what is configured in shibboleth attribute_map.xml
-attr_list = ["cn", "displayName", "givenName", "mail", "sn", "uid", "unscoped_affiliation","eppn"]
+# attr_list = ["cn", "displayName", "givenName", "mail", "sn", "uid", "unscoped_affiliation","eppn"]
+attr_list = ["sn", "givenName", "displayName", "distinguishedName", "mail", "mailVerified", "schacHomeOrganization", "eduPersonUniqueId", "eduPersonPrimaryAffiliation", "eduPersonScopedAffiliation", "eduPersonEntitlement", "eduPersonAssurance", "persistent-id"]
 
 private_key = open('/var/www/auth/private_key.pem','r').read()
 public_key = open('/var/www/auth/public_key.pem','r').read()
