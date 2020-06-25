@@ -26,7 +26,6 @@ import tapelib
 # Authentication related functions
 #
 ######################################
-#attr_list = ["cn", "displayName", "givenName", "mail", "sn", "uid", "unscoped_affiliation","eppn"]
 
 def get_attribute(attr):
   attrs = get_attributes(attr)
@@ -264,9 +263,7 @@ for i, (machine, (resids, total_bytes, paths)) in enumerate(locs.items()):
                 total_bytes = '%.1f'%(total_bytes+.05)
             
             if isAuthenticated():
-                userid = get_attribute('uid')
-                #userid = get_attribute('mail') #TODO: better to use eppn!
-                #eppn = 'niels@surfnet.nl'
+                userid = get_attribute('eduPersonUniqueId')
             else:
                 userid = "unauthenticated"
 
