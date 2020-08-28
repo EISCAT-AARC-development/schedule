@@ -14,8 +14,15 @@ from common import *
 
 print "Content-type: text/html"
 print ""
-print "<HTML>"
+print "<HTML lang=\"en\">"
+print_copyright()
 
+print "<HEAD>"
+print "<META charset=\"utf-8\">"
+print "<TITLE>EISCAT data download</TITLE>"
+print "</HEAD>"
+
+print "<BODY>"
 import sys, cgi
 
 sys.path.append(tape_db_dir)
@@ -74,7 +81,8 @@ def showloginName():
 		elif 'sn' in attrs and 'givenName' in attrs:
 			print attrs.get('givenName') 
 			print " "
-			print attrs.get('sn') 
+			print attrs.get('sn')
+                showLogout()
 	else:
 		print "You are not authenticated",
 	print "</b>"
@@ -92,8 +100,6 @@ if portno == 37009:
     import ssl
     
 big_tars = 0
-
-print_copyright()
 
 params = cgi.FieldStorage()
 
@@ -171,6 +177,15 @@ def clever_split(locs, ids, maxtar):
         print "Warning: some data sets was dropped.<br>"
     return res
 
+print("<h1>")
+if submit == 'Download':
+  print("EISCAT data download")
+elif submit == 'Analyse':
+  print("EISCAT online analysis")
+elif submit == 'Plot':
+  print("EISCAT data plotter")
+
+print("</h1>")
 if submit != 'Quota':
 	# ping machines
     for machine in locs.keys():
@@ -404,12 +419,12 @@ elif submit == 'Analyse':
         print 'Sorry, but you can only specify data from one day.'
         print "</BODY></HTML>"
         sys.exit()
-    print '<hr><h3><img src="guisdaplogo.png" onLoad="ana.resultpath.value=readCookie(\'emall\');">'
-    print 'GUISDAP for dummies'
-    print '<img src="guisdaplogo.png"></h3>'
+    print "<hr><h3><img src=\"/guisdaplogo.png\" onLoad=\"ana.resultpath.value=readCookie(\'emall\');\">"
+    print 'GUISDAP analysis'
+    print "<img src=\"/guisdaplogo.png\"></h3>"
     print 'This is a page for direct analysis from our data bases.'
     print 'If you are familiar with guisdap analysis, feel free to use it.'
-    print 'Othervise some help is <a href="../GUISDAP/doc/howto.html">here</a>.<br>'
+    print "Othervise some <a href=\"https://www.eiscat.se/scientist/user-documentation/guisdap8-for-dummies/\">help is available here</a>.<br>"
     #print 'Note that the service is in testing phase so the result might'
     #print 'not be what you expect.'
     print 'Normally it should be just to press "GO", but you should check the preselected parameters<br>'

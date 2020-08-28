@@ -29,9 +29,11 @@ def cleanify(str, multiline=0):
 # Main program starts here
 
 print "Content-type: text/HTML\n"
-print "<HTML>"
+print "<!DOCTYPE html>"
+print "<HTML lang=\"en\">"
 print_copyright()
 print "<HEAD>"
+print "<META charset=\"utf-8\">"
 print "<TITLE>Schedule Notes Viewer</TITLE>"
 print "</HEAD>"
 

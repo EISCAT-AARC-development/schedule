@@ -111,10 +111,12 @@ def update_file(local, net):
 	os._exit(0)
 
 def print_copyright():
-	print "<!--Author: Christian Häggström (c00chm@cs.umu.se)-->"
 	print "<!--Last modified "+time.ctime(os.path.getmtime(sys.argv[0]))+"-->"
 	print "<!--Copyright EISCAT Scientific Association "+time.strftime("%Y")+" -->"
 
-	
+# CFE 20200826: need logout link
+def showLogout():
+        print("<a href=\"/Shibboleth.sso/Logout\">Log out</a>")
+
 from urllib import quote_plus as quote
 from urllib import unquote_plus as unqoute

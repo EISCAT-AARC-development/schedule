@@ -22,12 +22,13 @@ import subprocess, os, sys, re, cgi, time, calendar
 versionNumber = "$Revision: 1.14 $".split()[1]
 
 print "Content-type: text/HTML\n"
-print "<HTML>"
+print "<!DOCTYPE html>"
+print "<HTML lang=\"en\">"
 print_copyright()
 print "<HEAD>"
+print "<META charset=\"utf-8\">"
 print "<TITLE>Request submission form</TITLE>"
 print "</HEAD>"
-
 print "<BODY>"
 print "<h3 align=center>EISCAT Schedule Request</h3>"
 

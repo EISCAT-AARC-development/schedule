@@ -15,7 +15,8 @@ from common import *
 import os, sys, re, cgi, time
 
 print "Content-type: text/HTML\n"
-print "<HTML>"
+print "<!DOCTYPE html>"
+print "<HTML lang=\"en\">"
 
 sys.path.append(tape_db_dir)
 import tapelib
@@ -68,12 +69,14 @@ def showloginName():
 		print "Authenticated as: ",
 		if 'displayName' in attrs:
 			print attrs.get('displayName')
-		elif 'displayName' in attrs:
+		elif 'cn' in attrs:
 			print attrs.get('cn')
 		elif 'sn' in attrs and 'givenName' in attrs:
 			print attrs.get('givenName') 
 			print " "
-			print attrs.get('sn') 
+			print attrs.get('sn')
+                print("<br>")
+                showLogout()
 	else:
 		print "You are not authenticated",
 	print "</b>"
@@ -445,12 +448,14 @@ else:
 if siteCode:
 	title = "Summary of Experiments known at "+site
 else:
-	title = site+" data archiver: Tape Contents"
+	title = site+" data archiver: Contents"
 
 print "<HEAD>"
+print "<META charset=\"utf-8\">"
 print "<TITLE>"+title+"</TITLE>"
 print "</HEAD>"
 print "<BODY>"
+showloginName()
 print "<h3 align=center>"+title+"</h3>"
 print "<form><center>"
 # This is the search form
@@ -531,10 +536,6 @@ print "</pre><hr>"
 # END Search results
 
 # Footer
-print "<p align=left>",
-showloginName(),
-print "</p>",
-
 print "<p align=center>This page prepared at",time.strftime("%H:%M UT %a %b %d, %Y"),"</p>"
 disconnect_db(sql.cur)
 if show_debug:
