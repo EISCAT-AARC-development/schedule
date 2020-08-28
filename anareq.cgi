@@ -2,6 +2,14 @@
 from common import *
 import cgi,os
 print "Content-type: text/html\n"
+print "<!DOCTYPE html>"
+print "<HTML lang=\"en\">"
+print "<HEAD>"
+print "<META charset=\"utf-8\">"
+print "<TITLE>EISCAT analysis request</TITLE>"
+print "</HEAD>"
+print "<BODY>"
+
 params=cgi.FieldStorage()
 gfd='datapath t resultpath maxfsize name_expr expver siteid intper extra'
 QUERY=''
@@ -10,7 +18,8 @@ special='\"\\\"!{&()\'; '
 nl=chr(10)+chr(13)
 htref=os.environ['HTTP_REFERER']
 method=os.environ['REQUEST_METHOD']
-if method=='POST' and htref.count('://www.eiscat.') and htref.count('/schedule/download.cgi'):
+
+if method=='POST' and htref.count('://data.eiscat.') and htref.count('/schedule/download.cgi'):
 	for par in gfd.split():
 		try:
 			val=params.getvalue(par)
@@ -32,7 +41,12 @@ if method=='POST' and htref.count('://www.eiscat.') and htref.count('/schedule/d
 	req=open('anareg.txt','a')
 	req.write('%s\n'%QUERY)
 	req.close
-	print "Your request have been noted.<br>"
-	print "The result will be sent to the mail address you provided, when the analysis is finished."
+        print "<h1>Request submitted</h1>"
+        print "<p>"
+	print "Your request has been noted.<br>"
+	print "The result will be sent to the email address you provided, once the analysis is finished."
+        print "</p>"
 else:
-	print "Bad request."
+	print "<p>Bad request.</p>"
+print "</BODY>"
+print "</HTML>"
