@@ -312,7 +312,7 @@ def start_of_month():
 
 def get_attributes(attr_list):
     d = os.environ
-    k = d.keys()
+    k = list(d.keys())
     k.sort()
     attributes = {}
     for item in k:
