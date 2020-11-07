@@ -370,7 +370,7 @@ if year == 2015 and month > 8:
 try:
     status = ""
     for code, desc in selections:
-        if params.has_key(code):
+        if code in params:
             status += code
     assert status
 except:
@@ -383,7 +383,7 @@ except:
 show_sites = []
 
 for code, desc in allsites:
-    if params.has_key(code):
+    if code in params:
         show_sites.append(code)
 
 # ugly hack...
