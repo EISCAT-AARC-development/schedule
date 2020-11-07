@@ -20,20 +20,20 @@ sys.stderr = sys.stdout         # dump errors to browser
 os.environ['TZ'] = 'UTC'        # deal only with Universal Time
 
 english_weekdays = ("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun")
-english_months = ("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct","Nov", "Dec")
+english_months = ("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec")
 
 def rfc1123(date):
     date = time.gmtime(date)
     return "%s, %02d %s %04d %02d:%02d:%02d GMT" % (english_weekdays[date[6]], date[2], english_months[date[1] - 1], date[0], date[3], date[4], date[5])
 
 
-def update_file(local, net):
-    "check if an update is needed and in such case, download a new copy"
-    "The copy is downloaded to {local}.new, before it is copied to the"
-    "real position"
+def update_file(loc, net):
+    '''check if an update is needed and in such case, download a new copy.
+    The copy is downloaded to {loc}.new, before it is copied to the
+    real position'''
     now = time.time()
-    tmpfile = local + ".new"
-    showfile = os.path.basename(local)
+    tmpfile = loc + ".new"
+    showfile = os.path.basename(loc)
     try:
         # it is stalled in 5 minutes, assume previous download was killed
         if now - os.path.getmtime(tmpfile) < 300:
@@ -42,7 +42,7 @@ def update_file(local, net):
     except EnvironmentError:
         pass
     try:
-        timestamp = os.path.getmtime(local)
+        timestamp = os.path.getmtime(loc)
     except EnvironmentError:
         timestamp = 0
     else:
@@ -64,25 +64,24 @@ def update_file(local, net):
         if response.status != 200:
             # file is not available on server
             print((response.reason))
-            os.utime(local, None)   # touch file
+            os.utime(loc, None)   # touch file
             return
         if timestamp:
             # check the timestamp
             netdate = mktime_tz(parsedate_tz(response.getheader("Last-Modified")))
             netsize = int(response.getheader("Content-Length"))
             # also check size
-            if netsize == os.path.getsize(local) and netdate <= timestamp:
-                print "no update"
-                os.utime(local, None)   # touch file
+            if netsize == os.path.getsize(loc) and netdate <= timestamp:
+                print("no update")
+                os.utime(loc, None)   # touch file
                 return
-    except (EnvironmentError, socket.error), why:
-        print why
+    except (EnvironmentError, socket.error) as why:
+        print(why)
         return
 
-    print "Starting download of new version of "+showfile+"<br>"
+    print("Starting download of new version of " + showfile + "<br>")
     # fork and do the download in background
     if os.fork(): return
-    #open('errors','a').write('starting '+net+'->'+tmpfile+'->'+local+'\n')
     try:
         # "disconnect" from parent
         os.setsid()
@@ -97,8 +96,7 @@ def update_file(local, net):
             if not chunk: break
             outf.write(chunk)
         outf.close()
-
-        os.rename(tmpfile, local)
+        os.rename(tmpfile, loc)
     except Exception as why:
         import traceback
         f = open('errors', 'a')
@@ -115,10 +113,7 @@ def print_copyright():
 
 # CFE 20200826: need logout link
 def showLogout():
-        print("<a href=\"/Shibboleth.sso/Logout\">Log out</a>")
-
-from urllib import quote_plus as quote
-from urllib import unquote_plus as unqoute
+    print("<a href=\"/Shibboleth.sso/Logout\">Log out</a>")
 
 if __name__ == '__main__':
     #when testing from commandline
