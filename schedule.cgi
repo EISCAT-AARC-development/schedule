@@ -18,6 +18,7 @@
 # Using SQL database instead of textfiles 23 April 2003 ch
 #
 # Last modified Carl-Fredrik Enell  2020: Remote madrigal interface w cached lists of experiments
+# Python3 rewrite Carl-Fredrik Enell 2020
 
 import calendar
 import time
@@ -51,11 +52,11 @@ else:
 madList = {} # Hold monthly Madrigal experiment lists
 madMonth = ''
 
+def months(i):
+    return calendar.month_name[i]
 
-#months = lambda i: time.strftime("%B",(i,)*9)
-months = lambda i: calendar.month_name[i]
-#days = lambda i: time.strftime("%a",(i,)*9)
-days = lambda i: calendar.day_abbr[i]
+def days(i):
+    return calendar.day_abbr[i]
 
 def madrigal(year, month, day, site):
     """check for analysed data in Madrigal"""
@@ -72,7 +73,7 @@ def madrigal(year, month, day, site):
     # Check if experiment exists in Madrigal.
     global madList # Speedup: cache the experiment list between calls for same month
     global madMonth
-    thisMadMonth = "mad-%s-%s" % (year, month)  #also used for filename
+    thisMadMonth = f"mad-{year}-{month}" #also used for filename
     if madMonth != thisMadMonth or not madList:
         #Check if we already have cached a list of this month's experiments in a file
         madMonth = thisMadMonth
@@ -82,7 +83,7 @@ def madrigal(year, month, day, site):
                 madList = pickle.load(f)
         except:
             # File does not exist, search Madrigal for all local experiments for this month.
-            lastDay = calendar.monthrange(year, month)[1]
+            lastDay = calendar.monthlen(year, month)
             madList = madData.getExperiments(0, year, month, 1, 0, 0, 0, year, month, lastDay, 23, 59, 59, 1)
             try:
                 # Save the list to a file if possible
@@ -94,10 +95,9 @@ def madrigal(year, month, day, site):
         if expr.url.endswith(analysisDir):
             return expr.realUrl # This is the Madrigal URL to analysisDir
 
-
 def workingMonth_archived(year, month):
     "Collect all entries for the present month within the given class"
-    dateField = '%d:%02d'%(year, month)
+    dateField = '%d:%02d' % (year, month)
     lines = sql.select_experiment_resource_union("YEAR(start) = %s AND MONTH(start) = %s AND type = 'data'", (year, month))
     table = {}
     for l in lines:
@@ -113,14 +113,15 @@ def workingMonth_archived(year, month):
             else:
                 end = "24:00:00"  # ugly but works ...
         day = int(date.split('-')[2])
-        if l.account: l.country = l.account
+        if l.account:
+            l.country = l.account
         table.setdefault((day, l.experiment_name, l.antenna, l.country), ([])).append((start, end))
 
     print("<!-- number of entries: ")
     print(len(table))
     print("-->")
     table2 = {}
-    for (day, title, site, country), (times) in table.items():
+    for (day, title, site, country), (times) in list(table.items()):
         table2.setdefault(day, []).append((title, site, country, times))
 
     return table2
@@ -152,9 +153,9 @@ def outputLine_archived(day, dayName, lines, dateField):
         outputVector = ''.join(outputVector)
         if analysis:
             outputVector = '<a href="'+analysis+'">'+outputVector+"</a>"
-        print(dateField, dayName, outputVector, site, country)
-        print('(%4.1fh)' % (total/3600.0),)
-        print('<a href="' + link + '">' + title + '</a> ')
+        print(dateField, dayName, outputVector, site, country, end=" ")
+        print('(%4.1fh)' % (total/3600.0), end=" ")
+        print('<a href="' + link + '">' + title + '</a>')
     return 1
 
 def oneLine_archived(day, dayName, lines, dateField):
@@ -196,10 +197,10 @@ def workingMonth_scheduled(year, month, status):
         regex += " [^A]"
     else:
         regex += " [^RA]"
-    pattern = r"%s %02d \d+ \d+ \d+ " % (year, month) + regex
+    pattern = "%s %02d \d+ \d+ \d+ " % (year, month) + regex
     pattern = re.compile(pattern).match
     lines = []
-    for line in open(ScheduleDB).xreadlines():
+    for line in open(ScheduleDB):
         if pattern(line):
             lines.append(line)
     return lines
@@ -290,7 +291,7 @@ def outputLine_scheduled(day, dayName, lines, dateField):
         for url, their_sites in scheduled_urls:
             if site in their_sites:
                 link = url
-        print(dateField, dayName, outputVector, site,)
+        print(dateField, dayName, outputVector, site, end=" ")
         if len(link) > 0 or os.path.exists(NotesDir + infoFile):
             link += commentViewer+ '?fileName=' + infoFile
             if status in '123456789PCI':
@@ -342,7 +343,7 @@ def showloginName():
 
 # Start building the output page
 print("Content-type: text/HTML\n")
-print("<!DOCTYPE html>")
+print("<!DOCTYPE html>\n")
 print("<HTML lang=\"en\">")
 print_copyright()
 print("<HEAD>")
@@ -403,7 +404,7 @@ if 'A' in status:
         sql = tapelib.opendefault()
         theWorkingMonth_a = workingMonth_archived(year, month)
     except:
-        print("Database down\n")
+        print("Database down")
         status = status.replace('A', '')
 
 if 'S' in status or 'R' in status:
@@ -412,7 +413,7 @@ if 'S' in status or 'R' in status:
 
 showloginName()
 
-print("<h2 align=center>"+site)
+print("<h2 align=center>" + site)
 
 if req_clock < cur_clock:
     print("Operations,")
