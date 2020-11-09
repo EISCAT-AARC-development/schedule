@@ -13,6 +13,9 @@ from eiscat_auth import *
 site = "data.eiscat.se"
 # Trusted single ip
 myip = '192.168.11.102/23'
+# Locations
+base_url = "https://data.eiscat.se" # This instance
+root_loc = "/schedule" # Base location e.g. / or /schedule/
 # path to Schedule database (a text file)
 ScheduleDB = "ScheduleDataBase"
 # where to put the information about individial entries
@@ -27,6 +30,12 @@ tape_db_dir = "/home/archive/tape_db"
 portno = 37009
 # Set to false to disable checking of machines
 check_machines = False
+# Remote Madrigal options, addition by CFE 2020
+madroot = "https://portal.eiscat.se/madrigal/"
+madViewer = "/madrigal/cgi-bin/madExperiment.cgi"
+madListDir = "/var/www/mad_lists"
+
+
 
 # List of attributes supported by schedule app
 # The attribute short names must match what is configured in shibboleth attribute_map.xml
@@ -42,10 +51,6 @@ download_times = 4
 #SHould debug information be shown?
 show_debug = True
 
-# Remote Madrigal options, addition by CFE 2020
-madroot = "https://portal.eiscat.se/madrigal/"
-madViewer = "/madrigal/cgi-bin/madExperiment.cgi"
-madListDir = "/var/www/mad_lists"
 
 def raddr():
     raddr = os.environ['REMOTE_ADDR']
@@ -72,7 +77,7 @@ def su(ip):
 # database settings - for tape archive
 def connect_db():
     try:
-        database = MySQLdb.connect(user="www", db="tape_archive")
+        database = MySQLdb.connect(user="www", db="disk_archive")
     except StandardError as why:
         print("<font color=red>The database server is currentry down.</font><br>")
         print("Reason: <i>" + str(why) + "</i>")
@@ -123,7 +128,8 @@ scheduled_urls = [(leicester_url, ["SPE"])]
 #allsites = sites
 
 # the valid year range
-firstYear = 1981; lastYear = 2020
+firstYear = 1981;
+lastYear = 2020
 
 sched_legend = """<hr><p align=center><b>KEY</b></p>
 <pre>

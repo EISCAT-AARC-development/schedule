@@ -20,7 +20,7 @@ nl = chr(10) + chr(13)
 htref = os.environ['HTTP_REFERER']
 method = os.environ['REQUEST_METHOD']
 
-if method == 'POST' and htref.count('://data.eiscat.') and htref.count('/schedule/download.cgi'):
+if method == 'POST' and htref.count(base_url) and htref.count('download.cgi'):
     for par in gfd.split():
         try:
             val = params.getvalue(par)

@@ -60,7 +60,7 @@ def days(i):
 
 def madrigal(year, month, day, site):
     """check for analysed data in Madrigal"""
-    if not madData:
+    if not madroot:
         # Do not check
         return
     # do some translations. ugly.
@@ -83,7 +83,7 @@ def madrigal(year, month, day, site):
                 madList = pickle.load(f)
         except:
             # File does not exist, search Madrigal for all local experiments for this month.
-            lastDay = calendar.monthlen(year, month)
+            lastDay = calendar.monthrange(year, month)[1]
             madList = madData.getExperiments(0, year, month, 1, 0, 0, 0, year, month, lastDay, 23, 59, 59, 1)
             try:
                 # Save the list to a file if possible
@@ -152,7 +152,7 @@ def outputLine_archived(day, dayName, lines, dateField):
 
         outputVector = ''.join(outputVector)
         if analysis:
-            outputVector = '<a href="'+analysis+'">'+outputVector+"</a>"
+            outputVector = '<a href="' + analysis + '">' + outputVector + "</a>"
         print(dateField, dayName, outputVector, site, country, end=" ")
         print('(%4.1fh)' % (total/3600.0), end=" ")
         print('<a href="' + link + '">' + title + '</a>')
@@ -251,7 +251,7 @@ def oneLine_scheduled(day, dayName, lines, dateField):
         t2 = int(end[:2])*2 + int(end[2:])/30
         scode = show_sites.index(site)
         for i in range(t1, t2):
-            outputVector[i] |= 1<<scode
+            outputVector[i] |= 1 << scode
     sys.stdout.write(' %s %s ' % (dateField, dayName))
     for i in range(48):
         sys.stdout.write('%x'%outputVector[i])

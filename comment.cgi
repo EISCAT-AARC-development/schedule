@@ -12,10 +12,9 @@
 #
 # Written 27 June 2001
 # converted to python 12 June 2002
+# Python3 Carl-Fredrik Enell 2020
 
 from common import *
-
-
 import sys
 import re
 import html
@@ -60,16 +59,16 @@ if not re.match(r'\d+$', fileName):
 if params.getvalue('sure') == "y":
     diagnostics += "Writing new file<br>"
     try:
-        f = open(NotesDir+fileName, 'w')
+        f = open(NotesDir + fileName, 'w')
     except EnvironmentError as why:
         print(f"Cannot write file: {why}")
         sys.exit()
     experiment = cleanify(params.getvalue('experiment'))
     if experiment:
-        f.write('experiment '+ experiment + '\n')
+        f.write('experiment ' + experiment + '\n')
     instrument = cleanify(params.getvalue('instrument'))
     if instrument:
-        f.write('instrument '+ instrument + '\n')
+        f.write('instrument ' + instrument + '\n')
     start = cleanify(params.getvalue('start'))
     if start:
         f.write('start ' + start + '\n')
@@ -107,12 +106,12 @@ if params.getvalue('sure') == "y":
     if notes:
         f.write('notes\n' + notes + '\n')
     f.close()
-    cvs_output = subproocess.Popen(['cvs', 'ci', '-m', '""', NotesDir+fileName], stdout=subprocess.PIPE).communicate()[0]
+    cvs_output = subproocess.Popen(['cvs', 'ci', '-m', '""', NotesDir + fileName], stdout=subprocess.PIPE).communicate()[0]
     diagnostics += "Done."
 else:
     experiment = instrument = start = end = status = description = contact = ''
     phone = email = fax = operator = submitter = resources = notes = ''
-    subprocess.Popen(['cvs', 'up', NotesDir+fileName], stdout=subprocess.PIPE).communicate()[0]
+    subprocess.Popen(['cvs', 'up', NotesDir + fileName], stdout=subprocess.PIPE).communicate()[0]
     try:
         f = open(NotesDir + fileName)
     except EnvironmentError:

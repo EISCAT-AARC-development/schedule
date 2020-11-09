@@ -32,7 +32,7 @@ if not su(raddr()):
     sys.exit()
 
 params = cgi.FieldStorage()
-#QUERY_STRING=r=48842858+48842367&CP=0&AA=100&UK=0&GE=0&NI=0&NO=0&SW=0&FR=0&FI=0&CN=0&TP=0&EI=0
+
 quto = []
 owner = []
 for key in params:
@@ -45,7 +45,7 @@ for i in range(len(owner)):
         ownerstr = owner[i]
         break
     elif int(quto[i]) > 0:
-        ownerstr = ownerstr + owner[i] + '('+quto[i]+')'
+        ownerstr = ownerstr + owner[i] + '(' + quto[i] + ')'
 value = params.getvalue("r")
 if not value:
     print("No data sets were chosen.")
