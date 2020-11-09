@@ -147,7 +147,7 @@ def outputLine_archived(day, dayName, lines, dateField):
             diff = end - start
             assert diff >= 0
             total += diff
-            for i in range((start+900)/1800, end/1800+1) or [(start+900)/1800]:
+            for i in list(range(int((start+900)/1800), int(end/1800)+1)) or [int((start+900)/1800)]:
                 outputVector[i] = 'A'
 
         outputVector = ''.join(outputVector)
