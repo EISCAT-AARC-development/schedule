@@ -174,8 +174,10 @@ def search_by_date():
             datasets = sql.select_resource(e.experiment_id, start, end, "", limit)
         else:
             datasets = sql.select_union_resource(e.experiment_id, start, end, limit)
-        if not datasets: continue
-        if len(datasets) >= limit: cutted = 1
+        if not datasets:
+            continue
+        if len(datasets) >= limit:
+            cutted = 1
         expstring = (e.country or "??")+" "+e.antenna+" "+e.experiment_name
         for d in datasets:
             if d.type != 'info' or not wildcard:
@@ -197,12 +199,13 @@ def search_by_date():
                         show_download = 1
                     locations.append(id)
                     all_sources[id] = None
-                    if do_download: break
-                    if locations:
-                        if d.account:
-                            lines.append((d.account + expstring[2:], d, locations))
-                        else:
-                            lines.append((expstring, d, locations))
+                    if do_download:
+                        break
+                if locations:
+                    if d.account:
+                        lines.append((d.account + expstring[2:], d, locations))
+                    else:
+                        lines.append((expstring, d, locations))
 
     if not lines:
         print(f"{date} not found in database")
@@ -237,13 +240,13 @@ def search_by_date():
         print("Be sure to read the <strong>EISCAT rules of the road</strong> <a href='/scientist/data/#rules'>[HTML]</a> <a href='/wp-content/uploads/2016/03/Rules.pdf'>[PDF]</a> regarding access and use of this data.")
         print("<strong>Note that use of data newer than one year is restricted to the experimenter only.</strong>")
 
-        if cutted:
-            print
-            print("The result list was truncated due to too many results. Narrow your query")
+    if cutted:
+        print
+        print("The result list was truncated due to too many results. Narrow your query")
 
-        if show_download:
-            print()
-            print(linkto("Go to download page"), + "date=" +date[0:8] +date[9:11] + "&exp=" + quote(experiment) + "&dl=1")
+    if show_download:
+        print()
+        print(linkto("Go to download page", "date=" + date[0:8] + date[9:11] + "&exp=" + quote(experiment) + "&dl=1"))
 
 def tape_comment(tape):
     return sql.get_tape_comment(tape)
@@ -306,14 +309,14 @@ def search_by_experiment():
     for e in experiments:
         if e.experiment_name not in done:
             print
-            print(linkto(e.experiment_name, "exp="+quote(e.experiment_name)),)
+            print(linkto(e.experiment_name, "exp="+quote(e.experiment_name)), end=" ")
             done[e.experiment_name] = 1
         n = e.experiment_name+'@'+e.antenna
         if n not in done:
             print()
-            print(linkto(n, "exp="+quote(n))+':',)
+            print(linkto(n, "exp="+quote(n))+':', end=" ")
             done[n] = 1
-        print(linkto(str(e.year), "exp=%s&year=%s"%(quote(n), e.year)),)
+        print(linkto(str(e.year), "exp=%s&year=%s"%(quote(n), e.year)), end=" ")
 
 def dump_lines_tape(lines):
     print("Type", '', "Start date & time".ljust(19), '', "End date & time".ljust(19), '', "Experiment    Directory")

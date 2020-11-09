@@ -42,7 +42,7 @@ def get_attribute(attr):
 
 def get_attributes(attr_list):
     d = os.environ
-    k = d.keys()
+    k = list(d.keys())
     k.sort()
     attributes = {}
     for item in k:
@@ -153,7 +153,7 @@ def clever_split(locs, ids, maxtar):
     # otherwise, split as even as possible
     ids = set(ids)
     locs = list(locs.items())
-    locs.sort(lambda y, x: cmp(len(x[1]), len(y[1])))
+    locs.sort(key=lambda x: len(x[1])) # Python 3 sort by length([resources])
     res = {}
     max_size = (1 << maxtar)
     for machine, provides in locs:
@@ -183,7 +183,7 @@ elif submit == 'Plot':
 print("</h1>")
 if submit != 'Quota':
     # ping machines
-    for machine in locs.keys():
+    for machine in list(locs.keys()):
         print("Checking " + machine + " availability...")
         sys.stdout.flush()
         import socket
