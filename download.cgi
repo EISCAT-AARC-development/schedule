@@ -152,7 +152,7 @@ def clever_split(locs, ids, maxtar):
     # if possible, download everything from one host.
     # otherwise, split as even as possible
     ids = set(ids)
-    locs = locs.items()
+    locs = list(locs.items())
     locs.sort(lambda y, x: cmp(len(x[1]), len(y[1])))
     res = {}
     max_size = (1 << maxtar)

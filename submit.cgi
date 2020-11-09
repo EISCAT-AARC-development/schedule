@@ -74,7 +74,7 @@ class foo:
 k = foo()
 got_input = 0
 
-for key, valid in validations.items():
+for key, valid in list(validations.items()):
     value = params.getvalue(key, '')
     if value:
         got_input = 1
@@ -98,7 +98,7 @@ if not k.endmonth:
 # validate all fields
 errfields = []
 
-for key, valid in validations.items():
+for key, valid in list(validations.items()):
     value = getattr(k, key)
     try:
         assert valid(value)
