@@ -114,8 +114,9 @@ if not value:
     print("No data sets were chosen.")
     sys.exit()
 
-if not isinstance(value, list): value = [value]
-ids = map(int, value)
+if not isinstance(value, list):
+    value = [value]
+ids = list(map(int, value))
 filename = params.getfirst('filename', 'data')
 
 sql = tapelib.opendefault()
@@ -199,8 +200,8 @@ if submit != 'Quota':
                 s.connect(('localhost', portno))
             else:
                 s.connect((machine, portno))
-            s.send("PING / HTTP/1.0\n\n")
-            if s.recv(4) != "PONG": raise IOError
+            s.send("PING / HTTP/1.0\n\n".encode('utf-8'))
+            if s.recv(4).decode() != "PONG": raise IOError
         except (socket.error, IOError):
             print("down<br>")
             # Allow ignore testing of machine availablility
