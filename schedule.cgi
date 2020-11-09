@@ -60,7 +60,7 @@ def days(i):
 
 def madrigal(year, month, day, site):
     """check for analysed data in Madrigal"""
-    if not madroot:
+    if not madData:
         # Do not check
         return
     # do some translations. ugly.
